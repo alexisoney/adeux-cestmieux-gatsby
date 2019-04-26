@@ -1,0 +1,17 @@
+.button {
+  display: inline-block;
+  text-transform: uppercase;
+  background-color: transparent;
+  border: 2px solid $accent-color;
+  color: $primary-color;
+  padding: 10px 20px;
+  text-decoration: none;
+  transition: all 0.2s ease-out;
+  font-size: 16px;
+}
+
+.button:hover,
+.button:active {
+  background-color: $primary-color;
+  color: white;
+}

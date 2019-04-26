@@ -1,0 +1,35 @@
+.post {
+  position: relative;
+  width: 100%;
+  max-width: 770px;
+  margin: 0 auto;
+  padding: 70px;
+  background: white;
+}
+
+@media only screen and (max-width: 770px) {
+  .post {
+    padding: 25px;
+  }
+}
+
+.post__date,
+.post__reading-time {
+  text-align: center;
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+
+.post__date {
+  margin: 0 0 10px;
+}
+
+.post__reading-time {
+  margin: 0 0 30px;
+}
+
+.post__title {
+  text-align: center;
+  margin: 0 -20px 30px;
+  color: $secondary-color;
+}

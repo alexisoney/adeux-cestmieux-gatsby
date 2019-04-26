@@ -1,0 +1,28 @@
+.gallery {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 -7px 50px;
+}
+
+.gallery .gatsby-resp-image-link,
+.gallery .gatsby-resp-image-figure {
+  flex: 1 1 auto;
+  min-width: 200px !important;
+  width: 50%;
+}
+
+.gallery .gatsby-resp-image-image {
+  padding: 0 7px !important;
+}
+
+.gallery .gatsby-resp-image-figure .gatsby-resp-image-link {
+  margin: 0 !important;
+  width: 100%;
+}
+
+.gallery .gatsby-resp-image-figure .gatsby-resp-image-figcaption {
+  width: calc(100% - 14px);
+  bottom: 7px;
+  left: 7px;
+}
+

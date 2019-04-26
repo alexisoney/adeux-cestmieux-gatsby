@@ -1,0 +1,170 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#___gatsby,
+#___gatsby > div:first-child,
+.page {
+  height: 100%;
+}
+
+html {
+  height: 100%;
+  font-family: $primary-font;
+  font-size: 18px;
+  color: $text-color;
+  word-wrap: break-word;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  overflow-x: hidden;
+}
+
+@media only screen and (max-width: 40rem) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  background-color: white;
+  font-weight: 300;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: $text-color;
+  text-decoration: underline;
+  background-color: transparent;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  cursor: pointer;
+
+  &:hover,
+  &:active {
+    outline: 0;
+    color: $accent-color;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 30px 0;
+  font-family: $secondary-font;
+}
+
+h1 {
+  font-size: 64px;
+  font-weight: bold;
+  color: $secondary-color;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: normal;
+  color: $secondary-color;
+}
+
+h3 {
+  font-size: 24px;
+  font-weight: normal;
+  color: $primary-color;
+}
+
+h4 {
+  font-size: 21px;
+  font-weight: normal;
+  color: $primary-color;
+}
+
+@media only screen and (max-width: 40rem) {
+  h1 {
+    font-size: 34px;
+  }
+  h2 {
+    font-size: 24px;
+  }
+
+  h3 {
+    font-size: 18px;
+  }
+
+  h4 {
+    font-size: 16px;
+  }
+}
+
+b,
+strong {
+  font-weight: bold;
+}
+
+i {
+  font-style: italic;
+}
+
+p {
+  line-height: 1.4em;
+  margin-bottom: 1.5em;
+}
+
+ul,
+ol {
+  margin: 0 0 15px 5px;
+  padding: 0.5em 0 0.5em 2em;
+  & ul,
+  & ol {
+    padding-left: 1em;
+  }
+}
+
+ul li {
+  margin: 0 0 15px;
+}
+
+figure {
+  margin: 0;
+  position: relative;
+}
+
+figcaption {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  padding: 20px 10px 10px;
+  font-size: 16px;
+  font-style: italic;
+  background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.4) 50%);
+  color: white;
+  text-align: center;
+}
+
+.gatsby-resp-image-wrapper {
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+
+hr {
+  width: 50px;
+  border: none;
+  border-bottom: 1px solid $secondary-color;
+}
+
+blockquote {
+  margin: 0;
+  padding: 14px 7px;
+  background-color: $background-primary-color;
+}
