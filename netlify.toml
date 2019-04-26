@@ -1,2 +1,2 @@
-[context.production.environment]
-GA_TRACKING_ID="UA-34357788-5"
+[context.develop.environment]
+GA_TRACKING_ID="UA-34357788-6"
