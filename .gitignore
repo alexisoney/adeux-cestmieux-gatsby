@@ -58,6 +58,8 @@ typings/
 .cache/
 public
 data
+.env.development
+.env.production
 
 # Mac files
 .DS_Store
