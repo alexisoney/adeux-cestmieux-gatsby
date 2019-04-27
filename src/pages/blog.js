@@ -28,11 +28,7 @@ export const query = graphql`
           frontmatter {
             title
             hero {
-              childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
-              }
+              publicURL
             }
           }
         }

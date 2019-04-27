@@ -9,6 +9,12 @@ export default props => (
   </Layout>
 );
 
+// childImageSharp {
+//   fluid {
+//     ...GatsbyImageSharpFluid_withWebp
+//   }
+// }
+
 export const query = graphql`
   query {
     allMarkdownRemark(sort: {fields: [fields___date], order: DESC}) {
@@ -22,11 +28,7 @@ export const query = graphql`
           frontmatter {
             title
             hero {
-              childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
-              }
+              publicURL
             }
           }
         }

@@ -1,7 +1,7 @@
 import React from 'react';
 import {graphql} from 'gatsby';
 import Layout from '../layouts/layout';
-import Img from 'gatsby-image';
+// import Img from 'gatsby-image';
 import FeaturedArticles from './../components/FeaturedArticles';
 
 export default ({data}) => {

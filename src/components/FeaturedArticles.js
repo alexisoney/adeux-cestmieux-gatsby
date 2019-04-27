@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import {colors} from './../constant/style';
 import {Link} from 'gatsby';
-import Img from 'gatsby-image';
+// import Img from 'gatsby-image';
 
 const Section = styled.section`
   background: ${colors.omega};

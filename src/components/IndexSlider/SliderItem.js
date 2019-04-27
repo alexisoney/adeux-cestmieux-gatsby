@@ -10,13 +10,14 @@ export default props => {
     <article className={'slider__item slider__item--is-' + props.className} onClick={props.onClick}>
       <div className='slider__hero'>
         <picture>
-          <source
+          {/* <source
             type='image/webp'
             srcSet={data.frontmatter.hero.childImageSharp.fluid.srcSetWebp}
             sizes='63vw'
           />
-          <source srcSet={data.frontmatter.hero.childImageSharp.fluid.srcSet} sizes='63vw' />
-          <img src={data.frontmatter.hero.childImageSharp.fluid.src} alt={data.fields.slug} />
+          <source srcSet={data.frontmatter.hero.childImageSharp.fluid.srcSet} sizes='63vw' /> */}
+          {/* <img src={data.frontmatter.hero.childImageSharp.fluid.src} alt={data.fields.slug} /> */}
+          <img src={data.frontmatter.hero.publicURL} alt={data.fields.slug} />
         </picture>
       </div>
       <div className='slider__date'>

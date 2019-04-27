@@ -19,14 +19,20 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     'gatsby-plugin-robots-txt',
     {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: `amsterdam.adeuxcestmieux`,
+      },
+    },
+    // `gatsby-transformer-sharp`,
+    // `gatsby-plugin-sharp`,
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `pages`,
         path: `${__dirname}/src/pages`,
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -50,12 +56,6 @@ module.exports = {
             },
           }
         ],
-      },
-    },
-    {
-      resolve: `gatsby-source-instagram`,
-      options: {
-        username: `amsterdam.adeuxcestmieux`,
       },
     },
     `gatsby-plugin-catch-links`,
