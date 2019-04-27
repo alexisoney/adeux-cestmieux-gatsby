@@ -5,11 +5,12 @@
   align-items: flex-start;
 }
 
-.gallery img {
+.gallery .post__image-container {
   display: block;
   flex: 1 1 auto;
   min-width: 200px !important;
   width: 50%;
+  padding: 5px;
 }
 
 .gallery .gatsby-resp-image-link,
@@ -42,4 +43,3 @@
   bottom: 7px;
   left: 7px;
 }
-

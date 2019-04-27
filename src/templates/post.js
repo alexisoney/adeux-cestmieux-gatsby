@@ -2,7 +2,7 @@ import React from 'react';
 import {graphql} from 'gatsby';
 import Layout from '../layouts/layout';
 import FeaturedArticles from './../components/FeaturedArticles';
-import { isArray } from 'util';
+import {isArray} from 'util';
 
 export default ({data}) => {
   const post = data.markdownRemark;
@@ -23,8 +23,10 @@ export default ({data}) => {
       <div className='hero'>
         <img
           data-srcset={`${hero}400 400w, ${hero}800 800w, ${hero}1600 1600w, ${hero}3200 3200w`}
-          sizes="(max-width: 1600px) 100vw, 1600px"
-          data-src={`${hero}400`}
+          data-lowsrc={`${hero}20&h=25`}
+          sizes='(max-width: 1600px) 100vw, 1600px'
+          srcSet='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+          src={`${hero}400`}
           alt={post.fields.slug}
           className='hero__image lazyload'
         />
@@ -108,7 +110,7 @@ function buildDate(date, category) {
   return dateString;
 }
 
-const optimizeImages = (el) => {
+const optimizeImages = el => {
   let src = el.match(/src=["'](.+?)['"]/);
   src = isArray(src) ? `${src[1]}?nf_resize=fit&w=` : '';
   let alt = el.match(/alt=["](.+?)["]/);
@@ -116,19 +118,21 @@ const optimizeImages = (el) => {
   let title = el.match(/title=["](.+?)["]/);
   title = isArray(title) ? title[1] : '';
 
-  if(src === '') {
+  if (src === '') {
     return null;
   }
-  
-  return (
-    `<img class="lazyload"
+
+  return `<div class="post__image-container">
+    <img class="post__image lazyload"
       data-srcset="${src}400 400w, ${src}800 800w, ${src}1600 1600w"
-      data-src="${src}400"
+      data-lowsrc="${src}20&h=25"
+      srcset='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+      src="${src}400"
       sizes="(max-width: 770px) 100vw, 770px"
       alt="${alt}"
-      title="${title}" />`
-  )
-}
+      title="${title}" />
+    </div>`;
+};
 
 export const query = graphql`
   query($slug: String!, $category: String!) {

@@ -2,7 +2,6 @@ import React from 'react';
 import styled from 'styled-components';
 import {colors} from './../constant/style';
 import {Link} from 'gatsby';
-// import Img from 'gatsby-image';
 
 const Section = styled.section`
   background: ${colors.omega};
@@ -31,12 +30,23 @@ const Item = styled.div`
   }
 `;
 
-const Hero = styled.img`
+const HeroContainer = styled.div`
   position: relative;
   margin: 0 0 -15%;
-  // flex: 0 1 auto;
-  // height: 0;
-  // padding-top: 56.25%;
+  flex: 0 1 auto;
+  height: 0;
+  padding-top: 56.25%;
+  overflow: hidden;
+  background-color: rgba(255, 255, 255, 0.6);
+`;
+
+const Hero = styled.img`
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  height: auto;
 `;
 
 const Card = styled.div`
@@ -64,10 +74,20 @@ export default class FeaturedArticles extends React.Component {
       <Section>
         <Container>
           {this.props.posts.map(({node}) => {
+            const hero = `${node.frontmatter.hero.publicURL}?nf_resize=fit&w=`;
             return (
               <Item key={node.id} fluid={this.props.fluid}>
-                {/* <Hero alt={node.fields.slug} fluid={node.frontmatter.hero.childImageSharp.fluid} /> */}
-                <Hero alt={node.fields.slug} src={node.frontmatter.hero.publicURL} />
+                <HeroContainer>
+                  <Hero
+                    data-srcset={`${hero}400 400w, ${hero}800 800w, ${hero}1600 1600w`}
+                    data-lowsrc={`${hero}20&h=25`}
+                    sizes='(max-width: 900px) 100vw, 33vw'
+                    srcSet='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+                    src={`${hero}400`}
+                    alt={node.fields.slug}
+                    className='lazyload'
+                  />
+                </HeroContainer>
                 <Card>
                   <CardTitle>{node.frontmatter.title}</CardTitle>
                   <Link className='button' to={`/${node.fields.slug}`}>

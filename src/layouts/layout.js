@@ -7,6 +7,9 @@ import siteMetadata from '../constant/siteMetadata';
 import '../scss/style.scss';
 import styled from 'styled-components';
 import {colors, fonts} from './../constant/style';
+// eslint-disable-next-line
+import lazySizes from 'lazysizes';
+import 'lazysizes/plugins/blur-up/ls.blur-up';
 
 const Page = styled.div`
   display: flex;
@@ -31,24 +34,23 @@ const Footer = styled.p`
   font-size: 12px;
 `;
 
-const Layout = ({data, children}) => {
-  return (
-    <Page>
-      <Helmet htmlAttributes={{lang: 'fr'}}>
-        <title>{siteMetadata.title}</title>
-        <meta name='description' content={siteMetadata.description} />
-        <html lang='fr' />
-      </Helmet>
-      <Header />
-      <Content>{children}</Content>
-      <InstagramGallery data={data.allInstaNode.edges} />
-      <Footer>© {siteMetadata.title}</Footer>
-    </Page>
-  );
-};
-
-
-
+class Layout extends React.Component {
+  render() {
+    return (
+      <Page>
+        <Helmet htmlAttributes={{lang: 'fr'}}>
+          <title>{siteMetadata.title}</title>
+          <meta name='description' content={siteMetadata.description} />
+          <html lang='fr' />
+        </Helmet>
+        <Header />
+        <Content>{this.props.children}</Content>
+        <InstagramGallery data={this.props.data.allInstaNode.edges} />
+        <Footer>© {siteMetadata.title}</Footer>
+      </Page>
+    );
+  }
+}
 
 export default props => (
   <StaticQuery
