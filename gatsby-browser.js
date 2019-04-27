@@ -5,3 +5,6 @@
  */
 
 // You can delete this file if you're not using it
+
+import 'lazysizes';
+import 'lazysizes/plugins/blur-up/ls.blur-up';

@@ -7,9 +7,6 @@ import siteMetadata from '../constant/siteMetadata';
 import '../scss/style.scss';
 import styled from 'styled-components';
 import {colors, fonts} from './../constant/style';
-// eslint-disable-next-line
-import lazySizes from 'lazysizes';
-import 'lazysizes/plugins/blur-up/ls.blur-up';
 
 const Page = styled.div`
   display: flex;
