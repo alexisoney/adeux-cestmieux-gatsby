@@ -1,22 +1,18 @@
 import React from 'react';
 import {graphql} from 'gatsby';
 import Layout from '../layouts/layout';
-// import Img from 'gatsby-image';
 import FeaturedArticles from './../components/FeaturedArticles';
 
 export default ({data}) => {
   const post = data.markdownRemark;
-  // const fluid = data.markdownRemark.frontmatter.hero.childImageSharp.fluid;
   const date = buildDate(post.fields.date, post.fields.category);
+  const hero = `${data.markdownRemark.frontmatter.hero.publicURL}?nf_resize=fit&w=`;
   const title = post.frontmatter.title
     .replace(/\s\?/g, '&nbsp;?')
     .replace(/\s:/g, '&nbsp;:')
     .replace(/\s!/g, '&nbsp;!');
   const html = post.html
-    .replace(/srcset/gi, 'data-srcset')
-    .replace(/(<img.+?)src/gi, (all,capture) => `${capture}data-src`)
-    .replace(/gatsby-resp-image-image/g, 'gatsby-resp-image-image lazyload')
-    .replace(/<img /g, '<img class="lazyload"')
+    .replace(/<img[^>]*>/g, el => optimizeImages(el))
     .replace(/\s\?/g, '&nbsp;?')
     .replace(/\s:/g, '&nbsp;:')
     .replace(/\s!/g, '&nbsp;!');
@@ -25,11 +21,11 @@ export default ({data}) => {
     <Layout instagram={data.allInstaNode}>
       <div className='hero'>
         <img
-          // fluid={fluid}
-          src={`${data.markdownRemark.frontmatter.hero.publicURL}?nf_resize=fit&w=400`}
+          data-srcset={`${hero}400 400w, ${hero}800 800w, ${hero}1600 1600w, ${hero}3200 3200w`}
+          sizes="(max-width: 1600px) 100vw, 1600px"
+          data-src={`${hero}400`}
           alt={post.fields.slug}
-          className='hero__image'
-          style={{position: 'absolute'}}
+          className='hero__image lazyload'
         />
       </div>
       <main className='post'>
@@ -111,17 +107,20 @@ function buildDate(date, category) {
   return dateString;
 }
 
-// childImageSharp {
-//   fluid(maxWidth: 1060) {
-//     ...GatsbyImageSharpFluid_withWebp
-//   }
-// }
-
-// childImageSharp {
-//   fluid(maxWidth: 700) {
-//     ...GatsbyImageSharpFluid_withWebp
-//   }
-// }
+const optimizeImages = (el) => {
+  const src = el.match(/src=["'](.+?)['"]/)[1];
+  const srcset = `${src}?nf_resize=fit&w=`;
+  const alt = el.match(/alt=["'](.+?)['"]/)[1];
+  const title = el.match(/alt=["'](.+?)['"]/)[1];
+  return (
+    `<img class="lazyload"
+      data-srcset="${srcset}400 400w, ${srcset}800 800w, ${srcset}1600 1600w"
+      data-src="${srcset}400"
+      sizes="(max-width: 770px) 100vw, 770px"
+      alt="${alt ? alt : ''}"
+      title="${title ? title : ''}" />`
+  )
+}
 
 export const query = graphql`
   query($slug: String!, $category: String!) {
