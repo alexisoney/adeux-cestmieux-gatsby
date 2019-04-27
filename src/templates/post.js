@@ -24,8 +24,7 @@ export default ({data}) => {
         <img
           data-srcset={`${hero}400 400w, ${hero}800 800w, ${hero}1600 1600w, ${hero}3200 3200w`}
           sizes='(max-width: 1600px) 100vw, 1600px'
-          srcSet={`${hero}20`}
-          src={`${hero}400`}
+          src={`${hero}20`}
           alt={post.fields.slug}
           className='hero__image lazyload'
         />
@@ -125,8 +124,7 @@ const optimizeImages = el => {
     <img class="post__image lazyload"
       data-srcset="${src}400 400w, ${src}800 800w, ${src}1600 1600w"
       data-sizes="auto"
-      srcset="${src}20"
-      src="${src}400"
+      src="${src}20"
       alt="${alt}"
       title="${title}" />
     </div>`;

@@ -13,8 +13,7 @@ export default props => {
         <img
           data-srcSet={`${hero}400 400w, ${hero}800 800w, ${hero}1600 1600w`}
           sizes='70vw'
-          srcSet={`${hero}20`}
-          src={`${hero}400`}
+          src={`${hero}20`}
           alt={data.fields.slug}
           class='lazyload'
         />
