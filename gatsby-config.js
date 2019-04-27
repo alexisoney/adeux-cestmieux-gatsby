@@ -31,18 +31,24 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 770,
-              linkImagesToOriginal: false,
-              quality: 80,
-              withWebp: {quality: 80},
-              showCaptions: true,
-            },
-          },
+          // {
+          //   resolve: `gatsby-remark-images`,
+          //   options: {
+          //     maxWidth: 770,
+          //     linkImagesToOriginal: false,
+          //     quality: 80,
+          //     withWebp: {quality: 80},
+          //     showCaptions: true,
+          //   },
+          // },
           `gatsby-remark-responsive-iframe`,
-          'gatsby-remark-copy-linked-files',
+          {
+            resolve: "gatsby-remark-copy-linked-files",
+            options: {
+              ignoreFileExtensions: [],
+              destinationDir: 'assets',
+            },
+          }
         ],
       },
     },

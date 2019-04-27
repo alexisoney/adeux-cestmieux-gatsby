@@ -16,6 +16,7 @@ export default ({data}) => {
     .replace(/srcset/gi, 'data-srcset')
     .replace(/(<img.+?)src/gi, (all,capture) => `${capture}data-src`)
     .replace(/gatsby-resp-image-image/g, 'gatsby-resp-image-image lazyload')
+    .replace(/<img /g, '<img class="lazyload"')
     .replace(/\s\?/g, '&nbsp;?')
     .replace(/\s:/g, '&nbsp;:')
     .replace(/\s!/g, '&nbsp;!');

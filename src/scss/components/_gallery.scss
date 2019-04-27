@@ -2,6 +2,14 @@
   display: flex;
   flex-flow: row wrap;
   margin: 0 -7px;
+  align-items: flex-start;
+}
+
+.gallery img {
+  display: block;
+  flex: 1 1 auto;
+  min-width: 200px !important;
+  width: 50%;
 }
 
 .gallery .gatsby-resp-image-link,
