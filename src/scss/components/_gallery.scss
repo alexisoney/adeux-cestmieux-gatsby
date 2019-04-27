@@ -11,8 +11,17 @@
   width: 50%;
 }
 
+.gallery .gatsby-resp-image-wrapper {
+  flex: 1 1 300px;
+}
+
+.gatsby-resp-image-wrapper {
+  max-width: 100% !important;
+}
+
 .gallery .gatsby-resp-image-image {
   padding: 0 7px !important;
+  height: auto !important;
 }
 
 .gallery .gatsby-resp-image-figure .gatsby-resp-image-link {
