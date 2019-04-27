@@ -35,9 +35,11 @@
 }
 
 .post__image-container {
-  position: relative;
+  background-color: $background-primary-color;
 }
 
 .post__image {
+  display: block;
   width: 100%;
+  background: white;
 }

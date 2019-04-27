@@ -62,7 +62,7 @@ export default props => (
               localFile {
                 childImageSharp {
                   fluid(maxWidth: 220, maxHeight: 220) {
-                    ...GatsbyImageSharpFluid_withWebp
+                    ...GatsbyImageSharpFluid_withWebp_noBase64
                   }
                 }
               }
