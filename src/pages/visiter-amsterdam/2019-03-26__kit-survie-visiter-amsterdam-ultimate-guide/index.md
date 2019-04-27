@@ -9,7 +9,7 @@ Vous prevoyer de visiter Amsterdam (ou aux alentours) très prochainement, le te
 
 ## Je vais bientôt visiter Amsterdam, je mets quoi dans ma valise ?
 
-### • Exit le parapluie. In le kway / coupe-vent / ciret.
+### Exit le parapluie. In le kway / coupe-vent / ciret.
 
 Oubliez votre parapluie et emportez plutôt votre plus beau manteau de pluie. Car oui, de la pluie, vous y aurez droit. Que ce soient 5 minutes à peine. Ou bien, H-24 pendant 5 jours, fortes sont les chances que vous visitiez Amsterdam sous la pluie. _(Lire plus bas concernant la meilleure période pour visiter Amsterdam)_. Ce que vous oubliez sûrement, c’est le vent ! Vous ne tiendrez même pas 5 min avec votre parapluie que vous serez déjà contraint d’en acheter un nouveau.
 
@@ -19,29 +19,29 @@ Amsterdam est une ville plutôt ventée, et, pour le peu que vous décidiez de v
 
 _En arrivant à Amsterdam, la première dans laquelle j’ai investi fut un ciret de qualité. Et j’en suis plus que ravie ! Ici, il existe même des marques spécialisées dans le ciret de pluie, pour vous dire que c’est vraiment L’accessoire de mode à avoir._
 
-### • Vive les baskets qui résistent à l’eau.
+### Vive les baskets qui résistent à l’eau.
 
 Après la veste de pluie, je demande les chaussures résistantes ET confortable. Vous allez très certainement beaucoup marcher lors de votre séjour. Avec les nombreux pavés, je déconseille fortement les chaussures à talons. Misez plutôt sur une bonne paire de basket ou des chaussures “de marche”. En hiver, choisissez un modèle chaud, type Timberland (meilleur investissement de toute ma vie) ! Et accompagner le tout de grosses paires de chaussettes pour ne pas avoir froid aux orteils. Les bottes de pluie peuvent être une bonne alternative, mais cela reste sûrement moins confortable, c’est à vous de voir. Pendant la saison des beaux jours, des baskets plus légères, type Converse ou Stan Smith feront aussi très bien l’affaire.
 
 _Ici, et quelle que soit la saison, la sneakers est reine parce que c’est avant-tout pratique ET confortable (les deux maîtres-mots du style amstellodamois). Amateurs de sneakers, vous trouverez des shops spécialisés à de nombreux coins de rue. Mention spéciale pour SoleBox au design et à la décoration qui vaut le détour !_
 
-### • L’amour du sac à dos.
+### L’amour du sac à dos.
 
 Si vous prévoyez de louer des vélos et d’aller visiter la campagne environnante, un sac à dos sera votre meilleur ami. Ce sera beaucoup plus pratique de rouler avec un sac à dos qu’avec un sac à main. Vous entre-apercevrez sûrement des néerlandais(e)s, un sac de course dans une main, le téléphone dans l’autre, ou même certains transportant une énorme valise en plus de 3 enfants sur leur vélo. Mais croyez-moi, ce sera beaucoup plus pratique pour vous rouler avec un simple sac à dos. Vous aurez besoin de toute votre attention pour affronter la jungle urbaine à vélo ! Et puis, en plus d’être pratique pour transporter votre kway sans encombre, vos épaules vous remercierons grandement.
 
-_Vous l’aurez compris, visiter Amsterdam est loin d’être une affaire de style. Ce n’est ni Milan, ni Paris. Et l’avantage dans tout ça, c’est que tout le monde s’en bat le coquillart du style. Si vous voulez vous fondre dans la masse, le combo sneaker Nike + raincoat Rains + sac à dos Fjällräven (+ pantalon à rayures) est votre tenue gagnante 😉_
+_Vous l’aurez compris, visiter Amsterdam est loin d’être une affaire de style. Ce n’est ni Milan, ni Paris. Et l’avantage dans tout ça, c’est que tout le monde s’en bat le coquillart du style. Si vous voulez vous fondre dans la masse, le combo sneaker Nike + raincoat Rains + sac à dos Fjällräven (+ pantalon à rayures) est votre tenue gagnante_ 😉
 
-### • Les lunettes de soleil, toujours.
+### Les lunettes de soleil, toujours.
 
 La pluie sera très certainement au rendez-vous. Mais cela ne veut pas dire que vous ne verrez point de soleil. Il est même très fort probable qu’au printemps et à l’automne vous expérimentez les quatres saisons dans une seule et même journée. Elles ne prennent que très peu de place et il serait dommage de rater une occasion d’arborer fièrement ses lunettes de soleil.
 
-_S’il y a bien une chose que j’ai appris à apprécier ici, c’est le soleil. Soyons honnête, en hiver, le temps d’ensoleillement est vraiment faible. Au printemps, lorsque les beaux jours reviennent, vous verrez tout le monde en terrasse. Au moindre rayon, les parcs sont remplis, les gens se baladent en short et t-shirt. D’ailleurs, bien souvent au lieu de dire au revoir en disant “Bonne journée !”, les Néerlandais vous diront “Profite bien du soleil” ! Comme si c’est tellement rare, qu’il faille en apprécier chaque seconde 😉_
+_S’il y a bien une chose que j’ai appris à apprécier ici, c’est le soleil. Soyons honnête, en hiver, le temps d’ensoleillement est vraiment faible. Au printemps, lorsque les beaux jours reviennent, vous verrez tout le monde en terrasse. Au moindre rayon, les parcs sont remplis, les gens se baladent en short et t-shirt. D’ailleurs, bien souvent au lieu de dire au revoir en disant “Bonne journée !”, les Néerlandais vous diront “Profite bien du soleil” ! Comme si c’est tellement rare, qu’il faille en apprécier chaque seconde_ 😉
 
-### • L’écharpe, parce que, l’écharpe.
+### L’écharpe, parce que, l’écharpe.
 
 Le printemps et l’été ont beau être la saison des beaux jours, il fait rarement plus de 25 degrés en moyenne et surtout, les matinées et les soirées restent asses fraîches. Ou bien, il peut faire très chaud au soleil, mais très frais à l’ombre. L’idéal est donc de prévoir une écharpe et de la transporter avec soit tout le temps, dans son super sac à dos, contenant déjà un coupe-vent 🙂 . L’avantage de l’écharpe, c’est qu’elle tient plutôt chaud, surtout lors des journées ventées, tout en restant léger et peu encombrant. À cela, je pourrais bien évidemment ajouter une paire de gants et un bonnet, surtout en hiver. Je vous laisse tout de même juge de votre propre résistance au froid ou non.
 
-### — En résumé : la technique de l’oignon.
+### En résumé : la technique de l’oignon.
 
 S’il y a bien un principe à retenir, c’est celui-ci. **Parce qu’il faut finalement s’attendre à toute éventualité**. Que malgré les journées chaudes, les soirées restent fraîches, il faut prévoir un peu de tout lorsque l’on vient visiter Amsterdam.
 
@@ -67,13 +67,13 @@ IUn grand principe général en matière de météo à Amsterdam et aux Pays-Bas
 
 Amsterdam est la capitale du vélo. Mais, pour une première visite, je vous recommande plutôt de vous déplacer à pieds. La ville est de taille humaine ce qui rend tout à fait possible une visite entièrement à pied. De plus, en marchant, vous aurez largement le temps d’observer les canaux et l’architecture qui vous entourent, contrairement à vélo où vous serez simplement concentré sur la route, ne sachant pas trop où aller, à devoir faire attention à ne rentrer dans personnes d’autres. Si vraiment vous souhaitez connaître l’expérience d’Amsterdam à vélo, choisissez le dernier jour de votre séjour. La ville vous semblera déjà plus familière et vous aurez moins besoin de rouler la tête en l’air.
 
-### À vélo?
+### À vélo ?
 
 En parlant du vélo. N’oubliez surtout pas que les vélos sont complètement prioritaires à Amsterdam. Que vous soyez piétons ou conducteur, les vélos passeront toujours en premier, pour la simple et bête raison que s’arrêter en vélo, c’est chiant, ça fait perdre toute son inertie. Aussi, cela ne servira à rien de râler sur un vélo si celui-ci vous coupe, soi-disant, la priorité sur votre passage piéton. Déjà, il ne vous comprendra sûrement pas, mais surtout, il est tout à fait en son droit.
 
-Autre point important. Ne JAMAIS marcher sur les pistes cyclables, au risque de vous faire klaxonner par 10 vélos, si tant est qu’un ne vous est pas à moitié rentré dedans déjà. Les pistes cyclables sont facilement reconnaissables, car elles sont souvent en goudron “rouge foncé” ou bien possèdent un petit pictogramme de vélo au sol. Si vous n’êtes pas sûre, regardez autour de vous 🙂.
+Autre point important. Ne JAMAIS marcher sur les pistes cyclables, au risque de vous faire klaxonner par 10 vélos, si tant est qu’un ne vous est pas à moitié rentré dedans déjà. Les pistes cyclables sont facilement reconnaissables, car elles sont souvent en goudron “rouge foncé” ou bien possèdent un petit pictogramme de vélo au sol. Si vous n’êtes pas sûre, regardez autour de vous. 🙂
 
-Autrement, si la randonnée urbaine n’est pas trop votre truc, la ville d’Amsterdam est très bien desservie en matière de transport en commun. Bus, Tram, Métro et Train. Pour préparer vos déplacements, Google Maps fonctionne très bien. Sinon, vous pouvez aussi télécharger l’application “[9292](https://www.9292.nl/) » (en néerlandais) ou [CityMapper](https://citymapper.com/) (en français) pour avoir les horaires à chaque arrêt et les itinéraires.
+Autrement, si la randonnée urbaine n’est pas trop votre truc, la ville d’Amsterdam est très bien desservie en matière de transport en commun. Bus, Tram, Métro et Train. Pour préparer vos déplacements, Google Maps fonctionne très bien. Sinon, vous pouvez aussi télécharger l’application **[9292](https://www.9292.nl/)** (en néerlandais) ou **[CityMapper](https://citymapper.com/)** (en français) pour avoir les horaires à chaque arrêt et les itinéraires.
 
 ---
 
@@ -82,15 +82,16 @@ Autrement, si la randonnée urbaine n’est pas trop votre truc, la ville d’Am
 La langue officielle est le néerlandais. En revanche, plus de 90% de la population amstellodamoise parle anglais de manière totalement courante, ville d’expat oblige ! En revanche, il est plus rare que les gens parlent français. Les Français sont d’ailleurs connus pour parler extrêmement mal anglais (ou bien tout autre langue étrangère). Lorsqu'un touriste étranger vient en France et qu'il est capable de dire Bonjour, Au revoir, Merci et S'il vous plaît ça en jette, non? Eh bien, il est temps de s'y mettre pour votre prochaine excursion à Amsterdam.
 
 Vous ne serez sûrement pas capable de tenir un dialogue entier avec un néerlandais, mais voici quelques petits mots de bases qui les feront sûrement sourire, pour le simple fait d’avoir essayé de parler.
-> Bonjour / Bonsoir — **Goedendag /Goedenavond**
-Parlez-vous français/anglais ? — **Spreekt u frans / engels ?**
-Je comprends/ Je ne comprends pas—**Ik begrijp / Ik begrijp het niet**
-Pardon — **Sorry / Pardon**
-Au revoir —**Tot ziens**
-Bienvenue — **Welkom**
-Merci (beaucoup) — **Dank u (veel)**
-Oui/Non — **Ja / Nee**
-De rien / Je vous en prie — **Graag gedaan / Alsjeblieft**
+
+- Bonjour / Bonsoir — **Goedendag /Goedenavond** 
+- Parlez-vous français/anglais ? — **Spreekt u frans / engels ?**
+- Je comprends/ Je ne comprends pas—**Ik begrijp / Ik begrijp het niet**
+- Pardon — **Sorry / Pardon**
+- Au revoir —**Tot ziens**
+- Bienvenue — **Welkom**
+- Merci (beaucoup) — **Dank u (veel)**
+- Oui/Non — **Ja / Nee**
+- De rien / Je vous en prie — **Graag gedaan / Alsjeblieft**
 
 ---
 

@@ -13,7 +13,8 @@ export default ({data}) => {
     .replace(/\s:/g, '&nbsp;:')
     .replace(/\s!/g, '&nbsp;!');
   const html = post.html
-    .replace(/src/gi, 'data-src')
+    .replace(/srcset/gi, 'data-srcset')
+    .replace(/(<img.+?)src/gi, (all,capture) => `${capture}data-src`)
     .replace(/gatsby-resp-image-image/g, 'gatsby-resp-image-image lazyload')
     .replace(/\s\?/g, '&nbsp;?')
     .replace(/\s:/g, '&nbsp;:')

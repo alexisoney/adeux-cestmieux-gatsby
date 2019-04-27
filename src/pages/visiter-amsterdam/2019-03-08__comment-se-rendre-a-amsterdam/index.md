@@ -17,7 +17,7 @@ En revanche, qui dit destination populaire, dit prix relativement élevés. Peu 
 
 ## Venir à Amsterdam - En avion
 
-La plupart des voyageurs arrivent en avion à Amsterdam**[Schiphol](https://goo.gl/maps/wzMoD8gei9D2)**. 
+La plupart des voyageurs arrivent en avion à Amsterdam **[Schiphol](https://goo.gl/maps/wzMoD8gei9D2)**. 
 
 [L’aéroport international d'Amsterdam Schiphol](https://www.schiphol.nl/en/) se trouve à seulement 18km au sud-ouest du centre-ville d’Amsterdam. Il est le quatrième aéroport le plus fréquenté d’Europe et il est donc desservie par de nombreuses compagnies européennes telle que Transavia ou EasyJet. C’est aussi une véritable plaque tournante de la compagnie nationale néerlandaise KLM et de nombreux vols sont réalisés quotidiennement depuis les principales villes françaises.
 
