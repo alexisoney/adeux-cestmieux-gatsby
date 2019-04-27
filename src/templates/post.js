@@ -2,6 +2,7 @@ import React from 'react';
 import {graphql} from 'gatsby';
 import Layout from '../layouts/layout';
 import FeaturedArticles from './../components/FeaturedArticles';
+import { isArray } from 'util';
 
 export default ({data}) => {
   const post = data.markdownRemark;
@@ -108,17 +109,24 @@ function buildDate(date, category) {
 }
 
 const optimizeImages = (el) => {
-  const src = el.match(/src=["'](.+?)['"]/)[1];
-  const srcset = `${src}?nf_resize=fit&w=`;
-  const alt = el.match(/alt=["'](.+?)['"]/)[1];
-  const title = el.match(/alt=["'](.+?)['"]/)[1];
+  let src = el.match(/src=["'](.+?)['"]/);
+  src = isArray(src) ? `${src[1]}?nf_resize=fit&w=` : '';
+  let alt = el.match(/alt=["](.+?)["]/);
+  alt = isArray(alt) ? alt[1] : '';
+  let title = el.match(/title=["](.+?)["]/);
+  title = isArray(title) ? title[1] : '';
+
+  if(src === '') {
+    return null;
+  }
+  
   return (
     `<img class="lazyload"
-      data-srcset="${srcset}400 400w, ${srcset}800 800w, ${srcset}1600 1600w"
-      data-src="${srcset}400"
+      data-srcset="${src}400 400w, ${src}800 800w, ${src}1600 1600w"
+      data-src="${src}400"
       sizes="(max-width: 770px) 100vw, 770px"
-      alt="${alt ? alt : ''}"
-      title="${title ? title : ''}" />`
+      alt="${alt}"
+      title="${title}" />`
   )
 }
 
