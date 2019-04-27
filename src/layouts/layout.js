@@ -2,7 +2,7 @@ import React from 'react';
 import {StaticQuery, graphql} from 'gatsby';
 import {Helmet} from 'react-helmet';
 import Header from '../components/Header/index';
-// import InstagramGallery from '../components/InstagramGallery';
+import InstagramGallery from '../components/InstagramGallery';
 import siteMetadata from '../constant/siteMetadata';
 import '../scss/style.scss';
 import styled from 'styled-components';
@@ -41,20 +41,14 @@ const Layout = ({data, children}) => {
       </Helmet>
       <Header />
       <Content>{children}</Content>
-      {/* <InstagramGallery data={data.allInstaNode.edges} /> */}
+      <InstagramGallery data={data.allInstaNode.edges} />
       <Footer>© {siteMetadata.title}</Footer>
     </Page>
   );
 };
 
 
-// localFile {
-//   childImageSharp {
-//     fluid(maxWidth: 220, maxHeight: 220) {
-//       ...GatsbyImageSharpFluid_withWebp
-//     }
-//   }
-// }
+
 
 export default props => (
   <StaticQuery
@@ -66,6 +60,13 @@ export default props => (
               id
               likes
               username
+              localFile {
+                childImageSharp {
+                  fluid(maxWidth: 220, maxHeight: 220) {
+                    ...GatsbyImageSharpFluid_withWebp
+                  }
+                }
+              }
             }
           }
         }

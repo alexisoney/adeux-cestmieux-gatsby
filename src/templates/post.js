@@ -26,7 +26,7 @@ export default ({data}) => {
       <div className='hero'>
         <img
           // fluid={fluid}
-          src={data.markdownRemark.frontmatter.hero.publicURL}
+          src={`${data.markdownRemark.frontmatter.hero.publicURL}?nf_resize=fit&w=400`}
           alt={post.fields.slug}
           className='hero__image'
           style={{position: 'absolute'}}
