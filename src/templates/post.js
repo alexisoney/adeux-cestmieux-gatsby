@@ -6,7 +6,7 @@ import FeaturedArticles from './../components/FeaturedArticles';
 
 export default ({data}) => {
   const post = data.markdownRemark;
-  const fluid = data.markdownRemark.frontmatter.hero.childImageSharp.fluid;
+  // const fluid = data.markdownRemark.frontmatter.hero.childImageSharp.fluid;
   const date = buildDate(post.fields.date, post.fields.category);
   const title = post.frontmatter.title
     .replace(/\s\?/g, '&nbsp;?')
@@ -24,8 +24,9 @@ export default ({data}) => {
   return (
     <Layout instagram={data.allInstaNode}>
       <div className='hero'>
-        <Img
-          fluid={fluid}
+        <img
+          // fluid={fluid}
+          src={data.markdownRemark.frontmatter.hero.publicURL}
           alt={post.fields.slug}
           className='hero__image'
           style={{position: 'absolute'}}
@@ -110,6 +111,18 @@ function buildDate(date, category) {
   return dateString;
 }
 
+// childImageSharp {
+//   fluid(maxWidth: 1060) {
+//     ...GatsbyImageSharpFluid_withWebp
+//   }
+// }
+
+// childImageSharp {
+//   fluid(maxWidth: 700) {
+//     ...GatsbyImageSharpFluid_withWebp
+//   }
+// }
+
 export const query = graphql`
   query($slug: String!, $category: String!) {
     markdownRemark(fields: {slug: {eq: $slug}}) {
@@ -123,11 +136,7 @@ export const query = graphql`
       frontmatter {
         title
         hero {
-          childImageSharp {
-            fluid(maxWidth: 1060) {
-              ...GatsbyImageSharpFluid_withWebp
-            }
-          }
+          publicURL
         }
       }
     }
@@ -146,11 +155,7 @@ export const query = graphql`
           frontmatter {
             title
             hero {
-              childImageSharp {
-                fluid(maxWidth: 700) {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
-              }
+              publicURL
             }
           }
         }

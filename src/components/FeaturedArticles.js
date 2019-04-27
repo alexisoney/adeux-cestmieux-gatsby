@@ -31,12 +31,12 @@ const Item = styled.div`
   }
 `;
 
-const Hero = styled(Img)`
+const Hero = styled.img`
   position: relative;
   margin: 0 0 -15%;
-  flex: 0 1 auto;
-  height: 0;
-  padding-top: 56.25%;
+  // flex: 0 1 auto;
+  // height: 0;
+  // padding-top: 56.25%;
 `;
 
 const Card = styled.div`
@@ -66,7 +66,8 @@ export default class FeaturedArticles extends React.Component {
           {this.props.posts.map(({node}) => {
             return (
               <Item key={node.id} fluid={this.props.fluid}>
-                <Hero alt={node.fields.slug} fluid={node.frontmatter.hero.childImageSharp.fluid} />
+                {/* <Hero alt={node.fields.slug} fluid={node.frontmatter.hero.childImageSharp.fluid} /> */}
+                <Hero alt={node.fields.slug} src={node.frontmatter.hero.publicURL} />
                 <Card>
                   <CardTitle>{node.frontmatter.title}</CardTitle>
                   <Link className='button' to={`/${node.fields.slug}`}>
