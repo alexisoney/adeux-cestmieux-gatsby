@@ -74,7 +74,7 @@ export default class FeaturedArticles extends React.Component {
       <Section>
         <Container>
           {this.props.posts.map(({node}) => {
-            const src = `images/${node.frontmatter.hero.name}`;
+            const src = `/./images/${node.frontmatter.hero.name}`;
             return (
               <Item key={node.id} fluid={this.props.fluid}>
                 <HeroContainer>

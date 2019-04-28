@@ -5,7 +5,7 @@ import {months} from '../../constant/text';
 export default props => {
   const data = props.data;
   const date = new Date(data.fields.date);
-  const src = `images/${data.frontmatter.hero.name}`;
+  const src = `/./images/${data.frontmatter.hero.name}`;
 
   return (
     <article className={'slider__item slider__item--is-' + props.className} onClick={props.onClick}>

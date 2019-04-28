@@ -7,7 +7,7 @@ import {isArray} from 'util';
 export default ({data}) => {
   const post = data.markdownRemark;
   const date = buildDate(post.fields.date, post.fields.category);
-  const src = `./images/${data.markdownRemark.frontmatter.hero.name}`;
+  const src = `/./images/${data.markdownRemark.frontmatter.hero.name}`;
   console.log(src);
   const title = post.frontmatter.title
     .replace(/\s\?/g, '&nbsp;?')
@@ -117,7 +117,7 @@ function buildDate(date, category) {
 
 const optimizeImages = el => {
   let src = el.match(/src=["'](.+?)\./);
-  src = isArray(src) ? src[1] : '';
+  src = isArray(src) ? '/' + src[1] : '';
   let alt = el.match(/alt=["](.+?)["]/);
   alt = isArray(alt) ? alt[1] : '';
   let title = el.match(/title=["](.+?)["]/);
