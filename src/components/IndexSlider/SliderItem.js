@@ -5,17 +5,24 @@ import {months} from '../../constant/text';
 export default props => {
   const data = props.data;
   const date = new Date(data.fields.date);
-  const hero = `${data.frontmatter.hero.publicURL}?nf_resize=fit&w=`;
+  const src = `images/${data.frontmatter.hero.name}`;
 
   return (
     <article className={'slider__item slider__item--is-' + props.className} onClick={props.onClick}>
       <div className='slider__hero'>
-        <img
-          srcSet={`${hero}400 400w, ${hero}800 800w, ${hero}1600 1600w`}
-          sizes='70vw'
-          src={`${hero}400`}
-          alt={data.fields.slug}
-        />
+        <picture>
+          <source
+            type='image/webp'
+            srcSet={`${src}-400w.webp 400w, ${src}-800w.webp 800w, ${src}-1600w.webp 1600w, ${src}-3200w.webp 3200w`}
+            sizes='70vw'
+          />
+          <source
+            type='image/jpeg'
+            srcSet={`${src}-400w.jpeg 400w, ${src}-800w.jpeg 800w, ${src}-1600w.jpeg 1600w`}
+            sizes='70vw'
+          />
+          <img src={`${src}-400w.jpeg`} alt={data.fields.slug} />
+        </picture>
       </div>
       <div className='slider__date'>
         {date.getDate()} <br /> {months[date.getMonth()]}

@@ -40,7 +40,7 @@ const HeroContainer = styled.div`
   background-color: rgba(255, 255, 255, 0.6);
 `;
 
-const Hero = styled.img`
+const Hero = styled.picture`
   position: absolute;
   top: 50%;
   left: 50%;
@@ -74,17 +74,23 @@ export default class FeaturedArticles extends React.Component {
       <Section>
         <Container>
           {this.props.posts.map(({node}) => {
-            const hero = `${node.frontmatter.hero.publicURL}?nf_resize=fit&w=`;
+            const src = `images/${node.frontmatter.hero.name}`;
             return (
               <Item key={node.id} fluid={this.props.fluid}>
                 <HeroContainer>
-                  <Hero
-                    data-srcset={`${hero}400 400w, ${hero}800 800w, ${hero}1600 1600w`}
-                    sizes='(max-width: 900px) 100vw, 33vw'
-                    src={`${hero}20`}
-                    alt={node.fields.slug}
-                    className='lazyload'
-                  />
+                  <Hero>
+                    <source
+                      type='image/webp'
+                      data-srcset={`${src}-400w.webp 400w, ${src}-800w.webp 800w, ${src}-1600w.webp 1600w`}
+                      sizes='(max-width: 900px) 100vw, 33vw'
+                    />
+                    <source
+                      type='image/jpeg'
+                      data-srcset={`${src}-400w.jpeg 400w, ${src}-800w.jpeg 800w, ${src}-1600w.jpeg 1600w`}
+                      sizes='(max-width: 900px) 100vw, 33vw'
+                    />
+                    <img className='lazyload' src={`${src}-20w.jpeg`} alt={node.fields.slug} />
+                  </Hero>
                 </HeroContainer>
                 <Card>
                   <CardTitle>{node.frontmatter.title}</CardTitle>

@@ -30,7 +30,7 @@ export const query = graphql`
           frontmatter {
             title
             hero {
-              publicURL
+              name
             }
           }
         }

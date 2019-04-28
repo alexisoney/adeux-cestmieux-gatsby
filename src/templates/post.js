@@ -7,7 +7,8 @@ import {isArray} from 'util';
 export default ({data}) => {
   const post = data.markdownRemark;
   const date = buildDate(post.fields.date, post.fields.category);
-  const hero = `${data.markdownRemark.frontmatter.hero.publicURL}?nf_resize=fit&w=`;
+  const src = `./images/${data.markdownRemark.frontmatter.hero.name}`;
+  console.log(src);
   const title = post.frontmatter.title
     .replace(/\s\?/g, '&nbsp;?')
     .replace(/\s:/g, '&nbsp;:')
@@ -21,13 +22,19 @@ export default ({data}) => {
   return (
     <Layout instagram={data.allInstaNode}>
       <div className='hero'>
-        <img
-          srcset={`${hero}400 400w, ${hero}800 800w, ${hero}1600 1600w, ${hero}3200 3200w`}
-          sizes='(max-width: 1600px) 100vw, 1600px'
-          src={`${hero}400`}
-          alt={post.fields.slug}
-          className='hero__image'
-        />
+        <picture>
+          <source
+            type='image/webp'
+            srcSet={`${src}-400w.webp 400w, ${src}-800w.webp 800w, ${src}-1600w.webp 1600w, ${src}-3200w.webp 3200w`}
+            sizes='(max-width: 1600px) 100vw, 1600px'
+          />
+          <source
+            type='image/jpeg'
+            srcSet={`${src}-400w.jpeg 400w, ${src}-800w.jpeg 800w, ${src}-1600w.jpeg 1600w`}
+            sizes='(max-width: 1600px) 100vw, 1600px'
+          />
+          <img className='hero__image' src={`${src}-400w.jpeg`} alt={post.fields.slug} />
+        </picture>
       </div>
       <main className='post'>
         <p className='post__date'>{date}</p>
@@ -109,8 +116,8 @@ function buildDate(date, category) {
 }
 
 const optimizeImages = el => {
-  let src = el.match(/src=["'](.+?)['"]/);
-  src = isArray(src) ? `${src[1]}?nf_resize=fit&w=` : '';
+  let src = el.match(/src=["'](.+?)\./);
+  src = isArray(src) ? src[1] : '';
   let alt = el.match(/alt=["](.+?)["]/);
   alt = isArray(alt) ? alt[1] : '';
   let title = el.match(/title=["](.+?)["]/);
@@ -121,12 +128,11 @@ const optimizeImages = el => {
   }
 
   return `<div class="post__image-container">
-    <img class="post__image lazyload"
-      data-srcset="${src}400 400w, ${src}800 800w, ${src}1600 1600w"
-      data-sizes="auto"
-      src="${src}20"
-      alt="${alt}"
-      title="${title}" />
+  <picture>
+    <source type="image/webp" data-srcset="${src}-400w.webp 400w, ${src}-800w.webp 800w, ${src}-1600w.webp 1600w" sizes="(max-width: 770px) 100vw, 770px">
+    <source type="image/jpeg" data-srcset="${src}-400w.jpeg 400w, ${src}-800w.jpeg 800w, ${src}-1600w.jpeg 1600w" sizes="(max-width: 770px) 100vw, 770px"> 
+    <img class="post__image lazyload" src="${src}-20w.jpeg" alt="${alt}" title="${title}" />
+  </picture>
     </div>`;
 };
 
@@ -143,7 +149,7 @@ export const query = graphql`
       frontmatter {
         title
         hero {
-          publicURL
+          name
         }
       }
     }
@@ -162,7 +168,7 @@ export const query = graphql`
           frontmatter {
             title
             hero {
-              publicURL
+              name
             }
           }
         }
