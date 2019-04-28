@@ -22,11 +22,11 @@ export default ({data}) => {
     <Layout instagram={data.allInstaNode}>
       <div className='hero'>
         <img
-          data-srcset={`${hero}400 400w, ${hero}800 800w, ${hero}1600 1600w, ${hero}3200 3200w`}
+          srcset={`${hero}400 400w, ${hero}800 800w, ${hero}1600 1600w, ${hero}3200 3200w`}
           sizes='(max-width: 1600px) 100vw, 1600px'
-          src={`${hero}20`}
+          src={`${hero}400`}
           alt={post.fields.slug}
-          className='hero__image lazyload'
+          className='hero__image'
         />
       </div>
       <main className='post'>

@@ -80,10 +80,8 @@ export default class FeaturedArticles extends React.Component {
                 <HeroContainer>
                   <Hero
                     data-srcset={`${hero}400 400w, ${hero}800 800w, ${hero}1600 1600w`}
-                    data-lowsrc={`${hero}20&h=25`}
                     sizes='(max-width: 900px) 100vw, 33vw'
-                    srcSet='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
-                    src={`${hero}400`}
+                    src={`${hero}20`}
                     alt={node.fields.slug}
                     className='lazyload'
                   />
