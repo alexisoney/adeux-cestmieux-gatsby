@@ -9,10 +9,13 @@ const folders = [
   path.join(__dirname, '/src/pages/vivre-aux-pays-bas'),
 ];
 
+const outputFolder = path.join(__dirname, 'static/images/');
+
 (async function imageOptimizer() {
   try {
-    const outputFolder = path.join(__dirname, 'static/images/');
-    await new Promise(resolve => rimraf(outputFolder, resolve));
+    if (process.argv.includes('clean')) {
+      await new Promise(resolve => rimraf(outputFolder, resolve));
+    }
     await fs.mkdir(outputFolder, {recursive: true}).catch();
 
     for (let i = 0, n = folders.length; i < n; i++) {
