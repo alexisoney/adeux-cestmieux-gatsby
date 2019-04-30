@@ -28,7 +28,7 @@ const Category = ({title, excerpt, data}) => {
     <Layout>
       <Title>{title}</Title>
       <Excerpt>{excerpt}</Excerpt>
-      <FeaturedArticles posts={data.allMarkdownRemark.edges} />
+      <FeaturedArticles url={data.site.siteMetadata.siteUrl} posts={data.allMarkdownRemark.edges} />
     </Layout>
   );
 };

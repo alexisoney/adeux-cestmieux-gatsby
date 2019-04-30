@@ -4,7 +4,7 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://www.adeux-cestmieux.com',
+    siteUrl: process.env.SITE_URL,
   },
   plugins: [
     {

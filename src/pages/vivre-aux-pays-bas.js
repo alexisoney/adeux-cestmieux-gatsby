@@ -17,6 +17,11 @@ export default Page;
 
 export const query = graphql`
   query {
+    site {
+      siteMetadata {
+        siteUrl
+      }
+    }
     allMarkdownRemark(
       filter: {fields: {category: {eq: "vivre-aux-pays-bas"}}}
       sort: {fields: [fields___date], order: DESC}

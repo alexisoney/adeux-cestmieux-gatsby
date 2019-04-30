@@ -17,6 +17,11 @@ export default Page;
 
 export const query = graphql`
   query {
+    site {
+      siteMetadata {
+        siteUrl
+      }
+    }
     allMarkdownRemark(
       filter: {fields: {category: {eq: "visiter-amsterdam"}}}
       sort: {fields: [fields___date], order: DESC}

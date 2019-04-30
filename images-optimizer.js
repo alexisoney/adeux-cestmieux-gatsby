@@ -26,6 +26,9 @@ const outputFolder = path.join(__dirname, 'static/images/');
 
       for (let i = 0, n = articles.length; i < n; i++) {
         let article = path.join(folder, articles[i]);
+        const slug = articles[i].match(/__(.+?)$/)[1];
+        const saveFolder = path.join(outputFolder + slug);
+        console.log(saveFolder);
         let imagesFolder = path.join(article, 'images');
         try {
           // If there are images
@@ -41,16 +44,16 @@ const outputFolder = path.join(__dirname, 'static/images/');
             if (canBeProcessed) {
               const original = path.join(imagesFolder, img);
               const name = path.basename(img, path.extname(img));
-              await toJPEG(original, name, 20, outputFolder);
-              await toJPEG(original, name, 400, outputFolder);
-              await toJPEG(original, name, 800, outputFolder);
-              await toJPEG(original, name, 1600, outputFolder);
+              await toJPEG(original, name, 20, saveFolder);
+              await toJPEG(original, name, 400, saveFolder);
+              await toJPEG(original, name, 800, saveFolder);
+              await toJPEG(original, name, 1600, saveFolder);
 
-              await toWEBP(original, name, 20, outputFolder);
-              await toWEBP(original, name, 400, outputFolder);
-              await toWEBP(original, name, 800, outputFolder);
-              await toWEBP(original, name, 1600, outputFolder);
-              await toWEBP(original, name, 3200, outputFolder);
+              await toWEBP(original, name, 20, saveFolder);
+              await toWEBP(original, name, 400, saveFolder);
+              await toWEBP(original, name, 800, saveFolder);
+              await toWEBP(original, name, 1600, saveFolder);
+              await toWEBP(original, name, 3200, saveFolder);
             }
           }
         } catch (err) {
@@ -63,10 +66,11 @@ const outputFolder = path.join(__dirname, 'static/images/');
   }
 })();
 
-async function toJPEG(original, name, size, outputFolder) {
+async function toJPEG(original, name, size, saveFolder) {
   const outputFile = name + `-${size}w.jpeg`;
-  const skip = await isOptimized(outputFolder, outputFile);
+  const skip = await isOptimized(saveFolder, outputFile);
   if (!skip) {
+    await fs.mkdir(saveFolder, {recursive: true}).catch();
     return await sharp(original)
       .resize({width: size})
       .jpeg({
@@ -74,30 +78,30 @@ async function toJPEG(original, name, size, outputFolder) {
         progressive: true,
         chromaSubsampling: '4:4:4',
       })
-      .toFile(path.join(outputFolder, outputFile))
+      .toFile(path.join(saveFolder, outputFile))
       .catch(err => console.log(err));
   }
   return null;
 }
 
-async function toWEBP(original, name, size, outputFolder) {
+async function toWEBP(original, name, size, saveFolder) {
   const outputFile = name + `-${size}w.webp`;
-  const skip = await isOptimized(outputFolder, outputFile);
+  const skip = await isOptimized(saveFolder, outputFile);
   if (!skip) {
     return await sharp(original)
       .resize({width: size})
       .webp({
         quality: 80,
       })
-      .toFile(path.join(outputFolder, name + `-${size}w.webp`))
+      .toFile(path.join(saveFolder, name + `-${size}w.webp`))
       .catch(err => console.log(err));
   }
   return null;
 }
 
-async function isOptimized(outputFolder, outputFile) {
+async function isOptimized(saveFolder, outputFile) {
   return fs
-    .stat(path.join(outputFolder, outputFile))
+    .stat(path.join(saveFolder, outputFile))
     .then(() => true, () => false)
     .catch(err => console.log(err));
 }

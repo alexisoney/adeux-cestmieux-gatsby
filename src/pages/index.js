@@ -5,12 +5,20 @@ import IndexSlider from '../components/IndexSlider/index';
 
 export default props => (
   <Layout>
-    <IndexSlider posts={props.data.allMarkdownRemark.edges} />
+    <IndexSlider
+      url={props.data.site.siteMetadata.siteUrl}
+      posts={props.data.allMarkdownRemark.edges}
+    />
   </Layout>
 );
 
 export const query = graphql`
   query {
+    site {
+      siteMetadata {
+        siteUrl
+      }
+    }
     allMarkdownRemark(sort: {fields: [fields___date], order: DESC}) {
       edges {
         node {

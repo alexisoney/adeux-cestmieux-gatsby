@@ -62,7 +62,12 @@ class IndexSlider extends React.Component {
                       onEnter={this.onEnter}
                       onExit={this.onExit}
                     >
-                      <SliderItem className={className} onClick={onClick} data={node} />
+                      <SliderItem
+                        className={className}
+                        onClick={onClick}
+                        data={node}
+                        url={this.props.url}
+                      />
                     </Transition>
                   );
                 }
