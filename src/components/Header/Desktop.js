@@ -64,7 +64,7 @@ export default class Desktop extends React.Component {
           </NavItems>
         </nav>
         <SocialMedias>
-          <a href={SocialMediasLinks.instagram}>
+          <a href={SocialMediasLinks.instagram} aria-label='Instagram'>
             <FontAwesomeIcon icon={faInstagram} />
           </a>
         </SocialMedias>

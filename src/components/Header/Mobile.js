@@ -95,7 +95,11 @@ export default class Mobile extends React.Component {
                 {txt}
               </NavItemInternal>
             ))}
-            <NavItemExternal key='Instagram' href={SocialMediasLinks.instagram}>
+            <NavItemExternal
+              key='Instagram'
+              href={SocialMediasLinks.instagram}
+              aria-label='Instagram'
+            >
               <FontAwesomeIcon icon={faInstagram} size='2x' />,
             </NavItemExternal>
           </NavItems>
