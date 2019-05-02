@@ -4,17 +4,52 @@ import Layout from '../layouts/layout';
 import FeaturedArticles from '../components/FeaturedArticles';
 import prettyText from '../utils/prettyText';
 import prettyDate from '../utils/prettyDate';
-import makeImgTagsResponsive from '../utils/makeImgTagsResponsive';
+import rehypeReact from 'rehype-react';
+import path from 'path';
 
 export default ({data}) => {
   const url = data.site.siteMetadata.siteUrl;
   const post = data.markdownRemark;
-  const src = `${url}/images/${post.fields.slug}/${data.markdownRemark.frontmatter.hero.name}`;
+  const slug = post.fields.slug;
+  const src = `${url}/images/${slug}/${data.markdownRemark.frontmatter.hero.name}`;
   const date = prettyDate(post.fields.date, post.fields.category);
   const title = prettyText(post.frontmatter.title);
-  const html = prettyText(post.html).replace(/<img[^>]*>/g, el =>
-    makeImgTagsResponsive(el, post.fields.slug, url)
-  );
+
+  const optimizedImages = ({alt, src, title}) => {
+    const fileExtension = path.extname(src);
+    const needOptimization = ['.jpg', '.jpeg', '.png'].includes(fileExtension.toLowerCase());
+
+    if (needOptimization) {
+      const fileName = path.basename(src, fileExtension);
+      const basePath = `${url}/images/${slug}/${fileName}`;
+
+      const sizes = '(max-width: 770px) 100vw, 770px';
+      function setSrcSet(ext) {
+        return `${basePath}-400w.${ext} 400w, ${basePath}-800w.${ext} 800w, ${basePath}-1600w.${ext} 1600w`;
+      }
+
+      return (
+        <div className='post__image-container'>
+          <picture>
+            <source type='image/webp' data-srcset={setSrcSet('webp')} sizes={sizes} />
+            <source type='image/jpeg' data-srcset={setSrcSet('jpeg')} sizes={sizes} />
+            <img
+              className='post__image lazyload'
+              alt={alt}
+              title={title}
+              src={`${basePath}-20w.jpeg`}
+            />
+          </picture>
+        </div>
+      );
+    }
+    return <img src={src} alt={alt} title={title ? title : ''} />;
+  };
+
+  const renderAst = new rehypeReact({
+    createElement: React.createElement,
+    components: {img: optimizedImages},
+  }).Compiler;
 
   return (
     <Layout instagram={data.allInstaNode}>
@@ -39,7 +74,7 @@ export default ({data}) => {
         <p className='post__reading-time'>
           {post.timeToRead} minute{post.timeToRead > 1 ? 's' : ''} de lecture
         </p>
-        <div dangerouslySetInnerHTML={{__html: html}} />
+        {renderAst(post.htmlAst)}
       </main>
       <FeaturedArticles url={url} posts={data.allMarkdownRemark.edges} fluid />
     </Layout>
@@ -55,7 +90,7 @@ export const query = graphql`
     }
     markdownRemark(fields: {slug: {eq: $slug}}) {
       timeToRead
-      html
+      htmlAst
       fields {
         slug
         category
