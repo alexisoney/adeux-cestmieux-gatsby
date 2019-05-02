@@ -17,14 +17,17 @@
   background: none;
 }
 
-.slider--is-first-render .slider__item--is-active {
+.slider__item:first-child {
   opacity: 1;
+  transition: all 0.4 ease-in-out 0.5;
 
   & .slider__date,
   & .slider__card {
+    transition: all 0.4 ease-in-out 0.5;
     opacity: 1;
   }
   & .slider__hero {
+    transition: all 0.4 ease-in-out 0.5;
     transform: scale(1);
   }
 }
