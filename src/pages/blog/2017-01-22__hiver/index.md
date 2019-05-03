@@ -1,8 +1,9 @@
 ---
-title: "Winter is finally here ! #15"
-hero: "./images/2017-01-22-hiver-Vondelpark-21janvier2017.jpg"
-excerpt: "Winter is finally here ! L’hiver a enfin pointé le bout de son nez. Je commençais un peu à désespérer de ne pas vraiment avoir froid le matin en sortant. Alors certes, je ne sortirais pas en t-shirt, mais pour autant, avec manteau, bonnet et gants, après quelques coups de pédales, j’en suis presque à me"
+title: 'Winter is finally here ! #15'
+hero: './images/2017-01-22-hiver-Vondelpark-21janvier2017.jpg'
+excerpt: 'Winter is finally here ! L’hiver a enfin pointé le bout de son nez. Je commençais un peu à désespérer de ne pas vraiment avoir froid le matin en sortant. Alors certes, je ne sortirais pas en t-shirt, mais pour autant, avec manteau, bonnet et gants, après quelques coups de pédales, j’en suis presque à me'
 ---
+
 _Winter is finally here !_
 
 L’hiver a enfin pointé le bout de son nez. Je commençais un peu à désespérer de ne pas vraiment avoir froid le matin en sortant. Alors certes, je ne sortirais pas en t-shirt, mais pour autant, avec manteau, bonnet et gants, après quelques coups de pédales, j’en suis presque à me demander si je n’enlèverais pas un voir deux de ces accessoires d’hiver.
@@ -16,8 +17,5 @@ Pour autant, je ne pense pas que cela va arriver cette année. À moins que les 
 
 Dernière nouvelle, nous habitons enfin “chez nous”. Un petit écritaux avec nos noms a enfin été posé sur la porte! Et nous avons enfin rencontré nos voisins du dessous, autrement que par l’intermédiaire d’un colis. C’est aussi un jeune couple et, funny fact, la fille travaille chez Accenture. Deux choses l’une : soit le monde est vraiment petit pour que ce genre de coincidence arrive souvent, soit Accenture est vraiment une très très grosse boite qui rachète toutes les autres. En tout cas, ils sont vraiment très sympa et nous ont déjà invité pour de futurs barbecue party dans leur jardin cet été. J’ai déjà hâte. Mais d’abord, place à l’hiver 😉
 
-<div class="gallery">
 <img alt="2017-01-22-hiver-Vondelpark-21janvier2017-4.jpg" src="./images/2017-01-22-hiver-Vondelpark-21janvier2017-4.jpg">
 <img alt="2017-01-22-hiver-Vondelpark-21janvier2017-2.jpg" src="./images/2017-01-22-hiver-Vondelpark-21janvier2017-2.jpg">
-</div>
-

@@ -1,11 +1,12 @@
 ---
-title: "Dans mon petit potager #36"
-hero: "./images/cover.jpg"
-excerpt: "Ces jours-ci nous vivons sur notre balcon — Entre moi qui prends soin des petites plantes tout en essayant de bronzer et Alexis qui recherche un peu de fraîcheur et l’ombre extérieure l’après-midi, je crois d’ailleurs ne l’avoir jamais vu autant profiter du balcon, ces jours-ci, nous vivons sur notre balcon ! Il faut dire,"
+title: 'Dans mon petit potager #36'
+hero: './images/cover.jpg'
+excerpt: 'Ces jours-ci nous vivons sur notre balcon — Entre moi qui prends soin des petites plantes tout en essayant de bronzer et Alexis qui recherche un peu de fraîcheur et l’ombre extérieure l’après-midi, je crois d’ailleurs ne l’avoir jamais vu autant profiter du balcon, ces jours-ci, nous vivons sur notre balcon ! Il faut dire,'
 ---
+
 Ces jours-ci nous vivons sur notre balcon — Entre moi qui prends soin des petites plantes tout en essayant de bronzer et Alexis qui recherche un peu de fraîcheur et l’ombre extérieure l’après-midi, je crois d’ailleurs ne l’avoir jamais vu autant profiter du balcon, ces jours-ci, nous vivons sur notre balcon ! Il faut dire, la météo de cet été est vraiment généreuse ! Cette semaine, ce fut même caniculaire avec des températures approchant les records de chaleur au Pays-Bas.
 
-Du coup, du temps sur le balcon j’en passe ! D’autant plus qu’il s’est encore vu agrémenter de jolies choses depuis la dernière fois. Souvenez-vous, il y a plusieurs semaines déjà, je vous faisais un [petit tour d’horizon](/dans-mon-petit-potager-34/) de mes expérimentations green et potagères. Pour ceux qui auraient raté l'avant-après du balcon, vous êtes libre de lire l’article(/balcon/). Des ratés, il y en a eu. Des belles surprises et des réussites aussi ! Retour en détails sur le balcon Adeux-Cestmieux, version 2018.
+Du coup, du temps sur le balcon j’en passe ! D’autant plus qu’il s’est encore vu agrémenter de jolies choses depuis la dernière fois. Souvenez-vous, il y a plusieurs semaines déjà, je vous faisais un [petit tour d’horizon](dans-mon-petit-potager-34/) de mes expérimentations green et potagères. Pour ceux qui auraient raté l'avant-après du balcon, vous êtes libre de lire l’article [ici](balcon/). Des ratés, il y en a eu. Des belles surprises et des réussites aussi ! Retour en détails sur le balcon Adeux-Cestmieux, version 2018.
 
 ---
 
@@ -20,32 +21,35 @@ Les radis seront, je crois, la plus grande réussite de ce balcon. Après un éc
 
 Je n’ai pas pesé, mais j’ai récolté l’équivalent de 3 bottes de radis, telle que l’on pourrait en trouver sur un marché. Ils étaient piquant, mais pas trop, croquant à souhait. Et quel ne fut pas le plaisir de grignoter à l’apéro des radis du balcon ! Une chose est sûre, l’année prochaine, je replanterai des radis-chéris !
 
-[](/potage-balcon-amsterdam-2/radis01/)
-
-[](/potage-balcon-amsterdam-2/radis02/)
+<gallery>
+<img alt="radis01.jpg" src="./images/radis01.jpg">
+<img alt="radis02.jpg" src="./images/radis02.jpg">
+</gallery>
 
 **• Les tomates cerises**
 Une autre belle surprise fut les tomates cerises. Alors, elles ne sont pas sur le balcon, mais ça fait quand même parti du potager ! Je ne pensais pas qu’il serait aussi facile de récolter des tomates en appartement. Il faut simplement un peu de patience et beaucoup de lumière. Depuis la mi-juin, nous en récoltons plusieurs chaque semaine. Nous en sommes déjà à plus de 200g. Pas grand chose d’un point de vu rendement / production, mais cette jolie grappe reste ma plus grande fierté.
 
-[](/potage-balcon-amsterdam-2/tomate01/)
-
-[](/potage-balcon-amsterdam-2/tomate02/)
+<gallery>
+<img alt="tomate01.jpg" src="./images/tomate01.jpg">
+<img alt="tomate02.jpg" src="./images/tomate02.jpg">
+</gallery>
 
 **• Le basilic & La menthe & La ciboulette.**
 Tout n’est pas rose au pays du jardinage. Des ratés, il y en a aussi ! La ciboulette par exemple. RIEN DU TOUT. Même pas un petit bout de vert. J’en ai semé à nouveau pensant que j’avais loupé quelque chose. Et bien non, je pense que mon lot de graine est tout simplement foireux et ne germera jamais. C’est dommage car on adore la ciboulette. La prochaine fois, je choisirais sûrement la facilité en achetant un petit pot que je rempoterais pour être sûre d’obtenir des résultats. Ce n’est que partie remise.
 
 Concernant la menthe et le basilic, je reste plutôt mitigée, cela étant sûrement dû à mon impatience. Faire pousser de la menthe et du basilic à partir de graines est un processus assez lent. Les deux aromates poussent, mais je n’ose pas encore couper des feuilles de peur de les dénuder plus vite que ce qu’ils ne poussent. Du coup, on fait avec les deux pots du balcon que j’avais légèrement délaissé et qui ne sont pas en super état, mais en attendant, ça fait l’affaire de mes petites eaux infusées.
 
-[](/potage-balcon-amsterdam-2/_mg_1816/)
+<img alt="MG_1816.jpg" src="./images/MG_1816.jpg">
 
 **• Concombre & Carotte**
 Et enfin, clou du potager, le concombre & la carotte. La carotte à l’air de bien se porter. Je n’ai simplement aucune idée de quand je dois la récolter. Du coup, j’attends encore, peut-être d’ici la fin du mois d’août, la carotte étant d’avantage un légume d’automne que d’été.
 
 Du côté concombre, c’est légèrement plus complexe que les tomates. Il y a en effet des fleurs mâles (la graine) et des fleurs femelles (le fruit), qui sont, sans politisation par les insectes, complètement improductives. Et des abeilles ou des bourdons, ce n’est pas ce qui court du côté de mon balcon malheureusement. J’ai bien tenté le coup en utilisant un coton tige, mais ça n’aura pas été très concluant. Pour l’instant, un seul minuscule concombre (cornichon ?) se trouve au compteur et je me demande bien quel goût il aura au moment de sa récolte ! Pour l’instant, je laisse pousser et la nature faire son travail. 😉
 
-[](/potage-balcon-amsterdam-2/concombre/)
-
-[](/potage-balcon-amsterdam-2/carotte/)
+<gallery>
+<img alt="concombre.jpg" src="./images/concombre.jpg">
+<img alt="carotte.jpg" src="./images/carotte.jpg">
+</gallery>
 
 ## La partie jardin fleurie
 
@@ -56,18 +60,18 @@ Dernièrement, nous avons découvert une jardinerie pas très loin de la maison 
 
 Le petit plus d’Alexis, un pot de lierre Hédéra Helix. Son rêve ? Le faire courir tout au long de la rambarde et recréer un petit “cache-voisin”. On verra ce que ça donne. 😉
 
-<div class="gallery">
+<gallery>
 <img alt="05.jpg" src="./images/05.jpg">
-<img alt="06.jpg" src="./images/06.jpg">
-<img alt="abeille.jpg" src="./images/abeille.jpg">
 <img alt="03.jpg" src="./images/03.jpg">
+<img alt="abeille.jpg" src="./images/abeille.jpg">
 <img alt="04.jpg" src="./images/04.jpg">
 <img alt="07.jpg" src="./images/07.jpg">
-</div>
+<img alt="06.jpg" src="./images/06.jpg">
+</gallery>
 
-[](/potage-balcon-amsterdam-2/lavande/)
-[](/potage-balcon-amsterdam-2/lierre/)
-[](/potage-balcon-amsterdam-2/vue_global_balcon/)
+[<img alt="lavande.jpg" src="./images/lavande.jpg">](potage-balcon-amsterdam-2/lavande/)
+[<img alt="lierre.jpg" src="./images/lierre.jpg">](potage-balcon-amsterdam-2/lierre/)
+[<img alt="vue_global_balcon.jpg" src="./images/vue_global_balcon.jpg">](potage-balcon-amsterdam-2/vue_global_balcon/)
 
 ---
 

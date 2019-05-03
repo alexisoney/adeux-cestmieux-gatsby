@@ -1,8 +1,9 @@
 ---
 title: "Début de l'aventure - The D-Day #1"
-hero: "./images/2016-09-11-debut-aventure-d-day-01.jpg"
-excerpt: "Dubrovnik —> Paris —> Amsterdam De retour de nos vacances en Croatie, nous avons à peine le temps de nous poser (et reposer) et faire quelques lessives, que nous devons déjà repartir. Notre trajet Paris - Amsterdam se fait en bus de nuit. C’était ce qu’il y avait de moins cher lorsque nous avions réservé"
+hero: './images/2016-09-11-debut-aventure-d-day-01.jpg'
+excerpt: 'Dubrovnik —> Paris —> Amsterdam De retour de nos vacances en Croatie, nous avons à peine le temps de nous poser (et reposer) et faire quelques lessives, que nous devons déjà repartir. Notre trajet Paris - Amsterdam se fait en bus de nuit. C’était ce qu’il y avait de moins cher lorsque nous avions réservé'
 ---
+
 ## Dubrovnik —> Paris —> Amsterdam
 
 De retour de nos vacances en Croatie, nous avons à peine le temps de nous poser (et reposer) et faire quelques lessives, que nous devons déjà repartir. Notre trajet Paris - Amsterdam se fait en bus de nuit. C’était ce qu’il y avait de moins cher lorsque nous avions réservé les billets. Je (Clémence) savais déjà à l’avance que le voyage ne serait pas de tout repos (ce n’est pas le confort du Thalys). Mais c’était sans compter l’escale en pleine nuit à Eindhoven avec plus de trois heures d’attentes. Les avis que nous lisons sur internet ne sont pas non plus très encourageants ... ( bus introuvables et mauvaises indications, bus ratés, oublis de personnes sur les aires d’autoroutes, ...) Ça nous refroidit un peu, beaucoup même, d’autant plus que nous ne trouvons plus notre trajet sur le site de Flixbus..
@@ -11,10 +12,8 @@ Il y a un autre trajet qui semble bien plus confortable et est bien plus rapide.
 
 Le nouveau bus part donc de la gare routière de Bercy à 23h20, mais ils conseillent d’y être au moins 20 min à l’avance. On est jamais trop prudent, nous partirons à 22h de Stains pour y être à 22h45.Les avis ne mentaient pas, la gare routière de Bercy est vraiment très mal indiquée. Ce n’est pas du tout au même niveau que la gare TER de Bercy, mais carrément dans le parking souterrain de Bercy Arena. Seul un petit affichage en papier jaune indique à l’entrée du parking « gare FlixBus ».
 
-<div class="gallery">
-<img alt="2016-09-11-debut-aventure-d-day-02.jpg" src="./images/2016-09-11-debut-aventure-d-day-02.jpg" title="Coucou les 5 valises !">
-<img alt="2016-09-11-debut-aventure-d-day-03.jpg" src="./images/2016-09-11-debut-aventure-d-day-03.jpg" title="Merci Jean-Pierre !!">
-</div>
+<img alt="2016-09-11-debut-aventure-d-day-02.jpg" src="./images/2016-09-11-debut-aventure-d-day-02.jpg" title="Coucou les 5 valises !" />
+<img alt="2016-09-11-debut-aventure-d-day-03.jpg" src="./images/2016-09-11-debut-aventure-d-day-03.jpg" title="Merci Jean-Pierre !!" />
 
 Nous montons dans le bus à 23h07. Ce dernier est à « deux étages » et comme nous montons dans les premiers, nous avons la chance de pouvoir nous installer tout devant. Le bus est loin d’être rempli. Tout au plus, une trentaine de personnes maximum. Le chauffeur est anglais (avec un bon vieil accent british/scotish/irish à couper au couteau) et ne parle pas un mot de français. On comprend juste qu’il faut s’attacher et que nous ferons une pause un peu avant Bruxelles. Le bus démarre, il est 23h22.
 

@@ -1,22 +1,26 @@
 ---
-title: "Un long week-end à Edimbourg"
-hero: "./images/cover.jpg"
-excerpt: "Edimbourg — Nos must-see sur un week-end Depuis que j’ai découvert l’univers Outlander, je ne rêvais que d’une chose : visiter l’Écosse et les Highlands. À défaut de pouvoir réaliser mon rêve de road trip, je souhaitais, au moins cette année, visiter la capitale d’Ecosse, Edimbourg. Il se trouve qu’Olafur Arnorlds, l’un des artistes préféré"
+title: 'Un long week-end à Edimbourg'
+hero: './images/cover.jpg'
+excerpt: 'Edimbourg — Nos must-see sur un week-end Depuis que j’ai découvert l’univers Outlander, je ne rêvais que d’une chose : visiter l’Écosse et les Highlands. À défaut de pouvoir réaliser mon rêve de road trip, je souhaitais, au moins cette année, visiter la capitale d’Ecosse, Edimbourg. Il se trouve qu’Olafur Arnorlds, l’un des artistes préféré'
 ---
+
 _Edimbourg — Nos must-see sur un week-end_
 
 Depuis que j’ai découvert l’univers Outlander, je ne rêvais que d’une chose : visiter l’Écosse et les Highlands. À défaut de pouvoir réaliser mon rêve de road trip, je souhaitais, au moins cette année, visiter la capitale d’Ecosse, Edimbourg.
 
-Il se trouve qu’Olafur Arnorlds, l’un des artistes préféré d’Alexis, a commencé sa tournée européenne pour son nouvel album. Fin mars dernier, nous avons sauté sur l’occasion de prendre des billets pour son concert à Edimbourg fin septembre tout en profitant des prix bas pour les vols Amsterdam - Edimbourg avec EasyJet. 
+Il se trouve qu’Olafur Arnorlds, l’un des artistes préféré d’Alexis, a commencé sa tournée européenne pour son nouvel album. Fin mars dernier, nous avons sauté sur l’occasion de prendre des billets pour son concert à Edimbourg fin septembre tout en profitant des prix bas pour les vols Amsterdam - Edimbourg avec EasyJet.
 
 Quoi de mieux que d’allier visite d’une ville et concert sur un même week-end ?
 
-<div class="gallery">
-<img alt="Edinburgh Edimbourg Castle Chateau" src="./images/MG_2958.jpg"></figure>
+<gallery>
+<gallery>
+<img alt="Edinburgh Edimbourg Castle Chateau" src="./images/MG_2958.jpg" title="Edinburgh Castle" />
+<img alt="Edinburgh Edimbourg Castle Chateau" src="./images/MG_3007.jpg">
 <img alt="Edinburgh Edimbourg Castle Chateau" src="./images/MG_3006.jpg">
-</div>
+</gallery>
+</gallery>
 
-— 
+---
 
 L’avantage (et l’inconvénient) de l’Écosse (et du Royaume Unis en général), c’est qu’il y a une heure de décalage. Nous sommes partis vendredi en milieu d’après-midi et nous étions déjà dans Edimbourg aux alentours de 17h ; à temps pour admirer la lumière de fin de journée sur la ville. Bon, au retour, on apprécie un peu moins de rentrer à 23h. Mais on est content d’avoir pu profiter de la ville d’Edimbourg et du week-end à fond !
 
@@ -34,11 +38,13 @@ Bien sûr, les vrais appartements privés restent inaccessibles. Cependant la vi
 
 La visite du palais à l’aide d’un audio-guide est de 1h30 environ. Il est ensuite possible de flâner un peu dans les jardins, aux couleurs d’automne magnifiques à cette époque de l’année.
 
-<div class="gallery">
+<gallery>
+<gallery>
 <img alt="Edimbourg Edinburgh Holyrood Palace" src="./images/MG_2910.jpg">
 <img alt="Edimbourg Edinburgh Holyrood Palace" src="./images/MG_2908.jpg">
 <img alt="Edimbourg Edinburgh Holyrood Palace" src="./images/MG_2954.jpg">
-</div>
+</gallery>
+</gallery>
 
 ## Edimbourg : Artur’s Seat
 
@@ -50,11 +56,13 @@ L’ascension est relativement aisée, quoiqu’il existe différents chemins po
 
 Attention aussi, car c’est très venté là-haut. C’en est même presque apeurant ! Les rafales soufflant très, très fort. On hésite longuement (et on reste prudent) avant de s’approcher du rebord de la falaise !
 
-<div class="gallery">
+<gallery>
+<gallery>
 <img alt="Edimbourg Edinburgh Artur's Seat" src="./images/MG_2741.jpg">
 <img alt="Edimbourg Edinburgh Artur's Seat" src="./images/MG_2807.jpg">
 <img alt="Edimbourg Edinburgh Artur's Seat" src="./images/Group-2.jpg">
-</div>
+</gallery>
+</gallery>
 
 ## Edimbourg : La Old Town
 
@@ -68,13 +76,20 @@ Les closes. Mais aussi, Cockburn Steet, Victoria's Street, Grass Market, Candlem
 
 On recommande vraiment de simplement déambuler et se perdre dans le quartier pour en apprécier toute sa splendeur.
 
-<div class="gallery">
-<img alt="MG_2939.jpg" src="./images/MG_2940.jpg">
-<img alt="MG_2933.jpg" src="./images/MG_2938.jpg">
-<img alt="MG_2928.jpg" src="./images/MG_2930.jpg">
-<img alt="MG_2699.jpg" src="./images/MG_2925.jpg">
-<img alt="MG_2593.jpg" src="./images/MG_2593.jpg"></figure>
-</div>
+<gallery>
+<gallery>
+<img alt="MG_2940.jpg" src="./images/MG_2940.jpg" title="Cimetière Greyfriars" />
+<img alt="MG_2939.jpg" src="./images/MG_2939.jpg" title="Cimetière Greyfriars" />
+<img alt="MG_2938.jpg" src="./images/MG_2938.jpg" title="Cimetière Greyfriars" />
+<img alt="MG_2933.jpg" src="./images/MG_2933.jpg" title="Cimetière Greyfriars" />
+<img alt="MG_2930.jpg" src="./images/MG_2930.jpg" title="Victoria's Street" />
+<img alt="MG_2928.jpg" src="./images/MG_2928.jpg" title="Victoria's Street" />
+<img alt="MG_2925.jpg" src="./images/MG_2925.jpg" title="Victoria's Terrace" />
+<img alt="MG_2699.jpg" src="./images/MG_2699.jpg" title="Royal Mile" />
+<img alt="MG_2593.jpg" src="./images/MG_2593.jpg" title="Royal Mile" />
+<img alt="Group-5.jpg" src="./images/Group-5.jpg">
+</gallery>
+</gallery>
 
 ## Edimbourg : La New Town
 
@@ -82,11 +97,13 @@ Comme toute capitale, Edimbourg a subit un plan de restructuration urbain au 18e
 
 Les rues les plus connues sont Princes Street, qui fait face au splendide château d’Edimbourg, Georges Street ainsi que Rose Street. C’est aussi dans cette zone que l’on retrouve les grandes enseignes commerciales.
 
-<div class="gallery">
+<gallery>
+<gallery>
 <img alt="Edinburgh Edimbourg New Town" src="./images/MG_2943.jpg">
 <img alt="Edinburgh Edimbourg New Town" src="./images/Group-4.jpg">
 <img alt="Edinburgh Edimbourg New Town" src="./images/MG_3001.jpg">
-</div>
+</gallery>
+</gallery>
 
 ## Edimbourg : Deans Village
 
@@ -94,20 +111,22 @@ Si l’on continu en direction du Nord-Ouest après New Town, vous trouverez l�
 
 On se retrouve plongé au cœur d’un village écossais du XVIIe siècle. En se promenant de long de « Water of Leith Walkway », on en oublierait presque que l’on se trouve à Edimbourg ! C’était tout simplement apaisant. Il n’y a pas grand chose d’autre à dire hormis que nous ayons adoré cette “pause” au vert et que nous nous y attendions pas vraiment. Ce fut une belle surprise. Il est possible de continuer le chemin pendant 13 km environ et de rejoindre Leith et la plage sur la mer du Nord. Je suppose que cela doit être un grand classique pour les habitants d’Edimbourg les week-ends de beaux temps, encore plus à cette période de l’année, quand la nature nous offre une palette de couleurs resplendissantes.
 
-<div class="gallery">
+<gallery>
+<gallery>
 <img alt="Edinburgh Edimbourg Deans Village" src="./images/Group-3.jpg">
 <img alt="Edinburgh Edimbourg Deans Village" src="./images/MG_2979.jpg">
 <img alt="Edinburgh Edimbourg Deans Village" src="./images/MG_2985.jpg">
 <img alt="Edinburgh Edimbourg Deans Village" src="./images/MG_2974.jpg">
 <img alt="Edinburgh Edimbourg Deans Village" src="./images/MG_2970.jpg">
-</div>
+</gallery>
+</gallery>
 
 ## Edimbourg : quelques addresses:
 
 - Pour dormir  : [Radisson Blue Hotel](https://www.booking.com/hotel/gb/radisson-sas-edinburgh.fr.html)
 - Pour la pause goûter / le brunch : [Fredericks Coffee & Wine](https://www.frederickscoffeewine.com/)
 - Pour les fans d'Harry Potter : [The Boy Wizard ](https://www.facebook.com/The-Boy-Wizard-169220787227833/)
-- Pour prendre l’apéro / dinner : [Veeno, Italian Wine Cafe](http://www.theveenocompany.com/)
+- Pour prendre l’apéro / dinner :[ Veeno, Italian Wine Cafe](http://www.theveenocompany.com/)
 - Pour une spécialité typique : [Fudge Kitchen](https://www.fudgekitchen.co.uk/en)
 
 ---

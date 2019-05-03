@@ -1,8 +1,9 @@
 ---
-title: "Spring is Here! #17"
-hero: "./images/2017-03-15-printemps-printemps_mars2017-3.jpg"
-excerpt: "Hello la compagnie. Des nouvelles météorologiques du plat pays. Ici, je crois que le printemps commence à pointer le bout de son nez (mais seulement le bout). Les jours rallongent. Et c’est quand même super agréable de sortir de l’agence alors qu’il fait encore jour dehors. Les températures semblent remonter tout doucement aussi. Les arbres"
+title: 'Spring is Here! #17'
+hero: './images/2017-03-15-printemps-printemps_mars2017-3.jpg'
+excerpt: 'Hello la compagnie. Des nouvelles météorologiques du plat pays. Ici, je crois que le printemps commence à pointer le bout de son nez (mais seulement le bout). Les jours rallongent. Et c’est quand même super agréable de sortir de l’agence alors qu’il fait encore jour dehors. Les températures semblent remonter tout doucement aussi. Les arbres'
 ---
+
 Hello la compagnie.
 
 Des nouvelles météorologiques du plat pays. Ici, je crois que le printemps commence à pointer le bout de son nez (mais seulement le bout). Les jours rallongent. Et c’est quand même super agréable de sortir de l’agence alors qu’il fait encore jour dehors. Les températures semblent remonter tout doucement aussi. Les arbres bourgeonnent petit à petit. Et lors de mes trajets Amsterdam - La Haie pour le travail, je prend désormais plaisir à observer les champs de tulipes, que je traverse en train, se parer de milles et une couleurs. Vendredi dernier, avec la lumière du petit jour, c’était magnifique à voir! Bref, toute l’ambience générale commence à sentir bon le printemps et même les barbecues sont de nouveaux autorisés dans le Vondelpark. Le matin, je troque de plus en plus mon manteau d’hiver contre mon blouson en cuir ou ma doudoune légère. Enfin, si je devais être honnête, je devrais plutôt dire que je troque mon manteau d’hiver contre mon joli ciret de pluie. Car oui, qui dit printemps ici dit aussi pluie malheureusement ! Depuis que nous sommes ici, je crois que février a été le mois le plus endurant. Très froid, très pluvieux et surtout très venteux ! Décembre et Janvier furent relativement doux comparé à Février. Disons que le froid sec de l’hiver a désormais laissé place au vent et à la pluie printanière.
@@ -24,8 +25,5 @@ Ps : Je raconte tout ça mais je n’ai toujours pas acheté de pantalon de plui
 
 Pps : Il suffit que j’écrive cette phrase pour que le lendemain je me retrouve désormais en possession d’un magnifique pantalon de pluie en toile ciré bleu marine. J’ai hâte ! (#ironie)
 
-<div class="gallery">
 <img alt="2017-03-15-printemps-printemps_mars2017.jpg" src="./images/2017-03-15-printemps-printemps_mars2017.jpg">
 <img alt="2017-03-15-printemps-printemps_mars2017-2.jpg" src="./images/2017-03-15-printemps-printemps_mars2017-2.jpg">
-</div>
-

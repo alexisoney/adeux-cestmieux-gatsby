@@ -1,8 +1,9 @@
 ---
-title: "La Journée Nationale de la Tulipe (janvier)"
-hero: "./images/national-tulip-day-2017-19.jpg"
-excerpt: "La Journée Nationale de la Tulipe a lieu chaque année au mois de janvier. Organisée par des producteurs hollandais, cette journée marque le coup d’envoi officiel de la saison des Tulipes coupées ! Lors de votre visite à Amsterdam, impossible de les rater, les tulipes font partie de la ville. En plus de décorer les parcs"
+title: 'La Journée Nationale de la Tulipe (janvier)'
+hero: './images/national-tulip-day-2017-19.jpg'
+excerpt: 'La Journée Nationale de la Tulipe a lieu chaque année au mois de janvier. Organisée par des producteurs hollandais, cette journée marque le coup d’envoi officiel de la saison des Tulipes coupées ! Lors de votre visite à Amsterdam, impossible de les rater, les tulipes font partie de la ville. En plus de décorer les parcs'
 ---
+
 **La Journée Nationale de la Tulipe** a lieu chaque année au mois de janvier. Organisée par des producteurs hollandais, cette journée marque le coup d’envoi officiel de la saison des Tulipes coupées !
 
 Lors de votre visite à Amsterdam, impossible de les rater, les tulipes font partie de la ville. En plus de décorer les parcs et les canaux au printemps, vous trouverez de nombreux souvenirs en forme de tulipe. Il existe des dizaines d’histoires basées sur cette tradition, mais, d’où vient cet engouement pour la célèbre tulipe ?
@@ -37,11 +38,13 @@ En visitant Amsterdam au printemps, vous découvrirez aussi des rues et des parc
 
 Ainsi, le 19 janvier 2019 aura lieu la traditionnelle Journée Nationale de la Tulipe, sur la place du Dam à Amsterdam. Cette dernière est, pour l’occasion, transformée en un grand jardin bigarré à l’aide de plus de 200 000 tulipes de toutes les couleurs. Tous les habitants sont alors invités à venir cueillir des tulipes gratuitement pendant toute une après-midi, soit plus de 10 000 personnes chaque année !
 
-<div class="gallery">
+<gallery>
+<gallery>
 <img alt="Journée Nationale de la Tulipe" src="./images/national-tulip-day-2017-16.jpg">
 <img alt="Journée Nationale de la Tulipe" src="./images/national-tulip-day-2017-14.jpg">
 <img alt="Journée Nationale de la Tulipe" src="./images/national-tulip-day-2017-17.jpg">
-</div>
+</gallery>
+</gallery>
 
 ### Le temps des tulipes !
 
@@ -65,7 +68,7 @@ Il est toléré une vingtaine de tulipe par personne, soit l’équivalent d’u
 
 ---
 
-_ Plus d’info sur la Journée Nationale de la Tulipe_[_sur leur site interne_](https://tulpentijd.nl/en/)_ ou sur_[_Instagram_](https://www.instagram.com/Tuliptime.info/)_._
+*Plus d’info sur la Journée Nationale de la Tulipe [sur leur site internet](https://tulpentijd.nl/en/)* ou sur _[Instagram](https://www.instagram.com/Tuliptime.info/)_.
 
 ---
 

@@ -1,8 +1,9 @@
 ---
-title: "Des nouvelles [1/2] #28"
-hero: "./images/2017.11.20-cover.jpg"
-excerpt: "Ces dernières semaines ont été synonymes de nouveaux départs pour chacun de nous. Alors, tour à tour, nous allons vous raconter nos expériences de ces dernières semaines. Clémence La plupart de vous le savent sûrement déjà, mais, après un peu plus d’un an à travailler chez Mobgen, j’ai changé de boite. — Cette décision, je"
+title: 'Des nouvelles [1/2] #28'
+hero: './images/2017.11.20-cover.jpg'
+excerpt: 'Ces dernières semaines ont été synonymes de nouveaux départs pour chacun de nous. Alors, tour à tour, nous allons vous raconter nos expériences de ces dernières semaines. Clémence La plupart de vous le savent sûrement déjà, mais, après un peu plus d’un an à travailler chez Mobgen, j’ai changé de boite. — Cette décision, je'
 ---
+
 _Ces dernières semaines ont été synonymes de nouveaux départs pour chacun de nous. Alors, tour à tour, nous allons vous raconter nos expériences de ces dernières semaines._
 
 **Clémence**
@@ -33,9 +34,8 @@ _Prochain article à suivre._
 
 Ps: J’ai été gâtée par mes anciens collègues le jour de mon départ de Mobgen
 
-<div id="attachment_78" style="width: 1034px" class="wp-caption aligncenter">
 <img alt="2017.11.20-01.jpg" src="./images/2017.11.20-01.jpg">
 
-Un beau livre de recette, un livre sur le design, un bon cadeau pour des smoothies</div>
+Un beau livre de recette, un livre sur le design, un bon cadeau pour des smoothies
 
 **♥**

@@ -1,8 +1,9 @@
 ---
-title: "Festival de FoodTruck à Westerpark #20"
-hero: "./images/2017-06-17-foodtruck-festival-00_cover.jpg"
-excerpt: "Amsterdam nous aimons la découvrir de deux manières : en nous promenant, ou bien en mangeant. Pour une fois, c’est en mangeant que nous vous emmenons découvrir une nouvel facette local de la vie amstellodamoise. De rollende keukens - Food truck Festival Pour le pont du Jeudi de l’Ascension avait lieu le Rollende Keukens Amsterdam,"
+title: 'Festival de FoodTruck à Westerpark #20'
+hero: './images/2017-06-17-foodtruck-festival-00_cover.jpg'
+excerpt: 'Amsterdam nous aimons la découvrir de deux manières : en nous promenant, ou bien en mangeant. Pour une fois, c’est en mangeant que nous vous emmenons découvrir une nouvel facette local de la vie amstellodamoise. De rollende keukens - Food truck Festival Pour le pont du Jeudi de l’Ascension avait lieu le Rollende Keukens Amsterdam,'
 ---
+
 Amsterdam nous aimons la découvrir de deux manières : en nous promenant, ou bien en mangeant. Pour une fois, c’est en mangeant que nous vous emmenons découvrir une nouvel facette local de la vie amstellodamoise.
 
 ## De rollende keukens - Food truck Festival
@@ -23,10 +24,9 @@ Alexis avait encore faim. Moi je commençais à être bien rempli. Lui & Robin v
 
 Le festival a lieu chaque année au mois de Mai et pour sûre nous y retournerons l’année prochaine !!
 
-<div class="gallery">
+<gallery>
 <img alt="2017-06-17-foodtruck-festival-01.jpg" src="./images/2017-06-17-foodtruck-festival-01.jpg">
 <img alt="2017-06-17-foodtruck-festival-02.jpg" src="./images/2017-06-17-foodtruck-festival-02.jpg">
 <img alt="2017-06-17-foodtruck-festival-03-e1521290018851.jpg" src="./images/2017-06-17-foodtruck-festival-03-e1521290018851.jpg">
 <img alt="2017-06-17-foodtruck-festival-04-e1521290029926.jpg" src="./images/2017-06-17-foodtruck-festival-04-e1521290029926.jpg">
-</div>
-
+</gallery>

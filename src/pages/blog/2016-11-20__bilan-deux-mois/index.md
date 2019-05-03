@@ -33,16 +33,27 @@ Chaque jour, je me sens plus triste que la veille, chaque jour, il me reste un j
 Malgré ce bilan en demi-teinte, voici quelques petites anecdotes 😉
 
 (Toutes ces choses qu’on ne nous avait pas dit avant.)
+
 - Les araignées. Je ne suis pas spécialement arachnophobe, bien que la vue d’une mygale me donnerait sûrement des gros frissons, Alexis l’étant un peu plus tout de même. Dans mes chères montagnes, il m’est déjà arrivée de croisée de « jolies » tégénaire noire, mais cela restait quand même assez rare. Ici, et particulièrement près des canaux et dans la plupart des jardins, les araignées sont plutôt choses communes. Mais attention, pas n’importe quelle petite araignée minuscule ou autre « faucheux », mais bien de belles et grosses Epeire Diadème toutes noires. (surtout ne faite pas comme moi, ne cherchez pas ce mot dans Google image). Et il y a PARTOUT ! Et ça, on c’était bien gardé de nous le dire...
+
 - Croissant est un mot international.
+
 - Trottoir et parapluie sont des mots Dutch. Qui veulent dire ... troittor et parapluie. Tout comme portefeuille d’ailleurs.
+
 - Les hollandais sont pire que les poules et mangent entre 5h et 6h le soir.
+
 - Ils disent Lekker tout le temps. Un peu comme nous et “cool”. Mais attention. Autant “cool cool” veut pas dire grand chose. Autant “lekker lekker” veut dire “j’aime lécher” ...
+
 - Il est impossible de prévoir la météo à plus d’une heure à l’avance. Le temps est plus que changeant et il est presque possible de voir les quatre saisons sur une seule journée. Cf article météo ici.
+
 - Les hollandais boivent du lait. Beaucoup de lait. Et ne mangent que des sandwich. Partout. Tout le temps. Un truc de dingue.
+
 - Cela me fait toujours plaisir de faire désormais le marché chaque samedi. Même si il arrive que nous soyons trempés et congelés à cause de la pluie, je suis ravie de cette nouvelle habitude 😃
+
 - Faire du vélo malgré le froid le matin n’est pas tant une contrainte. Je préfère largement ça à l’idée de devoir rentrer dans un métro qui sens l’urine.
+
 - À force de m’entraînais à lever les mains un peu chaque soir en rentrant du travail, je peu désormais dire que je sais (presque) faire du vélo sans les mains ! Yolo ! Eh eh.
+
 - Notre agenda des week end est déjà prévu jusqu’en mai pour certains ! Si vous voulez nous rendre visite et passer un petit week end dans la belle Amsterdam, il faut réserver un peu l’avance 😉
 
 <img alt="2016-11-20-bilan-deux-mois-bilan-2-mois-3.gif" src="./images/2016-11-20-bilan-deux-mois-bilan-2-mois-3.gif">

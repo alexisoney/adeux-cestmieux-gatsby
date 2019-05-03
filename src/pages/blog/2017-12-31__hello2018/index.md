@@ -1,8 +1,9 @@
 ---
-title: "Bye 2017, Bonjour 2018 ! #30"
-hero: "./images/2017.12.31-cover.jpg"
-excerpt: "En ce 31 décembre 2017, me voilà face à mon clavier, me livrant au traditionnel exercice du bilan de fin d’année. Monsieur n’est pas un grand adepte des bilans. Selon lui, il ne sert à rien d’attendre le 1er janvier pour prendre de nouvelles résolutions et se fixer de nouveaux objectifs. Autant le faire dès"
+title: 'Bye 2017, Bonjour 2018 ! #30'
+hero: './images/2017.12.31-cover.jpg'
+excerpt: 'En ce 31 décembre 2017, me voilà face à mon clavier, me livrant au traditionnel exercice du bilan de fin d’année. Monsieur n’est pas un grand adepte des bilans. Selon lui, il ne sert à rien d’attendre le 1er janvier pour prendre de nouvelles résolutions et se fixer de nouveaux objectifs. Autant le faire dès'
 ---
+
 En ce 31 décembre 2017, me voilà face à mon clavier, me livrant au traditionnel exercice du **bilan de fin d’année**. Monsieur n’est pas un grand adepte des bilans. Selon lui, il ne sert à rien d’attendre le 1er janvier pour prendre de nouvelles résolutions et se fixer de nouveaux objectifs. Autant le faire dès le moment où l’on y pense. Il n’a pas tort en soit mais j’aime personnellement prendre ce petit temps à chaque fin d’année pour faire le point. Prendre du recul sur l’année passée. De l’acquiescer, l’accepter dans son ensemble et d’entamer fraîchement **la nouvelle année**.
 
 ---
@@ -23,10 +24,5 @@ Qui dit lecture, dit aussi doux moments passés à la maison. 2017 en aura vu pa
 
 **♥**
 
----
-
-<img alt="2017.12.31-01.jpg" src="./images/2017.12.31-01.jpg">
-
----
-
 <img alt="2017.12.31-02.jpg" src="./images/2017.12.31-02.jpg">
+<img alt="2017.12.31-01.jpg" src="./images/2017.12.31-01.jpg">

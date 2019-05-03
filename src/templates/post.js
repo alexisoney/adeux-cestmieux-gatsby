@@ -15,6 +15,8 @@ export default ({data}) => {
   const date = prettyDate(post.fields.date, post.fields.category);
   const title = prettyText(post.frontmatter.title);
 
+  const Gallery = ({children}) => <div className='gallery'>{children}</div>;
+
   const optimizedImages = ({alt, src, title}) => {
     const fileExtension = path.extname(src);
     const needOptimization = ['.jpg', '.jpeg', '.png'].includes(fileExtension.toLowerCase());
@@ -48,7 +50,7 @@ export default ({data}) => {
 
   const renderAst = new rehypeReact({
     createElement: React.createElement,
-    components: {img: optimizedImages},
+    components: {img: optimizedImages, gallery: Gallery},
   }).Compiler;
 
   return (

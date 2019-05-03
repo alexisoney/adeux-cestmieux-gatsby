@@ -1,16 +1,17 @@
 ---
-title: "Bienvenue chez nous bis #9"
-hero: "./images/2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-16.jpg"
-excerpt: "Il y a un peu plus d’un mois, nous vous écrivions pour la première fois depuis notre nouveau chez nous amstellodamois. Depuis, nous nous sommes plutôt bien installés. C’est l’occasion parfaite pour vous partager quelques nouvelles photos. Avant / Après : 55m2 vide, 55m2 un peu moins vide Rappelez-vous de cet article ici. Nous vous"
+title: 'Bienvenue chez nous bis #9'
+hero: './images/2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-16.jpg'
+excerpt: 'Il y a un peu plus d’un mois, nous vous écrivions pour la première fois depuis notre nouveau chez nous amstellodamois. Depuis, nous nous sommes plutôt bien installés. C’est l’occasion parfaite pour vous partager quelques nouvelles photos. Avant / Après : 55m2 vide, 55m2 un peu moins vide Rappelez-vous de cet article ici. Nous vous'
 ---
+
 Il y a un peu plus d’un mois, nous vous écrivions pour la première fois depuis notre nouveau chez nous amstellodamois. Depuis, nous nous sommes plutôt bien installés. C’est l’occasion parfaite pour vous partager quelques nouvelles photos.
 
 ## Avant / Après : 55m2 vide, 55m2 un peu moins vide
 
-Rappelez-vous de [cet article ici](http://adeux-cestmieux.com/bienvenue-chez-nous/). Nous vous faisions découvrir avec beaucoup de joie les premières photos de notre nouvel appartement, **complètement vide !**
-Depuis presque deux semaines maintenant, nous avons pu récupérer toutes nos affaires restées encore en France (pour les retardataires, [ça se passe ici](http://adeux-cestmieux.com/vlog-demenagement/)). Mais le plus gros changement arrivé dernièrement, fut l’achat de **nos meubles** chez notre bon vieil ami **IKEA** ! Désormais, les pièces paraissent beaucoup moins vides et un **joli univers cosy** commence à se faire sentir. (Surtout avec notre énorme canapé) ((depuis je rêve de plaids et de coussins en pagaille)).
+Rappelez-vous de [cet article ici](bienvenue-chez-nous/). Nous vous faisions découvrir avec beaucoup de joie les premières photos de notre nouvel appartement, **complètement vide !**
+Depuis presque deux semaines maintenant, nous avons pu récupérer toutes nos affaires restées encore en France (pour les retardataires, [ça se passe ici](vlog-demenagement/)). Mais le plus gros changement arrivé dernièrement, fut l’achat de **nos meubles** chez notre bon vieil ami **IKEA** ! Désormais, les pièces paraissent beaucoup moins vides et un **joli univers cosy** commence à se faire sentir. (Surtout avec notre énorme canapé) ((depuis je rêve de plaids et de coussins en pagaille)).
 
-Après avoir passé une très longue après-midi à écumer **Pinterest** et autre source d’inspiration déco, j’ai fais mes petites propositions de moodboard pour chaque pièce à Alexis et nous avons pu ensuite élaborer une liste de tous les meubles que nous voulions. Tout d’abord sans compter. Ensuite il a fallu sélectionner, compter et se poser les bonnes questions. De toute évidence, nous ne pouvons pas nous permettre de tout acheter d’un coup, dans les moindre détails. Il faut faire un choix. Qu’avons nous besoin en priorité ? Quel meuble ou quel accessoire peut attendre ? (d’ailleurs, par définition, un accessoire peut toujours attendre ...) Avons nous vraiment besoin de deux bureaux ? Un seul ne peut-il pas convenir pour commencer ? Quels rangements pour la chambre ? Bref, **être réaliste** et **ne pas avoir les yeux plus gros que le ventre**. Nous avons donc décidé, pour ce premier “investissement”, de n’acheter qu’**un seul bureau** construit à partir d’une planche, d’un tréteau et d’une console, mais aussi **un lit** à tiroir, **une armoire**, une seconde ****chaise, **un canapé**, **une bibliothèque** et **une table de chevet**. Nous nous sommes tout de même autorisé **deux lampes** pour habiller et rendre le tout plus cosy, à savoir une lampe de bureau servant pour l’instant de lampe de chevet et une lampe à pied pour le salon. Enfin, nous avons aussi commandé de quoi monter **des rideaux** sur rail pour la porte vitrée de la chambre donnant sur le salon afin de créer **plus d’intimité** et d’être d’avantage dans le noir la nuit.
+Après avoir passé une très longue après-midi à écumer **Pinterest** et autre source d’inspiration déco, j’ai fais mes petites propositions de moodboard pour chaque pièce à Alexis et nous avons pu ensuite élaborer une liste de tous les meubles que nous voulions. Tout d’abord sans compter. Ensuite il a fallu sélectionner, compter et se poser les bonnes questions. De toute évidence, nous ne pouvons pas nous permettre de tout acheter d’un coup, dans les moindre détails. Il faut faire un choix. Qu’avons nous besoin en priorité ? Quel meuble ou quel accessoire peut attendre ? (d’ailleurs, par définition, un accessoire peut toujours attendre ...) Avons nous vraiment besoin de deux bureaux ? Un seul ne peut-il pas convenir pour commencer ? Quels rangements pour la chambre ? Bref, **être réaliste** et **ne pas avoir les yeux plus gros que le ventre**. Nous avons donc décidé, pour ce premier “investissement”, de n’acheter qu’**un seul bureau** construit à partir d’une planche, d’un tréteau et d’une console, mais aussi **un lit** à tiroir, **une armoire**, une seconde **chaise**, **un canapé**, **une bibliothèque** et **une table de chevet**. Nous nous sommes tout de même autorisé **deux lampes** pour habiller et rendre le tout plus cosy, à savoir une lampe de bureau servant pour l’instant de lampe de chevet et une lampe à pied pour le salon. Enfin, nous avons aussi commandé de quoi monter **des rideaux** sur rail pour la porte vitrée de la chambre donnant sur le salon afin de créer **plus d’intimité** et d’être d’avantage dans le noir la nuit.
 
 Pour éviter tout soucis, nous avions décidé de commander les meubles sur internet et de nous les faire **livrer directement à la maison**. La question de louer un camion ne s’est plus vraiment posée à partir du moment où l’on a vu les poids et dimensions des colis du canapé : 3 cartons de 42kg chacun, mesurant environ 2,3 mètres. Un canapé de compet’ ! La livraison vaut définitivement son prix rien que pour ce confort-là. Pour aussi éviter des frais inutiles, nous avons décidé de tout centraliser chez Ikea pour l’instant et de ne pas aller voir sur d’autres e—shop d’ameublement et décoration.
 
@@ -25,16 +26,16 @@ Trèves de plaisanteries, place aux photos. Tout d’abord, quelques photos d’
 
 ## Les vues d’ensemble
 
-<div class="gallery">
+<gallery>
 <img alt="2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-sony-2.jpg" src="./images/2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-sony-2.jpg">
 <img alt="2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-sony-1.jpg" src="./images/2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-sony-1.jpg">
 <img alt="2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-sony-4.jpg" src="./images/2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-sony-4.jpg">
 <img alt="2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-sony-3.jpg" src="./images/2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-sony-3.jpg">
-</div>
+</gallery>
 
 ## Les jolies petits détails
 
-<div class="gallery">
+<gallery>
 <img alt="2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-9.jpg" src="./images/2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-9.jpg">
 <img alt="2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-8.jpg" src="./images/2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-8.jpg">
 <img alt="2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-7.jpg" src="./images/2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-7.jpg">
@@ -49,7 +50,7 @@ Trèves de plaisanteries, place aux photos. Tout d’abord, quelques photos d’
 <img alt="2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-12.jpg" src="./images/2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-12.jpg">
 <img alt="2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-11.jpg" src="./images/2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-11.jpg">
 <img alt="2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-1.jpg" src="./images/2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-1.jpg">
-</div>
+</gallery>
 
 ## Et ensuite
 

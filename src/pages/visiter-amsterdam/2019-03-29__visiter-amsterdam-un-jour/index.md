@@ -1,8 +1,9 @@
 ---
-title: "Visiter Amsterdam en 1 jour"
-hero: "./images/MG_5239.jpg"
+title: 'Visiter Amsterdam en 1 jour'
+hero: './images/MG_5239.jpg'
 excerpt: "Visiter Amsterdam en 1 jour peut paraître challengeant. Il y a tant à faire. Que voir ? Que faire ? Quoi privilégier ? Voici notre sélection d'essentiels à voir en un jour, selon notre point de vue de Français vivant à Amsterdam depuis 2016. - 24h à Amsterdam Nous vous proposons un itinéraire piéton qui vous permettra de découvrir les essentiels"
 ---
+
 _Visiter Amsterdam en 1 jour peut paraître challengeant. Il y a tant à faire. Que voir ? Que faire ? Quoi privilégier ? Voici notre sélection d'essentiels à voir en un jour, selon notre point de vue de Français vivant à Amsterdam depuis 2016._
 
 ---
@@ -23,7 +24,7 @@ Vous partez pour 9 km de marche, répartis sur une journée entière, avec de no
 
 ## Itinéraire pour visiter Amsterdam en une journée
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1TPFkAQWuNOm38hkjyw1WjtKh7oViM13u" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1TPFkAQWuNOm38hkjyw1WjtKh7oViM13u" width="640" height="480"></iframe>
 
 ### Départ de Amsterdam Centraal
 
@@ -35,11 +36,11 @@ Grandes sont les chances que vous arriviez à Amsterdam par la gare **Amsterdam 
 
 ### Amsterdam : le centre-ville historique
 
-Depuis la gare, il est très facile de rejoindre la vieille ville ; il vous suffit de remonter le _Damrak_, directement jusqu’à la place du _Dam_. 
+Depuis la gare, il est très facile de rejoindre la vieille ville ; il vous suffit de remonter le _Damrak_, directement jusqu’à la place du _Dam_.
 
 #### Het Damrak
 
-Le **Damrak** est une des principales artères du centre d'Amsterdam. Cette avenue commerçante est aussi très fréquentée. Lorsque le Damrak fut comblé _(voir explication plus bas)_, de nombreux bâtiments se sont construits. Les plus remarquables sont le **Beurs Van Berlage** — la bourse — et le **Bijenkorf** — l’équivalent des Galeries Lafayette françaises. 
+Le **Damrak** est une des principales artères du centre d'Amsterdam. Cette avenue commerçante est aussi très fréquentée. Lorsque le Damrak fut comblé _(voir explication plus bas)_, de nombreux bâtiments se sont construits. Les plus remarquables sont le **Beurs Van Berlage** — la bourse — et le **Bijenkorf** — l’équivalent des Galeries Lafayette françaises.
 
 > À l'époque, le Damrak était en réalité une rivière - l'Amstel - qui rejoignait l'Ij, situé derrière la gare centrale. C'est ici que les premiers pêcheurs vinrent s'installer et construire une digue pour former un village. Vous remarquerez ainsi que le nom Amsterdam vient de l'ancien nom néerlandais _Amstelredamme_ évoquant les origines de la ville : la digue (qui se dit _« Dam »_ en Néerlandais) sur l'Amstel.
 
@@ -49,16 +50,20 @@ Le **Damrak** est une des principales artères du centre d'Amsterdam. Cette aven
 
 Lieu incontournable à Amsterdam, **le Dam** est une immense place pavée dominée par le **Koninklijk Paleis**, ancien Hôtel de Ville aujourd’hui bâtiment royal officiel, **la NieuweKerk**, le **musée Madame Tussauds** et le **National Monument**, monument aux morts de la Seconde Guerre mondiale.
 
-Le Dam est une place très visitée et animée. Des artistes de rue s’y produisent, des manifestations y commencent ou s’y terminent et de nombreux évènements s’y déroulent tel que des fêtes foraines ou encore [la fête de la Tulipe](/journee-nationale-de-la-tulipe/).
+Le Dam est une place très visitée et animée. Des artistes de rue s’y produisent, des manifestations y commencent ou s’y terminent et de nombreux évènements s’y déroulent tel que des fêtes foraines ou encore [la fête de la Tulipe](journee-nationale-de-la-tulipe).
 
 > C’est à cet endroit précis qu’est né Amsterdam en 1270. Haut lieu d’activité économique, la place du Dam devient aussi le centre politique d’Amsterdam en 1655 de part la construction de l’Hôtel de Ville néoclassique, siège du gouvernement devenu Palais Royal sous Napoléon Bonaparte.
 
 Le palais fut lui construit entre 1648 et 1665. D'abord Hôtel de Ville d'Amsterdam, il prit le statut officiel de palais en 1808 après l’accession au trône de Hollande par Louis Napoléon Bonaparte.
 
-<div class="gallery">
+<gallery>
+<gallery>
+<gallery>
 <img alt="Visiter Amsterdam 1 jour place du dam" src="./images/visiter-amsterdam-un-jour-dam-1.jpg">
 <img alt="Visiter Amsterdam un jour Place du Dam" src="./images/IMG_6256.jpg">
-</div>
+</gallery>
+</gallery>
+</gallery>
 
 #### Het Begijnhof : le béguinage
 
@@ -68,9 +73,18 @@ Véritable havre de paix, caché en plein centre-ville, **le Begijnhof** est l'u
 
 Datant du Moyen Âge, le béguinage d'Amsterdam est situé à environ un mètre en dessous du niveau du reste de la ville !
 
-> Le _Begijnhof_ est composé d’un ensemble de maisons traditionnelles en pierre et d'une chapelle. Il abrite également une église cachée. À l’époque les bâtissent étaient en bois. Mais, après plusieurs grands incendies dans la ville, ce type de construction fut prohibé en 1521. Ce sont donc des maisons traditionnelles en pierre datant du XVIIIe siècle que vous y trouverez, exceptée **Het Houten Huys**, la maison de Bois, datant de 1470 et considérée comme l’une des plus vieilles maisons d’Amsterdam. 
+> Le _Begijnhof_ est composé d’un ensemble de maisons traditionnelles en pierre et d'une chapelle. Il abrite également une église cachée. À l’époque les bâtissent étaient en bois. Mais, après plusieurs grands incendies dans la ville, ce type de construction fut prohibé en 1521. Ce sont donc des maisons traditionnelles en pierre datant du XVIIIe siècle que vous y trouverez, exceptée **Het Houten Huys**, la maison de Bois, datant de 1470 et considérée comme l’une des plus vieilles maisons d’Amsterdam.
 
-<img alt="Visiter Amsterdam en 1 jour Begijnhof" src="./images/MG_5198.jpg" title="Le musée d'Amsterdam, attenant au Begijnhof">
+<gallery>
+<gallery>
+<gallery>
+<img alt="Visiter Amsterdam en 1 jour Begijnhof" src="./images/MG_5198.jpg">
+<img alt="Visiter Amsterdam en 1 jour Musée Amsterdam" src="./images/MG_5190.jpg" title="Le musée d'Amsterdam, attenant au Begijnhof" />
+<img alt="Visiter Amsterdam en 1 jour Begijnhof" src="./images/MG_5205.jpg">
+<img alt="Visiter Amsterdam en 1 jour Begijnhof Amsterdam Museum" src="./images/IMG_6368.jpg">
+</gallery>
+</gallery>
+</gallery>
 
 ### De Bloemenmarkt : le marché aux fleurs
 
@@ -80,20 +94,24 @@ Ce marché est très connu pour sa vente des bulbes de tulipes, symbole même de
 
 > Datant de 1862, il se trouve le long du Singel, l'un des plus anciens canal d’Amsterdam. Il fut pendant longtemps un véritable marché flottant où les marchant venaient s’amarrer à la berge, le long des quais du marché, quelque chose d’unique au monde. Aujourd'hui, les boutiques sont toujours sur l'eau mais restent fixées.
 
-<div class="gallery">
+<gallery>
+<gallery>
+<gallery>
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6419.jpg">
-<img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6382.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6426.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6424.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6423.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6422.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6376.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6377.jpg">
-</div>
+</gallery>
+</gallery>
+</gallery>
+<img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6382.jpg">
 
 ### Rembrandtplein : la place Rembrandt
 
-**Rembrandtplein** est certainement au top 3 du classement des plus jolies places d'Amsterdam. 
+**Rembrandtplein** est certainement au top 3 du classement des plus jolies places d'Amsterdam.
 
 #### Amsterdam, muse de Rembrandt.
 
@@ -101,12 +119,16 @@ Amsterdam comptait beaucoup pour Rembrandt qui s’y installa à l’âge de 20 
 
 > Depuis 1668, la place Rembrandt rend hommage à l’artiste. La statue de Rembrandt, située au centre de la place, est entourée depuis 2006 d’une reproduction physique de [La Ronde de Nuit,](https://i.f1g.fr/media/figaro/680x382_crop/2015/04/03/XVM137df492-cd70-11e4-8fd8-941b4a457061.jpg) un de ses plus grands Chef-d’œuvres. N’hésitez pas à comparer cette reconstitution avec le tableau original se trouvant au Rijksmuseum.
 
-<div class="gallery">
+<gallery>
+<gallery>
+<gallery>
 <img alt="Visiter Amsterdam en un jour Rembrandtplein" src="./images/MG_5108.jpg">
 <img alt="Visiter Amsterdam en un jour Rembrandtplein" src="./images/IMG_6223.jpg">
 <img alt="Visiter Amsterdam en un jour Rembrandtplein" src="./images/MG_5059.jpg">
 <img alt="Visiter Amsterdam en un jour Rembrandtplein" src="./images/IMG_6222.jpg">
-</div>
+</gallery>
+</gallery>
+</gallery>
 
 ### Pause déjeuner
 
@@ -118,17 +140,21 @@ Amsterdam comptait beaucoup pour Rembrandt qui s’y installa à l’âge de 20 
 
 #### SLA
 
-**[SLA](https://ilovesla.com/)** est une chaîne de restauration possèdant plusieurs adresses dans Amsterdam. Ici, vous pourrez composer votre salade de A à Z ou bien opter pour une composition de leur menu. Servi dans de grands bols, ces salades sont hyper complètes et très rassasiantes. Ici aussi, vous trouverez de nombreuses options vegétariennes et vegan.
+[**SLA**](https://ilovesla.com/) est une chaîne de restauration possèdant plusieurs adresses dans Amsterdam. Ici, vous pourrez composer votre salade de A à Z ou bien opter pour une composition de leur menu. Servi dans de grands bols, ces salades sont hyper complètes et très rassasiantes. Ici aussi, vous trouverez de nombreuses options vegétariennes et vegan.
 
 #### Burgermeester
 
 Si vous êtes des adeptes du combo frites - burger, oublier le MacDo d’en face et rdv chez **[Burgermeester](https://www.burgermeester.eu/)**.
 
-<div class="gallery">
+<gallery>
+<gallery>
+<gallery>
 <img alt="Visiter Amsterdam en un jour SLA" src="./images/IMG_6451.jpg">
 <img alt="Visiter Amsterdam en un jour Meat & Greek" src="./images/meatgreek01.jpg">
 <img alt="Visiter Amsterdam en un jour Meat&Greek" src="./images/meatgreek02.jpg">
-</div>
+</gallery>
+</gallery>
+</gallery>
 
 ### Amstel & Magere Brug
 
@@ -138,12 +164,16 @@ D’ici, vous aurez une belle vue sur **l’Opera National** mais aussi le très
 
 > Amsterdam compte 1281 ponts ! Le Pont Maigre est sans aucun doute parmi les plus beaux de la ville. Mais c’est à la tombée de la nuit que le charme s’opère, car les centaines de lumières qui l’illuminent à la tombée de la nuit en font aussi l’un des ponts les plus romantiques.
 
-<div class="gallery">
+<gallery>
+<gallery>
+<gallery>
 <img alt="Visiter Amsterdam en un jour Pont Maigre Amstel Magere brug" src="./images/MG_5253.jpg">
 <img alt="Visiter Amsterdam en un jour Pont Maigre Amstel Magere brug" src="./images/MG_5241.jpg">
-</div>
+</gallery>
+</gallery>
+</gallery>
 
-### Reguliergracht 
+### Reguliergracht
 
 Vous l’aurez compris, Amsterdam est une ville de pont. Après le Pont Maigre, les plus remarquables sont ceux situés sur **Reguliergracht**.
 
@@ -153,11 +183,15 @@ La vue la plus intéressante est sûrement à l’embranchement du _Herengracht_
 
 > La maison au numéro 57-59 est très particulière. Elle fut construite en 1879 par l'architecte Isaac Gosschalk, celui-là même qui dessina la brasserie Heineken à l'entrée du Pijp. Sa facade est l'une des rares à combiner brique, bois et pierre dans Amsterdam.
 
-<div class="gallery">
+<gallery>
+<gallery>
+<gallery>
 <img alt="Visiter Amsterdam en un jour Reguliergracht" src="./images/MG_5009.jpg">
 <img alt="Visiter Amsterdam en un jour Reguliergracht" src="./images/MG_5283.jpg">
 <img alt="Visiter Amsterdam en un jour Reguliergracht" src="./images/MG_5277.jpg">
-</div>
+</gallery>
+</gallery>
+</gallery>
 
 ### Ballade sur les canaux
 
@@ -173,7 +207,7 @@ Les trois principaux canaux sont le _Herengracht_, le _Keizersgracht_ et le _Pri
 
 Le 14 juin 2010, les canaux d'Amsterdam ont obtenu le label patrimoine mondial de l'Unesco.
 
-<img alt="canal-cruise-blue-boat1a.jpg" src="./images/canal-cruise-blue-boat1a.jpg" title="Crédit photo : The Blue Boat Company">
+<img alt="canal-cruise-blue-boat1a.jpg" src="./images/canal-cruise-blue-boat1a.jpg" title="Crédit photo : The Blue Boat Company" />
 
 ### Les Negen Straatjes
 
@@ -191,7 +225,9 @@ Aujourd’hui seuls les noms des rues ont à voir avec cette activité. La plupa
 
 C’est le moment idéal pour faire une pause shopping. Nos coups de coeurs ? [Pluk](http://www.pluk-amsterdam.com/nl/), [Urban Cacao](https://www.facebook.com/UrbanCacao/) ainsi que [Scotch & Soda](https://www.scotch-soda.com/fr/fr/home), marque de vêtements 100% amstellodamoise
 
-<div class="gallery">
+<gallery>
+<gallery>
+<gallery>
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues" src="./images/IMG_6686.jpg">
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues" src="./images/IMG_6618.jpg">
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues Urban Cacao" src="./images/IMG_6645.jpg">
@@ -199,17 +235,19 @@ C’est le moment idéal pour faire une pause shopping. Nos coups de coeurs ? [P
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues pluk" src="./images/MG_5332.jpg">
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues pluk" src="./images/MG_5328.jpg">
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues pluk" src="./images/IMG_6674.jpg">
-</div>
+</gallery>
+</gallery>
+</gallery>
 
 ### Diner chez Spingaren
 
 Pour le repas du soir, nous vous proposons d'aller chez **[Spingaren](https://spingaren.nl/en)**. Ce restaurant se situe sur le magnifique Herengracht, entre les _9 Straatjes_ et le quartier du _Jordaan_. Ici, vous pourrez manger de délicieux plats, entièrement fait maison à base de charcuterie préparée sur place ou bien partager une très grande planche. Plusieurs options végétariennes sont aussi disponibles.
 
-Spingaren propose aussi un bon choix de vins et même des séances de dégustation dans une salle dédiée si cela vous plait. 
+Spingaren propose aussi un bon choix de vins et même des séances de dégustation dans une salle dédiée si cela vous plait.
 
-Le lieu est très grand mais très charmant et surtout relativement vide en pleine semaine ! 
+Le lieu est très grand mais très charmant et surtout relativement vide en pleine semaine !
 
-Enfin, n'hésitez à réserver à l'avance via leur site internet afin de bénéficier d'une réduction sur votre addition totale, en fonction de votre horaire d'arrivée. 
+Enfin, n'hésitez à réserver à l'avance via leur site internet afin de bénéficier d'une réduction sur votre addition totale, en fonction de votre horaire d'arrivée.
 
 <img alt="Visiter Amsterdam en un jour Spingaren" src="./images/MG_5065.jpg">
 
@@ -217,9 +255,9 @@ Enfin, n'hésitez à réserver à l'avance via leur site internet afin de béné
 
 Enfin, une visite d’Amsterdam ne serait sans doute pas complète sans un détour par le quartier rouge.
 
-Cette partie d’Amsterdam a fait la renommée “narcotique & sexuelle” de la ville. Sex shops, peep show, cinémas pornographique, live porno, théâtres pour adulte, musée du sexe, magasins de préservatifs en tout genre, certains clichés n’en sont pas.. 
+Cette partie d’Amsterdam a fait la renommée “narcotique & sexuelle” de la ville. Sex shops, peep show, cinémas pornographique, live porno, théâtres pour adulte, musée du sexe, magasins de préservatifs en tout genre, certains clichés n’en sont pas..
 
-Nous préférons nous y balader au petit matin lorsque la foule est encore endormie, mais il faut avouer tout de même que toutes ces lumières rouges procurent une ambiance particulière aux lieux la nuit. Par curiosité, sans pour autant y rester une éternité, faites un tour du quartier. Vous découvrirez une image assez différente d’Amsterdam. 
+Nous préférons nous y balader au petit matin lorsque la foule est encore endormie, mais il faut avouer tout de même que toutes ces lumières rouges procurent une ambiance particulière aux lieux la nuit. Par curiosité, sans pour autant y rester une éternité, faites un tour du quartier. Vous découvrirez une image assez différente d’Amsterdam.
 
 > C'est Napoléon qui légalisa la prostitution à Amsterdam. On dit qu’il avait perdu une bataille parce que trop de ces soldats avaient attrapé la syphilis. Légaliser la prostitution permettait alors d’exercer un contrôle sur l’hygiène des prostituées. Ainsi étaient-elles obligées de s’inscrire sur un registre à la police. Toutes les 2 semaines, elles devaient en outre se faire examiner par un médecin.
 
@@ -227,36 +265,41 @@ Aujourd’hui il est estimé à environ 200 vitrines / cabines dans le quartiers
 
 Mais derrière les apparences de ville romantique et très libérale, cela ne veut pas dire que le traffic n’existe pas... Un collectif n'hésite d'ailleurs pas à dénoncer une triste réalité : certaines, voir beaucoup, de ces jeunes femmes sont forcées et n'ont pas choisi de se prostituer. Après s'être fait promettre une carrière de danseuse dans leur pays d'origine, elles se retrouvent finalement à travailler dans les vitrines du quartier contre leur gré.
 
-<iframe width="500" height="281" src="https://www.youtube.com/embed/y-a8dAHDQoo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y-a8dAHDQoo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+_Derrière cette performance artistique se cache un vrai message..._
 
 Aussi, depuis plusieurs années, la mairie d’Amsterdam a lancé un plan de réhabilitation du centre d’Amsterdam et notamment du quartier rouge ; l’objectif étant avant tout de réduire la criminalité au profit des monuments historiques, nombreux dans le quartier. Cela passe notamment par une réglementation plus ferme de la prostitution, une réduction du nombre de coffre shop ainsi que des enseignes de restauration rapide.
 
+<gallery>
+<gallery>
 <img alt="Visiter Amsterdam en un jour quartier rouge" src="./images/IMG_6724.jpg">
 <img alt="Visiter Amsterdam en un jour quartier rouge" src="./images/IMG_6727.jpg">
+</gallery>
+</gallery>
 
-### Retour à Centraal Station — Une nuit dans la ville. 
+### Retour à Centraal Station — Une nuit dans la ville.
 
-Depuis le quartier rouge, il est très facile de revenir vers _Amsterdam Centraal_. De là, vous pourrez rejoindre votre logement pour une nuit de sommeil bien méritée après toute cette marche, ou bien continuer s’il vous reste encore de l’énergie pour découvrir les trésors nocturnes de la ville. Amsterdam abrite une grande variété de bars et de clubs — à vous de choisir l’ambiance qui vous convient le mieux.
+Depuis le quartier rouge, il est très facile de revenir vers _Amsterdam_ _Centraal_. De là, vous pourrez rejoindre votre logement pour une nuit de sommeil bien méritée après toute cette marche, ou bien continuer s’il vous reste encore de l’énergie pour découvrir les trésors nocturnes de la ville. Amsterdam abrite une grande variété de bars et de clubs — à vous de choisir l’ambiance qui vous convient le mieux.
 
 _Bien sûr, ceci reste une suggestion de parcours. Nous l’avons voulu optimisé afin de couvrir la majorité des points à voir en seulement 1 journée. Aussi, n’hésitez pas à inverser certaines activités, si la météo est capricieuse._
 
 <img alt="Visiter Amsterdam en un jour" src="./images/full-width-house.jpg">
 
-## Visiter Amsterdam en 1 jour : des idées supplémentaires 
+## Visiter Amsterdam en 1 jour : des idées supplémentaires
 
-Parce qu’il est difficile de prévoir trop à l'avance question météo à Amsterdam. Il est possible que la pluie ou bien la grisailles soit au RDV lors de votre visite. Si le temps pluvieux vous empêche réellement de marcher à pied, pensez aux transports en commun, présents en grand nombre dans Amsterdam même. Il vous est aussi possible en cas de pluie de prendre un tram en direction de _Museumplein_ afin de visiter l’un des grands musées incontournables de la ville tel que le Van Gogh Museum ou le Rijksmuseum. Pour plus d’idée en cas de mauvais temps, n’hésiter à (re)-lire notre article [“Visiter Amsterdam sous la pluie”](/visiter-amsterdam-sous-la-pluie/).
+Parce qu’il est difficile de prévoir trop à l'avance question météo à Amsterdam. Il est possible que la pluie ou bien la grisailles soit au RDV lors de votre visite. Si le temps pluvieux vous empêche réellement de marcher à pied, pensez aux transports en commun, présents en grand nombre dans Amsterdam même. Il vous est aussi possible en cas de pluie de prendre un tram en direction de _Museumplein_ afin de visiter l’un des grands musées incontournables de la ville tel que le Van Gogh Museum ou le Rijksmuseum. Pour plus d’idée en cas de mauvais temps, n’hésiter à (re)-lire notre article [“Visiter Amsterdam sous la pluie”](visiter-amsterdam-sous-la-pluie).
 
 Enfin, bien que le parcours proposé soit relativement le même et intéressant à faire, quel que soit le moment de l’année, Amsterdam propose de nombreuses activités saisonnières supplémentaires. Pour en découvrir davantage, voici nos différentes sélections saisonnières :
 
-- [Visiter Amsterdam au mois de Décembre](/amsterdam-en-decembre-que-voir-que-faire/)
-- Visiter Amsterdam au Printemps _(à venir)_
-- [Que faire, que voir en automne à Amsterdam](/que-faire-voir-automne-amsterdam/)
+- [Visiter Amsterdam au mois de Décembre](amsterdam-en-decembre-que-voir-que-faire)
+- [Visiter Amsterdam au Printemps](visiter-amsterdam-printemps-2019)
+- [Que faire, que voir en automne à Amsterdam](que-faire-voir-automne-amsterdam)
 
 <img alt="Visiter Amsterdam en un jour" src="./images/full-width-amstel-BW.jpg">
 
 ## Visiter Amsterdam en 1 jour : bon à savoir
 
-Enfin, si vous prévoyez un voyage dans la capitale très prochainement, n’hésitez pas à lire ou à relire notre [« Kit de survie pour visiter Amsterdam »](/kit-survie-visiter-amsterdam-ultimate-guide/) ainsi que notre article [« Comment venir à Amsterdam »](/comment-se-rendre-a-amsterdam/) afin de connaitre toutes les options possibles pour vous rendre à Amsterdam.
+Enfin, si vous prévoyez un voyage dans la capitale très prochainement, n’hésitez pas à lire ou à relire notre [« Kit de survie pour visiter Amsterdam »](kit-survie-visiter-amsterdam-ultimate-guide) ainsi que notre article [« Comment venir à Amsterdam »](comment-se-rendre-a-amsterdam) afin de connaitre toutes les options possibles pour vous rendre à Amsterdam.
 
 Visiter Amsterdam, même en une journée, reste un vaste programme ! Amsterdam mériterait que l’on s’y consacre au moins 2 jours afin d’en apprécier toute sa splendeur. Une journée, c’est un peu court. Mais l’itinéraire que nous proposons vous offre un bel aperçu de la ville et, nous l’espérons, vous donnera envie de revenir et de rester plus longtemps.
 

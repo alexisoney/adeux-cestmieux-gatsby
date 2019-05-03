@@ -1,12 +1,13 @@
 ---
-title: "Les petites recettes du mois de Septembre. #1"
-hero: "./images/2017.09.25-recettes-septembre-figues-cover.jpg"
+title: 'Les petites recettes du mois de Septembre. #1'
+hero: './images/2017.09.25-recettes-septembre-figues-cover.jpg'
 excerpt: "J’adore le mois de septembre. Je crois que j’ai toujours aimé le mois de septembre. La période de la rentrée des classes. L’achat des fournitures scolaires. La découverte ~~(et parfois la déception, oups)~~ de sa nouvelle classe, de son emploi du temps. J’ai toujours aimé l'énergie de nouveau départ qui règne à cette période, encore"
 ---
+
 ## J’adore le mois de septembre.
 
 Je crois que j’ai toujours aimé le mois de septembre. La période de la rentrée des classes. L’achat des fournitures scolaires. La découverte ~~(et parfois la déception, oups)~~ de sa nouvelle classe, de son emploi du temps. J’ai toujours aimé l'énergie de nouveau départ qui règne à cette période, encore plus forte que celle de la nouvelle année. Maintenant, pour moi, l’école c’est fini. Je ne connaîtrais plus vraiment l'effervescence de la “rentrée”, encore moins si l’on décide de partir en vacances en été hors vacances scolaires. Pour autant, cela ne m’empêche pas d’aimer toujours autant ce mois de septembre. Le dernier mois de l’été. Celui de la transition vers l’automne, où l’on ressort petit à petit ses gros pulls doudou pour se lover dans un plaid le week-end en regardant la pluie dehors.
-—
+
 J’aime aussi septembre pour _les figues_. **LES FIGUES**. Ce doit être la rareté de la saisonnalité de ce fruit qui le rend si attrayant. Ce côté “je n’ai que quelques semaines pour en profiter”. Du coup, au mois de septembre, je deviens un peu _gaga de la figue_. **Figues fraîches**, bien évidemment, mais aussi **figues sèches**, **confiture de figues**, j’en passe et des meilleurs. Je profite aussi des débuts des longs week-end pluvieux pour me mettre aux fourneaux et décliner la figue autant que je le peux. Ce mois-ci, je me suis donc essayée à trois nouvelles recettes à base de figues + un petit-déjeuner complètement de saison.
 
 <img alt="Les figolus ❤️" src="./images/2017.09.25-recettes-septembre-figues-01.jpg">

@@ -1,8 +1,9 @@
 ---
-title: "L’hôtel du Petit Cosy"
-hero: "./images/2017.10.29-Petit-Cosy-Paris-cover.jpg"
-excerpt: "Mon frère. Mon cousin. Nos amis. Son papa. Beaucoup de personnes de notre entourage habitent sur Paris. Ayant nous-mêmes vécus deux années sur là-bas, nous n’avons jamais eu de difficultés à nous loger pour chacun de nos déplacements dans la capitale. Début octobre avait lieu ma cérémonie de remise de diplôme Gobelins dans un théâtre"
+title: 'L’hôtel du Petit Cosy'
+hero: './images/2017.10.29-Petit-Cosy-Paris-cover.jpg'
+excerpt: 'Mon frère. Mon cousin. Nos amis. Son papa. Beaucoup de personnes de notre entourage habitent sur Paris. Ayant nous-mêmes vécus deux années sur là-bas, nous n’avons jamais eu de difficultés à nous loger pour chacun de nos déplacements dans la capitale. Début octobre avait lieu ma cérémonie de remise de diplôme Gobelins dans un théâtre'
 ---
+
 Mon frère. Mon cousin. Nos amis. Son papa. Beaucoup de personnes de notre entourage habitent sur Paris. Ayant nous-mêmes vécus deux années sur là-bas, nous n’avons jamais eu de difficultés à nous loger pour chacun de nos déplacements dans la capitale. Début octobre avait lieu ma cérémonie de remise de diplôme Gobelins dans un théâtre parisien. Pour une fois, Alexis et moi avons décidé de ne déranger personne en choisissant de dormir une nuit à l'hôtel. Ce serait par là l'occasion même de découvrir un nouveau lieu à _Paris_, mais aussi et surtout, de profiter d’un merveilleux petit-déjeuné d’hôtel (car avouons-le, les petits dej d’hôtels, c’est toujours trop bon !).
 
 Le problème avec les hôtels parisiens, c’est qu’on ne sait jamais trop à quoi s’attendre. Tu paies souvent assez cher la nuit et tu te retrouves dans des chambres un peu miteuses, plutôt vieillottes. Pareil pour les Airbnb. Fort heureusement, je connaissais un hôtel dont j’étais quasiment certaine qu’il serait parfait, puisqu’ayant ouvert, après totale remise à neuf, il y a un peu plus d'un an seulement. **[L’hôtel du Petit Cosy](https://www.lepetitcosyhotel.com/)** Je le connaissais pour de bonnes raisons, puisque Sweet Punk, mon ancienne agence, a conçu et réalisé le site web de l’hôtel. En plus, nous y avions dîné avec toute l’équipe pour fêter l’ouverture et cela avait été délicieux. L’hôtel apparaissait donc comme une **bonne valeur sûre**.
@@ -23,15 +24,14 @@ _Le petit bonus_ : N’hésitez pas à reserver votre séjour via [leur site](ht
 
 **♥**
 
-• [Le site web](https://www.lepetitcosyhotel.com/)
-• [La page Facebook](https://www.facebook.com/LE-COSY-1182454788435263/?fref=ts/)
-• [La page Instagram](https://www.instagram.com/lepetitcosyhotel/)
+- [Le site web](https://www.lepetitcosyhotel.com/)
+- [La page Facebook](https://www.facebook.com/LE-COSY-1182454788435263/?fref=ts/)
+- [La page Instagram](https://www.instagram.com/lepetitcosyhotel/)
 
-<div class="gallery">
+<gallery>
 <img alt="2017.10.29-Petit-Cosy-Paris-02.jpg" src="./images/2017.10.29-Petit-Cosy-Paris-02.jpg">
 <img alt="2017.10.29-Petit-Cosy-Paris-03.jpg" src="./images/2017.10.29-Petit-Cosy-Paris-03.jpg">
 <img alt="2017.10.29-Petit-Cosy-Paris-05.jpg" src="./images/2017.10.29-Petit-Cosy-Paris-05.jpg">
 <img alt="2017.10.29-Petit-Cosy-Paris-04.jpg" src="./images/2017.10.29-Petit-Cosy-Paris-04.jpg">
 <img alt="2017.10.29-Petit-Cosy-Paris-01.jpg" src="./images/2017.10.29-Petit-Cosy-Paris-01.jpg">
-</div>
-
+</gallery>

@@ -1,16 +1,15 @@
 ---
-title: "L’île de Texel. #24"
-hero: "./images/2017-08-31-texel-cover.jpg"
-excerpt: "Nouveau week-end, nouvelle découverte. Après notre expédition à vélo jusqu’à l’île de Marken, nous nous sommes cette fois-ci rendus avec les copains Marie & Robin au nord-ouest, sur l’île de Texel. Située à une heure et trente minutes d’Amsterdam en train puis vingt minutes de traversée en ferry du continent, Texel, prononcé « tessel », est la"
+title: 'L’île de Texel. #24'
+hero: './images/2017-08-31-texel-cover.jpg'
+excerpt: 'Nouveau week-end, nouvelle découverte. Après notre expédition à vélo jusqu’à l’île de Marken, nous nous sommes cette fois-ci rendus avec les copains Marie & Robin au nord-ouest, sur l’île de Texel. Située à une heure et trente minutes d’Amsterdam en train puis vingt minutes de traversée en ferry du continent, Texel, prononcé « tessel », est la'
 ---
+
 Nouveau week-end, nouvelle découverte.
 
 Après notre expédition à vélo jusqu’à l’île de Marken, nous nous sommes cette fois-ci rendus avec les copains Marie & Robin au nord-ouest, sur l’île de Texel. Située à une heure et trente minutes d’Amsterdam en train puis vingt minutes de traversée en ferry du continent, Texel, prononcé « tessel », est la plus grande des îles de la mer des Wadden.
 
-<div class="gallery">
 <img alt="2017-08-31-texel-01.jpg" src="./images/2017-08-31-texel-01.jpg">
 <img alt="2017-08-31-texel-02.jpg" src="./images/2017-08-31-texel-02.jpg">
-</div>
 
 Nous avons pris un train intercité depuis Amsterdam Centraal jusqu’à Den Herder, où nous avons embarqué sur un ferry pour rejoindre l’île. J’ai été époustouflée par l’organisation pour l’embarquement du ferry. En moins de 5 minutes chrono, voitures, passagers & cyclistes sont chargés dans le bateau, prêt à partir, à l’heure.
 
@@ -20,10 +19,8 @@ Une fois arrivés sur l’île, nous avons décidé de directement pédaler en d
 
 Au bout d’une grosse heure (je crois), nous commençons enfin à apercevoir le fameux phare rouge. La piste cyclable quitte enfin la route départementale pour terminer le trajet dans les bois puis dans les dunes. Cent fois plus agréable.
 
-<div class="gallery">
 <img alt="2017-08-31-texel-03.jpg" src="./images/2017-08-31-texel-03.jpg">
 <img alt="2017-08-31-texel-04.jpg" src="./images/2017-08-31-texel-04.jpg">
-</div>
 
 Nous avons mangé sur place dans le seul restaurant / snack-bar des environs. J’avais un peu peur de tomber sur un truc un peu attrape touriste, mais au final les fish and chips étaient excellents – c’était de véritables filets de poisson pané – et les desserts excellemment servis avec une boule de glace et de la chantilly en bonus. Nous repartons, repus, en direction de la plage du phare.
 
@@ -33,9 +30,6 @@ Nous restons à marcher et faire quelques photos une petite heure avant de repar
 
 Quel chouette dimanche avec une fois de plus une météo très clémente ! C’est vraiment une belle île et je comprends pourquoi les Hollandais aiment y venir en vacances. Je pense que l’on reviendra pour explorer davantage les dunes ! J’aime bien ces petites journées d’excursions à vélo le week-end. Ça permet de découvrir un peu les Pays-Bas sans pour autant devoir louer une voiture. En plus, il est tout à fait possible de prendre le train avec son vélo, ce qui ouvre encore plus le champ des possibles ! Par contre, une chose est sûre, la prochaine fois, ce sera avec un vélo de route et non mon vélo de ville. Mes fesses me diront merci 😉
 
-<div class="gallery">
 <img alt="2017-08-31-texel-05.jpg" src="./images/2017-08-31-texel-05.jpg">
 <img alt="2017-08-31-texel-06.jpg" src="./images/2017-08-31-texel-06.jpg">
 <img alt="2017-08-31-texel-07.jpg" src="./images/2017-08-31-texel-07.jpg">
-</div>
-

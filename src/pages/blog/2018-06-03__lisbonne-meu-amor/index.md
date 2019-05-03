@@ -1,8 +1,9 @@
 ---
-title: "Lisbonne #1 - Lisboa meu amor"
-hero: "./images/cover.png"
-excerpt: "Bom dia! Il y a à peine une semaine de cela, Alexis et moi sommes allés visiter la belle Lisbonne pendant 4 petits jours. Une première pour Alexis. Une troisième pour ma part. J’étais tellement heureusement quant à l’idée de lui faire découvrir cette ville et un peu de ce pays, cette culture qui représente"
+title: 'Lisbonne #1 - Lisboa meu amor'
+hero: './images/cover.png'
+excerpt: 'Bom dia! Il y a à peine une semaine de cela, Alexis et moi sommes allés visiter la belle Lisbonne pendant 4 petits jours. Une première pour Alexis. Une troisième pour ma part. J’étais tellement heureusement quant à l’idée de lui faire découvrir cette ville et un peu de ce pays, cette culture qui représente'
 ---
+
 **Bom dia!**
 
 Il y a à peine une semaine de cela, Alexis et moi sommes allés visiter la belle **Lisbonne** pendant 4 petits jours. Une première pour Alexis. Une troisième pour ma part. J’étais tellement heureusement quant à l’idée de lui faire découvrir cette ville et un peu de ce pays, cette culture qui représente finalement beaucoup pour moi.
@@ -15,7 +16,7 @@ Il fait relativement beau, bien qu’un peu frais. Pour cette première soirée 
 
 Véritable symbole dans la culture portugaise, je ne vous apprendrais rien en disant que le football est une institution ici ! Il se trouve que ce soir-là, c’est la finale de la Coupe de la Ligue. LA coupe la plus prestigieuse dans le monde du football. Et devinez qui jouait. Real de Madrid contre Liverpool avec bien entendu le chouchou portugais Cristiano Ronaldo. C’était la fête dans la rue : des écrans dans tous les bar et des restaurant tous très remplis ! C’était une drôle d’ambiance, franchement authentique ! (Ps : pour ceux du fond, oui le Réal a gagné).
 
-<div class="gallery">
+<gallery>
 <img alt="IMG_4001-2.png" src="./images/IMG_4001-2.png">
 <img alt="MG_0837.png" src="./images/MG_0837.png">
 <img alt="Group-2.png" src="./images/Group-2.png">
@@ -27,7 +28,7 @@ Véritable symbole dans la culture portugaise, je ne vous apprendrais rien en di
 <img alt="MG_0719.png" src="./images/MG_0719.png">
 <img alt="MG_0727.png" src="./images/MG_0727.png">
 <img alt="MG_0728.png" src="./images/MG_0728.png">
-</div>
+</gallery>
 
 ## Jour 2 - Lisbonne en long, en large et en travers
 
@@ -47,7 +48,7 @@ Nous redescendons vers la ville basse en passant le quartier de l’Alfama. C'es
 
 Pour terminer cette journée, nous prenons un bus nous amenant vers le Parque Das Nações, anciennement Zona de Intervenção da Expo (« Zone d’intervention de l'Expo »), le quartier de Lisbonne où s'est tenue l'Exposition internationale de 1998 sur le thème « les océans, un patrimoine pour le futur ». Le voyage en bus n’est pas des plus sexy ... Nous longeons de longues zones industrielles avant d’arriver dans une zone résolument moderne. Nous nous baladons le long du Tage avant de rentrer en métro jusqu’à la place Martim Moniz, lieu de départ pour monter dans le fameux Tram 28. Malheureusement, une partie de la ligne est en travaux. Nous décidons donc de faire le trajet à pied, tout simplement, et c’était une super idée !
 
-<div class="gallery">
+<gallery>
 <img alt="MG_0683.png" src="./images/MG_0683.png">
 <img alt="MG_0680.png" src="./images/MG_0680.png">
 <img alt="MG_0689.png" src="./images/MG_0689.png">
@@ -64,7 +65,7 @@ Pour terminer cette journée, nous prenons un bus nous amenant vers le Parque Da
 <img alt="IMG_4071-2.png" src="./images/IMG_4071-2.png">
 <img alt="IMG_4087-2.png" src="./images/IMG_4087-2.png">
 <img alt="IMG_4092-2.png" src="./images/IMG_4092-2.png">
-</div>
+</gallery>
 
 ---
 

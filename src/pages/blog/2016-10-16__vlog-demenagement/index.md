@@ -1,8 +1,9 @@
 ---
-title: "Back to France #8"
-hero: "./images/2016-10-16-vlog-demenagement-vlog02.jpg"
-excerpt: "L’appartement : check. Le travail : check. Le BSN : check. Check Check Check (#House of Cards pour les plus geek d’entre vous). Ce qui n’était pas check en revanche, ce sont nos affaires restées en France. Retour en images ET en vidéo (oui oui petite vidéo (marrante)) sur ce dernier weekend “cartonnant”... Faux départ La plupart de"
+title: 'Back to France #8'
+hero: './images/2016-10-16-vlog-demenagement-vlog02.jpg'
+excerpt: 'L’appartement : check. Le travail : check. Le BSN : check. Check Check Check (#House of Cards pour les plus geek d’entre vous). Ce qui n’était pas check en revanche, ce sont nos affaires restées en France. Retour en images ET en vidéo (oui oui petite vidéo (marrante)) sur ce dernier weekend “cartonnant”... Faux départ La plupart de'
 ---
+
 L’appartement : check. Le travail : check. Le BSN : check. Check Check Check (#House of Cards pour les plus geek d’entre vous). Ce qui n’était pas check en revanche, ce sont nos affaires restées en France. _Retour en images ET en vidéo_ (oui oui petite vidéo (marrante)) sur ce dernier weekend “cartonnant”...
 
 ## Faux départ
@@ -19,10 +20,8 @@ Nos friandises en poche, nous nous dirigeons vers le spot où se situent toutes 
 Ça m’embête un peu, même si après coup ce n’était pas super grave. C’est juste contrariant en faite. Mais par chance, **la réservation n’était pas payée**. HEUREUSEMENT ! Car sinon je sens que cela aurait été un bordel monstre...
 On se réconforte donc comme on peut en allant faire un tour chez HEMA de l’aéroport histoire d’acheter deux trois connerie et de ne pas revenir les mains vides à la maison.
 
-<div class="gallery">
-<img alt="2016-10-16-vlog-demenagement-vlog01.jpg" src="./images/2016-10-16-vlog-demenagement-vlog01.jpg" title="Petits yeux au petit matin">
-<img alt="2016-10-16-vlog-demenagement-vlog03.jpg" src="./images/2016-10-16-vlog-demenagement-vlog03.jpg" title="Petits yeux au petit gouter">
-</div>
+<img alt="2016-10-16-vlog-demenagement-vlog01.jpg" src="./images/2016-10-16-vlog-demenagement-vlog01.jpg" title="Petits yeux au petit matin" />
+<img alt="2016-10-16-vlog-demenagement-vlog03.jpg" src="./images/2016-10-16-vlog-demenagement-vlog03.jpg" title="Petits yeux au petit gouter" />
 
 ## Samedi 08 octobre - 06h - Centraal Station
 
@@ -36,8 +35,6 @@ Pps : Mais je me suis bien marrée à la faire
 
 Ppps : Qu’est ce qu’on peut avoir l’air con de parler seul à une caméra parfois !
 
-<iframe src="https://player.vimeo.com/video/260558531?dnt=1&app_id=122963" width="500" height="281" frameborder="0" title="Adeux-cestmieux-Vlog_01" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
----
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/260558531" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 <img alt="2016-10-16-vlog-demenagement-vlog04.jpg" src="./images/2016-10-16-vlog-demenagement-vlog04.jpg">

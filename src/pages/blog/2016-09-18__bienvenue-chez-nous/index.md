@@ -1,8 +1,9 @@
 ---
-title: "Bienvenue chez nous. #3"
-hero: "./images/2016-09-18-bienvenue-chez-nous-02a.jpg"
-excerpt: "C’est avec une immense joie que j’écris ce troisième article depuis chez nous ! Et oui, depuis le 17 septembre 2016, nous pouvons officiellement dire que nous habitons Amsterdam. Nous vous emménagé dans notre appartement. C’est juste trop génial et on va vous raconter un peu comment ça s’est passé, parce qu’honnêtement, ça n’a pas été"
+title: 'Bienvenue chez nous. #3'
+hero: './images/2016-09-18-bienvenue-chez-nous-02a.jpg'
+excerpt: 'C’est avec une immense joie que j’écris ce troisième article depuis chez nous ! Et oui, depuis le 17 septembre 2016, nous pouvons officiellement dire que nous habitons Amsterdam. Nous vous emménagé dans notre appartement. C’est juste trop génial et on va vous raconter un peu comment ça s’est passé, parce qu’honnêtement, ça n’a pas été'
 ---
+
 C’est avec une immense joie que j’écris ce troisième article depuis **chez nous !** Et oui, depuis le 17 septembre 2016, nous pouvons officiellement dire que nous habitons Amsterdam. Nous vous emménagé dans **notre appartement**. C’est juste trop génial et on va vous raconter un peu comment ça s’est passé, parce qu’honnêtement, ça n’a pas été de tout repos ! Et pardonnez la longueur du texte 🙂
 
 <img alt="2016-09-18-bienvenue-chez-nous-02a.jpg" src="./images/2016-09-18-bienvenue-chez-nous-02a.jpg">
@@ -29,7 +30,7 @@ Je crois que cette journée a été d’une lenteur infinie. Nous n’attentions
 
 <img alt="2016-09-18-bienvenue-chez-nous-01.jpg" src="./images/2016-09-18-bienvenue-chez-nous-01.jpg">
 
-Gidéon, notre nouveau propriétaire, nous appelle enfin, et est heureux de nous nommer comme étant **ses nouveaux voisins** ! Il va ainsi travailler sur l’écriture du contrat et nous tiendra au courant de ses avancées. En tout cas, il nous dit **« wonderful, so we have a deal you can relax now! »**. C’est assez incroyable, on a du mal à y croire. Tant qu’on sera pas dans l’appart en tout cas.
+Gidéon, notre nouveau propriétaire, nous appelle enfin, et est heureux de nous nommer comme étant **ses nouveaux voisins** ! Il va ainsi travailler sur l’écriture du contrat et nous tiendra au courant de ses avancées. En tout cas, il nous dit **« wonderful, so we have a deal [...] you can relax now! »**. C’est assez incroyable, on a du mal à y croire. Tant qu’on sera pas dans l’appart en tout cas.
 
 La journée du jeudi passe. Celle du vendredi aussi. Et toujours pas de contrat de location reçu par mail ... Nous avions une ultime visite d’une autre appartement vendredi après-midi que nous décidons de faire malgré tout, car bon, on ne sait jamais hein ce qui pourrait se passer avec l’autre ! ... Enfin, passons les détails, car ces deux jours ont surtout était remplis d’attentes. Avec des pics d’Adeline à chaque sonnerie de téléphone pensant que c’était enfin le mail... Une semaine de plus et je crois que nous aurions tous les deux fait un AVC !
 
@@ -46,7 +47,7 @@ Le contrat est en anglais et en Dutch. Même si ce n’est que cette dernière v
 
 Que dire de plus si ce n’est qu’en faite, c’est vraiment **l’appartement de nos rêves.** Il est neuf, avec un parquet magnifique. Un grand balcon donnant sur des jardins intérieurs. Il est juste super grand !! On a même encore du mal à savoir comment nous allons agencer exactement les choses. La cuisine est parfaite. Machine à laver-séchante (neuve de 1 jour), plaque à induction, lave-vaisselle, mur avec peinture à craie, ... Enfin, trêve de bavardage, les photos sont bien plus parlantes !
 
-<div class="gallery">
+<gallery>
 <img alt="2016-09-18-bienvenue-chez-nous-04.jpg" src="./images/2016-09-18-bienvenue-chez-nous-04.jpg">
 <img alt="2016-09-18-bienvenue-chez-nous-05.jpg" src="./images/2016-09-18-bienvenue-chez-nous-05.jpg">
 <img alt="2016-09-18-bienvenue-chez-nous-06.jpg" src="./images/2016-09-18-bienvenue-chez-nous-06.jpg">
@@ -54,16 +55,10 @@ Que dire de plus si ce n’est qu’en faite, c’est vraiment **l’appartement
 <img alt="2016-09-18-bienvenue-chez-nous-08.jpg" src="./images/2016-09-18-bienvenue-chez-nous-08.jpg">
 <img alt="2016-09-18-bienvenue-chez-nous-09.jpg" src="./images/2016-09-18-bienvenue-chez-nous-09.jpg">
 <img alt="2016-09-18-bienvenue-chez-nous-10.jpg" src="./images/2016-09-18-bienvenue-chez-nous-10.jpg">
-</div>
-
-<div class="gallery">
 <img alt="2016-09-18-bienvenue-chez-nous-11.jpg" src="./images/2016-09-18-bienvenue-chez-nous-11.jpg">
 <img alt="2016-09-18-bienvenue-chez-nous-12.jpg" src="./images/2016-09-18-bienvenue-chez-nous-12.jpg">
-</div>
-
----
-
 <img alt="2016-09-18-bienvenue-chez-nous-13.jpg" src="./images/2016-09-18-bienvenue-chez-nous-13.jpg">
+</gallery>
 
 ## Ikea Amsterdam
 

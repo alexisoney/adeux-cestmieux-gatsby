@@ -1,16 +1,14 @@
 ---
 title: "J'aime la galette, savez-vous comment ? ... #31"
-hero: "./images/2018.01.07-cover.jpg"
-excerpt: "Et si nous commencions l’année sur une note gourmande ! J’avais envie de partager avec vous quelques petites gourmandises que j’ai pris plaisir à préparer durant les dernières semaines et qui sont parfaitement dans le thème de l’hiver. Après la ferveur de la figue en automne, l’hiver me donne envie de douceur, réconfort et toujours"
+hero: './images/2018.01.07-cover.jpg'
+excerpt: 'Et si nous commencions l’année sur une note gourmande ! J’avais envie de partager avec vous quelques petites gourmandises que j’ai pris plaisir à préparer durant les dernières semaines et qui sont parfaitement dans le thème de l’hiver. Après la ferveur de la figue en automne, l’hiver me donne envie de douceur, réconfort et toujours'
 ---
+
 Et si nous commencions l’année sur une note **gourmande** ! J’avais envie de partager avec vous quelques petites gourmandises que j’ai pris plaisir à préparer durant les dernières semaines et qui sont parfaitement dans le thème de l’hiver. Après la ferveur de la figue en automne, l’hiver me donne envie de douceur, réconfort et toujours plus de gourmandises. C’est **la saison du cocooning** par excellence. Celle où l’on privilégie les sentiments de confort, de chaleur & de convivialité. Alors cet hiver, on se fait plaisir et surtout on prend le temps de **partager ces petites gourmandises avec les gens qu’on aime !**
 
 ---
 
 <img alt="2018.01.07-01.jpg" src="./images/2018.01.07-01.jpg">
-
----
-
 <img alt="2018.01.07-02.jpg" src="./images/2018.01.07-02.jpg">
 
 ### Chai Latte & Apple Chai Cider
@@ -21,8 +19,7 @@ Concernant la marche à suivre c’est très simple, il suffit de faire infuser 
 
 ---
 
-<img alt="2018.01.07-03.jpg" src="./images/2018.01.07-03.jpg"> 
-<img alt="2018.01.07-04.jpg" src="./images/2018.01.07-04.jpg">
+<img alt="2018.01.07-03.jpg" src="./images/2018.01.07-03.jpg"> <img alt="2018.01.07-04.jpg" src="./images/2018.01.07-04.jpg">
 
 ### Les sablés de Noël
 

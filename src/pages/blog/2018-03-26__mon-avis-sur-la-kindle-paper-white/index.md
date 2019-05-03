@@ -1,8 +1,9 @@
 ---
-title: "Mon avis sur la Kindle Paper White"
-hero: "./images/MG_9844.jpg"
-excerpt: "Moi & les livres • Si vous me connaissez un tant soit peu, vous savez que j’aime lire. J’aime prendre un peu de temps chaque jour pour lire quelques pages d’une histoire. J’aime découvrir des histoires d’amour, d’amitié, de guerre, de magie et même les histoires sur l’histoire. • Si vous me connaissez un peu"
+title: 'Mon avis sur la Kindle Paper White'
+hero: './images/MG_9844.jpg'
+excerpt: 'Moi & les livres • Si vous me connaissez un tant soit peu, vous savez que j’aime lire. J’aime prendre un peu de temps chaque jour pour lire quelques pages d’une histoire. J’aime découvrir des histoires d’amour, d’amitié, de guerre, de magie et même les histoires sur l’histoire. • Si vous me connaissez un peu'
 ---
+
 ## Moi & les livres
 
 • Si vous me connaissez un tant soit peu, vous savez que j’aime lire. J’aime prendre un peu de temps chaque jour pour lire quelques pages d’une histoire. J’aime découvrir des histoires d’amour, d’amitié, de guerre, de magie et même les histoires sur l’histoire.
@@ -17,8 +18,6 @@ Mais, il y a un mais dans tout ça. Je n’ai malheureusement pas la place pour 
 Et puis, à Noël, Alexis m’a fait la surprise de m’offrir une Kindle Paper White. À première vue, on pourrait penser que ce soit le pire cadeau qu’il est pu me faire. Figurez-vous que je trouve que c’est en réalité le plus beau cadeau du monde. Et après plusieurs mois d’utilisation, je me suis dit que j’allais vous faire une petite revue et vous dire pourquoi je l’aime d’amour, ma liseuse.
 
 _Je possède la **Kindle Paper White Noire**. Elle est dotée un écran Haute Résolution avec retro-éclairage ainsi qu’une connexion Wi-fi. En plus, Alexis a eu la bonne idée de m’offrir avec une petite housse de protection noire, histoire que l'écran ne s’abîme pas._
-
----
 
 <img alt="Kindle Paper White" src="./images/MG_9859.jpg">
 

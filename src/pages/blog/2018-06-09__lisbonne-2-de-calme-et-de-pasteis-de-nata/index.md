@@ -1,11 +1,12 @@
 ---
-title: "Lisbonne #2 - Des Pasteis à Belém"
-hero: "./images/MG_0906.png"
+title: 'Lisbonne #2 - Des Pasteis à Belém'
+hero: './images/MG_0906.png'
 excerpt: "Je vous retrouve aujourd'hui pour la suite et la fin de nos aventures en territoire lisboète. Pour retrouver la première partie de notre long week-end rdv ici. Jour 3 - Le beau Belém Après un dimanche magnifique à nous balader dans les ruelles, d'une colline à une autre, nous décidons de nous rendre dans le"
 ---
+
 Je vous retrouve aujourd'hui pour la suite et la fin de nos aventures en territoire lisboète.
 
-Pour retrouver la première partie de notre long week-end rdv(/lisboa-meu-amor/).
+Pour retrouver la première partie de notre long week-end rdv [ici](lisboa-meu-amor/).
 
 ## Jour 3 - Le beau Belém
 
@@ -23,7 +24,7 @@ La pause était bienvenue et le ciel se dégage à nouveau. C'est le moment parf
 
 Malheureusement, le vent reste assez frais et nous commençons à avoir froid. Pour terminer cette journée moins épuisante que la veille, nous nous offrons un bon repas au restaurant « [Porter](http://www.corposantohotel.com/restaurante-bar) » proposant des spécialité portugaises dans un style « bistronomie ». Bachalau pour moi, entrecôte pour Alexis. Un verre de Vinho Verde pour accompagner cela. C'était excellent !
 
-<div class="gallery">
+<gallery>
 <img alt="MG_0848.png" src="./images/MG_0848.png">
 <img alt="MG_0850.png" src="./images/MG_0850.png">
 <img alt="MG_0897.png" src="./images/MG_0897.png">
@@ -35,7 +36,7 @@ Malheureusement, le vent reste assez frais et nous commençons à avoir froid. P
 <img alt="MG_0962.png" src="./images/MG_0962.png">
 <img alt="MG_1012.png" src="./images/MG_1012.png">
 <img alt="MG_0872.png" src="./images/MG_0872.png">
-</div>
+</gallery>
 
 ## Jour 4 - Sintra, ou pas.
 
@@ -47,9 +48,9 @@ Classé au patrimoine mondial de l’UNESCO, le Monastère des Hiéronymites est
 
 Nous ressortons après 1h de visite environ et décidons malgré tout de nous rendre à Sintra. Ce n'était malheureusement pas la meilleure idée du monde, car une fois arrivés sur place, après 40min, nous n'avons pas trop su nous décider entre monter à pied aux châteaux (1h de marche environ) ou attendre un potentiel bus, si tel est bien que nous avons finalement rebroussé à mi-chemin pour rentrer sur la capitale.  C'est dommage, car j'avais un super souvenir du Palais de la Pena et des jardins environnements et j'avais vraiment envie de faire découvrir cela à Alexis.
 
-De retour sur Lisbonne et après une pause repas méritée, nous nous dirigeons vers l'aéroport. Cela valait bien la peine de se dépêcher, notre avion est retardé dus aux violents orages sur Amsterdam. Décidément, on est vraiment pas chanceux niveau météo (ou bien, l'aéroport d'Amsterdam ne sait pas gérer les changements de météo extrêmes !). Souvenez-vous de notre [week-end raccourcis à Londres](/londres/), en décembre dernier ...  Le retour au travail le lendemain ne fut pas des plus faciles ; heureusement qu’il n'y avait que 3 jours avant le week-end, à nouveau.
+De retour sur Lisbonne et après une pause repas méritée, nous nous dirigeons vers l'aéroport. Cela valait bien la peine de se dépêcher, notre avion est retardé dus aux violents orages sur Amsterdam. Décidément, on est vraiment pas chanceux niveau météo (ou bien, l'aéroport d'Amsterdam ne sait pas gérer les changements de météo extrêmes !). Souvenez-vous de notre [week-end raccourcis à Londres](londres/), en décembre dernier ...  Le retour au travail le lendemain ne fut pas des plus faciles ; heureusement qu’il n'y avait que 3 jours avant le week-end, à nouveau.
 
-<div class="gallery">
+<gallery>
 <img alt="MG_0859.png" src="./images/MG_0859.png">
 <img alt="IMG_4263.png" src="./images/IMG_4263.png">
 <img alt="MG_1060.png" src="./images/MG_1060.png">
@@ -57,7 +58,7 @@ De retour sur Lisbonne et après une pause repas méritée, nous nous dirigeons 
 <img alt="MG_1039.png" src="./images/MG_1039.png">
 <img alt="MG_1042.png" src="./images/MG_1042.png">
 <img alt="IMG_4247.png" src="./images/IMG_4247.png">
-</div>
+</gallery>
 
 ---
 

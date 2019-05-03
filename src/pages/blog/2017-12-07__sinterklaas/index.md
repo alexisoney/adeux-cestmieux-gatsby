@@ -1,8 +1,9 @@
 ---
-title: "Sinterklaas! #29"
-hero: "./images/2017.12.07-cover.jpg"
-excerpt: "Petit point culture Néerlandaise ! Parmi les nombreuses différences qui puissent exister entre la France et les Pays-Bas se trouve la Saint-Nicolas. La Saint-Nicolas, qui est le 6 décembre, est une tradition fêtée dans plusieurs pays européens et souvent aussi dans le nord et l’est de la France, célèbre le saint Patron Nicolas, aussi connu sous"
+title: 'Sinterklaas! #29'
+hero: './images/2017.12.07-cover.jpg'
+excerpt: 'Petit point culture Néerlandaise ! Parmi les nombreuses différences qui puissent exister entre la France et les Pays-Bas se trouve la Saint-Nicolas. La Saint-Nicolas, qui est le 6 décembre, est une tradition fêtée dans plusieurs pays européens et souvent aussi dans le nord et l’est de la France, célèbre le saint Patron Nicolas, aussi connu sous'
 ---
+
 ## Petit point culture Néerlandaise !
 
 Parmi les nombreuses différences qui puissent exister entre la France et les Pays-Bas se trouve **la Saint-Nicolas**.
@@ -20,10 +21,10 @@ La veille, **Sinterklaas** parcourt les maisons, de cheminées en cheminée, la
 
 ### Les spécialités du moment
 
-Durant cette période, les magasins voient leurs gondoles se remplir de toute sorte de traditionnelles gourmandises de **Sinterklaas **: **les perpernoten**, des petits biscuits de speculoos, **le speculaas**, une sorte de boudin fourré à l’amande, ressemblant à une galette des Rois, **le marzipan** qui est de la pâte d’amande, les mandarines ou bien encore les _“chocolade letter”_, une tablette de chocolat en forme de lettre ; la tradition voulant qu’il faille offrir la lettre correspondant à la première du prénom de l’enfant.
+Durant cette période, les magasins voient leurs gondoles se remplir de toute sorte de traditionnelles gourmandises de **Sinterklaas**: **les perpernoten**, des petits biscuits de speculoos, **le speculaas**, une sorte de boudin fourré à l’amande, ressemblant à une galette des Rois, **le marzipan** qui est de la pâte d’amande, les mandarines ou bien encore les _“chocolade letter”_, une tablette de chocolat en forme de lettre ; la tradition voulant qu’il faille offrir la lettre correspondant à la première du prénom de l’enfant.
 
 Bien entendu, les Néerlandais fêtent aussi Noël autour d’un bon repas en famille, mais il est rare que les enfants reçoivent des cadeaux aussi à cette occasion. C’est soit l’un, soit l’autre.
 
 Voilà & **prettige sinterklaas!**
 
----
+♥

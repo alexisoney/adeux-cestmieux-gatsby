@@ -1,13 +1,14 @@
 ---
 title: "Vie d'expat #4 - Les Jours fériés"
-hero: "./images/vie-expat-4.png"
-excerpt: "Nouvel épisode de Vie d’expat avec aujourd’hui pour thème un sujet qui fait parfois débat au près des collègues ; les jours fériés ! Ce n’est sûrement pas la première chose à laquelle nous avions penser en déménagent aux Pays-Bas, mais changer de pays, changer de culture, d’histoire, c’est aussi très souvent avoir des jours fériés différents ! Ce"
+hero: './images/vie-expat-4.png'
+excerpt: 'Nouvel épisode de Vie d’expat avec aujourd’hui pour thème un sujet qui fait parfois débat au près des collègues ; les jours fériés ! Ce n’est sûrement pas la première chose à laquelle nous avions penser en déménagent aux Pays-Bas, mais changer de pays, changer de culture, d’histoire, c’est aussi très souvent avoir des jours fériés différents ! Ce'
 ---
+
 _Nouvel épisode de Vie d’expat avec aujourd’hui pour thème un sujet qui fait parfois débat au près des collègues ; les jours fériés_ !
 
 Ce n’est sûrement pas la première chose à laquelle nous avions penser en déménagent aux Pays-Bas, mais changer de pays, changer de culture, d’histoire, c’est aussi très souvent avoir des jours fériés différents !
 
-Ce dessin de la très talentueuse Clémentine de [“Dessine-moi un expat”](https://blog.courrierinternational.com/dessine-moi-un-expat/) résume d'ailleurs très bien la situation. 
+Ce dessin de la très talentueuse Clémentine de [“Dessine-moi un expat”](https://blog.courrierinternational.com/dessine-moi-un-expat/) résume d'ailleurs très bien la situation.
 
 <img alt="ob_163b24_ferie.jpeg" src="./images/ob_163b24_ferie.jpeg">
 
@@ -47,7 +48,7 @@ En faite, ce jour n’est pas en réalité pas un jour férié national. Seuleme
 
 ### Lundi de Pâques : 22 avril 2019
 
-Celui-ci est en revanche bien férié ! 
+Celui-ci est en revanche bien férié !
 Comme en France, les petits néerlandais auront passés le week-end à faire les chasses aux œufs en chocolat, à seule différence que ce ne sont pas les cloches mais les lapins qui les ont cachés.
 
 ### Kings Day : 27 avril 2019
@@ -60,13 +61,13 @@ Pas de bol, cette année cela tombe un samedi.
 
 Aussi important ce jour soit-il, ce n’est en réalité pas un jour férié (encore un !). Enfin, nuance, c’est un jour férié uniquement une fois tous les cinq ans. Le prochain sera donc en 2020, et encore, cela n’est même pas obligatoire. Tout comme le “Vendredi Saint”, cette journée est davantage considérée comme une fête plus qu’un jour férié.
 
-Le 4 mai, journée de la Commémoration, et le 5 mai, journée de la libération, des cérémonies, des concerts et des festivals se tiennent dans beaucoup de villes afin de commémorer et honorer les civils et militaires qui ont perdu la vie pendant les guerres et les missions de maintien de la paix. 
+Le 4 mai, journée de la Commémoration, et le 5 mai, journée de la libération, des cérémonies, des concerts et des festivals se tiennent dans beaucoup de villes afin de commémorer et honorer les civils et militaires qui ont perdu la vie pendant les guerres et les missions de maintien de la paix.
 
 ### Jour de l’Ascension : 30 mai 2019
 
 Le jeudi de l’ascension, célébré 40 jours après Pâques, est un jour férié aux Pays-Bas.
 
-Cette année, cela tombe un jeudi. L’occasion de s’organiser un long week-end de détente par exemple ! 
+Cette année, cela tombe un jeudi. L’occasion de s’organiser un long week-end de détente par exemple !
 
 ### Lundi de Pentecôte : 10 juin 2019
 
@@ -76,14 +77,14 @@ Contrairement à la France où il est chômé / rattrapé / travaillé, c’est 
 
 Enfin, Nöel est, comme de nombreux autres pays, un jour férié dignement respecté aux Pays-Bas. En revanche, ici, le jour suivant Noël, « Tweede Kersdag » en néerlandais, est aussi un jour férié !
 
-Aussi connu sous le nom de “boxing day” chez les Britanniques, ce jour marque notamment le début des soldes outre-atlantique. Enfin, peu importe sa dénomination, ici on est bien content de pouvoir profiter d’un jour supplémentaire pour digérer des repas de fêtes la veille et l’avant-veille 😉  
+Aussi connu sous le nom de “boxing day” chez les Britanniques, ce jour marque notamment le début des soldes outre-atlantique. Enfin, peu importe sa dénomination, ici on est bien content de pouvoir profiter d’un jour supplémentaire pour digérer des repas de fêtes la veille et l’avant-veille 😉
 
-— 
+—--
 
 Si on finit les comptes, cela fait donc bien 8 jours fériés. Mais les aléas du calendrier 2019 font que nous ne pourrons en profiter pleinement que de 7,  le Jour du Roi étant un samedi.
 
-En plus des jours fériés nationaux, il existe des fêtes, célébrées mais pas nécessairement férié, qui sont pour autant tout aussi importante. Prenez la Saint-Nicolas par exemple. Comme j’expliquais dans cet article sur [Sinterklaas](/sinterklaas/), le 5 décembre est traditionnellement célébré dans de nombreuses familles néerlandaises, au même titre que Noël. Et pourtant, tout le monde travail ce jour-là ! Certaines entreprises proposent exceptionnellement aux employés de rentrer plus tôt chez eux ce jour-ci, mais ce n’est pas coutume partout.
+En plus des jours fériés nationaux, il existe des fêtes, célébrées mais pas nécessairement férié, qui sont pour autant tout aussi importante. Prenez la Saint-Nicolas par exemple. Comme j’expliquais dans cet article sur [Sinterklaas](sinterklaas/), le 5 décembre est traditionnellement célébré dans de nombreuses familles néerlandaises, au même titre que Noël. Et pourtant, tout le monde travail ce jour-là ! Certaines entreprises proposent exceptionnellement aux employés de rentrer plus tôt chez eux ce jour-ci, mais ce n’est pas coutume partout.
 
 Il est aussi surprenant de savoir que la Fête de la libération du 5 mai n’est férié qu’une fois tous les cinq ans. Carnaval, Fête du Harengs, Fêtes de fleurs, Fête de la tulipe, ... Ces nombreuses célébrations qui existent toutes l’année ne méritent pas pour autant un jour férié.
 
-Pour plus d’information vis-à-vis des fêtes et cérémonies, n’hésiter à consulter [le calendrier ](https://www.iamsterdam.com/fr/see-and-do/whats-on/monthly-event-calendar)très complet sur site iAmsterdam.
+Pour plus d’information vis-à-vis des fêtes et cérémonies, n’hésiter à consulter [le calendrier](https://www.iamsterdam.com/fr/see-and-do/whats-on/monthly-event-calendar) très complet sur site iAmsterdam.

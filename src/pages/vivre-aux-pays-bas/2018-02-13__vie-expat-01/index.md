@@ -1,15 +1,16 @@
 ---
 title: "Vie d'expat #1 - « Être français de l'étranger »"
-hero: "./images/2018-01-28-cover.jpg"
+hero: './images/2018-01-28-cover.jpg'
 excerpt: "Dans le cadre d’une thématique nouvelle “Vie d'expat”, j’ai aujourd’hui envie de vous partager ma réflexion personnelle sur notre statut d’expatrié. Expat VS Pas expat Alors, déjà, petite *rectification*. C’est un abus de langage. Bien que l’expression soit “à la mode”, nous ne sommes pas de véritables expatriés. Nous ne sommes rattachés à aucune société"
 ---
+
 _Dans le cadre d’une thématique nouvelle **“Vie d'expat”**, j’ai aujourd’hui envie de vous partager ma réflexion personnelle sur notre **statut d’expatrié**._
 
 ---
 
 ## Expat VS Pas expat
 
-Alors, déjà, petite *rectification*. C’est un abus de langage. Bien que l’expression soit “à la mode”, nous ne sommes pas de véritables expatriés. Nous ne sommes rattachés à aucune société française et n’avons aucun avantage social avec la France comme pourraient en bénéficier les personnes au véritable statut d’expatrié. Non, non. Nous sommes partis de notre plein grès. Hormis la nationalité et nos statuts d’auto-entrepreneur, nous n’avons plus rien à voir avec l’administration française. Nous sommes, depuis le début, résidents aux Pays-Bas, surtout du point de vue des impôts néerlandais. En fait, le véritable mot serait “immigré”. Oui, nous sommes des immigrés. Sauf que le mot a, semble-t-il, une connotation trop négative pour être utilisé. Au final, on est quoi ? Nous sommes des “Français vivant l’étranger”. En tout cas, c’est comme ça qu’ils nous désignent au consulat : **les Français de l’étranger.**
+Alors, déjà, petite _rectification_. C’est un abus de langage. Bien que l’expression soit “à la mode”, nous ne sommes pas de véritables expatriés. Nous ne sommes rattachés à aucune société française et n’avons aucun avantage social avec la France comme pourraient en bénéficier les personnes au véritable statut d’expatrié. Non, non. Nous sommes partis de notre plein grès. Hormis la nationalité et nos statuts d’auto-entrepreneur, nous n’avons plus rien à voir avec l’administration française. Nous sommes, depuis le début, résidents aux Pays-Bas, surtout du point de vue des impôts néerlandais. En fait, le véritable mot serait “immigré”. Oui, nous sommes des immigrés. Sauf que le mot a, semble-t-il, une connotation trop négative pour être utilisé. Au final, on est quoi ? Nous sommes des “Français vivant l’étranger”. En tout cas, c’est comme ça qu’ils nous désignent au consulat : **les Français de l’étranger.**
 
 ## Être Français de l’étranger, ça veut dire quoi ?
 
@@ -29,12 +30,10 @@ Au quotidien, je n’ai pas à me justifier. Je suis telle que je suis et l’on
 
 ---
 
----
-
 Et vous, en France, vous vous sentez français ?
 
 ---
 
 À très vite,
 
-**♥**
+♥

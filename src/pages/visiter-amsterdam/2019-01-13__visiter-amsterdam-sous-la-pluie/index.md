@@ -1,8 +1,9 @@
 ---
-title: "Visiter Amsterdam sous la pluie"
-hero: "./images/MG_4147.jpg"
+title: 'Visiter Amsterdam sous la pluie'
+hero: './images/MG_4147.jpg'
 excerpt: "Visiter Amsterdam sous la pluie est très probable, surtout en pleine période d'hiver ! Mais le mauvais temps ne doit en rien gâcher votre séjour sur Amsterdam. Voici pour cela une sélection de 7 activités pour profiter pleinement d’Amsterdam .. au sec ! La pluie, Amsterdam & les néerlandais Au vu de sa situation géographique et"
 ---
+
 _Visiter Amsterdam sous la pluie est très probable, surtout en pleine période d'hiver ! Mais le mauvais temps ne doit en rien gâcher votre séjour sur Amsterdam. Voici pour cela une sélection de 7 activités pour profiter pleinement d’Amsterdam .. au sec !_
 
 ## La pluie, Amsterdam & les néerlandais
@@ -11,7 +12,7 @@ Au vu de sa situation géographique et de son climat tempéré, Amsterdam connai
 
 D’ailleurs, depuis que nous habitons à Amsterdam, j’ai adopté un regard bien différent sur la pluie. Je ne la déteste plus. Au contraire, je l’ai accepté. Parce que bon, après tout, vous n’avez pas vraiment le choix. Et puis, il suffit d’avoir les équipements pour et la pluie n’est alors plus que le cadet de vos soucis.
 
-Mais, je vous l’accorde tout de même, visiter une ville sous la pluie n’est pas non plus super agréable, encore moins Amsterdam, dont le centre-ville est un musée à ciel ouvert ! Alors, ne vous inquiétez pas, Amsterdam regorge d’activités et découvertes, même par temps pluvieux. 
+Mais, je vous l’accorde tout de même, visiter une ville sous la pluie n’est pas non plus super agréable, encore moins Amsterdam, dont le centre-ville est un musée à ciel ouvert ! Alors, ne vous inquiétez pas, Amsterdam regorge d’activités et découvertes, même par temps pluvieux.
 
 <img alt="Visiter Amsterdam sous la pluie" src="./images/MG_4215.jpg">
 
@@ -35,7 +36,7 @@ Moins grand mais tout aussi connu, vous avez le **musée Van Gogh**, l’un des 
 
 Toute la vie du peintre nous est contée dans ce musée. La collection permanente, plus grande collection d’oeuvres de Vincent Van Gogh au monde, compte au total 200 peintures, 500 dessins et plus de 700 lettres, aux quels se rajoute une vaste collection d’impressions japonaises.
 
-Petits et grands, ce musée est toujours une bonne idée car nous avons tous en tête un tableau de Van Gogh. _La Nuit Étoilée_,_Les Tournesols, Autoportrait de 1889, Autoportrait à l’oreille bandée_, _Les Mangeurs de pommes de terre_, _La Maison Jaune_ ... Vous en connaissez forcément un (sans peut être même savoir qu’il s’agissait de Van Gogh), alors pourquoi ne pas en profiter pour les observer en vrai ? 
+Petits et grands, ce musée est toujours une bonne idée car nous avons tous en tête un tableau de Van Gogh. _La Nuit Étoilée_,_Les Tournesols, Autoportrait de 1889,_ _Autoportrait à l’oreille bandée_, _Les Mangeurs de pommes de terre_, _La Maison Jaune_ ... Vous en connaissez forcément un (sans peut être même savoir qu’il s’agissait de Van Gogh), alors pourquoi ne pas en profiter pour les observer en vrai ?
 
 En plus des œuvres de Van Gogh, le musée possède une collection d’art du 19e siècle riche et variée. Parmi les artistes représentés se trouvent des Impressionnistes et Postimpressionnistes, tous des artistes qui ont inspiré Van Gogh ou se sont inspirés de lui, ainsi que ses amis et contemporains.
 
@@ -49,11 +50,11 @@ C’est ainsi l’occasion d'aller voir de plus près le très connu tableau de 
 
 <img alt="Visiter Amsterdam sous la pluie" src="./images/MG_4017.jpg">
 
-— 
+---
 
 _Enfin, peu importe votre choix, nous vous conseillons dans tous les cas de réserver vos tickets coupe-file en ligne afin d’éviter les interminables files d'attentes (sous la pluie ...) ! D’ailleurs, pour la visite du musée Van Gogh, il est impératif de réserver en choisissant un créneau horaire en ligne car il vous sera impossible d’acheter un billet à l’entrée du musée._
 
-### Amsterdam sous la pluie : Aller au cinéma 
+### Amsterdam sous la pluie : Aller au cinéma
 
 Que vous soyez déjà bilingue, ou bien au contraire que vous souhaitiez pratiquer votre anglais, **aller au cinéma** un jour de pluie est une bonne idée et ainsi vous mêlez au milieu des amstellodamois et autres nombreux expats !
 
@@ -61,7 +62,7 @@ Amsterdam offre un grand nombre de petits cinémas indépendants (“_bioscoop 
 
 Pour une expérience unique, nous vous conseillons le **Pathé Tuchinkski**, une salle de cinéma unique en son genre. Situé en plein coeur d’Amsterdam, à proximité de Rembrandtplein, ce cinéma a pris place dans un ancien théâtre et garde aujourd’hui encore toute la splendeur de l’architecture d'époque ! Cette salle de cinéma est d’ailleurs très souvent utilisée, et l’on comprend pourquoi, lors d’avant-premières ou d'événements cinématographiques importants.
 
-Sinon, pour une ambiance plus à la cool, rendez-vous au **Filmhallen** à Amsterdam West. Avec ces 9 salles et quelques peu 800 places, ce cinéma indépendant est le plus grand de tous les Pays-Bas. 
+Sinon, pour une ambiance plus à la cool, rendez-vous au **Filmhallen** à Amsterdam West. Avec ces 9 salles et quelques peu 800 places, ce cinéma indépendant est le plus grand de tous les Pays-Bas.
 
 ### Amsterdam sous la pluie : Passer du temps aux Food Hallen
 
@@ -91,7 +92,7 @@ En revanche, nous vous dé-conseillons très fortement le centre commercial Magn
 
 **Le NEMO**, Musée des Sciences, est l’endroit idéal pour divertir les enfants à Amsterdam un jour de pluie. D’ailleurs, enfant ou adulte, la visite sera tout aussi fun, peu importe l’age.
 
-Ce musée est situé dans un bâtiment assez emblématique à l’est de la Gare Central, prenant la forme d’une coque de bateau. Il est l'œuvre de l'architecte Renzo Piano (à qui l’on doit aussi le Centre Georges Pompidou à Paris). Le NEMO est un immense musée interactif proposant 5 étages d’exposition permanente et d’installations ludiques sur le thème général des sciences. Le maitre-mot ici est “apprendre en s’amusant” ! 
+Ce musée est situé dans un bâtiment assez emblématique à l’est de la Gare Central, prenant la forme d’une coque de bateau. Il est l'œuvre de l'architecte Renzo Piano (à qui l’on doit aussi le Centre Georges Pompidou à Paris). Le NEMO est un immense musée interactif proposant 5 étages d’exposition permanente et d’installations ludiques sur le thème général des sciences. Le maitre-mot ici est “apprendre en s’amusant” !
 
 Vous apprendrez par exemple comment fonctionne les polders et les digues, et comment les Pays-Bas réussissent à gagner peu à peu du terrain sur la mer ! Ou bien encore comment fonctionne la lumière et l’électricité !
 
@@ -103,11 +104,11 @@ Pour les plus téméraire, n'hésitez pas à vous **ballader sur les canaux**. C
 
 En plus. l’avantage de visiter Amsterdam un jour de pluie est que, hormis les locaux à vélo, vous aurez le plaisir de découvrir une ville calme. L’ambiance grise procurera une ambiance mystique à vos photographies des canaux.
 
-En revanche, abstenez-vous des croisières sur les canaux un jour de pluie. Déjà qu’en temps normal, les bateaux mouches ne sont vraiment pas à recommander .. Un jour de mauvais temps, la pluie vous empêchera de voir quoique ce soit à travers les vitres embuées.. 
+En revanche, abstenez-vous des croisières sur les canaux un jour de pluie. Déjà qu’en temps normal, les bateaux mouches ne sont vraiment pas à recommander .. Un jour de mauvais temps, la pluie vous empêchera de voir quoique ce soit à travers les vitres embuées..
 
 <img alt="Visiter Amsterdam sous la pluie" src="./images/MG_4144-1.jpg">
 
-## Point sur la météo 
+## Point sur la météo
 
 ### Quand partir pour éviter la pluie au maximum
 
@@ -117,10 +118,9 @@ Les meilleurs mois selon nous pour éviter la pluie et apprécier au maximum des
 
 Pour voir la pluviométrie moyenne mois par mois, nous vous conseillons le site [quandpartir](http://www.quandpartir.com/meteo/amsterdam-idville-236.html)
 
-<img alt="Amsterdam sous la pluie
-Visiter Amsterdam sous la pluie" src="./images/MG_4216.jpg">
+<img src="wp-content/uploads/2019/01/MG_4216.jpg" alt="Amsterdam sous la pluie - Visiter Amsterdam sous la pluie" />
 
-### Les bonnes applis de pour suivre la pluie ! 
+### Les bonnes applis de pour suivre la pluie !
 
 Cependant, n’oubliez pas qu’un des grands principes à Amsterdam, c’est qu’il ne faut jamais se fier à la météo annoncée plus de 2 jours à l’avance. Il est même tout à fait possible de vivre les 4 saisons en une seule journée !
 
@@ -128,14 +128,16 @@ Pas de panique ! Il est tout de même possible de savoir si, oui ou non, vous al
 
 La première est **[Buienradar](https://www.buienradar.nl/)**. La seconde eat **[Buienalarm](https://www.buienalarm.nl/)**.
 
-<div class="gallery">
+<gallery>
+<gallery>
 <img alt="Visiter Amsterdam sous la pluie" src="./images/MG_4367.jpg">
 <img alt="Visiter Amsterdam sous la pluie" src="./images/MG_4366.jpg">
-</div>
+</gallery>
+</gallery>
 
 Chacune vous permette de suivre les nuages de pluies et les pics de pluie dans les 2-3h suivantes. Comment vous l’aurez compris, la météo est d'une grande incertitude à Amsterdam, c’est pour cela que nous vous conseillons de mixer différentes applications, car les informations sont changeantes, encore plus un jour de grand vent !
 
-Enfin, vous pouvez retrouver ici notre “[Kit de Survie pour visiter Amsterdam - Ultimate guide](/kit-survie-visiter-amsterdam-ultimate-guide/)” afin d’être paré à toutes éventualités !
+Enfin, vous pouvez retrouver ici notre “[Kit de Survie pour visiter Amsterdam - Ultimate guide](kit-survie-visiter-amsterdam-ultimate-guide/)” afin d’être paré à toutes éventualités !
 
 ---
 
@@ -143,4 +145,4 @@ Vous l’aurez compris, Amsterdam regorge d’activités quelle que soit la mét
 
 À très vite,
 
-<img alt="Amsterdam sous la pluie" src="./images/visiter_amsterdam_pluie_pinterest.png" title="Le visuel Pinterest à re-pinner ou partager 🙂">
+<img alt="Amsterdam sous la pluie" src="./images/visiter_amsterdam_pluie_pinterest.png" title="Le visuel Pinterest à re-pinner ou partager 🙂" />

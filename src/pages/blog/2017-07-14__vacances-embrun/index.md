@@ -1,8 +1,9 @@
 ---
-title: "Vacances d’été ? #21"
-hero: "./images/2017-07-14-vacances-embrun-cover.jpg"
-excerpt: "Quoi de mieux qu’un 14 juillet pour parler de notre semaine de vacances en France ! Cette année, nous avons décidé de passer la plupart de l’été sur Amsterdam en nous accordant tout de même 1 semaine de vacances fin juin sur Embrun, ce qui me change radicalement de l’année dernière où avec toutes les"
+title: 'Vacances d’été ? #21'
+hero: './images/2017-07-14-vacances-embrun-cover.jpg'
+excerpt: 'Quoi de mieux qu’un 14 juillet pour parler de notre semaine de vacances en France ! Cette année, nous avons décidé de passer la plupart de l’été sur Amsterdam en nous accordant tout de même 1 semaine de vacances fin juin sur Embrun, ce qui me change radicalement de l’année dernière où avec toutes les'
 ---
+
 Quoi de mieux qu’un 14 juillet pour parler de notre semaine de vacances en France !
 
 Cette année, nous avons décidé de passer la plupart de l’été sur Amsterdam en nous accordant tout de même 1 semaine de vacances fin juin sur Embrun, ce qui me change radicalement de l’année dernière où avec toutes les histoires de déménagements, nous avions pu profiter de plus d’un mois et demi de vacances d’été !
@@ -21,9 +22,6 @@ Au final, ce fut des vacances sommes-toutes assez fatigantes dû aux nombreux tr
 
 Edit : L’article étant posté un peu en retard, je vous écris ces quelques dernières phrases depuis justement mon balcon. Et c’est tout simplement parfait. Il reste encore deux trois petites choses à aménager (mettre des plantes dans les pots par exemple ..) et je ferais des photos ensuite. On est trop content du résultat et on en profite déjà au maximum ! À très vite !
 
-<div class="gallery">
 <img alt="2017-07-14-vacances-embrun-photo01.jpg" src="./images/2017-07-14-vacances-embrun-photo01.jpg">
 <img alt="2017-07-14-vacances-embrun-photo02.jpg" src="./images/2017-07-14-vacances-embrun-photo02.jpg">
 <img alt="2017-07-14-vacances-embrun-photo03.jpg" src="./images/2017-07-14-vacances-embrun-photo03.jpg">
-</div>
-

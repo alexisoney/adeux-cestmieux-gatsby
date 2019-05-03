@@ -1,8 +1,9 @@
 ---
-title: "Amsterdam en décembre - Que voir, que faire ?"
-hero: "./images/MG_3859.jpg"
+title: 'Amsterdam en décembre - Que voir, que faire ?'
+hero: './images/MG_3859.jpg'
 excerpt: "Amsterdam en décembre nous plonge dans une atmosphère magique, digne d’un film de Noël. Au moment des fêtes venues, les canaux se parent de mille et une lumières et les grandes places revêtent leur plus beau sapin. C'est un véritable spectacle à ciel ouvert venant réchauffer nos cœurs en ces journées sombres et froides."
 ---
+
 **Amsterdam en décembre** nous plonge dans une atmosphère magique, digne d’un film de Noël. Au moment des fêtes venues, les canaux se parent de mille et une lumières et les grandes places revêtent leur plus beau sapin. C'est un véritable spectacle à ciel ouvert venant réchauffer nos cœurs en ces journées sombres et froides.
 
 En cette période de fêtes de fin d’année, la petite Venise du Nord promet de nombreuses activités saisonnières, à partager en famille ou entre amis ! Voici une sélection de choses à voir ou à faire à Amsterdam en décembre pour en profiter au maximum.
@@ -11,21 +12,21 @@ En cette période de fêtes de fin d’année, la petite Venise du Nord promet d
 
 <img alt="Amsterdam en Décembre" src="./images/MG_3929.jpg">
 
-## Amsterdam en décembre : Spécial Saint Nicolas 
+## Amsterdam en décembre : Spécial Saint Nicolas
 
 Avant Noël, les Néerlandais fêtent **Sinterklaas**, la Saint-Nicolas, le 6 décembre. Les célébrations de Sinterklaas débutent très souvent dès la mi-novembre avec l’arrivée de Saint-Nicolas et la grande parade en ville. Cette année elle avait lieu le 18 novembre 2018. Les célébrations prennent ensuite fin le 5 décembre au soir, après un traditionnel repas en famille. Enfin, le 6 décembre, c’est l’ouverture des cadeaux reçus pendant la nuit !
 
 Les Néerlandais ont vraiment à cœur cette fête, surtout les enfants, la plupart recevant leur cadeau à ce moment-là et non le 25 décembre. Il existe même un “[journal de Sinterklaas](https://sinterklaasjournaal.ntr.nl/)” quotidien pour suivre les aventures du grand Monsieur à la barbe blanche et ses zwarte pieten avant la grande distribution de cadeaux. C’est assez drôle à regarder et ça fait patienter les enfants !
 
-Si vous visitez Amsterdam en cette période, on vous conseille de gouter aux « _specuulas »_, aux « _pepernotten »_ & « _kruidnoten »_ — de petits biscuits à la cannelles et aux 4 épices ; l’équivalent de nos papillotes françaises ! Les enfants reçoivent aussi traditionnellement une _“chocolade letter”_ ; une tablette de chocolat en forme de lettre correspondant à la première de leur prénom.
+Si vous visitez Amsterdam en cette période, on vous conseille de gouter aux « *specuulas »*, aux « *pepernotten »* & « *kruidnoten »* — de petits biscuits à la cannelles et aux 4 épices ; l’équivalent de nos papillotes françaises ! Les enfants reçoivent aussi traditionnellement une _“chocolade letter”_ ; une tablette de chocolat en forme de lettre correspondant à la première de leur prénom.
 
-Enfin, si vous souhaitez en savoir davantage, on vous explique tout de cette tradition culturelle dans cet article spécial **[Sinterklaas !](/sinterklaas/)**
+Enfin, si vous souhaitez en savoir davantage, on vous explique tout de cette tradition culturelle dans cet article spécial **[Sinterklaas !](sinterklaas/)**
 
 <img alt="Amsterdam en Décembre" src="./images/MG_3958.jpg">
 
 ## Amsterdam en décembre : spécial Noël
 
-### Les marchés de Noël 
+### Les marchés de Noël
 
 Amsterdam regorge de **marchés de Noël**. Il y en a sur la majorité des grandes places de la ville.
 
@@ -33,13 +34,13 @@ Amsterdam regorge de **marchés de Noël**. Il y en a sur la majorité des grand
 
 #### Dam Square
 
-Chaque année, **Dam Square** est transformée en marché de Noël avec des cabanons en bois ainsi qu'un gigantesque sapin de Noël. Ensemble, avec les illuminations du Bijenkorf, la place du Dam symbolise l'esprit des fêtes. D'ailleurs, ne manquez surtout l’illumination du sapin qui aura lieu le 8 décembre cette année. 
+Chaque année, **Dam Square** est transformée en marché de Noël avec des cabanons en bois ainsi qu'un gigantesque sapin de Noël. Ensemble, avec les illuminations du Bijenkorf, la place du Dam symbolise l'esprit des fêtes. D'ailleurs, ne manquez surtout l’illumination du sapin qui aura lieu le 8 décembre cette année.
 
-_4 km de luminaires !_Le sapin, véritable, provient traditionnellement des Ardennes en Allemagne. Le sapin est tellement grand ; 20 mètres de haut ; qu’il faut plus de 40 000 lampes LED à économies d’énergie pour l’illuminer en entier. Cela correspond à une guirlande de 4 km de long ! Ainsi, durant toute la période du mois de décembre, le sapin sera illuminé dès le couché du soleil.
+\_4 km de luminaires !\_Le sapin, véritable, provient traditionnellement des Ardennes en Allemagne. Le sapin est tellement grand ; 20 mètres de haut ; qu’il faut plus de 40 000 lampes LED à économies d’énergie pour l’illuminer en entier. Cela correspond à une guirlande de 4 km de long ! Ainsi, durant toute la période du mois de décembre, le sapin sera illuminé dès le couché du soleil.
 
 <img alt="MG_3926.jpg" src="./images/MG_3926.jpg">
 
-#### Museum Plein 
+#### Museum Plein
 
 Si vous êtes fan de patin à glace, nous vous conseillons d'aller à **Museum Plein** où un petit village de Noël est installé autour d’une patinoire.
 
@@ -51,7 +52,7 @@ Du 17 novembre 2018 au 3 février 2019, c’est l’occasion parfaite de se retr
 
 Chaque année depuis 2012 a lieu l’**Amsterdam Light Festival.**Des artistes néerlandais et internationaux sont invités à créer des installations ou sculptures lumineuses autour d’un thème. Ces créations sont ensuite exposées tout au long de la ceinture des canaux, du Prinsengracht, et de l’Amstel. Au total, 30 installations lumineuses sont exposées.
 
-Il est possible de les découvrir à pied ou en bateau, tout au long des canaux. On recommande d’ailleurs [Amsterdam-bateau](https://www.amsterdam-bateau.com/fr/tours/6/light-festival) qui, pour l’occasion, propose des [visites en bateau](/decouvrir-les-canaux-avec-amsterdam-bateau/) spéciales avec vin chaud, cocktail et boissons chaudes à volonté ! Le plus ? Des guides en français et des bateaux couverts et chauffés !
+Il est possible de les découvrir à pied ou en bateau, tout au long des canaux. On recommande d’ailleurs [Amsterdam-bateau](https://www.amsterdam-bateau.com/fr/tours/6/light-festival) qui, pour l’occasion, propose des [visites en bateau](decouvrir-les-canaux-avec-amsterdam-bateau/) spéciales avec vin chaud, cocktail et boissons chaudes à volonté ! Le plus ? Des guides en français et des bateaux couverts et chauffés !
 
 <img alt="Amsterdam en décembre - Amsterdam Light Festival" src="./images/MG_3868.jpg">
 
@@ -69,7 +70,7 @@ Chaque année, un grand **feu d’artifice** avec compte à rebours officiel est
 
 En réalité, il y a du monde célébrant la nouvelle année à chaque coin de rue, buvant des toasts et ... tirant des feux d’artifice ! Car oui, la vente de feux d’artifice est exceptionnellement autorisée pour le 31 décembre. Ainsi, dès 23h le 31 décembre à Amsterdam, c’est un gigantesque spectacle coloré qui anime le ciel. La première fois, c’est assez impressionnant car Amsterdam est littéralement transformée en “war-zone”. Un conseil, si vous n’aimez pas les explosions, restez bien au chaud chez vous ! Pour les autres, je dirais qu’il faut avoir vécu ça au moins une fois dans sa vie tant c’est assez impressionnant !
 
-<img alt="Amsterdam en Décembre - Jour de l'an" src="./images/2017-01-05-dnew-year-2017-01-01-01.jpg" title="31 Décembre 2016">
+<img alt="Amsterdam en Décembre - Jour de l'an" src="./images/2017-01-05-dnew-year-2017-01-01-01.jpg" title="31 Décembre 2016" />
 
 ### Où faire la fête ?
 
@@ -77,7 +78,7 @@ Pour les plus fêtards d’entre vous, sachez que la plupart des clubs sont ouve
 
 Nieuwemarkt, Leidseplein, Rembrandtplein ainsi que Damsquare sont les place-to-be populaires pour **faire la fête** ce soir-là. Le site [iamsterdam](https://www.iamsterdam.com/en/see-and-do/whats-on/major-events-and-celebrations/new-years-eve-celebrations/new-years-eve-amsterdam) répertorie aussi une liste de soirées ayant lieu dans la capitale. Pour notre part, on vous recommande le **[Chin Chin Club](https://www.facebook.com/events/1003667433175356/)**, en plein centre parfait pour bien manger et danser !
 
-## Amsterdam en décembre : Musée & Exposition 
+## Amsterdam en décembre : Musée & Exposition
 
 **Hortus By Night**
 
@@ -125,6 +126,6 @@ _À noter, le Rijksmuseum et le Van Gogh reste ouvert durant cette période._
 
 Décembre à Amsterdam est magique. Illuminations, patinoires, marchés de Noël, vin chaud, oliebollen, feu d’artifice ; la ville est tellement animée pendant la période de Noël et du réveillon.
 
-Si vous visitez Amsterdam en cette période, n'hésitez pas à partager vos questions ou anecdotes en commentaire, nous nous ferons un plaisir d'y répondre. 
+Si vous visitez Amsterdam en cette période, n'hésitez pas à partager vos questions ou anecdotes en commentaire, nous nous ferons un plaisir d'y répondre.
 
 <img alt="Amsterdam en Décembre, que voir que faire - visuel Pinterest" src="./images/amsterdam_decembre_2018_pinterest.png">

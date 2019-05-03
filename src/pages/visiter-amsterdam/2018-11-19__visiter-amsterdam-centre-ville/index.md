@@ -1,8 +1,9 @@
 ---
-title: "Visiter Amsterdam — le centre-ville : 10 choses à voir ou visiter"
-hero: "./images/MG_3587.jpg"
-excerpt: "Notre sélection de 10 lieux à voir ou visiter dans le centre-ville Amsterdam, selon notre point de vue de Français vivant à Amsterdam. — Vivant sur Amsterdam depuis 2016, Alexis et moi, Clémence, commençons à bien connaître chaque quartier la capitale néerlandaise. Il est vrai que nous évitons beaucoup le centre d’Amsterdam, qui pour nous"
+title: 'Visiter Amsterdam — le centre-ville : 10 choses à voir ou visiter'
+hero: './images/MG_3587.jpg'
+excerpt: 'Notre sélection de 10 lieux à voir ou visiter dans le centre-ville Amsterdam, selon notre point de vue de Français vivant à Amsterdam. — Vivant sur Amsterdam depuis 2016, Alexis et moi, Clémence, commençons à bien connaître chaque quartier la capitale néerlandaise. Il est vrai que nous évitons beaucoup le centre d’Amsterdam, qui pour nous'
 ---
+
 _Notre sélection de 10 lieux à voir ou visiter dans le centre-ville Amsterdam, selon notre point de vue de Français vivant à Amsterdam._
 
 ---
@@ -23,7 +24,7 @@ Ainsi, vers 1385, la ville d’Amsterdam était séparée par l’Amstel en deux
 
 _Cette sélection se concentre, pour le moment, principalement sur la partie Ouest du Centrum, le Nieuwezijde._
 
-##  10 choses à voir dans le centre-ville d'Amsterdam
+## 10 choses à voir dans le centre-ville d'Amsterdam
 
 ### 1. Centraal Station & l’arrière vue sur l’IJ
 
@@ -35,15 +36,16 @@ La gare cache aussi une très belle vue à l’arrière. Pour s’y rendre, il s
 
 _La dernière fois que nous sommes venus, un brouillard épais recouvrait la ville et offrait un paysage très mystérieux  !_
 
+<gallery>
 <img alt="Amsterdam centre-ville Centraal Station" src="./images/MG_3599.jpg">
-
 <img alt="Amsterdam centre-ville" src="./images/MG_3592.jpg">
+</gallery>
 
 ### 2. Sint Nicolaas Kerk
 
 Outre sa splendeur architecturale, **Sint Nicolaaskerk / l'église Saint-Nicolas** est remarquable par le fait d’être une église catholique, à la différence de la grande majorité des lieux de cultes de la ville qui sont protestants. Cette église néo-romane, construite entre 1884 et 1887 et conçue par l’architecte Adrianus Bleijs, fut bâtie en l’honneur de Saint-Nicolas, le Saint Patron des marins. Elle possède de grandes colonnes de marbre noir ainsi qu’une voûte en bois. À l’intérieur, vous pourrez admirer et écouter un orgue du XIXe, sur lequel des concerts sont régulièrement donnés. Elle fut rénovée intégralement (son orgue compris) en 1999.
 
-Saint-Nicolas est aussi le “Père Noël” du Nord, de l’Est et du Centre de l’Europe. De nombreuses célébrations ont lieu dans la ville le 5 décembre venant. Pour en savoir plus sur la tradition de Sinterklaas, vous pouvez lire notre article : [Sinterklaas! #29](/sinterklaas/).
+Saint-Nicolas est aussi le “Père Noël” du Nord, de l’Est et du Centre de l’Europe. De nombreuses célébrations ont lieu dans la ville le 5 décembre venant. Pour en savoir plus sur la tradition de Sinterklaas, vous pouvez lire notre article : [Sinterklaas! #29](sinterklaas/).
 
 _Cette année, Sint Nikolaas fait sa parade dans Amsterdam le 18 novembre 2018._
 
@@ -83,11 +85,33 @@ Bien qu’Amsterdam soit la capitale des Pays-Bas, ce n’est pas le lieu de ré
 
 _Quelques petites anecdotes :_
 
-<div class="gallery">
+- Elle fait partie des rues les plus chères des Pays-Bas et est même la rue la plus chère dans la version néerlandaise du Monopoly.
+- Le peintre Piet Mondrian habitat au 154 Kalverstraat entre 1892 et 1895
+- Le premier magasin HEMA, enseigne néerlandaise très populaire, ouvrit ses portes dans la rue en 1926.
+
+<img alt="Visiter Amsterdam centre-ville Kalverstraat" src="./images/MG_3514.jpg">
+
+### 7. Begijnhof / Le Beguinage
+
+Chaque fois que nous visions le centre-ville d'Amsterdam avec des amis, nous adorons faire un détour par **le Begijnhof** !
+
+Véritable havre de paix caché en plein centre d'Amsterdam, le Begijnhof est l'une des plus anciennes cours intérieure de la ville. Construit vers le XIVe siècle, ce lieu composé d’un ensemble de maisons traditionnelles en pierre, abrite une chapelle cachée de l’Église réformée anglaise d’Amsterdam.
+
+À l’époque les bâtissent étaient bâties en bois. Mais après plusieurs grands incendies dans la ville, ce type de construction fut prohibé en 1521. Ce sont donc des maisons traditionnelles en pierre datant du XVIII siècle que vous y trouverez, exceptée **Het Houten Huys**, la maison de Bois, datant de 1470 et considérée comme l’une des plus vieilles maisons d’Amsterdam.Datant de l’époque du Moyen Âge, le Begijnof est, pour la petite anecdote, situé à environ un mètre en dessous du niveau du reste de la ville.
+
+_Mais qu’est ce donc vraiment un béguinage ?_
+
+C’est un lieu d’hébergement pour femmes pieuses : les béguines. Celles qui habitaient l’endroit étaient des femmes catholiques, célibataires, faisant preuve de piété et de charité auprès des déshérités. Les béguines créèrent de petites communautés auto-gérées, laïques et semi-monastiques. Elles eurent aussi un rôle social important dans la ville, avec l’aide concrète qu’elles apportèrent aux plus démunis. C’étaient de véritables travailleuses qui confectionnaient de nombreux objets dans leurs ateliers : filage, tissage, poterie... La dernière béguine à avoir habité ici est morte le 23 mai 1971.
+
+Aujourd’hui, la plupart des habitations sont des habitations privées.
+
+<gallery>
+<gallery>
 <img alt="MG_3470.jpg" src="./images/MG_3470.jpg">
 <img alt="MG_3509.jpg" src="./images/MG_3509.jpg">
 <img alt="MG_3511.jpg" src="./images/MG_3511.jpg">
-</div>
+</gallery>
+</gallery>
 
 ### 8. L’Amsterdam Museum / Musée d'Amsterdam
 
@@ -105,11 +129,13 @@ Si vous visiter le musée d’Amsterdam, vous saurez alors comment la ville s’
 
 Ainsi, en vous baladant le long du Singel, vous remarquerez la beauté et la singularité des maisons bordant les quais. Souvent, les gens se perdent entre les canaux, sous prétexte que tout se ressemble. Mais à y regarder de plus près, vous remarquerez que chaque maison à sa particularité unique. Que ce soit un pignon plat ou en escalier, une couleur de brique plus foncée, des carreaux de fenêtres, ... Chaque maison se différencie. Certaines maisons sont plus remarquables, c’est sûre. Notamment, celle située au Singel 7, réputée pour être la plus étroite d’Amsterdam. En réalité, il s’agit de l’arrière d’une maison située sur l’autre côté de la rue.
 
-<div class="gallery">
+<gallery>
+<gallery>
 <img alt="Visiter Amsterdam centre-ville" src="./images/MG_3646.jpg">
 <img alt="MG_3645.jpg" src="./images/MG_3645.jpg">
 <img alt="MG_3650.jpg" src="./images/MG_3650.jpg">
-</div>
+</gallery>
+</gallery>
 
 ### 10. Bloemenmarkt / Marché aux fleurs d'Amsterdam
 
@@ -117,11 +143,11 @@ Ainsi, en vous baladant le long du Singel, vous remarquerez la beauté et la sin
 
 Ce marché, très connu pour sa vente des bulbes de Tulipes, symbole même des Pays-Bas, n’a pourtant rien d’extraordinaire comparé à un fleuriste, puisque vous y trouverez principalement des bulbes de toutes sortes, et pas tellement de fleurs coupées. En plus des tulipes, vous y trouverez des bulbes d'amaryllis, des tournesols, des orchidées, jonquilles, narcisses, crocus, des cactus et plantes vertes, ainsi que des babioles et nombreux souvenir (parfois plus que les bulbes eux-mêmes) à l’effigie des Pays-Bas et d’Amsterdam. Mais, en dépit de cela, le marché reste un chouette endroit pour faire des emplettes de plantes vertes à prix peu élevés !
 
-<img alt="Visiter A
-msterdam centre-ville Bloemenmarkt" src="./images/MG_0433.jpg">
+<img src="wp-content/uploads/2018/11/MG_0433-1024x683.jpg" alt="Visiter A
+msterdam centre-ville Bloemenmarkt" />
 
 ---
 
 On espère que cette sélection vous inspirera à découvrir Amsterdam centre sous un nouveau regard.
 
-Si une petite faim se fait sentir, retrouvez notre article de bonnes addresses spécial centre-ville d’Amsterdam ici : [Les bonnes adresses d’Alexis & Clémence – Amsterdam centre #1](/city-guide-bonnes-adresses-amsterdam-centre/)
+Si une petite faim se fait sentir, retrouvez notre article de bonnes addresses spécial centre-ville d’Amsterdam ici : [Les bonnes adresses d’Alexis & Clémence – Amsterdam centre #1](city-guide-bonnes-adresses-amsterdam-centre/)

@@ -1,8 +1,9 @@
 ---
-title: "Gelukkig Nieuw jaar ! #14"
-hero: "./images/2017-01-05-dnew-year-2017-01-01-01.jpg"
-excerpt: "Bonjour 2017 ! L’occasion pour nous, Alexis et moi-même, de vous souhaiter, à vous qui lisez ce petit blog haut comme trois pommes, une très belle nouvelle année. Nous vous la souhaitons pleines de joies et de réussites. Et de tout ce que vous souhaitez d’autres d’ailleurs. Pour notre part, l’année 2016 est passée à toute"
+title: 'Gelukkig Nieuw jaar ! #14'
+hero: './images/2017-01-05-dnew-year-2017-01-01-01.jpg'
+excerpt: 'Bonjour 2017 ! L’occasion pour nous, Alexis et moi-même, de vous souhaiter, à vous qui lisez ce petit blog haut comme trois pommes, une très belle nouvelle année. Nous vous la souhaitons pleines de joies et de réussites. Et de tout ce que vous souhaitez d’autres d’ailleurs. Pour notre part, l’année 2016 est passée à toute'
 ---
+
 Bonjour 2017 !
 
 L’occasion pour nous, Alexis et moi-même, de vous souhaiter, à vous qui lisez ce petit blog haut comme trois pommes, une très belle nouvelle année. Nous vous la souhaitons pleines de joies et de réussites. Et de tout ce que vous souhaitez d’autres d’ailleurs.
@@ -19,8 +20,5 @@ Une soirée de jour de l’an digne d’une « war zone » pour clôturer l�
 2017, que nous réserves-tu ?
 Nous avons hâte de le découvrir.
 
-<div class="gallery">
-<img alt="Amsterdam en Décembre - Jour de l'an" src="./images/2017-01-05-dnew-year-2017-01-01-01.jpg" title="31 Décembre 2016">
+<img alt="Amsterdam en Décembre - Jour de l'an" src="./images/2017-01-05-dnew-year-2017-01-01-01.jpg" title="31 Décembre 2016" />
 <img alt="2017-01-05-dnew-year-2017-01-01-00.jpg" src="./images/2017-01-05-dnew-year-2017-01-01-00.jpg">
-</div>
-

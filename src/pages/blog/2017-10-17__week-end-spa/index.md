@@ -1,8 +1,9 @@
 ---
-title: "Week-end SPA aux Pays-Bas. #26"
-hero: "./images/2017.10.17-week-end-spa-cover.jpg"
-excerpt: "Il y a deux semaines de cela, nous avions prévu de passer le week-end dans le Sud oriental des Pays-Bas, à Sittard. Non pas que le lieu en lui-même est grand-chose de très attractif, mais nous souhaitions simplement aller au spa, histoire de faire une pause détente le temps d’un week-end. Pourquoi aller si loin"
+title: 'Week-end SPA aux Pays-Bas. #26'
+hero: './images/2017.10.17-week-end-spa-cover.jpg'
+excerpt: 'Il y a deux semaines de cela, nous avions prévu de passer le week-end dans le Sud oriental des Pays-Bas, à Sittard. Non pas que le lieu en lui-même est grand-chose de très attractif, mais nous souhaitions simplement aller au spa, histoire de faire une pause détente le temps d’un week-end. Pourquoi aller si loin'
 ---
+
 Il y a deux semaines de cela, nous avions prévu de passer le week-end dans le Sud oriental des Pays-Bas, à Sittard. Non pas que le lieu en lui-même est grand-chose de très attractif, mais nous souhaitions simplement aller au spa, histoire de faire une pause détente le temps d’un week-end.
 
 Pourquoi aller si loin me direz-vous ? Aucune apparente. Simplement pour l’aspect dépaysant de faire deux heures de route à travers les Pays-Bas.
@@ -40,7 +41,7 @@ _Pour autant, bien que cette expérience ne nous a pas tués, et que c'est bien 
 
 _Ps: Je m’excuse du manque de photos, mais les SPA étant sans maillots, il est bien évident, pour des raisons de respect que les photos étaient interdites. De toute façon, aucun appareil électronique n’était autorisé dans l’enceinte du spa. Pas même les liseuses. 🙂_
 
-<div class="gallery">
+<gallery>
 <img alt="2017.10.17-week-end-spa-01.png" src="./images/2017.10.17-week-end-spa-01.png">
 <img alt="2017.10.17-week-end-spa-02.png" src="./images/2017.10.17-week-end-spa-02.png">
 <img alt="2017.10.17-week-end-spa-03.png" src="./images/2017.10.17-week-end-spa-03.png">
@@ -51,5 +52,4 @@ _Ps: Je m’excuse du manque de photos, mais les SPA étant sans maillots, il es
 <img alt="2017.10.17-week-end-spa-09.jpg" src="./images/2017.10.17-week-end-spa-09.jpg">
 <img alt="2017.10.17-week-end-spa-10.jpg" src="./images/2017.10.17-week-end-spa-10.jpg">
 <img alt="2017.10.17-week-end-spa-11.jpg" src="./images/2017.10.17-week-end-spa-11.jpg">
-</div>
-
+</gallery>

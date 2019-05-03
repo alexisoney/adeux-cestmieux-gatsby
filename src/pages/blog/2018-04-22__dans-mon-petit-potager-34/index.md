@@ -1,15 +1,16 @@
 ---
-title: "Dans mon petit potager #34"
-hero: "./images/03-1.jpg"
-excerpt: "Il fait tellement beau en ce moment que je passe mes week-ends sur le balcon, alternant entre lecture, bronzette & jardinage. C’est d’ailleurs assez exceptionnel. Les températures sont dignes d’un beau mois de juillet mais malheureusement, la météo des prochains jours annoncent un retour de la fraîcheur et des nuages. Lors de notre retour en"
+title: 'Dans mon petit potager #34'
+hero: './images/03-1.jpg'
+excerpt: 'Il fait tellement beau en ce moment que je passe mes week-ends sur le balcon, alternant entre lecture, bronzette & jardinage. C’est d’ailleurs assez exceptionnel. Les températures sont dignes d’un beau mois de juillet mais malheureusement, la météo des prochains jours annoncent un retour de la fraîcheur et des nuages. Lors de notre retour en'
 ---
+
 Il fait tellement beau en ce moment que je passe mes week-ends sur le balcon, alternant entre lecture, bronzette & jardinage. C’est d’ailleurs assez exceptionnel. Les températures sont dignes d’un beau mois de juillet mais malheureusement, la météo des prochains jours annoncent un retour de la fraîcheur et des nuages.
 
 Lors de notre retour en France, nous avions profité de la voiture pour passer dans une jardinerie et faire le plein de terreaux, engrais et semis ! Les gelées se faisant désormais de plus en plus rare dans nos régions et les jours rallongeant, le printemps est la période idéale pour redonner vie à un balcon, une terrasse ou même un jardin pour les chanceux. C’est pour ma part ce que je me suis amusée à faire ces derniers week-ends et je me suis dit que je pourrais partager avec vous mes petites plantations, sait-on jamais si cela peut vous inspirer à faire la même chose ! 🙂
 
 ---
 
-Changement notable cette année pour notre balcon : le gain de lumière. Souvenez-vous(/balcon/), une de nos voisines possédait un énorme if mesurant plus de 6 mètres de haut, qui abritait une partie de notre balcon à l’ombre, mais aussi du regard des voisins d’en face. Cette année, en février, elle a tenu à le faire enlever, ce qui a eu pour conséquence de doubler le temps d’ensoleillement de notre balcon ! En plus de cela, nous avons décidé d’enlever le brise-vu qui était bien abîmé par le temps, la pluie et le vent. Désormais, en ce moment, le balcon est ensoleillé de 7-8h, lorsque le soleil se lève et sort de derrière les bâtiments en face, jusqu’à presque 13h, ce qui est tout à fait correcte pour en profiter le matin en week-end et les plantes du balcon baignent dans d’avantage de lumière même en étant posée sur le sol.
+Changement notable cette année pour notre balcon : le gain de lumière. Souvenez-vous [ici](balcon/), une de nos voisines possédait un énorme if mesurant plus de 6 mètres de haut, qui abritait une partie de notre balcon à l’ombre, mais aussi du regard des voisins d’en face. Cette année, en février, elle a tenu à le faire enlever, ce qui a eu pour conséquence de doubler le temps d’ensoleillement de notre balcon ! En plus de cela, nous avons décidé d’enlever le brise-vu qui était bien abîmé par le temps, la pluie et le vent. Désormais, en ce moment, le balcon est ensoleillé de 7-8h, lorsque le soleil se lève et sort de derrière les bâtiments en face, jusqu’à presque 13h, ce qui est tout à fait correcte pour en profiter le matin en week-end et les plantes du balcon baignent dans d’avantage de lumière même en étant posée sur le sol.
 
 ---
 
@@ -20,8 +21,6 @@ J’ai ce souvenir d’enfance dans lequel je m’amusais à planter des graines
 Nous avons donc acheté des graines de radis Flamboyant 5, qui sont une espèce à développement rapide et facile et relativement peu piquante en goût. Je les ai semés mi-avril, environ 10-15 jours plus tard, ils sont déjà bien sortis et les fanes commencent à sortir. J’ai malheureusement fait une petite erreur lors du semis. J’ai semé les graines “à la volée” ce qui a eu pour conséquence de les disposer de manière TRÈS aléatoire. J’aurais dû les planter en rangs déjà espacés pour éviter de devoir “éclaircir” les plantes = en retirer beaucoup pour que chaque plant possède un espace suffisant a son développement. Autrement, le radis ne grossira jamais.
 
 J’en ai repiqué certain dans les endroits où il n’y avait pas de graine. On verra bien ce que cela donnera. Il me reste encore pas mal de graines dans le sachet et je ferais certainement une seconde plantation après la récolte de celle-ci, en prenant, cette fois-ci, le soin de bien les espacer 🙂
-
----
 
 <img alt="04-1.jpg" src="./images/04-1.jpg">
 

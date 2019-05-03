@@ -1,8 +1,9 @@
 ---
-title: "Fall in Love with Bath."
-hero: "./images/roman_bath_02.jpg"
-excerpt: "Les longs week-ends sont faits pour s’évader de notre quotidien ! Pour ce premier long week-end néerlandais, nous avions prévu de nous rendre dans la ville de Bath, en Angleterre, afin de faire un coucou à Claire-Lise, tout en profitant et visitant cette ville, dont, je l’avoue, je n’avais jamais entendu parlé avant. Nous sommes"
+title: 'Fall in Love with Bath.'
+hero: './images/roman_bath_02.jpg'
+excerpt: 'Les longs week-ends sont faits pour s’évader de notre quotidien ! Pour ce premier long week-end néerlandais, nous avions prévu de nous rendre dans la ville de Bath, en Angleterre, afin de faire un coucou à Claire-Lise, tout en profitant et visitant cette ville, dont, je l’avoue, je n’avais jamais entendu parlé avant. Nous sommes'
 ---
+
 _Les longs week-ends sont faits pour s’évader de notre quotidien !_
 
 Pour ce premier long week-end néerlandais, nous avions prévu de nous rendre dans la ville de Bath, en Angleterre, afin de faire un coucou à Claire-Lise, tout en profitant et visitant cette ville, dont, je l’avoue, je n’avais jamais entendu parlé avant. Nous sommes partis samedi matin, assez tôt, et revenu lundi soir en fin, fin de journée. Nous avons volé jusqu’à Bristol pour ensuite prendre un bus (environ 1h) amenant directement dans le centre-ville de Bath, depuis l’aéroport.
@@ -21,24 +22,19 @@ La visite débute par la terrasse surplombant le Grand Bain pour ensuite aller �
 
 J’ai été assez impressionnée par l’ingéniosité des Romains qui construisaient, déjà à leur époque, des tuyaux en plombs et ont ainsi créé tout un système de canalisations de transport de l'eau chaude. Je retiens particulière les salles chauffées grâce au “pilae”, le système de chauffage de l’époque : sous le sol, étaient ainsi disposées des piles de tuiles à travers lesquelles l’air chaud, chauffé par la source, circulait. La visite du site archéologique est somme-toute assez longue, mais je l’ai trouvé riche d’informations, d’autant plus que cette période de l’histoire, avec la mythologie grecque, me fascine beaucoup.
 
----
-
-<div id="attachment_543" style="width: 1034px" class="wp-caption aligncenter">
 <img alt="roman_bath_02.jpg" src="./images/roman_bath_02.jpg">
 
-Clique pour aggrandir 🙂</div>
+Clique pour aggrandir 🙂
 
+<gallery>
 <img alt="roman_bath_01.jpg" src="./images/roman_bath_01.jpg">
-
 <img alt="roman_bath_04.jpg" src="./images/roman_bath_04.jpg">
-
 <img alt="roman_bath_03.jpg" src="./images/roman_bath_03.jpg">
+</gallery>
 
 ---
 
 Nous enchaînons avec la visite du musée de la mode qui retrace plus de 500 ans de mode à l’aide de 100 pièces ou objets de mode. C’est toujours drôle de revoir les robes d’époque, tellement différent de ce que l’on porte aujourd’hui. Pour les plus enjoué, il est même possible d’essayer quelques modèles à la fin de la visite 😉
-
----
 
 **Architecture & Patrimoine**
 En dehors des visites, Claire-Lise nous a fait découvrir la ville et son architecture remarquable ! Bath est un vrai musée à ciel ouvert.
@@ -47,36 +43,25 @@ L’abbaye de Bath, par exemple, est un joyau de l’architecture gothique avec 
 
 Nous avons aussi flâné dans le reste de la ville, et bien-sûr nous avons traversé le très mignon Pulteney Bridge, rappelant, à sa manière, le Ponte Vecchio à Florence. Malheureusement, dû à la crue de la rivière Avon, nous n’avons pas réellement pu admirer la “cascade » d’eau en escalier sous le pont.
 
----
-
+<gallery>
 <img alt="royal_crescent_02.jpg" src="./images/royal_crescent_02.jpg">
-
 <img alt="royal_crescent_01.jpg" src="./images/royal_crescent_01.jpg">
-
 <img alt="architecture_bath_04.jpg" src="./images/architecture_bath_04.jpg">
-
 <img alt="architecture_bath_02.jpg" src="./images/architecture_bath_02.jpg">
-
 <img alt="architecture_bath_01.jpg" src="./images/architecture_bath_01.jpg">
-
 <img alt="architecture_bath_03.jpg" src="./images/architecture_bath_03.jpg">
-
 <img alt="abbaye_bath_01.jpg" src="./images/abbaye_bath_01.jpg">
-
 <img alt="jardin_bath_01.jpg" src="./images/jardin_bath_01.jpg">
-
----
+</gallery>
 
 **Hotel & Bonnes addresses**
 Nous sommes restés à l’Apex Hôtel pour les deux nuits, et nous ne pouvons que le recommander. L’hôtel est flambant neuf et la chambre était agréablement confortable. Je me suis octroyé le plaisir de prendre un bon bain chaud dans la grande baignoire (avec Oliver lol) après nos deux premières journées dans le froid et la pluie, parfois. (Alexis ne saurait dire le contraire, j’adore prendre des bains - mon péché mignon). Le lit était vraiment méga grand, c’est à s’y perdre sous les draps, et surtout très confortable ; nous avons dormi comme des bébés. Enfin, nous avons eu la jolie surprise aussi de trouver un chocolat de Pâques à notre arrivée. Vraiment parfait !
 
+<gallery>
 <img alt="hotel_bath_03.jpg" src="./images/hotel_bath_03.jpg">
-
 <img alt="hotel_bath_02.jpg" src="./images/hotel_bath_02.jpg">
-
 <img alt="hotel_bath_01.jpg" src="./images/hotel_bath_01.jpg">
-
----
+</gallery>
 
 Nous avons aussi, par simplicité au départ, et par envie la seconde fois, mangés les deux soirs au restaurant de l’hôtel. C’était vraiment délicieux et nous avons eu le droit à un super accueil ! Mon seul petit regret serait d’avoir oublié les maillots de bain et de ne pas avoir pu profiter de la piscine et du spa au niveau -1. Mais, nous n’étions pas là pour ça non plus. 😉
 

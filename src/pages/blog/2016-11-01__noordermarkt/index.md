@@ -1,8 +1,9 @@
 ---
-title: "Le Noordermarkt, le marché bio du Jordaan #10"
-hero: "./images/2016-11-01-noordermarkt-noordermarkt-4.jpg"
-excerpt: "Après avoir fait le tour des supermarchés aux alentours de la maison, il y avait une autre chose qui me tenait à coeur de découvrir : le marché. Faire le marché Sur Paris ou même sur Lyon, ce n’était vraiment pas une habitude pour nous de faire le marché. Sur Lyon, j’ai du m’y rendre"
+title: 'Le Noordermarkt, le marché bio du Jordaan #10'
+hero: './images/2016-11-01-noordermarkt-noordermarkt-4.jpg'
+excerpt: 'Après avoir fait le tour des supermarchés aux alentours de la maison, il y avait une autre chose qui me tenait à coeur de découvrir : le marché. Faire le marché Sur Paris ou même sur Lyon, ce n’était vraiment pas une habitude pour nous de faire le marché. Sur Lyon, j’ai du m’y rendre'
 ---
+
 Après avoir fait le tour des supermarchés aux alentours de la maison, il y avait une autre chose qui me tenait à coeur de découvrir : le marché.
 
 ## Faire le marché
@@ -19,20 +20,21 @@ Ici vous trouverez de tout. Des fruits et des légumes bio évidemment. Mais aus
 
 Pour ce premier jour de marché, nous avons décidé de tout acheter au même stand pour plus de facilité. Et, regarder moi ce beau panier frais de saison ! Bon, nous nous sommes permis de racheter encore quelques courgettes et aubergine, mais promis c’est la dernière fois ! Et ces courges ! Tellement grosses, tellement bonnes, tellement orange. Tellement peu chères (3 euros les deux grosse courges). C’est le premier stand que nous avons fait. Un stand rempli de courges, de toutes les tailles, de toutes les formes, de toutes les couleurs, de toutes les saveurs ! LE stand qui sent bon l’automne !
 
-<div class="gallery">
+<gallery>
 <img alt="2016-11-01-noordermarkt-noordermarkt-5.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-5.jpg">
 <img alt="2016-11-01-noordermarkt-noordermarkt-6.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-6.jpg">
 <img alt="2016-11-01-noordermarkt-noordermarkt-7.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-7.jpg">
 <img alt="2016-11-01-noordermarkt-noordermarkt-8.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-8.jpg">
-<img alt="2016-11-01-noordermarkt-noordermarkt-3.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-3.jpg" title="Toutes ces courges ❤️">
-<img alt="2016-11-01-noordermarkt-noordermarkt-2.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-2.jpg" title="Toutes ces courges bis ❤️">
-</div>
+<img alt="2016-11-01-noordermarkt-noordermarkt-3.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-3.jpg" title="Toutes ces courges ❤️" />
+<img alt="2016-11-01-noordermarkt-noordermarkt-2.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-2.jpg" title="Toutes ces courges bis ❤️" />
+</gallery>
 
-<div class="gallery">
-<img alt="2016-11-01-noordermarkt-noordermarkt-10.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-10.jpg" title="Panier 1">
-<img alt="2016-11-01-noordermarkt-noordermarkt-14.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-14.jpg" title="Panier 2 de la semaine d’après. Tout aussi bon et avec (caché derrière), du bon fromage Dutch 😉">
-<img alt="2016-11-01-noordermarkt-noordermarkt-12.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-12.jpg" title="Décadence total et saveur parfaitement de saison">
-<img alt="2016-11-01-noordermarkt-noordermarkt-11.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-11.jpg" title="Ma délicieuse tarte noix de pécan">
-<img alt="2016-11-01-noordermarkt-noordermarkt-13.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-13.jpg" title="Une recette toute simple pour cuisiner les champignons : des Portobello farcis">
-</div>
+En rentrant à la maison les sacs à dos remplis de bonnes choses, j’ai vraiment ce sentiment d’avoir fait quelque chose de bien et ça c’est quand même bien gratifiant. Quitte à changer de ville, autant aussi changer ses habitudes et ainsi commencer à aller au marché régulièrement pour acheter ses fruits et légumes. Et cela fait déjà trois semaines à la suite que nous y retournons. 🙂
 
+Pour finir, voici quelque images de deux plats cuisinés entre autres avec ces belles provisions :
+
+<img alt="2016-11-01-noordermarkt-noordermarkt-10.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-10.jpg" title="Panier 1" />
+<img alt="2016-11-01-noordermarkt-noordermarkt-14.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-14.jpg" title="Panier 2 de la semaine d’après. Tout aussi bon et avec (caché derrière), du bon fromage Dutch 😉" />
+<img alt="2016-11-01-noordermarkt-noordermarkt-12.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-12.jpg" title="Décadence total et saveur parfaitement de saison" />
+<img alt="2016-11-01-noordermarkt-noordermarkt-11.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-11.jpg" title="Ma délicieuse tarte noix de pécan" />
+<img alt="2016-11-01-noordermarkt-noordermarkt-13.jpg" src="./images/2016-11-01-noordermarkt-noordermarkt-13.jpg" title="Une recette toute simple pour cuisiner les champignons : des Portobello farcis" />

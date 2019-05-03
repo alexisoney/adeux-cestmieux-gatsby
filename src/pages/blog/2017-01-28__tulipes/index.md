@@ -1,8 +1,9 @@
 ---
-title: "National Tulip Day #16"
-hero: "./images/2017-01-28-tulipes-national-tulip-day-2017-19.jpg"
-excerpt: "Samedi 21 janvier, nous fêtions le National Tulip Day. Au Pays-Bas, il existe une chose qui n’existe nulle part ailleurs (je crois) : la journée de la Tulipe. Oui, au même titre que la journée de la femme ou encore la journée du câlin, ici nous avons aussi le privilège de fêter la journée nationale de"
+title: 'National Tulip Day #16'
+hero: './images/2017-01-28-tulipes-national-tulip-day-2017-19.jpg'
+excerpt: 'Samedi 21 janvier, nous fêtions le National Tulip Day. Au Pays-Bas, il existe une chose qui n’existe nulle part ailleurs (je crois) : la journée de la Tulipe. Oui, au même titre que la journée de la femme ou encore la journée du câlin, ici nous avons aussi le privilège de fêter la journée nationale de'
 ---
+
 Samedi 21 janvier, nous fêtions le National Tulip Day.
 
 Au Pays-Bas, il existe une chose qui n’existe nulle part ailleurs (je crois) : la journée de la Tulipe. Oui, au même titre que la journée de la femme ou encore la journée du câlin, ici nous avons aussi le privilège de fêter la journée nationale de la Tulipe. Cet évènement est plutôt récent puisqu’il a lieu chaque année le troisième week end du mois de janvier, depuis seulement janvier 2012. Cela se déroule à Dam Square, l’une des fameuse places d’Amsterdam. Durant cette journée spéciale dédiée à la fleur emblématique, un jardin éphémère composé de plus de 200 000 tulipes se dessine sur la place. L’installation dure toute une matinée, et à partir de 13h, le jardin ouvre et yous pouvez venir librement y récupérer les tulipes. Cette évènement célèbre donc l’ouverture de la saison des Tulipes aux Pays Bas. Non pas que vous trouverez dès ce jour des tulipes en fleurs dans les champs. Les tulipes en fleur à cette période étant généralement des tulipes cultivées sous serres pendant l’hiver, les champs étant réservés pour les bulbes plantés à l’automne d’avant. Mais dès de jour, vous trouverez d’avantage de Tulipes dans les magasins, sur les marchés et de nombreux fleuristes lancent leurs offres sur cette fleur si cher à la culture Dutch.
@@ -21,7 +22,7 @@ Ce n’est qu’une fois arrivé à la maison que nous nous rendons compte du vo
 
 En tout cas, après une semaine, les fleurs sont toujours en bonne états et même celles que nous avions cueillies fermées, ce sont ouvertes depuis ! La maison est bien fleuries mais je crois qu’après ça j’ai eu ma dose de tulipe pour un bon moment 🙂
 
-<div class="gallery">
+<gallery>
 <img alt="2017-01-28-tulipes-national-tulip-day-2017-16.jpg" src="./images/2017-01-28-tulipes-national-tulip-day-2017-16.jpg">
 <img alt="2017-01-28-tulipes-national-tulip-day-2017-7.jpg" src="./images/2017-01-28-tulipes-national-tulip-day-2017-7.jpg">
 <img alt="2017-01-28-tulipes-national-tulip-day-2017-15.jpg" src="./images/2017-01-28-tulipes-national-tulip-day-2017-15.jpg">
@@ -34,8 +35,6 @@ En tout cas, après une semaine, les fleurs sont toujours en bonne états et mê
 <img alt="2017-01-28-tulipes-national-tulip-day-2017-17.jpg" src="./images/2017-01-28-tulipes-national-tulip-day-2017-17.jpg">
 <img alt="2017-01-28-tulipes-national-tulip-day-2017-8.jpg" src="./images/2017-01-28-tulipes-national-tulip-day-2017-8.jpg">
 <img alt="2017-01-28-tulipes-national-tulip-day-2017-9.jpg" src="./images/2017-01-28-tulipes-national-tulip-day-2017-9.jpg">
-</div>
-
 <img alt="2017-01-28-tulipes-national-tulip-day-2017-4.jpg" src="./images/2017-01-28-tulipes-national-tulip-day-2017-4.jpg">
-
 <img alt="2017-01-28-tulipes-national-tulip-day-2017-5.jpg" src="./images/2017-01-28-tulipes-national-tulip-day-2017-5.jpg">
+</gallery>

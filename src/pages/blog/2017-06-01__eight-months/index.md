@@ -1,18 +1,17 @@
 ---
-title: "Huit mois à Amsterdam #19"
-hero: "./images/2017-06-01-eight-months-00_cover.jpg"
-excerpt: "Plus d’un mois s’est écoulé depuis notre dernier article. Que s’est t-il donc passé depuis dans notre Amsterdam adorée? 01 Après la visite de mes parents et des Silve, nous avons eu la chance de recevoir Amandine et David le temps d’un week end. Le temps fut encore meilleur que la semaine précédente et c’était"
+title: 'Huit mois à Amsterdam #19'
+hero: './images/2017-06-01-eight-months-00_cover.jpg'
+excerpt: 'Plus d’un mois s’est écoulé depuis notre dernier article. Que s’est t-il donc passé depuis dans notre Amsterdam adorée? 01 Après la visite de mes parents et des Silve, nous avons eu la chance de recevoir Amandine et David le temps d’un week end. Le temps fut encore meilleur que la semaine précédente et c’était'
 ---
+
 Plus d’un mois s’est écoulé depuis notre dernier article. Que s’est t-il donc passé depuis dans notre Amsterdam adorée?
 
 ## 01
 
 Après la visite de mes parents et des Silve, nous avons eu la chance de recevoir Amandine et David le temps d’un week end. Le temps fut encore meilleur que la semaine précédente et c’était on ne peut plus agréable que de pouvoir se balader, sans avoir ni trop chaud, ni trop froid. Nous avons beaucoup marché. Amsterdam West, Centrum, 9 Straat, Oud Zuid, et même un peu jusqu’à Amsterdam Oost. Nous avons aussi bien mangé et notre petite dégustation de fromages Dutch a fait son effet ;-).
 
-<div class="gallery">
 <img alt="2017-06-01-eight-months-01.jpg" src="./images/2017-06-01-eight-months-01.jpg">
 <img alt="2017-06-01-eight-months-02.jpg" src="./images/2017-06-01-eight-months-02.jpg">
-</div>
 
 ## 02
 

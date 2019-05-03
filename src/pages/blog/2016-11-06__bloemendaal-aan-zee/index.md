@@ -1,8 +1,9 @@
 ---
-title: "Virée à la mer. En vélo. Zandvoort. #11"
-hero: "./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-20.jpg"
-excerpt: "L’avantage d’en avoir finit avec l’école, c’est que désormais les week end semblent plus long et sont surtout plus riche en temps libre. Il y a deux week end de cela, nous avons donc sauté sur l’occasion de profiter de la météo clémente et avons décidé de passer notre dimanche à la plage. Oui oui,"
+title: 'Virée à la mer. En vélo. Zandvoort. #11'
+hero: './images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-20.jpg'
+excerpt: 'L’avantage d’en avoir finit avec l’école, c’est que désormais les week end semblent plus long et sont surtout plus riche en temps libre. Il y a deux week end de cela, nous avons donc sauté sur l’occasion de profiter de la météo clémente et avons décidé de passer notre dimanche à la plage. Oui oui,'
 ---
+
 L’avantage d’en avoir finit avec l’école, c’est que désormais les week end semblent plus long et sont surtout plus riche en temps libre. Il y a deux week end de cela, nous avons donc sauté sur l’occasion de profiter de la météo clémente et avons décidé de passer notre dimanche à la plage. Oui oui, à la plage. Nous nous sommes rendus à Bloemendaal Aan Zee, dont l’équivalent français serait le Touquet-Paris-Plage pour les Parisiens.
 
 ## Bloemendaal Aan Zee.
@@ -17,29 +18,38 @@ Nous atteignons enfin la plage de _Bloemendaal Aan Zee_ après 1h45 de temps pas
 
 Je crois que je pourrais rester des heures à observer la mer. C’est tellement ... _relaxant_. Nous décidons de repartir après quelques heures, l’esprit rafraîchit et détendu... Quand tout à coup, je me souviens des 26km à faire avant de pouvoir m’affaler dans mon canapé avec un plaid et une infusions bien chaude ... Aller, un coup de pédale donné, c’est un coup de pédale en moins à faire. Étonnamment, nous atteignons un peu plus rapidement la campagne qu’à l’aller et nous profitons une dernière fois de la lumière déclinante et les lacs environnants.
 
-<div class="gallery">
+<gallery>
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-4.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-4.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-8.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-8.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-9.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-9.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-DSC06642.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-DSC06642.jpg">
-</div>
+</gallery>
 
-<div class="gallery">
+**♪♪♪
+Avec la mer du Nord pour dernier terrain vague
+Et des vagues de dunes pour arrêter les vagues
+Et de vagues rochers que les marées dépassent
+Et qui ont à jamais le cœur à marée basse
+Avec infiniment de brumes à venir
+Avec le vent de l’est écoutez-le tenir
+Le plat pays qui est le mien ...
+♪♪♪**
+
+<gallery>
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-17.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-17.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-10.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-10.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-13.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-13.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-16.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-16.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-2.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-2.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-20.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-20.jpg">
-</div>
+</gallery>
 
 Ce fut un dimanche à la fois très fatiguant et très relaxant, mais ça en valait définitivement la peine, ou devrais-je dire, les coups de pédale ;-).
 _Un dimanche d’automne parfait avec un merveilleux temps d’automne où les rayons de soleils viennent vous réchauffer doucement le visage._
 
-<div class="gallery">
+<gallery>
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-23.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-23.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-22.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-22.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-Panorama.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-Panorama.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-DSC06658.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-DSC06658.jpg">
-</div>
-
+</gallery>

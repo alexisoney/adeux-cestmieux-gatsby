@@ -1,8 +1,9 @@
 ---
-title: "La journée « What the Fuck » #2"
-hero: "./images/2016-09-13-journee-what-the-fuck-01.jpg"
-excerpt: "Nous sommes seulement à notre deuxième jour sur place et pourtant, au moment ou j’écris (Clémence), j’ai l’impression que nous y sommes depuis plus d’une semaine. Nous ne faisons pas tant de grosses journées, dans le sens où nous nous permettons de nous lever après 8h. Pour autant, le fait de continuellement devoir s’exprimer en"
+title: 'La journée « What the Fuck » #2'
+hero: './images/2016-09-13-journee-what-the-fuck-01.jpg'
+excerpt: 'Nous sommes seulement à notre deuxième jour sur place et pourtant, au moment ou j’écris (Clémence), j’ai l’impression que nous y sommes depuis plus d’une semaine. Nous ne faisons pas tant de grosses journées, dans le sens où nous nous permettons de nous lever après 8h. Pour autant, le fait de continuellement devoir s’exprimer en'
 ---
+
 Nous sommes seulement à notre deuxième jour sur place et pourtant, au moment ou j’écris (Clémence), **j’ai l’impression que nous y sommes depuis plus d’une semaine.** Nous ne faisons pas tant de grosses journées, dans le sens où nous nous permettons de nous lever après 8h. Pour autant, le fait de continuellement devoir s’exprimer en anglais avec les gens, de marcher énormément pour se déplacer (j’ai bien hâte d’avoir un vélo !), la chaleur assez accablante mais aussi le fait d’être toujours dans la découverte (nouvelles rues, nouveaux magasins, nouvel arrêt de Tram, nouvel appartement visité, ...), les journées sont exténuantes et je dors comme un bébé le soir.
 
 Cette deuxième journée passée à Amsterdam fut pleines de surprises et c’est pourquoi nous l’avons nommée « la journée What the Fuck ? » !
@@ -19,7 +20,7 @@ Pour éviter de couler au soleil, nous prenons le tram pour rejoindre le centre 
 
 <img alt="2016-09-13-journee-what-the-fuck-02.jpg" src="./images/2016-09-13-journee-what-the-fuck-02.jpg">
 
-## +31 6 21   **
+## +31 6 21 \*\*
 
 C’est après avoir fait 3 magasins Vodafone différents que **nous pouvons enfin dire que nous avons un numéro de téléphone DUTCH !** Youhou, nous commençons à quitter la case « touriste » pour la case « local » ! C’est pour l’instant une simple carte pré-payée mais lorsque nous aurons un logement, un BSN et un compte en banque, nous pourrons garder le même numéro cette fois-ci avec un véritable abonnement. Ce sera désormais plus simple pour nous de joindre des agences / propriétaires et inversement.
 
@@ -30,15 +31,16 @@ Le gars semble content de notre décision et commence à nous parler du loyer et
 
 On a eu peur pendant un moment que le gars devienne violent mais il n’a pas trop insisté et nous a laissé partir sans soucis.
 Après coup en y repensant, il y avait plusieurs incohérence dans son discours :
-- il le loue soi-disant en attendant sur Airbnb mais nous ne l’avons pas trouvé,
-- il dit être propriétaire et le loue car il a repris ses études, à besoin d’argent et à décider d’habiter avec sa copine. Pourquoi aller payer un deuxième loyer ?
-- Dès le premier contact par message, il avait mis en place une forme de pression « you need to decide fast » et cela aurait du nous alerter tout de suite.
-Qu’à cela ne tienne, nous le saurons pour la prochaine fois et le principal reste que nous ayons toujours nous 500 euros dans notre compe en banque et pas le sien. Pour évacuer la montée d’adrenaline, nous marchons jusqu’à mon agence, que je n’ai encore jamais vue en vrai ! Les bâtiments ont l’air super jolis vu de l’extérieur !
 
-<div class="gallery">
-<img alt="2016-09-13-journee-what-the-fuck-04.jpg" src="./images/2016-09-13-journee-what-the-fuck-04.jpg" title="Le pesto à la perfection ! #gluten">
-<img alt="2016-09-13-journee-what-the-fuck-03.jpg" src="./images/2016-09-13-journee-what-the-fuck-03.jpg" title="Les délicieux jus de légume de The Cold Pressed Juicery">
-</div>
+- il le loue soi-disant en attendant sur Airbnb mais nous ne l’avons pas trouvé,
+
+- il dit être propriétaire et le loue car il a repris ses études, à besoin d’argent et à décider d’habiter avec sa copine. Pourquoi aller payer un deuxième loyer ?
+
+- Dès le premier contact par message, il avait mis en place une forme de pression « you need to decide fast » et cela aurait du nous alerter tout de suite.
+  Qu’à cela ne tienne, nous le saurons pour la prochaine fois et le principal reste que nous ayons toujours nous 500 euros dans notre compe en banque et pas le sien. Pour évacuer la montée d’adrenaline, nous marchons jusqu’à mon agence, que je n’ai encore jamais vue en vrai ! Les bâtiments ont l’air super jolis vu de l’extérieur !
+
+<img alt="2016-09-13-journee-what-the-fuck-04.jpg" src="./images/2016-09-13-journee-what-the-fuck-04.jpg" title="Le pesto à la perfection ! #gluten" />
+<img alt="2016-09-13-journee-what-the-fuck-03.jpg" src="./images/2016-09-13-journee-what-the-fuck-03.jpg" title="Les délicieux jus de légume de The Cold Pressed Juicery" />
 
 ## Salvatorica
 

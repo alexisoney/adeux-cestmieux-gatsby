@@ -1,23 +1,24 @@
 ---
-title: "Amsterdam Light Festival 2018 - 2019"
-hero: "./images/MG_3950.jpg"
-excerpt: "L’Amsterdam Light Festival — Festival de Lumière d’Amsterdam — a lieu chaque année de mi-Novembre à mi-janvier. Prenant son inspiration de la célèbre Fête des Lumières lyonnaise, ce festival est devenu un événement très populaire et très attendu dans la capitale néerlandaise, avec plus de 900 000 visiteurs pour l’édition 2017-2018. Cette année l’Amsterdam Light"
+title: 'Amsterdam Light Festival 2018 - 2019'
+hero: './images/MG_3950.jpg'
+excerpt: 'L’Amsterdam Light Festival — Festival de Lumière d’Amsterdam — a lieu chaque année de mi-Novembre à mi-janvier. Prenant son inspiration de la célèbre Fête des Lumières lyonnaise, ce festival est devenu un événement très populaire et très attendu dans la capitale néerlandaise, avec plus de 900 000 visiteurs pour l’édition 2017-2018. Cette année l’Amsterdam Light'
 ---
-[**L’Amsterdam Light Festival**](https://amsterdamlightfestival.com/en) — Festival de Lumière d’Amsterdam — a lieu chaque année de mi-Novembre à mi-janvier. Prenant son inspiration de la célèbre Fête des Lumières lyonnaise, ce festival est devenu un événement très populaire et très attendu dans la capitale néerlandaise, avec plus de 900 000 visiteurs pour l’édition 2017-2018.
 
-Cette année**l’Amsterdam Light Festival** revient illuminer la ville et ses canaux du 29 Novembre 2018 au 20 janvier 2019. Retour sur cet événement haut en couleurs !
+**[L’Amsterdam Light Festival](https://amsterdamlightfestival.com/en)** — Festival de Lumière d’Amsterdam — a lieu chaque année de mi-Novembre à mi-janvier. Prenant son inspiration de la célèbre Fête des Lumières lyonnaise, ce festival est devenu un événement très populaire et très attendu dans la capitale néerlandaise, avec plus de 900 000 visiteurs pour l’édition 2017-2018.
+
+Cette année **l’Amsterdam Light Festival** revient illuminer la ville et ses canaux du 29 Novembre 2018 au 20 janvier 2019. Retour sur cet événement haut en couleurs !
 
 <img alt="Amsterdam Light Festival" src="./images/Opbouw-ALF-2018-dag-4-Copyright-Janus-van-den-Eijnden-62-spider-HEADERS2018.jpg">
 
 ## L’Amsterdam Light Festival : petite histoire
 
-Ce festival a vu le jour pour la première fois en 2012, et depuis, chaque édition est un véritable succès. Pour la 7e édition, des artistes ont été conviés à réfléchir autour du thème **“The Medium is the Message”** ; _Le Support / moyen de communication est le message_, d’après une citation du scientifique canadien Marshall McLuhan. Ce thème questionne alors le rôle de la lumière dans notre communication ; _le support de communication ne serait-il pas aussi important que le message lui-même ?_ ; avec Amsterdam pour terrain de jeu central de cette réflexion. Avec ses installations, c’est un véritable regard différent sur la ville que nous propose l’Amsterdam Light Festival ! 
+Ce festival a vu le jour pour la première fois en 2012, et depuis, chaque édition est un véritable succès. Pour la 7e édition, des artistes ont été conviés à réfléchir autour du thème **“The Medium is the Message”** ; _Le Support / moyen de communication est le message_, d’après une citation du scientifique canadien Marshall McLuhan. Ce thème questionne alors le rôle de la lumière dans notre communication ; _le support de communication ne serait-il pas aussi important que le message lui-même ?_ ; avec Amsterdam pour terrain de jeu central de cette réflexion. Avec ses installations, c’est un véritable regard différent sur la ville que nous propose l’Amsterdam Light Festival !
 
-> _The role of light in conveying a message and the city of Amsterdam as a medium for telling stories are central to this edition._
+> The role of light in conveying a message and the city of Amsterdam as a medium for telling stories are central to this edition.
 
 Un comité de sélection décide des 30 oeuvres présentées pour la première lors de l’Amsterdam Light Festival. Dès la tombée de la nuit, vous pourrez alors découvrir 30 installations lumineuses spécialement créées par des artistes, designers ou architectes contemporains internationaux.
 
-<img alt="Amsterdam Light Festival" src="./images/Deze-editie-kunstwerken21.jpg" title="Source : Site officiel">
+<img alt="Amsterdam Light Festival" src="./images/Deze-editie-kunstwerken21.jpg" title="Source : Site officiel" />
 
 ## Les installations de l'Amsterdam Light Festival
 
@@ -55,7 +56,7 @@ Pour des visites 100% française mais toujours pleines de bonnes anecdotes néer
 
 Nous vous souhaitons une belle découverte. N'hésitez pas à faire part de vos retours en commentaires, nous nous feront un plaisir de les lire.
 
-Enfin, si vous venez visiter Amsterdam en décembre, sachez que la ville regorge d’activités. Vous pouvez retrouver notre sélection dans cet article : [Amsterdam en Décembre : Que voir, que faire ?](/amsterdam-en-decembre-que-voir-que-faire/)
+Enfin, si vous venez visiter Amsterdam en décembre, sachez que la ville regorge d’activités. Vous pouvez retrouver notre sélection dans cet article : [Amsterdam en Décembre : Que voir, que faire ?](amsterdam-en-decembre-que-voir-que-faire/)
 
 Passez de belles fêtes.
 

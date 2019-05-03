@@ -1,8 +1,9 @@
 ---
-title: "Londres baby!"
-hero: "./images/27.12.2017-cover.jpg"
-excerpt: "Hello la compagnie & joyeuses fêtes ! On se retrouve aujourd’hui pour un nouvel épisode de “Où partons-nous ce week-end ?”. Cette foi-ci, c’est à Londres que nous nous sommes rendus au début du mois de décembre. C’était une première pour tous les deux. Enfin, moi non pas vraiment, j’y étais allée passer une après-midi lors d’un"
+title: 'Londres baby!'
+hero: './images/27.12.2017-cover.jpg'
+excerpt: 'Hello la compagnie & joyeuses fêtes ! On se retrouve aujourd’hui pour un nouvel épisode de “Où partons-nous ce week-end ?”. Cette foi-ci, c’est à Londres que nous nous sommes rendus au début du mois de décembre. C’était une première pour tous les deux. Enfin, moi non pas vraiment, j’y étais allée passer une après-midi lors d’un'
 ---
+
 Hello la compagnie & **joyeuses fêtes** !
 
 On se retrouve aujourd’hui pour un nouvel épisode de _“Où partons-nous ce week-end ?”_. Cette foi-ci, c’est à **Londres** que nous nous sommes rendus au début du mois de décembre.
@@ -21,9 +22,7 @@ Je vous laisse sur ces quelques photos qui tentent, tant bien que mal, de retran
 
 **♥**
 
----
-
-<div class="gallery">
+<gallery>
 <img alt="27.12.2017-01.jpg" src="./images/27.12.2017-01.jpg">
 <img alt="27.12.2017-02.jpg" src="./images/27.12.2017-02.jpg">
 <img alt="27.12.2017-03.jpg" src="./images/27.12.2017-03.jpg">
@@ -31,5 +30,4 @@ Je vous laisse sur ces quelques photos qui tentent, tant bien que mal, de retran
 <img alt="27.12.2017-05.jpg" src="./images/27.12.2017-05.jpg">
 <img alt="27.12.2017-06.jpg" src="./images/27.12.2017-06.jpg">
 <img alt="27.12.2017-07.jpg" src="./images/27.12.2017-07.jpg">
-</div>
-
+</gallery>

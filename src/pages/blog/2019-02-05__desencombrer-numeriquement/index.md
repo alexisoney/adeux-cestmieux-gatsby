@@ -1,8 +1,9 @@
 ---
-title: "Désencombrer numériquement"
-hero: "./images/MG_4423.jpg"
-excerpt: "Ecrit par Alexis cette fois-ci... Vous vous êtes déjà créé un dossier “A trier” sans jamais vous en être occupé ? Fait la remarque que votre téléphone n’a bientôt plus de place ? Bienvenue au club ! Cela fait 15 ans que je rempli ma vie de fichiers numériques, sans jamais vraiment prendre le temps"
+title: 'Désencombrer numériquement'
+hero: './images/MG_4423.jpg'
+excerpt: 'Ecrit par Alexis cette fois-ci... Vous vous êtes déjà créé un dossier “A trier” sans jamais vous en être occupé ? Fait la remarque que votre téléphone n’a bientôt plus de place ? Bienvenue au club ! Cela fait 15 ans que je rempli ma vie de fichiers numériques, sans jamais vraiment prendre le temps'
 ---
+
 _Ecrit par Alexis cette fois-ci..._
 
 Vous vous êtes déjà créé un dossier _“A trier”_ sans jamais vous en être occupé ? Fait la remarque que votre téléphone n’a bientôt plus de place ?
@@ -13,7 +14,7 @@ Mais si au lieu de trier, on désencombrait ? Supprimer des fichiers... pour mie
 
 ## Comment j’en suis venu au désencombrement numérique
 
-Suite à notre phase de désencombrement physique expliqué dans l’article [Désencombrer pour mieux ranger – Nos 5 conseils](/desencombrer-nos-5-conseils/), une grosse étape m’attendait : jeter l’ordinateur que je n’avais pas allumer depuis des mois, si ce n’est pas une année !
+Suite à notre phase de désencombrement physique expliqué dans l’article [Désencombrer pour mieux ranger – Nos 5 conseils](desencombrer-nos-5-conseils/), une grosse étape m’attendait : jeter l’ordinateur que je n’avais pas allumer depuis des mois, si ce n’est pas une année !
 
 La galère ! Il va falloir l’allumer, regarder ce qu’il y a dedans, mettre sur un disque dur tout ce qu’il contient... Et idéalement trier tous ces vieux fichiers ! Ou pas ? Je peux juste tout rapatrier, mettre dans un coin, et voir plus tard. Plus simple sur le coup.
 
@@ -90,7 +91,7 @@ Du coup, voici quelques pistes où un ménage peut s’avérer bénéfique :
 
 Commençons facile :
 
-Attaquez vous à ce qui semble le plus logique à supprimer avant de vous attaquer aux choses les plus sentimentales. 
+Attaquez vous à ce qui semble le plus logique à supprimer avant de vous attaquer aux choses les plus sentimentales.
 
 Choisir quelle photo vous allez choisir sur les 20 prises en mode rafale, ça peut prendre du temps, et dans une optique de bon départ, ça ralenti pour pas grand chose. Pour cela, j’ai une méthodologie juste après.
 
@@ -154,8 +155,8 @@ Ca me rappelle qu’il faut que je fasse attention à faire rentrer moins de cho
 
 #### Désencombrer pour mieux ranger :
 
-- [Partie 1 — Nos 5 conseils pour désencombrer](/desencombrer-nos-5-conseils/)
-- Partie 2 — Aller plus loin ; le désencombrement numérique
+- [Partie 1 — Nos 5 conseils pour désencombrer](desencombrer-nos-5-conseils/)
+- [Partie 2 — Aller plus loin ; le désencombrement numérique](desencombrer-numeriquement)
 - Partie 3 — Mon approche de la penderie minimaliste (à venir)
 
-<img alt="Désencombrer numériquement Minimalisme Digital" src="./images/Artboard-16.png" title="Visuel Pinterest à partager">
+<img alt="Désencombrer numériquement Minimalisme Digital" src="./images/Artboard-16.png" title="Visuel Pinterest à partager" />

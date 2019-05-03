@@ -1,8 +1,9 @@
 ---
-title: "Septembre Back to School #37"
-hero: "./images/septembre_rentree_2018_a.jpg"
-excerpt: "Bonjour à tous, bonjour Septembre, Après une pause estivale sur le blog, tout de même méritée, nous reprenons les bonnes habitudes d’écriture en ce mois de Septembre. Nous avons eu un bel et chaud été et plutôt bien rempli ! Ma soeur chérie est venue nous rendre visite quelques jours en juillet. Mes parents, ma"
+title: 'Septembre Back to School #37'
+hero: './images/septembre_rentree_2018_a.jpg'
+excerpt: 'Bonjour à tous, bonjour Septembre, Après une pause estivale sur le blog, tout de même méritée, nous reprenons les bonnes habitudes d’écriture en ce mois de Septembre. Nous avons eu un bel et chaud été et plutôt bien rempli ! Ma soeur chérie est venue nous rendre visite quelques jours en juillet. Mes parents, ma'
 ---
+
 Bonjour à tous, bonjour Septembre,
 
 Après une pause estivale sur le blog, tout de même méritée, nous reprenons les bonnes habitudes d’écriture en ce mois de Septembre.
@@ -13,7 +14,9 @@ Nous avons encore quelques petits week-ends de prévus avant la fin de l'année,
 
 Et puis, je l’aime bien, moi, le **mois de Septembre**. Le mois de la rentrée. Le mois qui laisse doucement place à l’une de mes saisons favorites, **l’automne**. Ne vous méprenez pas, j’aime l’été. J’ai même adoré nos journées farniente en Sardaigne. Mais la saison d’automne a ce petit truc en plus que les autres n’ont pas. Ce besoin de vouloir à nouveau s’emmitoufler dans des gros pulls. Cette lumière si particulière en fin de journée. Et ces couleurs si belles dont se parent à nouveau les arbres. Oui, le mois de Septembre est un beau mois, n’en déplaise au “beach people” ! De toute façon, c’est bien simple, je fais partie de ces gens qui adore la rentrée. Cela a beau faire 3 ans maintenant que je n’en ai pas eu de véritable, j’ai toujours un élan d’excitation quant à l’approche du 1er septembre et ce sentiment de nouveau départ allant avec. Je trouve ça même carrément plus fort que le passage à la nouvelle année !
 
----
+<img alt="Drinking tea at home while working during September" src="./images/septembre_rentree_2018_b.jpg">
+
+Cozy Home Office
 
 ## Au programme sur le blog
 

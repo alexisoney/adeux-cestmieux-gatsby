@@ -1,8 +1,9 @@
 ---
-title: "À la faveur de l’automne. #27"
-hero: "./images/2017-10-24-amsterdamsebos-cover.jpg"
-excerpt: "10:00 Je n’ai pas encore envie d’ouvrir les yeux. Non j’attends encore un peu. On est si bien sous la couette, lorsque le lit est encore chaud et si douillet. J’en profite. C’est si doux, pour une fois, de ne pas avoir de réveil. C’est que, nous étions bien fatigués tous les deux. Après ce"
+title: 'À la faveur de l’automne. #27'
+hero: './images/2017-10-24-amsterdamsebos-cover.jpg'
+excerpt: '10:00 Je n’ai pas encore envie d’ouvrir les yeux. Non j’attends encore un peu. On est si bien sous la couette, lorsque le lit est encore chaud et si douillet. J’en profite. C’est si doux, pour une fois, de ne pas avoir de réveil. C’est que, nous étions bien fatigués tous les deux. Après ce'
 ---
+
 **10:00**
 Je n’ai pas encore envie d’ouvrir les yeux. Non j’attends encore un peu. On est si bien sous la couette, lorsque le lit est encore chaud et si douillet. J’en profite. C’est si doux, pour une fois, de ne pas avoir de réveil. C’est que, nous étions bien fatigués tous les deux. Après ce week-end et cette semaine marathon, je crois que l’on en avait vraiment besoin. C’est si doux. Encore quelques instants. C’est trop bon. J’ouvre un oeil. Puis l’autre. La lumière perce les rideaux, mais la chambre est encore sombre. Je sens la chaleur de son corps à mes côtés. Il est déjà réveillé depuis plusieurs instants. Comme toujours. Il me regarde, je lui souris. “Bonjour, tu as bien dormi ?”. Mes yeux lui répondent un grand oui tandis que mon corps est encore enveloppé de coton.
 
@@ -23,7 +24,7 @@ Mon petit canapé. Un livre dans une main. Un chocolat chaud au lait d’amande 
 
 **♥**
 
-<div class="gallery">
+<gallery>
 <img alt="2017-10-24-amsterdamsebos-01.jpg" src="./images/2017-10-24-amsterdamsebos-01.jpg">
 <img alt="2017-10-24-amsterdamsebos-02.jpg" src="./images/2017-10-24-amsterdamsebos-02.jpg">
 <img alt="2017-10-24-amsterdamsebos-03.jpg" src="./images/2017-10-24-amsterdamsebos-03.jpg">
@@ -31,5 +32,4 @@ Mon petit canapé. Un livre dans une main. Un chocolat chaud au lait d’amande 
 <img alt="2017-10-24-amsterdamsebos-05.jpg" src="./images/2017-10-24-amsterdamsebos-05.jpg">
 <img alt="2017-10-24-amsterdamsebos-06.jpg" src="./images/2017-10-24-amsterdamsebos-06.jpg">
 <img alt="2017-10-24-amsterdamsebos-07.jpg" src="./images/2017-10-24-amsterdamsebos-07.jpg">
-</div>
-
+</gallery>
