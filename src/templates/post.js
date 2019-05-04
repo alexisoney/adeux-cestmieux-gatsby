@@ -1,13 +1,32 @@
 import React from 'react';
+import styled from 'styled-components';
 import {graphql} from 'gatsby';
 import {Helmet} from 'react-helmet';
 import siteMetadata from '../constant/siteMetadata';
+import {colors} from '../constant/style';
 import Layout from '../layouts/layout';
 import FeaturedArticles from '../components/FeaturedArticles';
 import prettyText from '../utils/prettyText';
 import prettyDate from '../utils/prettyDate';
 import rehypeReact from 'rehype-react';
 import path from 'path';
+
+const Ending = styled.p`
+  margin: 8em 0 4em;
+  font-size: 0.75em;
+  text-align: center;
+  font-size: 12px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  &::before {
+    content: '';
+    display: block;
+    margin: 0 auto 1em;
+    height: 0.2em;
+    width: 4em;
+    background-color: ${colors.gamma};
+  }
+`;
 
 export default ({data}) => {
   const url = data.site.siteMetadata.siteUrl;
@@ -73,7 +92,7 @@ export default ({data}) => {
         />
         <meta property='og:description' content={post.frontmatter.excerpt} />
         <meta property='og:image' content={`${src}-1600w.jpeg`} />
-        <meta property='og:url' content={`${url}/${slug}/`} />
+        <meta property='og:url' content={`${url}/${slug}`} />
         <meta name='twitter:card' content='summary_large_image' />
         <meta property='og:site_name' content={siteMetadata.title} />
         <meta name='twitter:image:alt' content={slug} />
@@ -100,8 +119,9 @@ export default ({data}) => {
           {post.timeToRead} minute{post.timeToRead > 1 ? 's' : ''} de lecture
         </p>
         {renderAst(post.htmlAst)}
+        <Ending>End of Story</Ending>
       </main>
-      <FeaturedArticles url={url} posts={data.allMarkdownRemark.edges} fluid />
+      <FeaturedArticles title url={url} posts={data.allMarkdownRemark.edges} fluid />
     </Layout>
   );
 };
@@ -141,6 +161,7 @@ export const query = graphql`
           fields {
             category
             slug
+            date
           }
           frontmatter {
             title

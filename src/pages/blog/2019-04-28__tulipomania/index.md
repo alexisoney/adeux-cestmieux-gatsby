@@ -15,7 +15,7 @@ Ces derniers week-ends, nous avons eu de la visite. Nous avons donc profité de 
 
 <img alt="Champs de Tulipe Amsterdam" src="./images/MG_6488.jpg">
 
-Le mois d’avril est LE mois pour profiter des**champs de Tulipes aux Pays-Bas.** C’est une période très populaire et très connue des voyageurs. Au printemps, la visite des champs de tulipes mais aussi des jardins du _Keukenhof_ font parties des activités les plus favorites. D’ailleurs, n’hésitez pas à lire mon article pour en savoir plus sur le _(Keukenhof)[visiter-keukenhof-tulipes-pays-bas]_.
+Le mois d’avril est LE mois pour profiter des **champs de Tulipes aux Pays-Bas.** C’est une période très populaire et très connue des voyageurs. Au printemps, la visite des champs de tulipes mais aussi des jardins du _Keukenhof_ font parties des activités les plus favorites. D’ailleurs, n’hésitez pas à lire mon article pour en savoir plus sur le _[Keukenhof](/visiter-keukenhof-tulipes-pays-bas)_.
 
 Alexis et moi avions déjà visité le Keukenhof il y a deux ans avec mes parents, mais nous ne sommes encore jamais allés voir les champs aux alentours. **Voir les champs de Tulipes** faisait d’ailleurs parti de ma _Bucket list_ pour 2019. Et bien, c’est désormais chose faite ! ✅
 

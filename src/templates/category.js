@@ -8,10 +8,12 @@ import siteMetadata from '../constant/siteMetadata';
 
 const Title = styled.h1`
   text-align: center;
-  margin-left: 14px;
-  margin-right: 14px;
+  margin-left: auto;
+  margin-right: auto;
   ${breakingpoints.small} {
     font-size: 52px;
+    margin-left: 25px;
+    margin-right: 25px;
   }
 `;
 
@@ -23,6 +25,10 @@ const Excerpt = styled.p`
   padding: 0 20px;
   max-width: 640px;
   align-self: center;
+  ${breakingpoints.small} {
+    margin-left: 25px;
+    margin-right: 25px;
+  }
 `;
 
 const Category = ({title, excerpt, img, slug, data}) => {
@@ -33,8 +39,8 @@ const Category = ({title, excerpt, img, slug, data}) => {
         <meta name='description' content={excerpt} />
         <meta property='og:title' content={title} />
         <meta property='og:description' content={excerpt} />
-        <meta property='og:image' content={img} />
-        <meta property='og:url' content={`${data.site.siteMetadata.siteUrl}/${slug}/`} />
+        {img && <meta property='og:image' content={img} />}
+        <meta property='og:url' content={`${data.site.siteMetadata.siteUrl}/${slug}`} />
         <meta name='twitter:card' content='summary_large_image' />
         <meta property='og:site_name' content={siteMetadata.title} />
         <meta name='twitter:image:alt' content={slug} />

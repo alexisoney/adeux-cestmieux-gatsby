@@ -142,7 +142,7 @@ Cet adage est d’autant plus vrai lorsqu’il s’agit de visiter le Keukenhof.
 
 _Notre conseil_: si, sur l’autoroute depuis Amsterdam vous voyez un panneau indiquant **“Keukenhof, Parking vol”**, faite demi-tour. Cela veut dire que l’accès au jardin est fermé et qu’aucune voiture ne peut se garer.
 
-—--
+---
 
 Plusieurs cafés et restaurants sont disséminés dans l’enceinte du Keukenhof. Ils proposent de la petite restauration assez basique (sandwichs, frites, croquettes...). Nous vous recommandons plutôt d’apporter votre propre pique-nique et de la manger sur place, au milieu des Tulipes et des Jonquilles.
 
@@ -152,7 +152,7 @@ Sûrement l’une des questions les plus posées sur Google ! 🙂 Et bien, cela
 
 Si vous avez des dates flexibles, nous vous conseillons de suivre le [compte instagram](https://www.instagram.com/visitkeukenhof/) du Keukenhof qui partage chaque semaine un bulletin de floraison des fleurs du jardin.
 
-—--
+---
 
 Bref, le Keukenhof est le paradis de la Tulipe et des fleurs. Les espèces cultivées y sont une merveille. Si vous passez par Amsterdam au Printemps, nous vous conseillons vivement de profiter de cette magnifique exposition florale, accessible entre la mi-mars et la mi-mai.
 

@@ -20,6 +20,7 @@ html {
   word-wrap: break-word;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
+  overflow-x: hidden;
 }
 
 @media only screen and (max-width: 40rem) {
@@ -116,7 +117,7 @@ i {
 }
 
 p {
-  line-height: 1.4em;
+  line-height: 1.8em;
   margin-bottom: 1.5em;
 }
 
@@ -135,6 +136,7 @@ ol {
 
 ul li {
   margin: 0 0 15px;
+  line-height: 1.8em;
 }
 
 figure {

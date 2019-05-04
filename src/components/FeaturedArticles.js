@@ -1,10 +1,21 @@
 import React from 'react';
 import styled from 'styled-components';
-import {colors} from './../constant/style';
+import {colors, breakingpoints} from './../constant/style';
 import {Link} from 'gatsby';
+import prettyDate from '../utils/prettyDate';
+import prettyText from '../utils/prettyText';
 
 const Section = styled.section`
   background: ${colors.omega};
+`;
+
+const Title = styled.h1`
+  color: ${colors.gamma};
+  text-align: center;
+  font-size: 48px;
+  ${breakingpoints.small} {
+    font-size: 32px;
+  }
 `;
 
 const Container = styled.div`
@@ -13,6 +24,10 @@ const Container = styled.div`
   display: flex;
   flex-flow: row wrap;
   justify-content: flex-start;
+  ${breakingpoints.small} {
+    margin: 0;
+    padding: 0 25px;
+  }
 `;
 
 const Item = styled.div`
@@ -52,13 +67,13 @@ const Hero = styled.picture`
 const Card = styled.div`
   position: relative;
   background: white;
-  padding: 20px 20px 40px;
+  padding: 20px 20px;
   width: 90%;
   margin: 0;
   flex: 1 0 auto;
   display: flex;
   flex-flow: column nowrap;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   align-items: flex-start;
 `;
 
@@ -68,10 +83,22 @@ const CardTitle = styled.h2`
   margin: 0 0 20px;
 `;
 
+const CardDate = styled.p`
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 12px;
+  margin: 0;
+`;
+
+const Button = styled(Link)`
+  margin-top: auto;
+`;
+
 export default class FeaturedArticles extends React.Component {
   render() {
     return (
       <Section>
+        {this.props.title && <Title>Vous aimerez aussi</Title>}
         <Container>
           {this.props.posts.map(({node}) => {
             const src = `${this.props.url}/images/${node.fields.slug}/${
@@ -95,10 +122,15 @@ export default class FeaturedArticles extends React.Component {
                   </Hero>
                 </HeroContainer>
                 <Card>
-                  <CardTitle>{node.frontmatter.title}</CardTitle>
-                  <Link className='button' to={`/${node.fields.slug}`}>
+                  {node.fields.category === 'blog' && (
+                    <CardDate>{prettyDate(node.fields.date, node.fields.category)}</CardDate>
+                  )}
+                  <CardTitle
+                    dangerouslySetInnerHTML={{__html: prettyText(node.frontmatter.title)}}
+                  />
+                  <Button className='button' to={`/${node.fields.slug}`}>
                     Lire l'article
-                  </Link>
+                  </Button>
                 </Card>
               </Item>
             );

@@ -80,7 +80,7 @@ Enfin, Nöel est, comme de nombreux autres pays, un jour férié dignement respe
 
 Aussi connu sous le nom de “boxing day” chez les Britanniques, ce jour marque notamment le début des soldes outre-atlantique. Enfin, peu importe sa dénomination, ici on est bien content de pouvoir profiter d’un jour supplémentaire pour digérer des repas de fêtes la veille et l’avant-veille 😉
 
-—--
+---
 
 Si on finit les comptes, cela fait donc bien 8 jours fériés. Mais les aléas du calendrier 2019 font que nous ne pourrons en profiter pleinement que de 7,  le Jour du Roi étant un samedi.
 

@@ -6,6 +6,7 @@ import * as Animations from './SliderAnimations';
 import Hammer from 'react-hammerjs';
 
 const {speed} = Animations;
+const overlap = '-=1';
 
 class IndexSlider extends React.Component {
   constructor(props) {
@@ -107,7 +108,7 @@ class IndexSlider extends React.Component {
       const {items, tl} = this.createTimeline();
       tl.add(Animations.initShowPrevious(this.slider.current))
         .add(Animations.disable(items.next))
-        .add(Animations.moveSlider(this.slider.current, '+=70vw'))
+        .add(Animations.moveSlider(this.slider.current, '+=70vw'), overlap)
         .add(Animations.active(items.active))
         .totalDuration(speed);
     }
@@ -115,7 +116,7 @@ class IndexSlider extends React.Component {
     else if (this.state.offset <= 2) {
       const {items, tl} = this.createTimeline();
       tl.add(Animations.disable(items.prev))
-        .add(Animations.moveSlider(this.slider.current, '-=70vw'))
+        .add(Animations.moveSlider(this.slider.current, '-=70vw'), overlap)
         .add(Animations.active(items.active))
         .totalDuration(speed);
     }
@@ -127,7 +128,7 @@ class IndexSlider extends React.Component {
       const {items, tl} = this.createTimeline();
       tl.add(Animations.initShowNext(el, this.slider.current))
         .add(Animations.disable(items.prev))
-        .add(Animations.moveSlider(this.slider.current, '-=70vw'))
+        .add(Animations.moveSlider(this.slider.current, '-=70vw'), overlap)
         .add(Animations.active(items.active))
         .totalDuration(speed);
     }
@@ -135,7 +136,7 @@ class IndexSlider extends React.Component {
     else if (this.state.offset < 2) {
       const {items, tl} = this.createTimeline();
       tl.add(Animations.disable(items.next))
-        .add(Animations.moveSlider(this.slider.current, '+=70vw'))
+        .add(Animations.moveSlider(this.slider.current, '+=70vw'), overlap)
         .add(Animations.active(items.active))
         .totalDuration(speed);
     }

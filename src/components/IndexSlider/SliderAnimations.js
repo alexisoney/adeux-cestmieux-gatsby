@@ -1,7 +1,7 @@
 import {TimelineMax, TweenMax} from 'gsap';
 
-export const speed = 0.4;
-export const ease = 'Power2.easeInOut';
+export const speed = 1;
+export const ease = 'Power3.easeOut';
 
 export const initShowPrevious = slider => {
   const tl = new TimelineMax();
@@ -27,7 +27,7 @@ export const moveSlider = (slider, x) => {
 export const disable = el => {
   const {hero, card, date} = getLayouts(el);
   const tl = new TimelineMax();
-  tl.to(hero, 1, {scale: '0.9'}).to([card, date], 1, {autoAlpha: '0'});
+  tl.to(hero, 1, {scale: '0.9'}).to([card, date], 1, {autoAlpha: '0'}, '-=1');
   return tl;
 };
 
@@ -40,7 +40,7 @@ export const hide = el => {
 export const active = el => {
   const {hero, card, date} = getLayouts(el);
   const tl = new TimelineMax();
-  tl.to([card, date], 1, {autoAlpha: '1'}).to(hero, 1, {scale: '1'});
+  tl.to(hero, 1, {scale: '1'}).to([card, date], 1, {autoAlpha: '1'}, '-=1');
   return tl;
 };
 
