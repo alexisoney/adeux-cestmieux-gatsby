@@ -16,11 +16,11 @@ Ces derniers week-ends, nous avons eu de la visite. Nous avons donc profité de 
 
 Le mois d’avril est LE mois pour profiter des**champs de Tulipes aux Pays-Bas.** C’est une période très populaire et très connue des voyageurs. Au printemps, la visite des champs de tulipes mais aussi des jardins du _Keukenhof_ font parties des activités les plus favorites. D’ailleurs, n’hésitez pas à lire mon article pour en savoir plus sur le _(Keukenhof)[visiter-keukenhof-tulipes-pays-bas]_.
 
-Alexis et moi avions déjà visité le Keukenhof <todo>il y a deux ans avec mes parents</todo>, mais nous ne sommes encore jamais allés voir les champs aux alentours. **Voir les champs de Tulipes** faisait d’ailleurs parti de ma _Bucket list_ pour 2019. Et bien, c’est désormais chose faite ! ✅
+Alexis et moi avions déjà visité le Keukenhof il y a deux ans avec mes parents, mais nous ne sommes encore jamais allés voir les champs aux alentours. **Voir les champs de Tulipes** faisait d’ailleurs parti de ma _Bucket list_ pour 2019. Et bien, c’est désormais chose faite ! ✅
 
 <img alt="Champs de Tulipe Amsterdam" src="./images/MG_6495.jpg">
 
-Nous nous donc sommes rendus à **[Lisse](https://goo.gl/maps/EUWrJftBuhUrHVaN9)** à deux reprises au mois d’avril. Avec la météo radieuse à laquelle nous avons eu droit, c’était l’occasion parfaite. **Les tulipes** étaient à leur pic de floraison dès la mi-avril. Et, malgré un week-end de Pâques très, très, très fréquentés, je pense que nous avons eu un timing parfait, et nos invités étaient ravis ! Et moi aussi, d’ailleurs ! Si vous vous aussi vous souhaitez visiter les Champs de Tulipes dans la région d’Amsterdam, je vous invite à <todo>lire cet article dédié</todo>.
+Nous nous donc sommes rendus à **[Lisse](https://goo.gl/maps/EUWrJftBuhUrHVaN9)** à deux reprises au mois d’avril. Avec la météo radieuse à laquelle nous avons eu droit, c’était l’occasion parfaite. **Les tulipes** étaient à leur pic de floraison dès la mi-avril. Et, malgré un week-end de Pâques très, très, très fréquentés, je pense que nous avons eu un timing parfait, et nos invités étaient ravis ! Et moi aussi, d’ailleurs ! Si vous vous aussi vous souhaitez visiter les Champs de Tulipes dans la région d’Amsterdam, je vous invite à lire cet article dédié.
 
 Je suis tellement contente d’avoir pris le temps de voir les champs de fleurs cette année. Aussi cliché que cela puisse paraître, c’est vraiment une très belle carte postale des Pays-Bas. Toutes ces couleurs, ces fleurs à perte de vue, c’est tout simplement magnifique. Un de mes amis est d’ailleurs venu avec un drone et [les vues aériennes](https://www.instagram.com/p/BwXXRHSnVrE/) sont encore plus impressionnantes
 
