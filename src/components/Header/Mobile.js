@@ -11,7 +11,7 @@ import {faInstagram} from '@fortawesome/free-brands-svg-icons';
 import './activeLinkStyle.scss';
 
 const Wrapper = styled.div`
-  @media only screen and (min-width: 58.01rem) {
+  @media only screen and (min-width: 65rem) {
     display: none;
   }
 `;
