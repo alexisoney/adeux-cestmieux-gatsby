@@ -91,7 +91,7 @@ export default class Mobile extends React.Component {
 
   render() {
     return (
-      <Wrapper>
+      <Wrapper style={{display: this.state.isOpen ? 'flex' : null}}>
         <TopBar>
           <Button onClick={this.toggleMenu}>
             <FontAwesomeIcon icon={this.state.isOpen ? faTimes : faBars} />
