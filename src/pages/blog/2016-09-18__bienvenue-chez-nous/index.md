@@ -1,5 +1,6 @@
 ---
 title: 'Bienvenue chez nous. #3'
+title_seo: ''
 hero: './images/2016-09-18-bienvenue-chez-nous-02a.jpg'
 excerpt: 'C’est avec une immense joie que j’écris ce troisième article depuis chez nous ! Et oui, depuis le 17 septembre 2016, nous pouvons officiellement dire que nous habitons Amsterdam. Nous vous emménagé dans notre appartement. C’est juste trop génial et on va vous raconter un peu comment ça s’est passé, parce qu’honnêtement, ça n’a pas été'
 ---

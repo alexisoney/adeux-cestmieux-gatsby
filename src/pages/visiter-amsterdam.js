@@ -8,7 +8,13 @@ const Page = ({data}) => {
 
   return (
     <>
-      <Category title='Visiter Amsterdam' excerpt={excerpt} data={data} />
+      <Category
+        title='Visiter Amsterdam'
+        slug='visiter-amsterdam'
+        excerpt={excerpt}
+        img=''
+        data={data}
+      />
     </>
   );
 };

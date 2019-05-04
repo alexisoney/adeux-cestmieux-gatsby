@@ -1,5 +1,6 @@
 ---
 title: 'Lisbonne #3 - Nos bonnes adresses'
+title_seo: ''
 hero: './images/cover-3.png'
 excerpt: 'Bom dia! J’espère que les photos de notre long week-end à Lisbonne vous auront donné envie de découvrir cette si jolie capitale. Pour ceux qui les auraient manquées, retrouvé la partie 1 ici et partie 2 là de ce joli week-end. Et si les photos ne vous ont pas totalement convaincues ou bien si vous êtes'
 ---

@@ -1,5 +1,6 @@
 ---
 title: 'Gelukkig Nieuw jaar ! #14'
+title_seo: ''
 hero: './images/2017-01-05-dnew-year-2017-01-01-01.jpg'
 excerpt: 'Bonjour 2017 ! L’occasion pour nous, Alexis et moi-même, de vous souhaiter, à vous qui lisez ce petit blog haut comme trois pommes, une très belle nouvelle année. Nous vous la souhaitons pleines de joies et de réussites. Et de tout ce que vous souhaitez d’autres d’ailleurs. Pour notre part, l’année 2016 est passée à toute'
 ---

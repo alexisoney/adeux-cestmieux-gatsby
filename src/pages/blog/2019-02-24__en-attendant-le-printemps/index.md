@@ -1,5 +1,6 @@
 ---
 title: 'En attendant le Printemps !'
+title_seo: ''
 hero: './images/MG_4550-2.jpg'
 excerpt: 'Amsterdam Life #42. Une chronique au fil du temps et des envies. Des looks, du papotage, des découvertes et du partage. Le soleil revient ☀️ Pour le plus grand bonheur de tous, il a fait une météo magnifique à Amsterdam. Du soleil, un grand ciel bleu et même un peu de douceur. Autant de signes annonciateur du printemps ! D’ailleurs, cela fait aussi plusieurs semaines maintenant que l’on'
 ---

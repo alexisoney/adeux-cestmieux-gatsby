@@ -1,5 +1,6 @@
 ---
 title: 'Visiter Amsterdam au Printemps 2019'
+title_seo: ''
 hero: './images/IMG_6502.jpg'
 excerpt: 'L’hiver touche finalement à sa fin. Les longues nuits laissent désormais place à des journées plus lumineuses, aux températures de plus en plus douce. Les arbres bordant les canaux se parent à nouveau de verdure. Et, toutes les terrasses se remplissent de passants à la recherche des premiers rayons de soleil. Le printemps est sans'
 ---

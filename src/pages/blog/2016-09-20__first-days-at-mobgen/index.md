@@ -1,5 +1,6 @@
 ---
 title: "First Days at Mobgen #4"
+title_seo: ''
 hero: "./images/2016-09-21-first-days-at-mobgen-cover.jpg"
 excerpt: "Welcome to Mobgen Lundi matin. Direction Mobgen ! Après un réveil pas trop difficile, me voilà “prête” pour mon premier jour de travail. Au fur et à mesure que le tram se rapproche, j’ai cette petite boule au ventre qui grandit de plus en plus ! C’est normal me dira-t-on, tout le monde connait l’appréhension du premier"
 ---

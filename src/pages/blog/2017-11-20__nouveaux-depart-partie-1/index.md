@@ -1,5 +1,6 @@
 ---
 title: 'Des nouvelles [1/2] #28'
+title_seo: ''
 hero: './images/2017.11.20-cover.jpg'
 excerpt: 'Ces dernières semaines ont été synonymes de nouveaux départs pour chacun de nous. Alors, tour à tour, nous allons vous raconter nos expériences de ces dernières semaines. Clémence La plupart de vous le savent sûrement déjà, mais, après un peu plus d’un an à travailler chez Mobgen, j’ai changé de boite. — Cette décision, je'
 ---

@@ -1,5 +1,6 @@
 ---
 title: 'Fraise & Rhubarbe #35'
+title_seo: ''
 hero: './images/cover01.png'
 excerpt: 'Bonjour vous ! Nous voici déjà dans un mois de juin bien entamé, mais quel joli mois de mai nous avons eu ! Pas de pluie, de la douceur, de la chaleur même et pleins de belles journées ensoleillées. C’est définitivement le meilleur mois selon moi pour visiter les Pays-Bas. Le joli mois de mai'
 ---

@@ -1,5 +1,6 @@
 ---
 title: 'Week-end à Nice.'
+title_seo: ''
 hero: './images/2017-09-02-nice-cover.jpg'
 excerpt: 'Summer time. Heading to Nice for the weekend. Nous n’avions pas prévu de repartir en vacances après Embrun, mais finalement, nous nous sommes accordé, presque à la dernière minute, le plaisir d’un long weekend à Nice avec mes parents, histoire de faire une pause ensoleillée avant la fin du mois d’août. À seulement 2h de'
 ---

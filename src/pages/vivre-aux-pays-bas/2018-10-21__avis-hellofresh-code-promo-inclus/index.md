@@ -1,7 +1,8 @@
 ---
 title: 'HelloFresh - On a testé, voici notre avis #38'
+title_seo: 'On a testé HelloFresh (25€ offert sur votre box)'
 hero: './images/MG_3209.png'
-excerpt: 'Nous venons de recevoir notre troisième box HelloFresh ce week-end. Après deux semaines complètes de repas made in HelloFresh, on voulait vous expliquer pourquoi ce concept est “testé et approuvé” chez nous, et vous permettre à votre tour de tester grâce à ce lien de parrainage offrant 25€ sur votre première box ! (Code CLMTAI) — J’aime cuisiner.'
+excerpt: 'Retrouvez notre avis sur les box HelloFresh et tester à votre tour grâce à ce code offrant 25€ sur votre première box HelloFresh !'
 ---
 
 *Nous venons de recevoir notre troisième box HelloFresh ce week-end. Après deux semaines complètes de repas made in HelloFresh, on voulait vous expliquer pourquoi ce concept est “testé et approuvé” chez nous, et vous permettre à votre tour de tester grâce à [ce lien de parrainage](https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard) offrant 25€ sur votre première box ! (Code CLMTAI)*

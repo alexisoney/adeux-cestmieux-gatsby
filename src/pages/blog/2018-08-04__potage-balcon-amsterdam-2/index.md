@@ -1,5 +1,6 @@
 ---
 title: 'Dans mon petit potager #36'
+title_seo: ''
 hero: './images/cover.jpg'
 excerpt: 'Ces jours-ci nous vivons sur notre balcon — Entre moi qui prends soin des petites plantes tout en essayant de bronzer et Alexis qui recherche un peu de fraîcheur et l’ombre extérieure l’après-midi, je crois d’ailleurs ne l’avoir jamais vu autant profiter du balcon, ces jours-ci, nous vivons sur notre balcon ! Il faut dire,'
 ---

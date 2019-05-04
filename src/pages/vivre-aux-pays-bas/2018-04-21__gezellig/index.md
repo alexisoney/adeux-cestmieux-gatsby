@@ -1,5 +1,6 @@
 ---
 title: 'Het gezelligheid.'
+title_seo: ''
 hero: './images/2017.09.21-gezellig-cover.jpg'
 excerpt: 'Saviez-vous que les Pays Bas sont classés 7e sur l’échelle du bonheur, derrière, entre autre, le Canada, la Norvège et le Danemark ? Par comparaison, la France est classée 32e. Il y existe ce petit truc dans ces pays que, manifestement, les autres n’ont pas. Hygge pour les Danois, Lagom pour nos amis suédois, Gemütlichkeit'
 ---

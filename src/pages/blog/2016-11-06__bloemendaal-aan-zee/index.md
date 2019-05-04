@@ -1,5 +1,6 @@
 ---
 title: 'Virée à la mer. En vélo. Zandvoort. #11'
+title_seo: ''
 hero: './images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-20.jpg'
 excerpt: 'L’avantage d’en avoir finit avec l’école, c’est que désormais les week end semblent plus long et sont surtout plus riche en temps libre. Il y a deux week end de cela, nous avons donc sauté sur l’occasion de profiter de la météo clémente et avons décidé de passer notre dimanche à la plage. Oui oui,'
 ---

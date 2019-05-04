@@ -8,7 +8,13 @@ const Page = ({data}) => {
 
   return (
     <>
-      <Category title='Vivre aux Pays-Bas' excerpt={excerpt} data={data} />
+      <Category
+        title='Vivre aux Pays-Bas'
+        slug='vivre-aux-pays-bas'
+        excerpt={excerpt}
+        img=''
+        data={data}
+      />
     </>
   );
 };

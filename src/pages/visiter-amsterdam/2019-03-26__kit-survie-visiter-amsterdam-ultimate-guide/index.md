@@ -1,5 +1,6 @@
 ---
 title: 'Kit de survie pour visiter Amsterdam - Ultimate guide'
+title_seo: ''
 hero: './images/kit_survie.png'
 excerpt: "Vous prevoyer de visiter Amsterdam (ou aux alentours) très prochainement, le temps d'un petit ou long week-end ? Cet article est fait pour vous. J’y liste un certain nombres de conseils afin de bien préparer votre venue dans la capitale hollandaise. À vos crayons, si vous voulez prendre des notes et faire des petites listes,"
 ---

@@ -1,5 +1,6 @@
 ---
 title: 'Comment se rendre à Amsterdam ?'
+title_seo: ''
 hero: './images/MG_3542.jpg'
 excerpt: 'Comment se rendre à Amsterdam ? Depuis la France, plusieurs options s’offrent à vous pour venir à Amsterdam : le train, la voiture, l’avion et le bus ! - Ballade à vélo le long des canaux, stroopwaffels, champs de tulipes, coffee-shop et autre “attraction”.  Située seulement à 500 km de Paris, Amsterdam est une destination'
 ---

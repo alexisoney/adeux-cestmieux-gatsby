@@ -1,5 +1,6 @@
 ---
 title: 'Festival de FoodTruck à Westerpark #20'
+title_seo: ''
 hero: './images/2017-06-17-foodtruck-festival-00_cover.jpg'
 excerpt: 'Amsterdam nous aimons la découvrir de deux manières : en nous promenant, ou bien en mangeant. Pour une fois, c’est en mangeant que nous vous emmenons découvrir une nouvel facette local de la vie amstellodamoise. De rollende keukens - Food truck Festival Pour le pont du Jeudi de l’Ascension avait lieu le Rollende Keukens Amsterdam,'
 ---

@@ -1,5 +1,6 @@
 ---
 title: 'Ces petites choses que j’aime à Amsterdam. #1'
+title_seo: ''
 hero: './images/2017-09-18-petites-choses-amsterdam-cover.jpg'
 excerpt: 'Toutes ces petites choses... • Le vélo, cheveux au vent. • Le chants des oiseaux le matin au réveil. • La saison des Tulipes. • Les stroopwaffels. • Les stroopwaffels — tièdes de l’Albert Cuyp Markt. • S’émerveiller, à chaque fois, devant la beauté de la ville et ses canaux. • Profiter du balcon quand'
 ---

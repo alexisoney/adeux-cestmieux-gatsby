@@ -1,5 +1,6 @@
 ---
 title: 'Une pièce en plus. #23'
+title_seo: ''
 hero: './images/2017-08-12-balcon-cover.jpg'
 excerpt: 'Je vous en parlais dans cet article. Au mois de Juillet, nous avons enfin pris le temps d’aménager notre balcon. C’est sûrement l’un des premiers endroits que je voulais décorer, mais ayant aménagé mi-septembre, on aurait dû attendre tout l’hiver avant de pouvoir commencer à en profiter. À notre retour de vacances, le temps de'
 ---

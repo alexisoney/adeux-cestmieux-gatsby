@@ -1,5 +1,6 @@
 ---
 title: 'Sinterklaas! #29'
+title_seo: ''
 hero: './images/2017.12.07-cover.jpg'
 excerpt: 'Petit point culture Néerlandaise ! Parmi les nombreuses différences qui puissent exister entre la France et les Pays-Bas se trouve la Saint-Nicolas. La Saint-Nicolas, qui est le 6 décembre, est une tradition fêtée dans plusieurs pays européens et souvent aussi dans le nord et l’est de la France, célèbre le saint Patron Nicolas, aussi connu sous'
 ---

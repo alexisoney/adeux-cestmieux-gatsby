@@ -1,5 +1,6 @@
 ---
 title: 'One week in Amsterdam #18'
+title_seo: ''
 hero: './images/2017-04-22-one-week-amsterdam-cover.jpg'
 excerpt: 'Coucou. On vous retrouve après une semaine de vacances prises pour profiter de la venue de Papa, Maman et des Silve sur Amsterdam! Ce fut une semaine bien remplie en marches, ballades et escapades, loin d’être de tout repos, et je suis bien contente d’avoir encore eu mon lundi de Pâque férié pour reprendre un'
 ---

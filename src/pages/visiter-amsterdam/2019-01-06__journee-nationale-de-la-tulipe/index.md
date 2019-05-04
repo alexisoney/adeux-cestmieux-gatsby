@@ -1,5 +1,6 @@
 ---
 title: 'La Journée Nationale de la Tulipe (janvier)'
+title_seo: ''
 hero: './images/national-tulip-day-2017-19.jpg'
 excerpt: 'La Journée Nationale de la Tulipe a lieu chaque année au mois de janvier. Organisée par des producteurs hollandais, cette journée marque le coup d’envoi officiel de la saison des Tulipes coupées ! Lors de votre visite à Amsterdam, impossible de les rater, les tulipes font partie de la ville. En plus de décorer les parcs'
 ---

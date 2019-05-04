@@ -1,5 +1,6 @@
 ---
 title: 'Fall in Love with Bath.'
+title_seo: ''
 hero: './images/roman_bath_02.jpg'
 excerpt: 'Les longs week-ends sont faits pour s’évader de notre quotidien ! Pour ce premier long week-end néerlandais, nous avions prévu de nous rendre dans la ville de Bath, en Angleterre, afin de faire un coucou à Claire-Lise, tout en profitant et visitant cette ville, dont, je l’avoue, je n’avais jamais entendu parlé avant. Nous sommes'
 ---

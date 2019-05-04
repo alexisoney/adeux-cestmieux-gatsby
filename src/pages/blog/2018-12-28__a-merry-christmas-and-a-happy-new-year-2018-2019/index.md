@@ -1,5 +1,6 @@
 ---
 title: '...A Merry Christmas, and a Happy New Year.'
+title_seo: ''
 hero: './images/cover-1.png'
 excerpt: 'Bonjour à toutes et tous, Je vous écris en cette période un peu latente, entre Noël et Jour de l’an, lorsque nous sommes encore en train de digérer le marathon de Noël, tout en commençant déjà les préparations des prochaines festivités. Le passage à la nouvelle année est, pour moi, moins marquant que la “rentrée”'
 ---

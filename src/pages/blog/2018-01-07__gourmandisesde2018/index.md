@@ -1,5 +1,6 @@
 ---
 title: "J'aime la galette, savez-vous comment ? ... #31"
+title_seo: ''
 hero: './images/2018.01.07-cover.jpg'
 excerpt: 'Et si nous commencions l’année sur une note gourmande ! J’avais envie de partager avec vous quelques petites gourmandises que j’ai pris plaisir à préparer durant les dernières semaines et qui sont parfaitement dans le thème de l’hiver. Après la ferveur de la figue en automne, l’hiver me donne envie de douceur, réconfort et toujours'
 ---

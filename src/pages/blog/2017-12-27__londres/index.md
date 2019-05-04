@@ -1,5 +1,6 @@
 ---
 title: 'Londres baby!'
+title_seo: ''
 hero: './images/27.12.2017-cover.jpg'
 excerpt: 'Hello la compagnie & joyeuses fêtes ! On se retrouve aujourd’hui pour un nouvel épisode de “Où partons-nous ce week-end ?”. Cette foi-ci, c’est à Londres que nous nous sommes rendus au début du mois de décembre. C’était une première pour tous les deux. Enfin, moi non pas vraiment, j’y étais allée passer une après-midi lors d’un'
 ---

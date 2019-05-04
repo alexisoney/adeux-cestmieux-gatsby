@@ -1,5 +1,6 @@
 ---
 title: 'Visiter Amsterdam — le centre-ville : 10 choses à voir ou visiter'
+title_seo: ''
 hero: './images/MG_3587.jpg'
 excerpt: 'Notre sélection de 10 lieux à voir ou visiter dans le centre-ville Amsterdam, selon notre point de vue de Français vivant à Amsterdam. — Vivant sur Amsterdam depuis 2016, Alexis et moi, Clémence, commençons à bien connaître chaque quartier la capitale néerlandaise. Il est vrai que nous évitons beaucoup le centre d’Amsterdam, qui pour nous'
 ---

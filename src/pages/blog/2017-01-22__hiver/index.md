@@ -1,5 +1,6 @@
 ---
 title: 'Winter is finally here ! #15'
+title_seo: ''
 hero: './images/2017-01-22-hiver-Vondelpark-21janvier2017.jpg'
 excerpt: 'Winter is finally here ! L’hiver a enfin pointé le bout de son nez. Je commençais un peu à désespérer de ne pas vraiment avoir froid le matin en sortant. Alors certes, je ne sortirais pas en t-shirt, mais pour autant, avec manteau, bonnet et gants, après quelques coups de pédales, j’en suis presque à me'
 ---

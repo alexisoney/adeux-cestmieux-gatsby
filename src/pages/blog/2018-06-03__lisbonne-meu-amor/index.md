@@ -1,5 +1,6 @@
 ---
 title: 'Lisbonne #1 - Lisboa meu amor'
+title_seo: ''
 hero: './images/cover.png'
 excerpt: 'Bom dia! Il y a à peine une semaine de cela, Alexis et moi sommes allés visiter la belle Lisbonne pendant 4 petits jours. Une première pour Alexis. Une troisième pour ma part. J’étais tellement heureusement quant à l’idée de lui faire découvrir cette ville et un peu de ce pays, cette culture qui représente'
 ---

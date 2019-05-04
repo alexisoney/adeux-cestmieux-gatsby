@@ -1,5 +1,6 @@
 ---
 title: 'Septembre Back to School #37'
+title_seo: ''
 hero: './images/septembre_rentree_2018_a.jpg'
 excerpt: 'Bonjour à tous, bonjour Septembre, Après une pause estivale sur le blog, tout de même méritée, nous reprenons les bonnes habitudes d’écriture en ce mois de Septembre. Nous avons eu un bel et chaud été et plutôt bien rempli ! Ma soeur chérie est venue nous rendre visite quelques jours en juillet. Mes parents, ma'
 ---

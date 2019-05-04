@@ -1,5 +1,6 @@
 ---
 title: 'La Sardaigne du Nord début Septembre'
+title_seo: ''
 hero: './images/cover.jpg'
 excerpt: 'Pour nos vacances d’été de cette année, nous avons mis le cap sur la Sardaigne du Nord. La Sardaigne, pour commencer ... * La préparation Après avoir écumé internet en quête d’inspiration en février, nous avons choisi de partir en Sardaigne du Nord début Septembre. Cela fait désormais trois étés que nous décidons de partir'
 ---

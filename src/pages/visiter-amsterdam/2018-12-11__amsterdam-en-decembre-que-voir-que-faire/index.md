@@ -1,5 +1,6 @@
 ---
 title: 'Amsterdam en décembre - Que voir, que faire ?'
+title_seo: ''
 hero: './images/MG_3859.jpg'
 excerpt: "Amsterdam en décembre nous plonge dans une atmosphère magique, digne d’un film de Noël. Au moment des fêtes venues, les canaux se parent de mille et une lumières et les grandes places revêtent leur plus beau sapin. C'est un véritable spectacle à ciel ouvert venant réchauffer nos cœurs en ces journées sombres et froides."
 ---

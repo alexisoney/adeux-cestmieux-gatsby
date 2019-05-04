@@ -1,5 +1,6 @@
 ---
 title: 'L’île de Texel. #24'
+title_seo: ''
 hero: './images/2017-08-31-texel-cover.jpg'
 excerpt: 'Nouveau week-end, nouvelle découverte. Après notre expédition à vélo jusqu’à l’île de Marken, nous nous sommes cette fois-ci rendus avec les copains Marie & Robin au nord-ouest, sur l’île de Texel. Située à une heure et trente minutes d’Amsterdam en train puis vingt minutes de traversée en ferry du continent, Texel, prononcé « tessel », est la'
 ---

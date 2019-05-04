@@ -1,5 +1,6 @@
 ---
 title: 'Désencombrer pour mieux ranger – Nos 5 conseils'
+title_seo: ''
 hero: './images/MG_3431-2.jpg'
 excerpt: "Notre démarche minimaliste Réduction des déchets, consommation plus raisonnée, plus locale, plus “green” — autant de problématiques qui nous touchent personnellement depuis quelque temps. Depuis la rentrée, Alexis et moi-même essayons réellement d'adopter un mode de vie plus conscient de l’environnement qui s’inscrit clairement dans une approche dite minimaliste. Plusieurs mois de cela, nous avions regardé"
 ---

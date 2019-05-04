@@ -1,5 +1,6 @@
 ---
 title: 'Bye 2017, Bonjour 2018 ! #30'
+title_seo: ''
 hero: './images/2017.12.31-cover.jpg'
 excerpt: 'En ce 31 décembre 2017, me voilà face à mon clavier, me livrant au traditionnel exercice du bilan de fin d’année. Monsieur n’est pas un grand adepte des bilans. Selon lui, il ne sert à rien d’attendre le 1er janvier pour prendre de nouvelles résolutions et se fixer de nouveaux objectifs. Autant le faire dès'
 ---

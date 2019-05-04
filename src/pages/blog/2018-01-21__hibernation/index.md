@@ -1,5 +1,6 @@
 ---
 title: 'On hiberne ! #32'
+title_seo: ''
 hero: './images/2018.01.21-cover.jpg'
 excerpt: 'Mode Hibernation : activé ! Je ne sais pas vous, mais, ici, on est clairement en mode hibernation depuis la rentrée. Cela fait trois week-end de suite que c’est cocooning et glandouille à la maison. Nos semaines sont aussi assez rythmées et routinières. Sport le matin, Yoga le soir. Ajoutez à cela quelques projets freelances,'
 ---

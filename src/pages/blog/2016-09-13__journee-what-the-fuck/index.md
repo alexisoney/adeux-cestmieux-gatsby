@@ -1,5 +1,6 @@
 ---
 title: 'La journée « What the Fuck » #2'
+title_seo: ''
 hero: './images/2016-09-13-journee-what-the-fuck-01.jpg'
 excerpt: 'Nous sommes seulement à notre deuxième jour sur place et pourtant, au moment ou j’écris (Clémence), j’ai l’impression que nous y sommes depuis plus d’une semaine. Nous ne faisons pas tant de grosses journées, dans le sens où nous nous permettons de nous lever après 8h. Pour autant, le fait de continuellement devoir s’exprimer en'
 ---

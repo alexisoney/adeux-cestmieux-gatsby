@@ -1,5 +1,6 @@
 ---
 title: 'Bienvenue chez nous bis #9'
+title_seo: ''
 hero: './images/2016-10-22-appartement-22-octobre-Appartement-22-octobre-2016-16.jpg'
 excerpt: 'Il y a un peu plus d’un mois, nous vous écrivions pour la première fois depuis notre nouveau chez nous amstellodamois. Depuis, nous nous sommes plutôt bien installés. C’est l’occasion parfaite pour vous partager quelques nouvelles photos. Avant / Après : 55m2 vide, 55m2 un peu moins vide Rappelez-vous de cet article ici. Nous vous'
 ---

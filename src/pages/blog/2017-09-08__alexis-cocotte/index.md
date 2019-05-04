@@ -1,5 +1,6 @@
 ---
 title: "Les choses avancent #25"
+title_seo: ''
 hero: "./images/2017-09-08-alexis-cocotte-cover.jpg"
 excerpt: "Aujourd’hui il pleut, il pleut même beaucoup. Mais aujourd’hui, je suis en congé. Je n’irai pas livrer de plats à emporter, mon ancien job. Je n’irai pas préparer et servir de crêpes ou des cappucinos, mon nouveau travail. Aujourd’hui je vais travailler sur mon blog, un de mes loisirs qui commence à rapporter un peu"
 ---

@@ -1,5 +1,6 @@
 ---
 title: "Vie d'expat #4 - Les Jours fériés"
+title_seo: ''
 hero: './images/vie-expat-4.png'
 excerpt: 'Nouvel épisode de Vie d’expat avec aujourd’hui pour thème un sujet qui fait parfois débat au près des collègues ; les jours fériés ! Ce n’est sûrement pas la première chose à laquelle nous avions penser en déménagent aux Pays-Bas, mais changer de pays, changer de culture, d’histoire, c’est aussi très souvent avoir des jours fériés différents ! Ce'
 ---

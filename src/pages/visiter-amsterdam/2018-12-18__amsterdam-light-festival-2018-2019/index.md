@@ -1,5 +1,6 @@
 ---
 title: 'Amsterdam Light Festival 2018 - 2019'
+title_seo: ''
 hero: './images/MG_3950.jpg'
 excerpt: 'L’Amsterdam Light Festival — Festival de Lumière d’Amsterdam — a lieu chaque année de mi-Novembre à mi-janvier. Prenant son inspiration de la célèbre Fête des Lumières lyonnaise, ce festival est devenu un événement très populaire et très attendu dans la capitale néerlandaise, avec plus de 900 000 visiteurs pour l’édition 2017-2018. Cette année l’Amsterdam Light'
 ---

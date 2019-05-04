@@ -1,5 +1,6 @@
 ---
 title: 'Vie d’expat #3 : La Coupe du Monde depuis l’étranger'
+title_seo: ''
 hero: './images/vie-expat-03.png'
 excerpt: " ⭐ON EST CHAMPION DU MONDE ⭐ 🇫🇷🇫🇷🇫🇷 À moins que vous ne viviez dans une grotte, vous n'êtes sûrement pas sans savoir que les Bleus ont gagné la Coupe du Monde dimanche dernier et ont ainsi ramené, 20 ans plus tard, une deuxième étoile mythique sur le maillot. Quelle joie, quel bonheur de voir des milliers de"
 ---

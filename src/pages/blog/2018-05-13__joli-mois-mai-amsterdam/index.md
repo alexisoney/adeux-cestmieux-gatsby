@@ -1,5 +1,6 @@
 ---
 title: 'Joli mois de mai à Amsterdam #35'
+title_seo: ''
 hero: './images/B22AB70B-2431-411D-9801-21EB14429807.jpg'
 excerpt: 'Bonjour, Je profite de ce dimanche pluvieux pour partager quelques nouvelles de ces dernières semaines sur le blog. Alors, déjà, qu’on ne me méprend pas. Aujourd’hui est, certes, une journée pluvieuse, mais cela n’a rien à avoir avec la météo des derniers jours. Il a fait tellement beau et chaud. On se serait vraiment cru'
 ---

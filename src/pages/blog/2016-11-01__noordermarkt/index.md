@@ -1,5 +1,6 @@
 ---
 title: 'Le Noordermarkt, le marché bio du Jordaan #10'
+title_seo: ''
 hero: './images/2016-11-01-noordermarkt-noordermarkt-4.jpg'
 excerpt: 'Après avoir fait le tour des supermarchés aux alentours de la maison, il y avait une autre chose qui me tenait à coeur de découvrir : le marché. Faire le marché Sur Paris ou même sur Lyon, ce n’était vraiment pas une habitude pour nous de faire le marché. Sur Lyon, j’ai du m’y rendre'
 ---

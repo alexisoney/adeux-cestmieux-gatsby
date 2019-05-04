@@ -36,9 +36,19 @@ class Layout extends React.Component {
     return (
       <Page>
         <Helmet htmlAttributes={{lang: 'fr'}}>
+          <html lang='fr' />
           <title>{siteMetadata.title}</title>
           <meta name='description' content={siteMetadata.description} />
-          <html lang='fr' />
+          <meta property='og:title' content={siteMetadata.title} />
+          <meta property='og:description' content={siteMetadata.description} />
+          <meta
+            property='og:image'
+            content='https://develop--adeux-cestmieux.netlify.com/images/visiter-amsterdam-printemps-2019/IMG_6502-1600w.jpeg'
+          />
+          <meta property='og:url' content='https://adeux-cestmieux.com' />
+          <meta name='twitter:card' content='summary_large_image' />
+          <meta property='og:site_name' content={siteMetadata.title} />
+          <meta name='twitter:image:alt' content={siteMetadata.title} />
         </Helmet>
         <Header />
         <Content>{this.props.children}</Content>

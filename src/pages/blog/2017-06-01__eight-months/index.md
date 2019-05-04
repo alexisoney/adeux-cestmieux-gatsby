@@ -1,5 +1,6 @@
 ---
 title: 'Huit mois à Amsterdam #19'
+title_seo: ''
 hero: './images/2017-06-01-eight-months-00_cover.jpg'
 excerpt: 'Plus d’un mois s’est écoulé depuis notre dernier article. Que s’est t-il donc passé depuis dans notre Amsterdam adorée? 01 Après la visite de mes parents et des Silve, nous avons eu la chance de recevoir Amandine et David le temps d’un week end. Le temps fut encore meilleur que la semaine précédente et c’était'
 ---

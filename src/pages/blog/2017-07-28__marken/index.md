@@ -1,5 +1,6 @@
 ---
 title: 'Marken à vélo #22'
+title_seo: ''
 hero: './images/2017-07-29-marken-2017-07-28cover.jpg'
 excerpt: 'Samedi dernier, nous avons décidé d’aller visiter les alentours d’Amsterdam. Cela faisait un petit moment déjà que je souhaitais aller voir Marken, une “presqu’île’ situé à environ 20 km au Nord-Est d’Amsterdam, dans une région que l’on appelle le Waterland. Nous avons décidé d’allier plaisir et sport en décidant de nous y rendre à vélo.'
 ---

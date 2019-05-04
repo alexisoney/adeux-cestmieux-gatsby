@@ -1,5 +1,6 @@
 ---
 title: 'Tulipomania'
+title_seo: ''
 hero: './images/MG_6391.jpg'
 excerpt: 'Amsterdam Life #44. Une chronique au fil du temps et des envies. Des looks, du papotage, des découvertes et du partage. Hello à tous, Ces derniers week-ends, nous avons eu de la visite. Nous avons donc profité de la voiture de nos invités pour nous éloigner un peu d’Amsterdam, vers la région du Bollenstreek, la région du bulbe. Le mois d’avril est LE mois pour profiter des champs'
 ---

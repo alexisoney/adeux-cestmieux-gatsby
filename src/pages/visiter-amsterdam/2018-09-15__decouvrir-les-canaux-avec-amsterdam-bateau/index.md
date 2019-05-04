@@ -1,5 +1,6 @@
 ---
 title: 'Découvrir les canaux avec Amsterdam Bateau'
+title_seo: ''
 hero: './images/cover-1.png'
 excerpt: "Hello, j'ai eu la chance, début juillet, d'accueillir ma très chère sœur pendant 4 jours. Elle n'avait jamais eu l'occasion de nous rendre visite sur Paris. J'étais donc très excitée à l'idée de lui faire découvrir ma ville de cœur : Amsterdam. On a visité ... Au programme de ce long week-end, une visite d'Amsterdam, quartier par"
 ---

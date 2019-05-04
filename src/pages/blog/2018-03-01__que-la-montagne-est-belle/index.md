@@ -1,5 +1,6 @@
 ---
 title: 'Que la montagne est belle'
+title_seo: ''
 hero: './images/cover.jpg'
 excerpt: 'Je profite de cette semaine polaire pour vous partagez quelques photos d’Embrun, où je suis rentrée pour une semaine de vacances au grand air de la neige il y a quelques jours de cela. Alexis, ayant moins de possibilité de vacances, est resté à Amsterdam ; je suis donc rentrée toute seule pour retrouver papa'
 ---

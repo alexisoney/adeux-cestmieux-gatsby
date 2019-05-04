@@ -1,5 +1,6 @@
 ---
 title: 'Week-end SPA aux Pays-Bas. #26'
+title_seo: ''
 hero: './images/2017.10.17-week-end-spa-cover.jpg'
 excerpt: 'Il y a deux semaines de cela, nous avions prévu de passer le week-end dans le Sud oriental des Pays-Bas, à Sittard. Non pas que le lieu en lui-même est grand-chose de très attractif, mais nous souhaitions simplement aller au spa, histoire de faire une pause détente le temps d’un week-end. Pourquoi aller si loin'
 ---

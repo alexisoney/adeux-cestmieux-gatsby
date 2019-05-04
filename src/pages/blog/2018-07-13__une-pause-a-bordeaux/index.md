@@ -1,5 +1,6 @@
 ---
 title: 'Une pause à Bordeaux'
+title_seo: ''
 hero: './images/cover.png'
 excerpt: 'Hello, après une petite pause écriture suite à beaucoup d’investissement dans mon travail, je reviens aujourd’hui pour vous parler de notre dernier week-end en vadrouille. Il y a quelques semaines de cela, nous avons pris l’avion en direction du sud-ouest de la France pour 2 jours de repos, bien mérités, à Bordeaux. - Pour une fois,'
 ---

@@ -1,5 +1,6 @@
 ---
 title: 'À la faveur de l’automne. #27'
+title_seo: ''
 hero: './images/2017-10-24-amsterdamsebos-cover.jpg'
 excerpt: '10:00 Je n’ai pas encore envie d’ouvrir les yeux. Non j’attends encore un peu. On est si bien sous la couette, lorsque le lit est encore chaud et si douillet. J’en profite. C’est si doux, pour une fois, de ne pas avoir de réveil. C’est que, nous étions bien fatigués tous les deux. Après ce'
 ---

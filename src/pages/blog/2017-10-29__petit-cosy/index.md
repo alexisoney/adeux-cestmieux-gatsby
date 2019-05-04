@@ -1,5 +1,6 @@
 ---
 title: 'L’hôtel du Petit Cosy'
+title_seo: ''
 hero: './images/2017.10.29-Petit-Cosy-Paris-cover.jpg'
 excerpt: 'Mon frère. Mon cousin. Nos amis. Son papa. Beaucoup de personnes de notre entourage habitent sur Paris. Ayant nous-mêmes vécus deux années sur là-bas, nous n’avons jamais eu de difficultés à nous loger pour chacun de nos déplacements dans la capitale. Début octobre avait lieu ma cérémonie de remise de diplôme Gobelins dans un théâtre'
 ---

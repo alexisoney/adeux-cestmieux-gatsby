@@ -1,5 +1,6 @@
 ---
 title: "Les petits plaisirs d'Automne"
+title_seo: ''
 hero: './images/MG_3074.jpg'
 excerpt: 'Vous le savez maintenant, et depuis aussi longtemps que je me souvienne, j’ai toujours aimé l’automne. Je suppose qu’avoir grandi 18 ans dans les Hautes-Alpes explique en grande partie mon amour pour cette saison. Les arbres, avant de s’endormir pour l’hiver, se montrent en toute beauté, une explosion de couleurs — des feuilles jaune, orange,'
 ---

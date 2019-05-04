@@ -1,5 +1,6 @@
 ---
 title: 'Hej København!'
+title_seo: ''
 hero: './images/2017.11.26-cover.jpg'
 excerpt: 'Après un premier essai raté en février 2016, nous avons enfin pu profiter de la capitale danoise le temps d’un court week-end. Arrivés sur place dans la matinée, pour repartir le lendemain en fin d’après-midi. Cela nous laissait donc 36h sur place pour une visite la ville. Pour nous éviter bien des soucis, nous avons'
 ---

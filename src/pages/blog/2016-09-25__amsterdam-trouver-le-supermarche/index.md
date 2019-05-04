@@ -1,5 +1,6 @@
 ---
 title: "Trouver LE supermarché #5"
+title_seo: ''
 hero: "./images/2016-09-25-amsterdam-trouver-le-supermarche-Photo-24-09-2016-12-24-10-e1521303735293.jpg"
 excerpt: "Coucou, c’est Alexis qui vous parle cette fois-ci. Voilà une semaine que nous sommes installés, et pour faire nos premières courses nous sommes allez dans l’un des supermarchés les plus connus ici : Albert Heijn. Malheureusement, celui-ci est tout de même à onze minutes à pieds et, surtout, tout petit ! Albert Heijn c’est un peu le"
 ---

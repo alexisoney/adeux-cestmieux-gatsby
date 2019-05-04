@@ -1,5 +1,6 @@
 ---
 title: 'Les petites recettes du mois de Septembre. #1'
+title_seo: ''
 hero: './images/2017.09.25-recettes-septembre-figues-cover.jpg'
 excerpt: "J’adore le mois de septembre. Je crois que j’ai toujours aimé le mois de septembre. La période de la rentrée des classes. L’achat des fournitures scolaires. La découverte ~~(et parfois la déception, oups)~~ de sa nouvelle classe, de son emploi du temps. J’ai toujours aimé l'énergie de nouveau départ qui règne à cette période, encore"
 ---

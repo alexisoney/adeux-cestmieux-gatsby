@@ -1,5 +1,6 @@
 ---
 title: 'Spring is Here! #17'
+title_seo: ''
 hero: './images/2017-03-15-printemps-printemps_mars2017-3.jpg'
 excerpt: 'Hello la compagnie. Des nouvelles météorologiques du plat pays. Ici, je crois que le printemps commence à pointer le bout de son nez (mais seulement le bout). Les jours rallongent. Et c’est quand même super agréable de sortir de l’agence alors qu’il fait encore jour dehors. Les températures semblent remonter tout doucement aussi. Les arbres'
 ---

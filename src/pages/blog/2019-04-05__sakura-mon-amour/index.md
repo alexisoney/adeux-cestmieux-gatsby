@@ -1,5 +1,6 @@
 ---
 title: 'Sakura mon amour'
+title_seo: ''
 hero: './images/MG_5355-1.jpg'
 excerpt: 'Amsterdam Life #43. Une chronique au fil du temps et des envies. Des looks, du papotage, des découvertes et du partage. Hello à tous, Alors que certains viennent tout juste de vivre un épisode neigeux en plein début du mois d’avril, j’avais envie de vous présenter un look résolument printanier dans un endroit absolument merveilleux à cette époque de l’année : le parc de cerisiers japonais (Sakura) de'
 ---

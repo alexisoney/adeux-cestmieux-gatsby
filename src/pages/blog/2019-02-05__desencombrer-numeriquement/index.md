@@ -1,5 +1,6 @@
 ---
 title: 'Désencombrer numériquement'
+title_seo: ''
 hero: './images/MG_4423.jpg'
 excerpt: 'Ecrit par Alexis cette fois-ci... Vous vous êtes déjà créé un dossier “A trier” sans jamais vous en être occupé ? Fait la remarque que votre téléphone n’a bientôt plus de place ? Bienvenue au club ! Cela fait 15 ans que je rempli ma vie de fichiers numériques, sans jamais vraiment prendre le temps'
 ---

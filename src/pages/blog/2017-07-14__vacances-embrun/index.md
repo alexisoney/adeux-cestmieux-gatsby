@@ -1,5 +1,6 @@
 ---
 title: 'Vacances d’été ? #21'
+title_seo: ''
 hero: './images/2017-07-14-vacances-embrun-cover.jpg'
 excerpt: 'Quoi de mieux qu’un 14 juillet pour parler de notre semaine de vacances en France ! Cette année, nous avons décidé de passer la plupart de l’été sur Amsterdam en nous accordant tout de même 1 semaine de vacances fin juin sur Embrun, ce qui me change radicalement de l’année dernière où avec toutes les'
 ---

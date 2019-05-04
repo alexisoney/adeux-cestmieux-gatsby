@@ -1,5 +1,6 @@
 ---
 title: "Les bonnes adresses d'Alexis & Clémence - Amsterdam centre #1"
+title_seo: ''
 hero: './images/cover-1.png'
 excerpt: 'Découvrir une ville, repérer les points de vue, visiter ses musées. Mais quand vient l’heure de manger, c’est toujours un peu la même question. “On mange où ?”. Amsterdam surprend par la variété des lieux où l’on peut manger : sandwichs au hareng cru sur le marché, distributeurs de hamburger, chaînes de falafels côtoient de'
 ---

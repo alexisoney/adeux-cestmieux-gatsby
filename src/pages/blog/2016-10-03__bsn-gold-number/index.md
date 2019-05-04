@@ -1,5 +1,6 @@
 ---
 title: "Le BSN aka le Gold number #6"
+title_seo: ''
 hero: "./images/bsn-gold-number.jpg"
 excerpt: "Petit résumé de l’aventure BSN pour vous expliquer comment je suis devenue officiellement Amstellodamoise ! Le Citizen Service Number - Quezako ? Ou autrement dit en Dutch : BurgerServiceNummer, BSN. Ce n’est pas vraiment un numéro d’identité, puisque je suis toujours française, mais disons l’équivalent de notre numéro de sécurité sociale. Chaque personne résidente aux Pays-Bas possède un"
 ---

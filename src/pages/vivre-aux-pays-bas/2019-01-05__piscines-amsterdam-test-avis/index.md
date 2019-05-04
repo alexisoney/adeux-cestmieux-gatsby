@@ -1,5 +1,6 @@
 ---
 title: 'On a testé les piscines à Amsterdam'
+title_seo: ''
 hero: './images/Screenshot-2018-10-29-at-21.52.11.png'
 excerpt: 'Dernièrement, nous avons testé 4 piscines à Amsterdam. Pour vous aider à trouver celle qui vous convienne le mieux, nous avons, depuis fin septembre, mouillé le maillot pour vous. Grand nageur papillon ou simple adepte de la brasse, voici le récit de notre plongée dans les grands bains amstellodamois. — Parmi nos bonnes résolutions prise mais'
 ---

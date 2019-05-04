@@ -1,5 +1,6 @@
 ---
 title: "Vie d'expat #2 - La barrière de la langue"
+title_seo: ''
 hero: './images/vie-expat-cover-02.jpg'
 excerpt: 'Pour ce second épisode de « Vie d’expat », j’ai souhaité partager notre expérience sur un sujet plutôt important lorsque l’on décide de partir vivre à l’étranger : celui de la langue. - Lorsque nous avons pris la décision de venir s’installer à Amsterdam, nous pensions que nous n’aurions pas trop de “soucis” vis-à-vis de'
 ---

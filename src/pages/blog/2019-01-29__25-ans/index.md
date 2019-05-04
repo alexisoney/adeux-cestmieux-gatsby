@@ -1,5 +1,6 @@
 ---
 title: '25!'
+title_seo: ''
 hero: './images/MG_4403.jpg'
 excerpt: 'Birthday Girl Aujourd’hui nous sommes le 29 janvier 2019 et je fête aujourd’hui mes 25 ans ! — Vous avez surement entendu parler du “10 year Challenge”, que ce soit sur Facebook ou bien Instagram. Cette “tendance” du début de l’année 2019 consiste simplement à poster une photographie de soi datant d’il y a 10'
 ---

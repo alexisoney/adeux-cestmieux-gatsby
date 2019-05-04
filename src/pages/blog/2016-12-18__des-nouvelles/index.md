@@ -1,5 +1,6 @@
 ---
 title: 'Des nouvelles #13'
+title_seo: ''
 hero: './images/2016-12-18-des-nouvelles-oud-zuid-willemspark.jpg'
 excerpt: 'Après plus de trois semaines et demi de silence radio sur le blog et après un article bilan en demi-teinte pour certains, voici quelques nouvelles sur le blog. Non, nous n’avons pas littéralement disparu de la surface internet et puis pouf, d’un coup ré-apparu. Simplement, moins de temps à consacrer pour écrire des articles et'
 ---

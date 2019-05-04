@@ -1,5 +1,6 @@
 ---
 title: 'Mon avis sur la Kindle Paper White'
+title_seo: ''
 hero: './images/MG_9844.jpg'
 excerpt: 'Moi & les livres • Si vous me connaissez un tant soit peu, vous savez que j’aime lire. J’aime prendre un peu de temps chaque jour pour lire quelques pages d’une histoire. J’aime découvrir des histoires d’amour, d’amitié, de guerre, de magie et même les histoires sur l’histoire. • Si vous me connaissez un peu'
 ---

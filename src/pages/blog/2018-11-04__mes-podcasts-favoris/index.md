@@ -1,5 +1,6 @@
 ---
 title: 'Mes podcasts favoris #1'
+title_seo: ''
 hero: './images/MG_3291.jpg'
 excerpt: 'Aujourd’hui, on se retrouve pour un article lifestyle puisque je voulais partager avec vous mes podcasts favoris du moment. La découverte des podcasts L’année dernière, j’avais découvert les livres audios. J’étais tombée amoureuse du concept en écoutant la saga Harry Potter. Je les écoutais pour la plupart du temps lors de mes trajets à vélo.'
 ---

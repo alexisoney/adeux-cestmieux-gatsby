@@ -1,5 +1,6 @@
 ---
 title: "Début de l'aventure - The D-Day #1"
+title_seo: ''
 hero: './images/2016-09-11-debut-aventure-d-day-01.jpg'
 excerpt: 'Dubrovnik —> Paris —> Amsterdam De retour de nos vacances en Croatie, nous avons à peine le temps de nous poser (et reposer) et faire quelques lessives, que nous devons déjà repartir. Notre trajet Paris - Amsterdam se fait en bus de nuit. C’était ce qu’il y avait de moins cher lorsque nous avions réservé'
 ---

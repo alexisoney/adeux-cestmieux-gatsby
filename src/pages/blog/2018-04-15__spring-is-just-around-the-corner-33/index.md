@@ -1,5 +1,6 @@
 ---
 title: 'Spring is just around the corner #33'
+title_seo: ''
 hero: './images/cover.jpg'
 excerpt: 'Il aura pris son temps, mais le printemps a enfin décidé de sortir le bout de son nez, et, avec, son lot de petits bonheurs. • Ouvrir la chambre de fenêtre et faire rentrer l’air frais du matin. • Rentrer à vélo du yoga sans lumières tant les jours rallongent, et rallongent encore ! •'
 ---

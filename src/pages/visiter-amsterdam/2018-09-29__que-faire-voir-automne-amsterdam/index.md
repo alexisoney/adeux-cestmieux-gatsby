@@ -1,5 +1,6 @@
 ---
 title: 'Que faire, que voir en automne à Amsterdam'
+title_seo: ''
 hero: './images/cover.png'
 excerpt: 'De fin septembre à fin novembre, la saison d’automne est une période unique et magique pour visiter Amsterdam. Les rues, recouvertes sous les feuilles dorées. Les canaux baignent dans une lumière douce de fin de journée. Les bars et restaurants sont au summum de la “ cozyness ». Enfin, la saison culturelle bat son plein. Bref,'
 ---

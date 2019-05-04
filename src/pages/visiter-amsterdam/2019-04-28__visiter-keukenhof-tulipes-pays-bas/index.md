@@ -1,5 +1,6 @@
 ---
 title: 'Visiter Keukenhof, jardin de Tulipes aux Pays-Bas'
+title_seo: ''
 hero: './images/MG_6574.jpg'
 excerpt: 'Visiter les jardins du Keukenhof est une excursion incontournable lorsque vous visiter Amsterdam au Printemps. Et cela, encore plus si les Tulipes font parties de vos fleurs favorites ! Situés à Lisse, à seulement une vingtaine de kilomètres de la capitale néerlandaise, le Keukenhof est le plus grand parc d’exposition florale au monde ! Au'
 ---

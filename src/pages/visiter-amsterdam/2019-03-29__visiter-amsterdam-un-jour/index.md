@@ -1,5 +1,6 @@
 ---
 title: 'Visiter Amsterdam en 1 jour'
+title_seo: ''
 hero: './images/MG_5239.jpg'
 excerpt: "Visiter Amsterdam en 1 jour peut paraître challengeant. Il y a tant à faire. Que voir ? Que faire ? Quoi privilégier ? Voici notre sélection d'essentiels à voir en un jour, selon notre point de vue de Français vivant à Amsterdam depuis 2016. - 24h à Amsterdam Nous vous proposons un itinéraire piéton qui vous permettra de découvrir les essentiels"
 ---

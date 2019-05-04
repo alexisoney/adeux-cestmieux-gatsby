@@ -1,5 +1,6 @@
 ---
 title: 'La petite reine aka le vélo à Amsterdam #7'
+title_seo: ''
 hero: './images/2016-10-08-velo-amsterdam-blogpost-velo.jpg'
 excerpt: 'Cela fait maintenant plus d’une semaine que je n’utilise plus les transports en commun pour me rendre à Mobgen. Non je n’y vais point à pied, mais bien en vélo, comme tout le monde en faite. Petit bilan de cette première semaine riche en coup de pédales. La petite Reine, ou pourquoi tout le'
 ---

@@ -1,5 +1,6 @@
 ---
 title: 'Visiter le centre d’Amsterdam - De Wallen & Oudezijde. Que voir, Que faire ?'
+title_seo: ''
 hero: './images/MG_4621-1.jpg'
 excerpt: "Notre sélection de 6 lieux à visiter dans le centre-ville Amsterdam Oudezijde selon notre point de vue de Français vivant à Amsterdam. - Le quartier de l’Oudezijde, situé dans le centre d’Amsterdam, est l'un des plus touristique de la ville : en cause le “fameux” Quartier Rouge et les nombreux Coffee Shop. Pourtant, l’Oudezijde est"
 ---

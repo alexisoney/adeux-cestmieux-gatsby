@@ -1,5 +1,6 @@
 ---
 title: "Vie d'expat #1 - « Être français de l'étranger »"
+title_seo: ''
 hero: './images/2018-01-28-cover.jpg'
 excerpt: "Dans le cadre d’une thématique nouvelle “Vie d'expat”, j’ai aujourd’hui envie de vous partager ma réflexion personnelle sur notre statut d’expatrié. Expat VS Pas expat Alors, déjà, petite *rectification*. C’est un abus de langage. Bien que l’expression soit “à la mode”, nous ne sommes pas de véritables expatriés. Nous ne sommes rattachés à aucune société"
 ---

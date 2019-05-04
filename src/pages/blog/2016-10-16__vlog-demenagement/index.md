@@ -1,5 +1,6 @@
 ---
 title: 'Back to France #8'
+title_seo: ''
 hero: './images/2016-10-16-vlog-demenagement-vlog02.jpg'
 excerpt: 'L’appartement : check. Le travail : check. Le BSN : check. Check Check Check (#House of Cards pour les plus geek d’entre vous). Ce qui n’était pas check en revanche, ce sont nos affaires restées en France. Retour en images ET en vidéo (oui oui petite vidéo (marrante)) sur ce dernier weekend “cartonnant”... Faux départ La plupart de'
 ---

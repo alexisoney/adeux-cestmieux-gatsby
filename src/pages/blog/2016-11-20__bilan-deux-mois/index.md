@@ -1,5 +1,6 @@
 ---
 title: "Deux mois à Amsterdam - Bilan. #12"
+title_seo: ''
 hero: "./images/2016-11-20-bilan-deux-mois-bilan-2-mois-2.jpg"
 excerpt: "Cela fait maintenant deux mois que nous avons quitté l’hexagone pour s’installer et vivre à Amsterdam. Deux mois déjà. Deux mois seulement. Deux mois. L’occasion de dresser un petit bilan pour chacun de cette nouvelle vie déjà bien entamée. Le bilan de Clémence. Deux mois déjà. Les températures sont en chutes libre depuis deux semaines,"
 ---

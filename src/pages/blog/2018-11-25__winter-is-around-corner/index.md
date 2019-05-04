@@ -1,5 +1,6 @@
 ---
 title: 'Winter is around the corner #39'
+title_seo: ''
 hero: './images/cover-routine-hiver.jpg'
 excerpt: 'Nous voici déjà à la fin du mois de novembre ! Les journées raccourcissent et le temps défile un peu à toute vitesse. Ce n’est pas métro-boulot-dodo mais presque, et l’automne laisse peu à peu place à l’hiver et son manteau d’air bien froid. — De notre côté la routine hivernale s’installe aussi tout doucement. On a ressorti'
 ---

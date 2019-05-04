@@ -1,5 +1,6 @@
 ---
 title: 'Dans mon petit potager #34'
+title_seo: ''
 hero: './images/03-1.jpg'
 excerpt: 'Il fait tellement beau en ce moment que je passe mes week-ends sur le balcon, alternant entre lecture, bronzette & jardinage. C’est d’ailleurs assez exceptionnel. Les températures sont dignes d’un beau mois de juillet mais malheureusement, la météo des prochains jours annoncent un retour de la fraîcheur et des nuages. Lors de notre retour en'
 ---

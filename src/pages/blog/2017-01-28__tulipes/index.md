@@ -1,5 +1,6 @@
 ---
 title: 'National Tulip Day #16'
+title_seo: ''
 hero: './images/2017-01-28-tulipes-national-tulip-day-2017-19.jpg'
 excerpt: 'Samedi 21 janvier, nous fêtions le National Tulip Day. Au Pays-Bas, il existe une chose qui n’existe nulle part ailleurs (je crois) : la journée de la Tulipe. Oui, au même titre que la journée de la femme ou encore la journée du câlin, ici nous avons aussi le privilège de fêter la journée nationale de'
 ---

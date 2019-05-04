@@ -1,5 +1,7 @@
 import React from 'react';
 import {graphql} from 'gatsby';
+import {Helmet} from 'react-helmet';
+import siteMetadata from '../constant/siteMetadata';
 import Layout from '../layouts/layout';
 import FeaturedArticles from '../components/FeaturedArticles';
 import prettyText from '../utils/prettyText';
@@ -62,6 +64,20 @@ export default ({data}) => {
 
   return (
     <Layout instagram={data.allInstaNode}>
+      <Helmet>
+        <title>{post.frontmatter.title_seo ? post.frontmatter.title_seo : title}</title>
+        <meta name='description' content={post.frontmatter.excerpt} />
+        <meta
+          property='og:title'
+          content={post.frontmatter.title_seo ? post.frontmatter.title_seo : title}
+        />
+        <meta property='og:description' content={post.frontmatter.excerpt} />
+        <meta property='og:image' content={`${src}-1600w.jpeg`} />
+        <meta property='og:url' content={`${url}/${slug}/`} />
+        <meta name='twitter:card' content='summary_large_image' />
+        <meta property='og:site_name' content={siteMetadata.title} />
+        <meta name='twitter:image:alt' content={slug} />
+      </Helmet>
       <div className='hero'>
         <picture>
           <source
@@ -107,9 +123,11 @@ export const query = graphql`
       }
       frontmatter {
         title
+        title_seo
         hero {
           name
         }
+        excerpt
       }
     }
     allMarkdownRemark(

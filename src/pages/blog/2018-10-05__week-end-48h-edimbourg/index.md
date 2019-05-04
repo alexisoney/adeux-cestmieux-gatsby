@@ -1,5 +1,6 @@
 ---
 title: 'Un long week-end à Edimbourg'
+title_seo: ''
 hero: './images/cover.jpg'
 excerpt: 'Edimbourg — Nos must-see sur un week-end Depuis que j’ai découvert l’univers Outlander, je ne rêvais que d’une chose : visiter l’Écosse et les Highlands. À défaut de pouvoir réaliser mon rêve de road trip, je souhaitais, au moins cette année, visiter la capitale d’Ecosse, Edimbourg. Il se trouve qu’Olafur Arnorlds, l’un des artistes préféré'
 ---

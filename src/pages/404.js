@@ -7,7 +7,7 @@ const Page = ({data}) => {
 
   return (
     <>
-      <Category title='Oups !' excerpt={excerpt} data={data} />
+      <Category title='Oups ! Pas introuvable' slug='404' excerpt={excerpt} img='' data={data} />
     </>
   );
 };
