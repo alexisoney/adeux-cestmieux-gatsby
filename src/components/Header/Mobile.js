@@ -1,6 +1,7 @@
 import React from 'react';
 import {Link} from 'gatsby';
 import styled from 'styled-components';
+import {disableBodyScroll, enableBodyScroll} from 'body-scroll-lock';
 import {colors} from '../../constant/style';
 import SiteTitle from './SiteTitle';
 import {NavigationRoutes, SocialMediasLinks} from '../../constant/routes';
@@ -85,6 +86,7 @@ export default class Mobile extends React.Component {
     this.state = {
       isOpen: false,
     };
+    this.nav = React.createRef();
   }
 
   render() {
@@ -96,7 +98,7 @@ export default class Mobile extends React.Component {
           </Button>
           <SiteTitle />
         </TopBar>
-        <Nav open={this.state.isOpen}>
+        <Nav ref={this.nav} open={this.state.isOpen}>
           <NavItems>
             {NavigationRoutes.map(({to, txt}, id) => (
               <NavItemInternal key={id} to={to} activeClassName='header__link--is-active'>
@@ -117,6 +119,12 @@ export default class Mobile extends React.Component {
   }
 
   toggleMenu = () => {
+    if (this.state.isOpen) {
+      enableBodyScroll(this.nav.current);
+    } else {
+      disableBodyScroll(this.nav.current);
+    }
+
     this.setState(prevStat => ({
       isOpen: !prevStat.isOpen,
     }));
