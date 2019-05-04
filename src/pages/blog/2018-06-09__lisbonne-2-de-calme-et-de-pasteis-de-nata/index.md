@@ -53,11 +53,11 @@ De retour sur Lisbonne et après une pause repas méritée, nous nous dirigeons 
 <gallery>
 <img alt="MG_0859.png" src="./images/MG_0859.png">
 <img alt="IMG_4263.png" src="./images/IMG_4263.png">
-<img alt="MG_1060.png" src="./images/MG_1060.png">
-<img alt="MG_1061.png" src="./images/MG_1061.png">
 <img alt="MG_1039.png" src="./images/MG_1039.png">
+<img alt="MG_1060.png" src="./images/MG_1060.png">
 <img alt="MG_1042.png" src="./images/MG_1042.png">
 <img alt="IMG_4247.png" src="./images/IMG_4247.png">
+<img alt="MG_1061.png" src="./images/MG_1061.png">
 </gallery>
 
 ---

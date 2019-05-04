@@ -4,11 +4,11 @@ hero: './images/MG_3209.png'
 excerpt: 'Nous venons de recevoir notre troisième box HelloFresh ce week-end. Après deux semaines complètes de repas made in HelloFresh, on voulait vous expliquer pourquoi ce concept est “testé et approuvé” chez nous, et vous permettre à votre tour de tester grâce à ce lien de parrainage offrant 25€ sur votre première box ! (Code CLMTAI) — J’aime cuisiner.'
 ---
 
-_Nous venons de recevoir notre troisième box HelloFresh ce week-end. Après deux semaines complètes de repas made in HelloFresh, on voulait vous expliquer pourquoi ce concept est “testé et approuvé” chez nous, et vous permettre à votre tour de tester grâce à [ce lien de parrainage](https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard) offrant 25€ sur votre première box ! (Code CLMTAI)_
+*Nous venons de recevoir notre troisième box HelloFresh ce week-end. Après deux semaines complètes de repas made in HelloFresh, on voulait vous expliquer pourquoi ce concept est “testé et approuvé” chez nous, et vous permettre à votre tour de tester grâce à [ce lien de parrainage](https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard) offrant 25€ sur votre première box ! (Code CLMTAI)*
 
 [<img alt="Code Promo HelloFresh 25€ réduction avis box" src="./images/hellofresh-discount.jpg">](https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard)
 
-**[Découvrez HelloFresh](https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard)**
+**[Découvrez HelloFresh, 25€ offert sur votre première box](https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard)**
 
 ---
 
@@ -45,11 +45,9 @@ HelloFresh fonctionne donc telle une box normale : c’est un abonnement. Chaque
 Le prix est dégressif en fonction du nombre de personnes et de repas par semaine. Ainsi une box classique pour 3 repas de 2 personnes coutera 44,95 € (soit 7.50 € par repas), alors qu’une même box pour 5 repas 2 personnes reviendra à 54,95 € (soit 5,50 € par repas).
 
 <gallery>
-<gallery>
 <img alt="HelloFresh - avis box" src="./images/MG_3199.png">
 <img alt="HelloFresh - avis box" src="./images/MG_3218.png">
 <img alt="HelloFresh - avis box" src="./images/MG_3219.png">
-</gallery>
 </gallery>
 
 ## Hello Fresh : La box Original pendant deux semaines.
@@ -69,16 +67,14 @@ _Semaine 1_
 - Velouté de poireau - pomme de terre
 - Penne aux poires et betteraves rouge grillées et fromage de chèvre
 
-_\*Cette recette est une “premium” avec un supplément de 3€ par personne en plus du prix initial de la box_
+_Cette recette est une “premium” avec un supplément de 3€ par personne en plus du prix initial de la box_
 
-<gallery>
 <gallery>
 <img alt="HelloFresh - repas" src="./images/MG_3034.png">
 <img alt="HelloFresh - repas" src="./images/MG_3037.png">
 <img alt="HelloFresh - repas" src="./images/MG_3046.png">
 <img alt="HelloFresh - repas" src="./images/MG_3054.png">
 <img alt="HelloFresh - repas" src="./images/MG_3059.png">
-</gallery>
 </gallery>
 
 _Semaine 2_
@@ -90,14 +86,18 @@ _Semaine 2_
 - Chili Sin Carne
 
 <gallery>
-<gallery>
 <img alt="HelloFresh - repas" src="./images/MG_3111.png">
 <img alt="HelloFresh - repas" src="./images/MG_3120.png">
 <img alt="HelloFresh - repas" src="./images/MG_3129.png">
 <img alt="HelloFresh - repas" src="./images/MG_3139.png">
 <img alt="HelloFresh - repas" src="./images/MG_3148.png">
 </gallery>
-</gallery>
+
+---
+
+**[Découvrez HelloFresh, 25€ offert sur votre première box](https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard)**
+
+---
 
 ## Notre avis HelloFresh : On adore
 
@@ -114,10 +114,8 @@ _Semaine 2_
 \- À tous les Français et expats, Hello Fresh est disponible mondialement que ce soit en Autriche, Suisse, Benelux, au Royaume-Uni, aux Etats-Unis, au Canada ou même en Australie. N’hésitez pas à tester et à partager avec nous votre avis sur la box.
 
 <gallery>
-<gallery>
 <img alt="HelloFresh - avis box" src="./images/MG_3025.png">
 <img alt="HelloFresh - avis box" src="./images/MG_3026.png">
-</gallery>
 </gallery>
 
 ## Notre avis Hello Fresh : On aime moins
@@ -133,6 +131,12 @@ _Semaine 2_
 \- Hello Fresh n’est malheureusement pas (plus) disponible dans toute la France, mais seulement dans le Nord et le Pas de Calais.
 
 <img alt="HelloFresh - avis box" src="./images/MG_3212.png">
+
+---
+
+**[Découvrez HelloFresh, 25€ offert sur votre première box](https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard)**
+
+---
 
 ## Notre avis Hello Fresh : en conclusion
 

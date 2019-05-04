@@ -28,10 +28,8 @@ _Le petit bonus_ : N’hésitez pas à reserver votre séjour via [leur site](ht
 - [La page Facebook](https://www.facebook.com/LE-COSY-1182454788435263/?fref=ts/)
 - [La page Instagram](https://www.instagram.com/lepetitcosyhotel/)
 
-<gallery>
 <img alt="2017.10.29-Petit-Cosy-Paris-02.jpg" src="./images/2017.10.29-Petit-Cosy-Paris-02.jpg">
 <img alt="2017.10.29-Petit-Cosy-Paris-03.jpg" src="./images/2017.10.29-Petit-Cosy-Paris-03.jpg">
 <img alt="2017.10.29-Petit-Cosy-Paris-05.jpg" src="./images/2017.10.29-Petit-Cosy-Paris-05.jpg">
 <img alt="2017.10.29-Petit-Cosy-Paris-04.jpg" src="./images/2017.10.29-Petit-Cosy-Paris-04.jpg">
 <img alt="2017.10.29-Petit-Cosy-Paris-01.jpg" src="./images/2017.10.29-Petit-Cosy-Paris-01.jpg">
-</gallery>

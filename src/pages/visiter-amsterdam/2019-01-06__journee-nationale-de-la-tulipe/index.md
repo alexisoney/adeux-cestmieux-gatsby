@@ -39,11 +39,9 @@ En visitant Amsterdam au printemps, vous découvrirez aussi des rues et des parc
 Ainsi, le 19 janvier 2019 aura lieu la traditionnelle Journée Nationale de la Tulipe, sur la place du Dam à Amsterdam. Cette dernière est, pour l’occasion, transformée en un grand jardin bigarré à l’aide de plus de 200 000 tulipes de toutes les couleurs. Tous les habitants sont alors invités à venir cueillir des tulipes gratuitement pendant toute une après-midi, soit plus de 10 000 personnes chaque année !
 
 <gallery>
-<gallery>
 <img alt="Journée Nationale de la Tulipe" src="./images/national-tulip-day-2017-16.jpg">
 <img alt="Journée Nationale de la Tulipe" src="./images/national-tulip-day-2017-14.jpg">
 <img alt="Journée Nationale de la Tulipe" src="./images/national-tulip-day-2017-17.jpg">
-</gallery>
 </gallery>
 
 ### Le temps des tulipes !

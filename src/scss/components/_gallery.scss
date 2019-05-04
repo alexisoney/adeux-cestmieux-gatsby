@@ -1,18 +1,30 @@
 .gallery {
   display: flex;
   flex-flow: row wrap;
-  margin: 25px -7px;
+  margin: 25px 0;
   justify-content: space-between;
 }
 
-.gallery .post__image-container {
+.gallery + .post__image-container {
+  margin: -25px 0 25px;
+}
+
+.post__image-container + .gallery,
+.post__image-container + .post__image-container {
+  margin: -18px 0 25px;
+}
+
+.gallery .post__image-container,
+.gallery img {
   display: block;
   flex: 0 1 auto;
   min-width: 200px !important;
   width: calc(50% - 3.5px);
+  margin: 0;
 }
 
 .gallery .post__image {
+  margin: 0;
   padding: 0 0 7px;
 }
 

@@ -17,6 +17,8 @@ export default ({data}) => {
 
   const Gallery = ({children}) => <div className='gallery'>{children}</div>;
 
+  const ToDo = ({children}) => children;
+
   const optimizedImages = ({alt, src, title}) => {
     const fileExtension = path.extname(src);
     const needOptimization = ['.jpg', '.jpeg', '.png'].includes(fileExtension.toLowerCase());
@@ -50,7 +52,11 @@ export default ({data}) => {
 
   const renderAst = new rehypeReact({
     createElement: React.createElement,
-    components: {img: optimizedImages, gallery: Gallery},
+    components: {
+      img: optimizedImages,
+      gallery: Gallery,
+      todo: ToDo,
+    },
   }).Compiler;
 
   return (

@@ -13,10 +13,8 @@ De notre côté la **routine hivernale** s’installe aussi tout doucement. On a
 Enfin, bouillotte ou non, la saison du cocooning est plus qu’ouverte et c’est tout en buvant une tasse de Thé « [Vive les Fêtes](https://www.palaisdesthes.com/fr/vive-les-fetes.html) » bien chaude que je vous écris cet article aujourd’hui, et je ne peux que vous conseiller d’en faire autant, le temps de votre lecture 🙂
 
 <gallery>
-<gallery>
 <img alt="MG_3775-2.jpg" src="./images/MG_3775-2.jpg">
 <img alt="MG_3771-2.jpg" src="./images/MG_3771-2.jpg">
-</gallery>
 </gallery>
 
 ## Noël J-30
@@ -24,10 +22,8 @@ Enfin, bouillotte ou non, la saison du cocooning est plus qu’ouverte et c’es
 Nous sommes le dernier week-end de novembre. Cela veut dire que la semaine prochaine, on ouvre la première case du traditionnel **Calendrier de l’Avent !** 😄 Cette année encore, point de chocolats, mais bien du thé à déguster chaque matin au petit déjeuner. Cela fait la troisième année que nous achetons le [Calendrier de l’Avent](https://www.palaisdesthes.com/fr/calendrier-avent-2018.html) du Palais des Thés, et nous en sommes toujours ravis.
 
 <gallery>
-<gallery>
 <img alt="MG_3739-2.jpg" src="./images/MG_3739-2.jpg">
 <img alt="MG_3729-2.jpg" src="./images/MG_3729-2.jpg">
-</gallery>
 </gallery>
 
 Il reste donc **30 jours avant Noël**! Comme nous ne restons pas sur Amsterdam pour les fêtes (je m’envole dès le 15 décembre pour les Hautes-Alpes), j’ai toujours un peu de mal avec le fait de décorer l’appartement. Je rêverais de mettre un sapin, mais quand bien même, ce n’est pas franchement raisonnable et surtout pas très sympa pour la planète de couper des petits sapins simplement pour 15 jours de décoration (quand bien même un sapin naturel reste toujours moins impactant qu’un sapin artificiel — [Voir l'article sur le blog Santaisgreen](https://santaisgreen.com/2018/11/13/limpact-ecologique-du-sapin-de-noel/).
@@ -35,15 +31,13 @@ Il reste donc **30 jours avant Noël**! Comme nous ne restons pas sur Amsterdam 
 À défaut, j’ai transformé le “meuble aux orchidées” en petite forêt de Noël miniature. J’ai accroché plein de guirlandes lumineuses dans la maison et j’ai une consommation un peu excessive de bougies. Un bouquet de saisons est posé dans le salon, auquel j’ai ajouté quelques petites décorations. Et voilà qu'avec peu de choses, j’arrive finalement à créer une ambiance de Noël cosy et chaleureuse !
 
 <gallery>
-<gallery>
-<img alt="MG_3814-2.jpg" src="./images/MG_3814-2.jpg">
 <img alt="MG_3803-2.jpg" src="./images/MG_3803-2.jpg">
 <img alt="MG_3806-2.jpg" src="./images/MG_3806-2.jpg">
 <img alt="MG_3721-2.jpg" src="./images/MG_3721-2.jpg">
 <img alt="MG_3719-2.jpg" src="./images/MG_3719-2.jpg">
 <img alt="MG_3703-2.jpg" src="./images/MG_3703-2.jpg">
 <img alt="MG_3702-2.jpg" src="./images/MG_3702-2.jpg">
-</gallery>
+<img alt="MG_3814-2.jpg" src="./images/MG_3814-2.jpg">
 </gallery>
 
 ## Home Sweet Home
@@ -69,11 +63,9 @@ Comme c’est un véritable pavé et que je ne veux pas me sentir “blasée” 
 Sur [Goodreads](https://www.goodreads.com/user/show/63307481-cl-mence), le réseau social dédié à la lecture, j’avais mis mon “Challenge Lecture” de 2018 à 25 livres. J’en suis à peine à 12. Je suis quasiment certaine que je n’arriverais pas à terminer le challenge, mais ce n’est pas très grave. J’ai quand même l’impression d’avoir lu régulièrement (et puis Outlander devrait compter pour 3 livres tant il est gros !).
 
 <gallery>
-<gallery>
-<img alt="MG_3697-2.jpg" src="./images/MG_3697-2.jpg">
 <img alt="MG_3713-2.jpg" src="./images/MG_3713-2.jpg">
 <img alt="MG_3756-2.jpg" src="./images/MG_3756-2.jpg">
-</gallery>
+<img alt="MG_3697-2.jpg" src="./images/MG_3697-2.jpg">
 </gallery>
 
 #### Harry Potter
@@ -85,13 +77,11 @@ C’est un puzzle de 1 000 pièces d’une illustration de Mary GrandPré pour l
 En bref, un puzzle parfait pour les longues soirées d’hiver et après une bonne journée de travail.
 
 <gallery>
-<gallery>
-<img alt="MG_3801-2.jpg" src="./images/MG_3801-2.jpg">
 <img alt="MG_3778-2.jpg" src="./images/MG_3778-2.jpg">
 <img alt="MG_3789-2.jpg" src="./images/MG_3789-2.jpg">
 <img alt="MG_3791-2.jpg" src="./images/MG_3791-2.jpg">
 </gallery>
-</gallery>
+<img alt="MG_3801-2.jpg" src="./images/MG_3801-2.jpg">
 
 ## On reste actif
 

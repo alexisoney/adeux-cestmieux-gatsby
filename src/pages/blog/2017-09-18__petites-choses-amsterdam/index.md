@@ -41,5 +41,5 @@ excerpt: 'Toutes ces petites choses... • Le vélo, cheveux au vent. • Le cha
 
 **• Toi & Moi, ici ♥**
 
-<img alt="01.jpg" src="./images/01.jpg"><img alt="2017-09-18-petites-choses-amsterdam-01.jpg" src="./images/2017-09-18-petites-choses-amsterdam-01.jpg">
-<img alt="2017-09-18-petites-choses-amsterdam-02.jpg" src="./images/2017-09-18-petites-choses-amsterdam-02.jpg"><img alt="02.jpg" src="./images/02.jpg">
+<img alt="2017-09-18-petites-choses-amsterdam-01.jpg" src="./images/2017-09-18-petites-choses-amsterdam-01.jpg">
+<img alt="2017-09-18-petites-choses-amsterdam-02.jpg" src="./images/2017-09-18-petites-choses-amsterdam-02.jpg">

@@ -52,7 +52,6 @@ La température de l'eau de grand bassin est de 27,5 degrés en moyenne.
 _Horaires de nage (hors événements et vacances scolaires) :_
 
 - En semaine, le mardi & jeudi
-
   - 07:00-11:00
 
 - Samedi
@@ -103,11 +102,9 @@ La température de l’eau est de 28 degrés environ.
 _Horaires de nage (hors événements et vacances scolaires) :_
 
 - En semaine du lundi au vendredi
-
   - 07:00-09:00
 
 - Samedi
-
   - 08:00 - 15:15
 
 - Dimanche
@@ -162,11 +159,9 @@ La température de l'eau du bassin de 50 mètres est d'environ 27 degrés.
 _Horaires de nage (hors événements et vacances scolaires) :_
 
 - En semaine du lundi au vendredi
-
   - 06:30-08:00 — 50m
 
 - Samedi
-
   - 10:15 - 12:15 — 25m
 
 - Dimanche
@@ -212,11 +207,9 @@ _À noté que le lieu est aussi doté d’une salle de sport à l’étage et de
 _Horaires de nage (hors événements et vacances scolaires) :_
 
 - En semaine du lundi au vendredi
-
   - de 07:00 à 09:00
 
 - Samedi
-
   - 07:00-09:15
   - 13:15-14:45
   - 17:45-20:00

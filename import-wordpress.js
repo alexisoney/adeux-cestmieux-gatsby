@@ -23,7 +23,7 @@ async function getPosts(perPage) {
         post = addPath(post);
         post = addMarkdown(post);
         await saveContent(post);
-        // await saveImages(post);
+        await saveImages(post);
       }
 
       // await createGlobal(posts, "md");
@@ -282,14 +282,17 @@ function addMarkdown(post) {
 }
 
 async function saveContent(post) {
-  const folder = path.join('src/pages/' + post.path + 'images/');
+  const folder = path.join('src/pages/' + post.path);
   const file = path.join('src/pages/' + post.path + 'index.md');
   const content = post.frontmatter + '\n' + post.markdown;
 
   try {
-    await fsp.mkdir(folder, {recursive: true});
-    await fsp.writeFile(file, content);
-    console.log(file);
+    const isNew = await fsp.stat(file).then(() => false, () => true);
+    if (isNew) {
+      await fsp.mkdir(folder, {recursive: true});
+      await fsp.writeFile(file, content);
+      console.log(file);
+    }
     return post;
   } catch (e) {
     console.error(e);
@@ -298,16 +301,20 @@ async function saveContent(post) {
 
 async function saveImages(post) {
   const folder = path.join('src/pages/' + post.path + 'images/');
-  for (let i = 0; i < post.images.length; i++) {
-    try {
-      await new Promise(r => setTimeout(() => r(), 500));
-      const {filename} = await downloadImage.image({
-        url: post.images[i],
-        dest: folder,
-      });
-      console.log(filename);
-    } catch (e) {
-      console.error(e);
+  const isNew = await fsp.stat(folder).then(() => false, () => true);
+  if (isNew) {
+    await fsp.mkdir(folder, {recursive: true});
+    for (let i = 0; i < post.images.length; i++) {
+      try {
+        await new Promise(r => setTimeout(() => r(), 500));
+        const {filename} = await downloadImage.image({
+          url: post.images[i],
+          dest: folder,
+        });
+        console.log(filename);
+      } catch (e) {
+        console.error(e);
+      }
     }
   }
   return post;

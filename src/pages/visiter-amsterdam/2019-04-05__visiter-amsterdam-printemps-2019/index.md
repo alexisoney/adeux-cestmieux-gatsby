@@ -35,12 +35,10 @@ Bien que chaque saison possède son charme, le printemps est une merveilleuse p�
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_5479.jpg">
 <gallery>
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_5415.jpg">
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_0112.jpg">
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_5410.jpg">
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_5504.jpg">
-</gallery>
 </gallery>
 </gallery>
 
@@ -62,11 +60,9 @@ Ce sont les _[VondelparkOpenluchttheatre](http://www.openluchttheater.nl/),_ Th�
 
 <gallery>
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam au Printemps Hortus Botanicus" src="./images/IMG_8922.jpg">
 <img alt="Visiter Amsterdam au Printemps Hortus Botanicus" src="./images/IMG_8949.jpg">
 <img alt="Visiter Amsterdam au Printemps Hortus Botanicus" src="./images/MG_4762.jpg">
-</gallery>
 </gallery>
 </gallery>
 
@@ -101,13 +97,11 @@ Le village abrite de nombreux bâtiments d'époque, notamment des maisons en boi
 
 <gallery>
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam Printemps Zaanse Schans" src="./images/MG_7195.jpg">
 <img alt="Visiter Amsterdam au printemps" src="./images/MG_7217-1.jpg">
 <img alt="Visiter Amsterdam au printemps" src="./images/MG_7218-1.jpg">
 <img alt="Visiter Amsterdam au printemps" src="./images/MG_7221-1.jpg">
 <img alt="Visiter Amsterdam au printemps" src="./images/MG_7173-1.jpg">
-</gallery>
 </gallery>
 </gallery>
 
@@ -147,11 +141,9 @@ Vous trouverez des fleurs un peu partout dans la ville, mais pour une expérienc
 
 <gallery>
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_5542.jpg">
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_5522.jpg">
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_5529.jpg">
-</gallery>
 </gallery>
 </gallery>
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_5537.jpg">
@@ -164,12 +156,10 @@ _Attention : les tulipes fleurissent de la mi-mars à la mi-mai et c'est pourquo
 
 <gallery>
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_7354.jpg">
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_7295.jpg">
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_7281.jpg">
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_7260.jpg">
-</gallery>
 </gallery>
 </gallery>
 

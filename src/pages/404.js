@@ -7,7 +7,7 @@ const Page = ({data}) => {
 
   return (
     <>
-      <Category title='Blog' excerpt={excerpt} data={data} />
+      <Category title='Oups !' excerpt={excerpt} data={data} />
     </>
   );
 };
@@ -21,10 +21,7 @@ export const query = graphql`
         siteUrl
       }
     }
-    allMarkdownRemark(
-      filter: {fields: {category: {eq: "blog"}}}
-      sort: {fields: [fields___date], order: DESC}
-    ) {
+    allMarkdownRemark(sort: {fields: [fields___date], order: DESC}) {
       edges {
         node {
           fields {

@@ -4,7 +4,7 @@ hero: './images/vie-expat-03.png'
 excerpt: " ⭐ON EST CHAMPION DU MONDE ⭐ 🇫🇷🇫🇷🇫🇷 À moins que vous ne viviez dans une grotte, vous n'êtes sûrement pas sans savoir que les Bleus ont gagné la Coupe du Monde dimanche dernier et ont ainsi ramené, 20 ans plus tard, une deuxième étoile mythique sur le maillot. Quelle joie, quel bonheur de voir des milliers de"
 ---
 
-## ⭐ON EST CHAMPION DU MONDE ⭐
+## ⭐ON EST CHAMPION DU MONDE ⭐
 
 🇫🇷🇫🇷🇫🇷
 
@@ -19,10 +19,8 @@ Coupe du monde ou non, mes collègues me qualifient souvent de « vraie França
 Travaillant dans un environnement international, ces différences culturelles et identitaires sont encore plus mises en valeur, dans le bon sens du terme. La coupe du Monde devient alors un beau prétexte à revendiquer d'où l'on vient et qui l'on est. On se chamaille, gentiment, on fait nos pronostics et on est finalement heureux d'être tous ensemble. (Encore plus dans un pays dont l'équipe nationale n'était pas qualifiée (poke le voisin du dessous qui a du bien nous détester)). Et alors, vous êtes finalement parmi les premiers à revendiquer les exploits de votre équipe nationale.
 
 <gallery>
-<gallery>
 <img alt="gif01.gif" src="./images/gif01.gif">
 <img alt="gif02-1.gif" src="./images/gif02-1.gif">
-</gallery>
 </gallery>
 
 ### Une finale de coupe du monde vue de l'étranger 🇫🇷 vs 🇭🇷 à 🇳🇱 

@@ -27,11 +27,9 @@ Puis, de recommandations en recommandations, je me suis dirigée vers des théma
 _J’espère qu'au moins l’un de ces podcasts résonnera en vous ou bien, à défaut d’en trouver un qui vous plaise, que cet article saura éveillé votre curiosité quant à ce format encore peu populaire en France._
 
 <gallery>
-<gallery>
 <img alt="podcast favoris adeux-cestmieux" src="./images/MG_3336.jpg">
-<img alt="podcast favoris adeux-cestmieux" src="./images/MG_3284.jpg">
 <img alt="podcast favoris adeux-cestmieux" src="./images/MG_3330.jpg">
-</gallery>
+<img alt="podcast favoris adeux-cestmieux" src="./images/MG_3284.jpg">
 </gallery>
 
 ## Les podcasts — Mode d’emploi

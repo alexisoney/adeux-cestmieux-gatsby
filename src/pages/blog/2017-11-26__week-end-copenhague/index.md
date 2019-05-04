@@ -28,7 +28,6 @@ Il fait désormais bien nuit et il nous reste une dernière chose prévue sur le
 
 Nous rentrons à l’hôtel des paillettes dans les yeux et les kilomètres pleins les jambes !
 
-<gallery>
 <img alt="2017.11.26-01.jpg" src="./images/2017.11.26-01.jpg">
 <img alt="2017.11.26-02.jpg" src="./images/2017.11.26-02.jpg">
 <img alt="2017.11.26-03.jpg" src="./images/2017.11.26-03.jpg">
@@ -39,7 +38,6 @@ Nous rentrons à l’hôtel des paillettes dans les yeux et les kilomètres plei
 <img alt="2017.11.26-08.png" src="./images/2017.11.26-08.png">
 <img alt="2017.11.26-09.jpg" src="./images/2017.11.26-09.jpg">
 <img alt="2017.11.26-10.jpg" src="./images/2017.11.26-10.jpg">
-</gallery>
 
 ---
 
@@ -53,12 +51,10 @@ En redescendant vers le centre, nous traversons les _lacs de Copenhague_, des ba
 
 Notre ballade touche à sa fin et n’ayant plus le courage de ressortir braver le froid, nous décidons de nous poser dans un café histoire de patienter autour d’une boisson chaude avant de repartir pour l’aéroport. Je crois que je n’ai jamais bu un aussi bon chai latte ! Mais c’est aussi à ce moment-là que nous nous rendons compte que la vie est véritablement plus chère ici. Pour deux grandes boissons chaudes et un muffin, nous avons payé l’équivalent de 18 euros. Si l’on compare avec les prestations de Starbuck, nous en aurions eu pour 5 euros de moins minimum !
 
-<gallery>
 <img alt="2017.11.26-14.png" src="./images/2017.11.26-14.png">
 <img alt="2017.11.26-13.jpg" src="./images/2017.11.26-13.jpg">
 <img alt="2017.11.26-12.png" src="./images/2017.11.26-12.png">
 <img alt="2017.11.26-11.png" src="./images/2017.11.26-11.png">
-</gallery>
 
 ---
 

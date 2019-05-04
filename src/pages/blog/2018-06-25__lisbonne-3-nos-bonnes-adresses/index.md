@@ -15,20 +15,16 @@ En bas du Bairro Alto, à quelques minutes à pied de la Praça Do Comercio, se 
 
 Nous y avons diné un soir et nous vous conseillons de ne pas arriver trop tard ou bien de venir en semaine, au risque de ne pas trouver de place pour s’asseoir. Au menu, des plats 100% portugais, pour mon plus grand plaisir : arroz de pat (riz au canard), sardines grillées mon amour et pastis de Nata de chew Mantegaria. C’était excellent et nous vous le conseillons vivement !
 
-<gallery>
 <img alt="sardine.png" src="./images/sardine.png">
 <img alt="timeoutmarket.png" src="./images/timeoutmarket.png">
-</gallery>
 
 **• Pour une bonne Glace - [Gelato Davvero](https://www.gelatodavvero.com/)**
 Les journées chaudes sont faites pour manger de bonnes glaces. Pour en déguster des bien délicieuses, rdv chez Gelato Davvero. Ce glacier, dont le nom signifie en italien “vraie glace” possède plusieurs adresses dans la capitale. Et lorsque vous entrez, c’est exactement ce que vous trouvez, des glaces confectionnées à la mode romaine, avec des techniques artisanales de production. Chez Davvero, les glaces sont servies comme à Rome, avec une spatule et non pas avec l’habituelle cuillère à glace. Parmi les parfums au sommaire : noix, cacahuètes, biscuits, chocolat-menthe, chocolat-orange, chocolat, , fragola (fraise), kibana (banane-kiwi) et nocciola (noisette), tous étant élaborés à partir d’ingrédients naturels et fruits de la saison, sans ajout de colorants ni de conservateurs.
 
 Je suis personnellement reste dans les classiques en choisissant un cornet 3 saveurs vanille, kiwi-banane et “crème”. Alexis a vu triple en choisissant le maxi cornet 5 saveurs. Je crois que la photo se passe de tout commentaire. C’était franchement drôle et surtout très bon 😉
 
-<gallery>
 <img alt="glace.png" src="./images/glace.png">
 <img alt="glace-vertical.png" src="./images/glace-vertical.png">
-</gallery>
 
 **•  Bruncher en plein coeur do Baixa do Chiado chez [Nicolau Lisbonne](http://www.ilovenicolau.com/fr/)**
 Pour un bon brunch ou tout simplement une pause gouté en plein coeur de Lisbonne, vous pouvez vous rendre chez Nicolau Lisbonne. La déco intérieure est vraiment chouette, mais s'il fait beau, demandez à être installé dehors sur la petite terrasse. Repéré grâce à mon réseau social préféré Instagram, ce lieu branché sert pleins de bonnes gourmandises toutes plus ou moins healthy: pancakes, banana bread, avocado toast, milk shake, smoothie, acaï bowl...

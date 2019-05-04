@@ -39,6 +39,7 @@ body {
 img {
   max-width: 100%;
   height: auto;
+  margin: 25px 0;
 }
 
 a {
@@ -127,6 +128,9 @@ ol {
   & ul,
   & ol {
     padding-left: 1em;
+  }
+  & p {
+    margin: 0;
   }
 }
 

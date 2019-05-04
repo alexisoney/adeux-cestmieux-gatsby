@@ -129,10 +129,8 @@ Pas de panique ! Il est tout de même possible de savoir si, oui ou non, vous al
 La première est **[Buienradar](https://www.buienradar.nl/)**. La seconde eat **[Buienalarm](https://www.buienalarm.nl/)**.
 
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam sous la pluie" src="./images/MG_4367.jpg">
 <img alt="Visiter Amsterdam sous la pluie" src="./images/MG_4366.jpg">
-</gallery>
 </gallery>
 
 Chacune vous permette de suivre les nuages de pluies et les pics de pluie dans les 2-3h suivantes. Comment vous l’aurez compris, la météo est d'une grande incertitude à Amsterdam, c’est pour cela que nous vous conseillons de mixer différentes applications, car les informations sont changeantes, encore plus un jour de grand vent !

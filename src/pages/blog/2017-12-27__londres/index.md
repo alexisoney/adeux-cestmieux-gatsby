@@ -22,7 +22,6 @@ Je vous laisse sur ces quelques photos qui tentent, tant bien que mal, de retran
 
 **♥**
 
-<gallery>
 <img alt="27.12.2017-01.jpg" src="./images/27.12.2017-01.jpg">
 <img alt="27.12.2017-02.jpg" src="./images/27.12.2017-02.jpg">
 <img alt="27.12.2017-03.jpg" src="./images/27.12.2017-03.jpg">
@@ -30,4 +29,3 @@ Je vous laisse sur ces quelques photos qui tentent, tant bien que mal, de retran
 <img alt="27.12.2017-05.jpg" src="./images/27.12.2017-05.jpg">
 <img alt="27.12.2017-06.jpg" src="./images/27.12.2017-06.jpg">
 <img alt="27.12.2017-07.jpg" src="./images/27.12.2017-07.jpg">
-</gallery>

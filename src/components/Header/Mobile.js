@@ -27,8 +27,14 @@ const TopBar = styled.section`
   background: white;
 `;
 
-const Button = styled(FontAwesomeIcon)`
-  margin: auto 1rem;
+const Button = styled.div`
+  height: 100%;
+  width: 5rem;
+  display: flex;
+  justify-content: flex-start;
+  padding: 0 1rem;
+  align-items: center;
+  margin: 0;
   font-size: 1.5rem;
   color: ${colors.alpha};
   &:hover {
@@ -85,7 +91,9 @@ export default class Mobile extends React.Component {
     return (
       <Wrapper>
         <TopBar>
-          <Button onClick={this.toggleMenu} icon={this.state.isOpen ? faTimes : faBars} />
+          <Button onClick={this.toggleMenu}>
+            <FontAwesomeIcon icon={this.state.isOpen ? faTimes : faBars} />
+          </Button>
           <SiteTitle />
         </TopBar>
         <Nav open={this.state.isOpen}>

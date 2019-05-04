@@ -58,10 +58,8 @@ Le palais fut lui construit entre 1648 et 1665. D'abord Hôtel de Ville d'Amster
 
 <gallery>
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam 1 jour place du dam" src="./images/visiter-amsterdam-un-jour-dam-1.jpg">
 <img alt="Visiter Amsterdam un jour Place du Dam" src="./images/IMG_6256.jpg">
-</gallery>
 </gallery>
 </gallery>
 
@@ -77,12 +75,10 @@ Datant du Moyen Âge, le béguinage d'Amsterdam est situé à environ un mètre 
 
 <gallery>
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en 1 jour Begijnhof" src="./images/MG_5198.jpg">
 <img alt="Visiter Amsterdam en 1 jour Musée Amsterdam" src="./images/MG_5190.jpg" title="Le musée d'Amsterdam, attenant au Begijnhof" />
 <img alt="Visiter Amsterdam en 1 jour Begijnhof" src="./images/MG_5205.jpg">
 <img alt="Visiter Amsterdam en 1 jour Begijnhof Amsterdam Museum" src="./images/IMG_6368.jpg">
-</gallery>
 </gallery>
 </gallery>
 
@@ -96,7 +92,6 @@ Ce marché est très connu pour sa vente des bulbes de tulipes, symbole même de
 
 <gallery>
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6419.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6426.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6424.jpg">
@@ -104,7 +99,6 @@ Ce marché est très connu pour sa vente des bulbes de tulipes, symbole même de
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6422.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6376.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6377.jpg">
-</gallery>
 </gallery>
 </gallery>
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6382.jpg">
@@ -121,12 +115,10 @@ Amsterdam comptait beaucoup pour Rembrandt qui s’y installa à l’âge de 20 
 
 <gallery>
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en un jour Rembrandtplein" src="./images/MG_5108.jpg">
 <img alt="Visiter Amsterdam en un jour Rembrandtplein" src="./images/IMG_6223.jpg">
 <img alt="Visiter Amsterdam en un jour Rembrandtplein" src="./images/MG_5059.jpg">
 <img alt="Visiter Amsterdam en un jour Rembrandtplein" src="./images/IMG_6222.jpg">
-</gallery>
 </gallery>
 </gallery>
 
@@ -148,11 +140,9 @@ Si vous êtes des adeptes du combo frites - burger, oublier le MacDo d’en face
 
 <gallery>
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en un jour SLA" src="./images/IMG_6451.jpg">
 <img alt="Visiter Amsterdam en un jour Meat & Greek" src="./images/meatgreek01.jpg">
 <img alt="Visiter Amsterdam en un jour Meat&Greek" src="./images/meatgreek02.jpg">
-</gallery>
 </gallery>
 </gallery>
 
@@ -166,10 +156,8 @@ D’ici, vous aurez une belle vue sur **l’Opera National** mais aussi le très
 
 <gallery>
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en un jour Pont Maigre Amstel Magere brug" src="./images/MG_5253.jpg">
 <img alt="Visiter Amsterdam en un jour Pont Maigre Amstel Magere brug" src="./images/MG_5241.jpg">
-</gallery>
 </gallery>
 </gallery>
 
@@ -185,11 +173,9 @@ La vue la plus intéressante est sûrement à l’embranchement du _Herengracht_
 
 <gallery>
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en un jour Reguliergracht" src="./images/MG_5009.jpg">
 <img alt="Visiter Amsterdam en un jour Reguliergracht" src="./images/MG_5283.jpg">
 <img alt="Visiter Amsterdam en un jour Reguliergracht" src="./images/MG_5277.jpg">
-</gallery>
 </gallery>
 </gallery>
 
@@ -227,7 +213,6 @@ C’est le moment idéal pour faire une pause shopping. Nos coups de coeurs ? [P
 
 <gallery>
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues" src="./images/IMG_6686.jpg">
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues" src="./images/IMG_6618.jpg">
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues Urban Cacao" src="./images/IMG_6645.jpg">
@@ -235,7 +220,6 @@ C’est le moment idéal pour faire une pause shopping. Nos coups de coeurs ? [P
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues pluk" src="./images/MG_5332.jpg">
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues pluk" src="./images/MG_5328.jpg">
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues pluk" src="./images/IMG_6674.jpg">
-</gallery>
 </gallery>
 </gallery>
 
@@ -270,12 +254,8 @@ _Derrière cette performance artistique se cache un vrai message..._
 
 Aussi, depuis plusieurs années, la mairie d’Amsterdam a lancé un plan de réhabilitation du centre d’Amsterdam et notamment du quartier rouge ; l’objectif étant avant tout de réduire la criminalité au profit des monuments historiques, nombreux dans le quartier. Cela passe notamment par une réglementation plus ferme de la prostitution, une réduction du nombre de coffre shop ainsi que des enseignes de restauration rapide.
 
-<gallery>
-<gallery>
 <img alt="Visiter Amsterdam en un jour quartier rouge" src="./images/IMG_6724.jpg">
 <img alt="Visiter Amsterdam en un jour quartier rouge" src="./images/IMG_6727.jpg">
-</gallery>
-</gallery>
 
 ### Retour à Centraal Station — Une nuit dans la ville.
 

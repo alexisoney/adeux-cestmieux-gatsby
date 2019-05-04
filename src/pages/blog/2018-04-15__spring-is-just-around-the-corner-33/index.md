@@ -6,15 +6,15 @@ excerpt: 'Il aura pris son temps, mais le printemps a enfin décidé de sortir l
 
 Il aura pris son temps, mais **le printemps** a enfin décidé de sortir le bout de son nez, et, avec, son lot de petits bonheurs.
 
-• Ouvrir la chambre de fenêtre et faire rentrer l’air frais du matin.
-• Rentrer à vélo du yoga sans lumières tant les jours rallongent, et rallongent encore !
-• Mettre les gros manteaux d’hiver de côté et ressortir les vestes plus légères.
-• Prendre le temps, le week-end, sur le balcon.
-• Sourire bêtement en voyant le ciel bleu & le soleil au réveil.
-• Manger des asperges.
-• Planter des graines de radis et attendre le moment où je pourrais fièrement les manger.
-• Aller au marché et acheter des bouquets de tulipes.
-• Profiter de la luminosité. Toujours.
+- Ouvrir la chambre de fenêtre et faire rentrer l’air frais du matin.
+- Rentrer à vélo du yoga sans lumières tant les jours rallongent, et rallongent encore !
+- Mettre les gros manteaux d’hiver de côté et ressortir les vestes plus légères.
+- Prendre le temps, le week-end, sur le balcon.
+- Sourire bêtement en voyant le ciel bleu & le soleil au réveil.
+- Manger des asperges.
+- Planter des graines de radis et attendre le moment où je pourrais fièrement les manger.
+- Aller au marché et acheter des bouquets de tulipes.
+- Profiter de la luminosité. Toujours.
 
 Rien que pour toutes ces petites choses, je pense que le printemps, avec l’automne (et l'hiver aussi lol) (et l’été quand même aussi), est l’une de mes saisons favorites.
 

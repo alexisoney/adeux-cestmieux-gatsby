@@ -13,11 +13,9 @@ Il se trouve qu’Olafur Arnorlds, l’un des artistes préféré d’Alexis, a 
 Quoi de mieux que d’allier visite d’une ville et concert sur un même week-end ?
 
 <gallery>
-<gallery>
 <img alt="Edinburgh Edimbourg Castle Chateau" src="./images/MG_2958.jpg" title="Edinburgh Castle" />
 <img alt="Edinburgh Edimbourg Castle Chateau" src="./images/MG_3007.jpg">
 <img alt="Edinburgh Edimbourg Castle Chateau" src="./images/MG_3006.jpg">
-</gallery>
 </gallery>
 
 ---
@@ -39,11 +37,9 @@ Bien sûr, les vrais appartements privés restent inaccessibles. Cependant la vi
 La visite du palais à l’aide d’un audio-guide est de 1h30 environ. Il est ensuite possible de flâner un peu dans les jardins, aux couleurs d’automne magnifiques à cette époque de l’année.
 
 <gallery>
-<gallery>
 <img alt="Edimbourg Edinburgh Holyrood Palace" src="./images/MG_2910.jpg">
 <img alt="Edimbourg Edinburgh Holyrood Palace" src="./images/MG_2908.jpg">
 <img alt="Edimbourg Edinburgh Holyrood Palace" src="./images/MG_2954.jpg">
-</gallery>
 </gallery>
 
 ## Edimbourg : Artur’s Seat
@@ -57,11 +53,9 @@ L’ascension est relativement aisée, quoiqu’il existe différents chemins po
 Attention aussi, car c’est très venté là-haut. C’en est même presque apeurant ! Les rafales soufflant très, très fort. On hésite longuement (et on reste prudent) avant de s’approcher du rebord de la falaise !
 
 <gallery>
-<gallery>
 <img alt="Edimbourg Edinburgh Artur's Seat" src="./images/MG_2741.jpg">
 <img alt="Edimbourg Edinburgh Artur's Seat" src="./images/MG_2807.jpg">
 <img alt="Edimbourg Edinburgh Artur's Seat" src="./images/Group-2.jpg">
-</gallery>
 </gallery>
 
 ## Edimbourg : La Old Town
@@ -77,7 +71,6 @@ Les closes. Mais aussi, Cockburn Steet, Victoria's Street, Grass Market, Candlem
 On recommande vraiment de simplement déambuler et se perdre dans le quartier pour en apprécier toute sa splendeur.
 
 <gallery>
-<gallery>
 <img alt="MG_2940.jpg" src="./images/MG_2940.jpg" title="Cimetière Greyfriars" />
 <img alt="MG_2939.jpg" src="./images/MG_2939.jpg" title="Cimetière Greyfriars" />
 <img alt="MG_2938.jpg" src="./images/MG_2938.jpg" title="Cimetière Greyfriars" />
@@ -87,9 +80,8 @@ On recommande vraiment de simplement déambuler et se perdre dans le quartier po
 <img alt="MG_2925.jpg" src="./images/MG_2925.jpg" title="Victoria's Terrace" />
 <img alt="MG_2699.jpg" src="./images/MG_2699.jpg" title="Royal Mile" />
 <img alt="MG_2593.jpg" src="./images/MG_2593.jpg" title="Royal Mile" />
+</gallery>
 <img alt="Group-5.jpg" src="./images/Group-5.jpg">
-</gallery>
-</gallery>
 
 ## Edimbourg : La New Town
 
@@ -98,11 +90,9 @@ Comme toute capitale, Edimbourg a subit un plan de restructuration urbain au 18e
 Les rues les plus connues sont Princes Street, qui fait face au splendide château d’Edimbourg, Georges Street ainsi que Rose Street. C’est aussi dans cette zone que l’on retrouve les grandes enseignes commerciales.
 
 <gallery>
-<gallery>
 <img alt="Edinburgh Edimbourg New Town" src="./images/MG_2943.jpg">
-<img alt="Edinburgh Edimbourg New Town" src="./images/Group-4.jpg">
 <img alt="Edinburgh Edimbourg New Town" src="./images/MG_3001.jpg">
-</gallery>
+<img alt="Edinburgh Edimbourg New Town" src="./images/Group-4.jpg">
 </gallery>
 
 ## Edimbourg : Deans Village
@@ -112,13 +102,11 @@ Si l’on continu en direction du Nord-Ouest après New Town, vous trouverez l�
 On se retrouve plongé au cœur d’un village écossais du XVIIe siècle. En se promenant de long de « Water of Leith Walkway », on en oublierait presque que l’on se trouve à Edimbourg ! C’était tout simplement apaisant. Il n’y a pas grand chose d’autre à dire hormis que nous ayons adoré cette “pause” au vert et que nous nous y attendions pas vraiment. Ce fut une belle surprise. Il est possible de continuer le chemin pendant 13 km environ et de rejoindre Leith et la plage sur la mer du Nord. Je suppose que cela doit être un grand classique pour les habitants d’Edimbourg les week-ends de beaux temps, encore plus à cette période de l’année, quand la nature nous offre une palette de couleurs resplendissantes.
 
 <gallery>
-<gallery>
-<img alt="Edinburgh Edimbourg Deans Village" src="./images/Group-3.jpg">
 <img alt="Edinburgh Edimbourg Deans Village" src="./images/MG_2979.jpg">
 <img alt="Edinburgh Edimbourg Deans Village" src="./images/MG_2985.jpg">
 <img alt="Edinburgh Edimbourg Deans Village" src="./images/MG_2974.jpg">
 <img alt="Edinburgh Edimbourg Deans Village" src="./images/MG_2970.jpg">
-</gallery>
+<img alt="Edinburgh Edimbourg Deans Village" src="./images/Group-3.jpg">
 </gallery>
 
 ## Edimbourg : quelques addresses:

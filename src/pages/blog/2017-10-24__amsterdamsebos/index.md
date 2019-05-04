@@ -24,7 +24,6 @@ Mon petit canapé. Un livre dans une main. Un chocolat chaud au lait d’amande 
 
 **♥**
 
-<gallery>
 <img alt="2017-10-24-amsterdamsebos-01.jpg" src="./images/2017-10-24-amsterdamsebos-01.jpg">
 <img alt="2017-10-24-amsterdamsebos-02.jpg" src="./images/2017-10-24-amsterdamsebos-02.jpg">
 <img alt="2017-10-24-amsterdamsebos-03.jpg" src="./images/2017-10-24-amsterdamsebos-03.jpg">
@@ -32,4 +31,3 @@ Mon petit canapé. Un livre dans une main. Un chocolat chaud au lait d’amande 
 <img alt="2017-10-24-amsterdamsebos-05.jpg" src="./images/2017-10-24-amsterdamsebos-05.jpg">
 <img alt="2017-10-24-amsterdamsebos-06.jpg" src="./images/2017-10-24-amsterdamsebos-06.jpg">
 <img alt="2017-10-24-amsterdamsebos-07.jpg" src="./images/2017-10-24-amsterdamsebos-07.jpg">
-</gallery>

@@ -21,10 +21,8 @@ Les radis seront, je crois, la plus grande réussite de ce balcon. Après un éc
 
 Je n’ai pas pesé, mais j’ai récolté l’équivalent de 3 bottes de radis, telle que l’on pourrait en trouver sur un marché. Ils étaient piquant, mais pas trop, croquant à souhait. Et quel ne fut pas le plaisir de grignoter à l’apéro des radis du balcon ! Une chose est sûre, l’année prochaine, je replanterai des radis-chéris !
 
-<gallery>
 <img alt="radis01.jpg" src="./images/radis01.jpg">
 <img alt="radis02.jpg" src="./images/radis02.jpg">
-</gallery>
 
 **• Les tomates cerises**
 Une autre belle surprise fut les tomates cerises. Alors, elles ne sont pas sur le balcon, mais ça fait quand même parti du potager ! Je ne pensais pas qu’il serait aussi facile de récolter des tomates en appartement. Il faut simplement un peu de patience et beaucoup de lumière. Depuis la mi-juin, nous en récoltons plusieurs chaque semaine. Nous en sommes déjà à plus de 200g. Pas grand chose d’un point de vu rendement / production, mais cette jolie grappe reste ma plus grande fierté.
@@ -46,10 +44,8 @@ Et enfin, clou du potager, le concombre & la carotte. La carotte à l’air de b
 
 Du côté concombre, c’est légèrement plus complexe que les tomates. Il y a en effet des fleurs mâles (la graine) et des fleurs femelles (le fruit), qui sont, sans politisation par les insectes, complètement improductives. Et des abeilles ou des bourdons, ce n’est pas ce qui court du côté de mon balcon malheureusement. J’ai bien tenté le coup en utilisant un coton tige, mais ça n’aura pas été très concluant. Pour l’instant, un seul minuscule concombre (cornichon ?) se trouve au compteur et je me demande bien quel goût il aura au moment de sa récolte ! Pour l’instant, je laisse pousser et la nature faire son travail. 😉
 
-<gallery>
 <img alt="concombre.jpg" src="./images/concombre.jpg">
 <img alt="carotte.jpg" src="./images/carotte.jpg">
-</gallery>
 
 ## La partie jardin fleurie
 

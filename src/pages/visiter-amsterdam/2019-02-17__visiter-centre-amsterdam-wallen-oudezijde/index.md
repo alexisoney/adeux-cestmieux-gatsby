@@ -101,10 +101,8 @@ Amsterdam regorge d'espaces urbains inhabituels et plus ou moins étroit, et ce,
 La partie “Quartier Rouge” mis de côté, une **ballade le long des canaux** de permet de capturer simplement la beauté de la ville. **Kloveniersburgwal**, **Oudezijde Achterburgwal** ou bien **Geldersekade** sont tous très charmants.
 
 <gallery>
-<gallery>
 <img alt="Visiter le centre d’Amsterdam, De Wallen - Oudezijde. Que voir, Que faire ?" src="./images/IMG_8823.jpg">
 <img alt="Visiter le centre d’Amsterdam, De Wallen - Oudezijde. Que voir, Que faire ?" src="./images/IMG_8809.jpg">
-</gallery>
 </gallery>
 
 #### Kloveniersburgwal et la Compagnies des Indes Néerlandaises
@@ -117,12 +115,8 @@ Sur **Kloveniersburgwal**, vous trouverez notamment un ancien et magnifique bâ
 
 Amsterdam, comme de nombreuse cités médiévale, était une ville fortifiée. Aujourd’hui les remparts n’existent plus, mais il reste des monuments témoignant de cette époque. Sur le Nieuwemarkt se trouve ainsi un petit chateau, **Den Waag** qui est l’une des plus anciennes pièces maîtresses des fortifications d’Amsterdam. Den Waag fut construite en 1488 et était l’une des trois portes permettant l’accès à Amsterdam. Mais, la ville grandissant rapidement, cette fortification se retrouva à l’intérieur de la cité qui devint alors la résidence pour des administrations publiques.
 
-<gallery>
-<gallery>
 <img alt="IMG_8805.jpg" src="./images/IMG_8805.jpg">
 <img alt="Visiter le centre d’Amsterdam, De Wallen - Oudezijde. Que voir, Que faire ?" src="./images/MG_4451.jpg" title="La terrasse du café au petit matin" />
-</gallery>
-</gallery>
 
 Un peu plus loin, en remontant Geldersekade, au croisement avec le Prins Hendrikkade, se trouve un autre vestige de l’époque médiévale :**la Schreierstoren**. Tout comme Den Waag, cette ancienne tour de défense faisait partie intégrante du système de fortification d’Amsterdam. Elle est la seule tour de défense de la ville à avoir survécu à travers le temps.
 

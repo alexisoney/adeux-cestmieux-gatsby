@@ -49,6 +49,6 @@ On nous demande souvent combien de temps nous pensons rester à Amsterdam. Comm
 
 ---
 
-_Ps: Si l’envie vous en dit, n’hésitez pas à réserver [ce joli AirBnb](https://www.airbnb.fr/rooms/17917184), et profitez même d’un crédit de 25 euros sur votre premier voyage en passant par ce lien ! _
+_Ps: Si l’envie vous en dit, n’hésitez pas à réserver [ce joli AirBnb](https://www.airbnb.fr/rooms/17917184), et profitez même d’un crédit de 25 euros sur votre premier voyage en passant par ce lien !_
 
-_Pps: Si vous passer par Bordeaux, on vous recommande chaudement d’aller bruncher au [Monologue](https://www.tripadvisor.fr/Restaurant_Review-g187079-d13173606-Reviews-Le_Monologue-Bordeaux_Gironde_Nouvelle_Aquitaine.html) (réservation plus que conseillée). Leur buffet à volonté est délicieux !_
+*Pps: Si vous passer par Bordeaux, on vous recommande chaudement d’aller bruncher au [Monologue](https://www.tripadvisor.fr/Restaurant_Review-g187079-d13173606-Reviews-Le_Monologue-Bordeaux_Gironde_Nouvelle_Aquitaine.html) (réservation plus que conseillée). Leur buffet à volonté est délicieux !*

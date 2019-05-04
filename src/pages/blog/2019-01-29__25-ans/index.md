@@ -21,11 +21,9 @@ En ce jour de célébration, je trouvais finalement que le “10 years Challenge
 ## En 2009, j'avais 15 ans
 
 <gallery>
-<gallery>
 <img alt="25 ans 15 ans 10 years challenge" src="./images/10398627_1134857489153_5158342_n.jpg">
-<img alt="25 ans 15 ans 10 years challenge" src="./images/4619_1175159336674_4210043_n.jpg">
 <img alt="25 ans 15 ans 10 years challenge" src="./images/3311_1159270179455_78290_n.jpg">
-</gallery>
+<img alt="25 ans 15 ans 10 years challenge" src="./images/4619_1175159336674_4210043_n.jpg">
 </gallery>
 
 **En 2009, j’avais 15 ans.**Fort heureusement (ou pas), Facebook existait déjà, il ne fut pas compliqué de retrouver quelques photos, (parfois génantes soyons honnêtes !)

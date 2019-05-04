@@ -36,10 +36,8 @@ La gare cache aussi une très belle vue à l’arrière. Pour s’y rendre, il s
 
 _La dernière fois que nous sommes venus, un brouillard épais recouvrait la ville et offrait un paysage très mystérieux  !_
 
-<gallery>
 <img alt="Amsterdam centre-ville Centraal Station" src="./images/MG_3599.jpg">
 <img alt="Amsterdam centre-ville" src="./images/MG_3592.jpg">
-</gallery>
 
 ### 2. Sint Nicolaas Kerk
 
@@ -106,11 +104,9 @@ C’est un lieu d’hébergement pour femmes pieuses : les béguines. Celles qui
 Aujourd’hui, la plupart des habitations sont des habitations privées.
 
 <gallery>
-<gallery>
 <img alt="MG_3470.jpg" src="./images/MG_3470.jpg">
-<img alt="MG_3509.jpg" src="./images/MG_3509.jpg">
 <img alt="MG_3511.jpg" src="./images/MG_3511.jpg">
-</gallery>
+<img alt="MG_3509.jpg" src="./images/MG_3509.jpg">
 </gallery>
 
 ### 8. L’Amsterdam Museum / Musée d'Amsterdam
@@ -130,11 +126,9 @@ Si vous visiter le musée d’Amsterdam, vous saurez alors comment la ville s’
 Ainsi, en vous baladant le long du Singel, vous remarquerez la beauté et la singularité des maisons bordant les quais. Souvent, les gens se perdent entre les canaux, sous prétexte que tout se ressemble. Mais à y regarder de plus près, vous remarquerez que chaque maison à sa particularité unique. Que ce soit un pignon plat ou en escalier, une couleur de brique plus foncée, des carreaux de fenêtres, ... Chaque maison se différencie. Certaines maisons sont plus remarquables, c’est sûre. Notamment, celle située au Singel 7, réputée pour être la plus étroite d’Amsterdam. En réalité, il s’agit de l’arrière d’une maison située sur l’autre côté de la rue.
 
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam centre-ville" src="./images/MG_3646.jpg">
 <img alt="MG_3645.jpg" src="./images/MG_3645.jpg">
 <img alt="MG_3650.jpg" src="./images/MG_3650.jpg">
-</gallery>
 </gallery>
 
 ### 10. Bloemenmarkt / Marché aux fleurs d'Amsterdam

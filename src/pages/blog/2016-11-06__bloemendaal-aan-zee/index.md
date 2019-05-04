@@ -22,8 +22,8 @@ Je crois que je pourrais rester des heures à observer la mer. C’est tellement
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-4.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-4.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-8.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-8.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-9.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-9.jpg">
-<img alt="2016-11-05-bloemendaal-aan-zee-DSC06642.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-DSC06642.jpg">
 </gallery>
+<img alt="2016-11-05-bloemendaal-aan-zee-DSC06642.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-DSC06642.jpg">
 
 **♪♪♪
 Avec la mer du Nord pour dernier terrain vague
@@ -50,6 +50,6 @@ _Un dimanche d’automne parfait avec un merveilleux temps d’automne où les r
 <gallery>
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-23.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-23.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-22.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-bloemendaal-aan-zee-22.jpg">
-<img alt="2016-11-05-bloemendaal-aan-zee-Panorama.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-Panorama.jpg">
 <img alt="2016-11-05-bloemendaal-aan-zee-DSC06658.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-DSC06658.jpg">
 </gallery>
+<img alt="2016-11-05-bloemendaal-aan-zee-Panorama.jpg" src="./images/2016-11-05-bloemendaal-aan-zee-Panorama.jpg">

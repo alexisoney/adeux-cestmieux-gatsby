@@ -12,12 +12,8 @@ Le ciel est bleu. Il fait doux. Et la nature nous offre chaque jour un spectacle
 
 J’espère qu’elle vous fera sourire et surtout que vous partagerez la vôtre avec nous !
 
-<gallery>
-<gallery>
 <img alt="petits-plaisirs-automne" src="./images/MG_3068.png">
 <img alt="petits-plaisirs-automne-amsterdamse-bos" src="./images/MG_3097.png">
-</gallery>
-</gallery>
 
 - Les courges et le velouté de butternut
 - Les figues fraîches du marché
@@ -38,12 +34,8 @@ J’espère qu’elle vous fera sourire et surtout que vous partagerez la vôtre
 - Apprécier le moment présent
 - Prendre soin de soi tout simplement.
 
-<gallery>
-<gallery>
 <img alt="petits-plaisirs-automne" src="./images/MG_3085.png">
 <img alt="petits-plaisirs-automne" src="./images/MG_3092.png">
-</gallery>
-</gallery>
 
 Si vous êtes à Amsterdam ou prévoyez très prochainement un week-end dans la capitale, n’hésitez pas à (re-)lire ou cet article spécial [“Que faire, que voir en automne à Amsterdam”](que-faire-voir-automne-amsterdam/).
 

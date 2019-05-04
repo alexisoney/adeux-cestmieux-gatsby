@@ -55,10 +55,10 @@ Que dire de plus si ce n’est qu’en faite, c’est vraiment **l’appartement
 <img alt="2016-09-18-bienvenue-chez-nous-08.jpg" src="./images/2016-09-18-bienvenue-chez-nous-08.jpg">
 <img alt="2016-09-18-bienvenue-chez-nous-09.jpg" src="./images/2016-09-18-bienvenue-chez-nous-09.jpg">
 <img alt="2016-09-18-bienvenue-chez-nous-10.jpg" src="./images/2016-09-18-bienvenue-chez-nous-10.jpg">
+</gallery>
 <img alt="2016-09-18-bienvenue-chez-nous-11.jpg" src="./images/2016-09-18-bienvenue-chez-nous-11.jpg">
 <img alt="2016-09-18-bienvenue-chez-nous-12.jpg" src="./images/2016-09-18-bienvenue-chez-nous-12.jpg">
 <img alt="2016-09-18-bienvenue-chez-nous-13.jpg" src="./images/2016-09-18-bienvenue-chez-nous-13.jpg">
-</gallery>
 
 ## Ikea Amsterdam
 

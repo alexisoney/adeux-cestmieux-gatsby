@@ -39,9 +39,8 @@ _Pour autant, bien que cette expérience ne nous a pas tués, et que c'est bien 
 
 **À très vite ♥**
 
-_Ps: Je m’excuse du manque de photos, mais les SPA étant sans maillots, il est bien évident, pour des raisons de respect que les photos étaient interdites. De toute façon, aucun appareil électronique n’était autorisé dans l’enceinte du spa. Pas même les liseuses. 🙂_
+_Ps: Je m’excuse du manque de photos, mais les SPA étant sans maillots, il est bien évident, pour des raisons de respect que les photos étaient interdites. De toute façon, aucun appareil électronique n’était autorisé dans l’enceinte du spa. Pas même les liseuses._ 🙂
 
-<gallery>
 <img alt="2017.10.17-week-end-spa-01.png" src="./images/2017.10.17-week-end-spa-01.png">
 <img alt="2017.10.17-week-end-spa-02.png" src="./images/2017.10.17-week-end-spa-02.png">
 <img alt="2017.10.17-week-end-spa-03.png" src="./images/2017.10.17-week-end-spa-03.png">
@@ -52,4 +51,3 @@ _Ps: Je m’excuse du manque de photos, mais les SPA étant sans maillots, il es
 <img alt="2017.10.17-week-end-spa-09.jpg" src="./images/2017.10.17-week-end-spa-09.jpg">
 <img alt="2017.10.17-week-end-spa-10.jpg" src="./images/2017.10.17-week-end-spa-10.jpg">
 <img alt="2017.10.17-week-end-spa-11.jpg" src="./images/2017.10.17-week-end-spa-11.jpg">
-</gallery>

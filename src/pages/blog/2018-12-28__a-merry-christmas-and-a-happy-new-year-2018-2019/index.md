@@ -40,7 +40,5 @@ Enfin bref, 2018 : du sport, des voyages, le travail, les projets. Je pense que 
 
 Mais finalement, la plus grande surprise de 2018 fut la belle et la plus inattendues des surprises : **Alexis et moi allons nous marier !** Vous ne pouvez deviner ma joie derrière ces quelques mots. Rien n’est prévu encore. Rien de bien défini. Mais une chose est bien sûre, 2019 (et 2020 même !) seront sous le signe de l’amour, soyez-en sûre ! Parce qu'**à deux, c’est mieux** ❤️
 
-<gallery>
 <img alt="love.png" src="./images/love.png">
 <img alt="bague_fiancialle-1.png" src="./images/bague_fiancialle-1.png">
-</gallery>
