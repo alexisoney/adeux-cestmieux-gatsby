@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from 'gatsby';
 import styled from 'styled-components';
-import {disableBodyScroll, enableBodyScroll} from 'body-scroll-lock';
+import {disableBodyScroll, enableBodyScroll, clearAllBodyScrollLocks} from 'body-scroll-lock';
 import {colors} from '../../constant/style';
 import SiteTitle from './SiteTitle';
 import {NavigationRoutes, SocialMediasLinks} from '../../constant/routes';
@@ -87,6 +87,10 @@ export default class Mobile extends React.Component {
       isOpen: false,
     };
     this.nav = React.createRef();
+  }
+
+  componentWillUnmount() {
+    clearAllBodyScrollLocks();
   }
 
   render() {
