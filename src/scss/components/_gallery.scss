@@ -11,11 +11,10 @@
 
 .post__image-container + .gallery,
 .post__image-container + .post__image-container {
-  margin: -18px 0 25px;
+  margin: 7px 0 25px;
 }
 
-.gallery .post__image-container,
-.gallery img {
+.gallery .post__image-container {
   display: block;
   flex: 0 1 auto;
   min-width: 200px !important;

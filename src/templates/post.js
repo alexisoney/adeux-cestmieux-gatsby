@@ -47,7 +47,11 @@ export default ({data}) => {
         </div>
       );
     }
-    return <img src={src} alt={alt} title={title ? title : ''} />;
+    return (
+      <div className='post__image-container'>
+        <img src={src} alt={alt} title={title ? title : ''} />
+      </div>
+    );
   };
 
   const renderAst = new rehypeReact({

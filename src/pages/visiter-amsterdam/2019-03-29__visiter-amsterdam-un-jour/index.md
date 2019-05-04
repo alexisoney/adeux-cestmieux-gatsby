@@ -57,10 +57,8 @@ Le Dam est une place très visitée et animée. Des artistes de rue s’y produi
 Le palais fut lui construit entre 1648 et 1665. D'abord Hôtel de Ville d'Amsterdam, il prit le statut officiel de palais en 1808 après l’accession au trône de Hollande par Louis Napoléon Bonaparte.
 
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam 1 jour place du dam" src="./images/visiter-amsterdam-un-jour-dam-1.jpg">
 <img alt="Visiter Amsterdam un jour Place du Dam" src="./images/IMG_6256.jpg">
-</gallery>
 </gallery>
 
 #### Het Begijnhof : le béguinage
@@ -74,12 +72,10 @@ Datant du Moyen Âge, le béguinage d'Amsterdam est situé à environ un mètre 
 > Le _Begijnhof_ est composé d’un ensemble de maisons traditionnelles en pierre et d'une chapelle. Il abrite également une église cachée. À l’époque les bâtissent étaient en bois. Mais, après plusieurs grands incendies dans la ville, ce type de construction fut prohibé en 1521. Ce sont donc des maisons traditionnelles en pierre datant du XVIIIe siècle que vous y trouverez, exceptée **Het Houten Huys**, la maison de Bois, datant de 1470 et considérée comme l’une des plus vieilles maisons d’Amsterdam.
 
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en 1 jour Begijnhof" src="./images/MG_5198.jpg">
 <img alt="Visiter Amsterdam en 1 jour Musée Amsterdam" src="./images/MG_5190.jpg" title="Le musée d'Amsterdam, attenant au Begijnhof" />
 <img alt="Visiter Amsterdam en 1 jour Begijnhof" src="./images/MG_5205.jpg">
 <img alt="Visiter Amsterdam en 1 jour Begijnhof Amsterdam Museum" src="./images/IMG_6368.jpg">
-</gallery>
 </gallery>
 
 ### De Bloemenmarkt : le marché aux fleurs
@@ -91,7 +87,6 @@ Ce marché est très connu pour sa vente des bulbes de tulipes, symbole même de
 > Datant de 1862, il se trouve le long du Singel, l'un des plus anciens canal d’Amsterdam. Il fut pendant longtemps un véritable marché flottant où les marchant venaient s’amarrer à la berge, le long des quais du marché, quelque chose d’unique au monde. Aujourd'hui, les boutiques sont toujours sur l'eau mais restent fixées.
 
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6419.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6426.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6424.jpg">
@@ -99,7 +94,6 @@ Ce marché est très connu pour sa vente des bulbes de tulipes, symbole même de
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6422.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6376.jpg">
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6377.jpg">
-</gallery>
 </gallery>
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6382.jpg">
 
@@ -114,12 +108,10 @@ Amsterdam comptait beaucoup pour Rembrandt qui s’y installa à l’âge de 20 
 > Depuis 1668, la place Rembrandt rend hommage à l’artiste. La statue de Rembrandt, située au centre de la place, est entourée depuis 2006 d’une reproduction physique de [La Ronde de Nuit,](https://i.f1g.fr/media/figaro/680x382_crop/2015/04/03/XVM137df492-cd70-11e4-8fd8-941b4a457061.jpg) un de ses plus grands Chef-d’œuvres. N’hésitez pas à comparer cette reconstitution avec le tableau original se trouvant au Rijksmuseum.
 
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en un jour Rembrandtplein" src="./images/MG_5108.jpg">
 <img alt="Visiter Amsterdam en un jour Rembrandtplein" src="./images/IMG_6223.jpg">
 <img alt="Visiter Amsterdam en un jour Rembrandtplein" src="./images/MG_5059.jpg">
 <img alt="Visiter Amsterdam en un jour Rembrandtplein" src="./images/IMG_6222.jpg">
-</gallery>
 </gallery>
 
 ### Pause déjeuner
@@ -139,11 +131,9 @@ Amsterdam comptait beaucoup pour Rembrandt qui s’y installa à l’âge de 20 
 Si vous êtes des adeptes du combo frites - burger, oublier le MacDo d’en face et rdv chez **[Burgermeester](https://www.burgermeester.eu/)**.
 
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en un jour SLA" src="./images/IMG_6451.jpg">
 <img alt="Visiter Amsterdam en un jour Meat & Greek" src="./images/meatgreek01.jpg">
 <img alt="Visiter Amsterdam en un jour Meat&Greek" src="./images/meatgreek02.jpg">
-</gallery>
 </gallery>
 
 ### Amstel & Magere Brug
@@ -155,10 +145,8 @@ D’ici, vous aurez une belle vue sur **l’Opera National** mais aussi le très
 > Amsterdam compte 1281 ponts ! Le Pont Maigre est sans aucun doute parmi les plus beaux de la ville. Mais c’est à la tombée de la nuit que le charme s’opère, car les centaines de lumières qui l’illuminent à la tombée de la nuit en font aussi l’un des ponts les plus romantiques.
 
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en un jour Pont Maigre Amstel Magere brug" src="./images/MG_5253.jpg">
 <img alt="Visiter Amsterdam en un jour Pont Maigre Amstel Magere brug" src="./images/MG_5241.jpg">
-</gallery>
 </gallery>
 
 ### Reguliergracht
@@ -172,11 +160,9 @@ La vue la plus intéressante est sûrement à l’embranchement du _Herengracht_
 > La maison au numéro 57-59 est très particulière. Elle fut construite en 1879 par l'architecte Isaac Gosschalk, celui-là même qui dessina la brasserie Heineken à l'entrée du Pijp. Sa facade est l'une des rares à combiner brique, bois et pierre dans Amsterdam.
 
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en un jour Reguliergracht" src="./images/MG_5009.jpg">
 <img alt="Visiter Amsterdam en un jour Reguliergracht" src="./images/MG_5283.jpg">
 <img alt="Visiter Amsterdam en un jour Reguliergracht" src="./images/MG_5277.jpg">
-</gallery>
 </gallery>
 
 ### Ballade sur les canaux
@@ -212,7 +198,6 @@ Aujourd’hui seuls les noms des rues ont à voir avec cette activité. La plupa
 C’est le moment idéal pour faire une pause shopping. Nos coups de coeurs ? [Pluk](http://www.pluk-amsterdam.com/nl/), [Urban Cacao](https://www.facebook.com/UrbanCacao/) ainsi que [Scotch & Soda](https://www.scotch-soda.com/fr/fr/home), marque de vêtements 100% amstellodamoise
 
 <gallery>
-<gallery>
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues" src="./images/IMG_6686.jpg">
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues" src="./images/IMG_6618.jpg">
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues Urban Cacao" src="./images/IMG_6645.jpg">
@@ -220,7 +205,6 @@ C’est le moment idéal pour faire une pause shopping. Nos coups de coeurs ? [P
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues pluk" src="./images/MG_5332.jpg">
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues pluk" src="./images/MG_5328.jpg">
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues pluk" src="./images/IMG_6674.jpg">
-</gallery>
 </gallery>
 
 ### Diner chez Spingaren
