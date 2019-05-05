@@ -40,7 +40,8 @@ const Category = ({title, excerpt, img, slug, data}) => {
         <meta property='og:title' content={title} />
         <meta property='og:description' content={excerpt} />
         {img && <meta property='og:image' content={img} />}
-        <meta property='og:url' content={`${data.site.siteMetadata.siteUrl}/${slug}`} />
+        {img && <meta property='og:image:secure_url' content={img} />}
+        <meta property='og:url' content={`${data.site.siteMetadata.siteUrl}/${slug}/`} />
         <meta name='twitter:card' content='summary_large_image' />
         <meta property='og:site_name' content={siteMetadata.title} />
         <meta name='twitter:image:alt' content={slug} />

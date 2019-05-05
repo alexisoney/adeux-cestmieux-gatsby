@@ -1,10 +1,8 @@
 import React from 'react';
 import {Link} from 'gatsby';
-// import {months} from '../../constant/text';
 
 export default props => {
   const data = props.data;
-  // const date = new Date(data.fields.date);
   const src = `${props.url}/images/${data.fields.slug}/${data.frontmatter.hero.name}`;
 
   return (
@@ -24,12 +22,9 @@ export default props => {
           <img src={`${src}-400w.jpeg`} alt={data.fields.slug} />
         </picture>
       </div>
-      {/* <div className='slider__date'>
-        {date.getDate()} <br /> {months[date.getMonth()]}
-      </div> */}
       <div className='slider__card'>
         <h1 className='slider__title'>{data.frontmatter.title}</h1>
-        <Link className='button' to={`/${data.fields.slug}`}>
+        <Link className='button' to={`/${data.fields.slug}/`}>
           Lire l'article
         </Link>
       </div>

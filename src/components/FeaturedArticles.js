@@ -128,7 +128,7 @@ export default class FeaturedArticles extends React.Component {
                   <CardTitle
                     dangerouslySetInnerHTML={{__html: prettyText(node.frontmatter.title)}}
                   />
-                  <Button className='button' to={`/${node.fields.slug}`}>
+                  <Button className='button' to={`/${node.fields.slug}/`}>
                     Lire l'article
                   </Button>
                 </Card>

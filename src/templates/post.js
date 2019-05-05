@@ -86,13 +86,15 @@ export default ({data}) => {
       <Helmet>
         <title>{post.frontmatter.title_seo ? post.frontmatter.title_seo : title}</title>
         <meta name='description' content={post.frontmatter.excerpt} />
+        <meta property='og:type' content='article' />
         <meta
           property='og:title'
           content={post.frontmatter.title_seo ? post.frontmatter.title_seo : title}
         />
         <meta property='og:description' content={post.frontmatter.excerpt} />
         <meta property='og:image' content={`${src}-1600w.jpeg`} />
-        <meta property='og:url' content={`${url}/${slug}`} />
+        <meta property='og:image:secure_url' content={`${src}-1600w.jpeg`} />
+        <meta property='og:url' content={`${url}/${slug}/`} />
         <meta name='twitter:card' content='summary_large_image' />
         <meta property='og:site_name' content={siteMetadata.title} />
         <meta name='twitter:image:alt' content={slug} />
