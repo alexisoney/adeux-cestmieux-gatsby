@@ -1,6 +1,6 @@
 [context.production.environment]
-GA_TRACKING_ID="UA-34357788-6"
-SITE_URL="https://adeux-cestmieux.netlify.com"
+GA_TRACKING_ID="UA-34357788-4"
+SITE_URL="https://adeux-cestmieux.com"
 
 [context.develop.environment]
 GA_TRACKING_ID="UA-34357788-6"
