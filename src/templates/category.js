@@ -12,6 +12,8 @@ const Title = styled.h1`
   margin-right: auto;
   ${breakingpoints.small} {
     font-size: 52px;
+  }
+  @media screen and (max-width: 820px) {
     margin-left: 25px;
     margin-right: 25px;
   }
@@ -23,9 +25,9 @@ const Excerpt = styled.p`
   margin-left: auto;
   margin-right: auto;
   padding: 0 20px;
-  max-width: 640px;
+  max-width: 770px;
   align-self: center;
-  ${breakingpoints.small} {
+  @media screen and (max-width: 820px) {
     margin-left: 25px;
     margin-right: 25px;
   }
