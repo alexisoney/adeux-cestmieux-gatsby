@@ -25,9 +25,9 @@ export const moveSlider = (slider, x) => {
 };
 
 export const disable = el => {
-  const {hero, card, date} = getLayouts(el);
+  const {hero, card} = getLayouts(el);
   const tl = new TimelineMax();
-  tl.to(hero, 1, {scale: '0.9'}).to([card, date], 1, {autoAlpha: '0'}, '-=1');
+  tl.to(hero, 1, {scale: '0.9'}).to(card, 1, {opacity: '0'}, '-=1');
   return tl;
 };
 
@@ -38,23 +38,34 @@ export const hide = el => {
 };
 
 export const active = el => {
-  const {hero, card, date} = getLayouts(el);
+  const {hero, card} = getLayouts(el);
   const tl = new TimelineMax();
-  tl.to(hero, 1, {scale: '1'}).to([card, date], 1, {autoAlpha: '1'}, '-=1');
+  tl.to(hero, 1, {scale: '1'}).to(card, 1, {opacity: '1'}, '-=1');
   return tl;
 };
 
 export const showHome = el => {
-  const {hero, card, date} = getLayouts(el);
+  const {hero, card} = getLayouts(el);
   const tl = new TimelineMax();
-  tl.to(hero, 1, {scale: '1'}).to([card, date], 1, {autoAlpha: '1'});
+  tl.to(hero, 1, {scale: '1'}).to(card, 1, {opacity: '1'});
   return tl;
+};
+
+export const loadImages = el => {
+  Array.from(el.querySelectorAll('source, img')).forEach(tag => {
+    if (tag.dataset.srcset) {
+      tag.srcset = tag.dataset.srcset;
+      tag.dataset.srcset = '';
+    } else if (tag.dataset.src) {
+      tag.src = tag.dataset.src;
+      tag.dataset.src = '';
+    }
+  });
 };
 
 const getLayouts = el => {
   return {
     hero: el.querySelector('.slider__hero'),
     card: el.querySelector('.slider__card'),
-    date: el.querySelector('.slider__date'),
   };
 };

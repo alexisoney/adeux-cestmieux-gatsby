@@ -23,6 +23,7 @@ class IndexSlider extends React.Component {
   componentDidMount() {
     window.addEventListener('resize', this.handleResize);
     window.addEventListener('keydown', this.handleKeyUp);
+    Animations.loadImages(this.slider.current);
   }
 
   componentWillUnmount() {
@@ -35,7 +36,7 @@ class IndexSlider extends React.Component {
 
     return (
       <Hammer onSwipe={e => this.handleSwipe(e)}>
-        <div className={this.state.prevOffset ? 'slider' : 'slider slider--is-first-render'}>
+        <div className='slider'>
           <div ref={this.slider} className='slider__container'>
             <TransitionGroup component={null}>
               {this.props.posts.map(({node}, id) => {
@@ -153,6 +154,7 @@ class IndexSlider extends React.Component {
         onComplete: () => {
           this.setSliderPosition();
           this.setState({animate: false});
+          Animations.loadImages(this.slider.current);
         },
       }),
     };

@@ -1,13 +1,9 @@
 .slider {
-  margin: auto 0;
-  display: flex;
-  justify-content: center;
-  flex-flow: column nowrap;
   overflow-x: hidden;
 }
 
 .slider__container {
-  display: flex;
+  display: inline-flex;
   transform: translateX(15vw);
 }
 
