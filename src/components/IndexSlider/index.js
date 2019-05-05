@@ -6,6 +6,7 @@ import * as Animations from './SliderAnimations';
 import Hammer from 'react-hammerjs';
 
 const {speed} = Animations;
+const overlap = '-=1';
 
 class IndexSlider extends React.Component {
   constructor(props) {
@@ -22,6 +23,7 @@ class IndexSlider extends React.Component {
   componentDidMount() {
     window.addEventListener('resize', this.handleResize);
     window.addEventListener('keydown', this.handleKeyUp);
+    Animations.loadImages(this.slider.current);
   }
 
   componentWillUnmount() {
@@ -34,7 +36,7 @@ class IndexSlider extends React.Component {
 
     return (
       <Hammer onSwipe={e => this.handleSwipe(e)}>
-        <div className={this.state.prevOffset ? 'slider' : 'slider slider--is-first-render'}>
+        <div className='slider'>
           <div ref={this.slider} className='slider__container'>
             <TransitionGroup component={null}>
               {this.props.posts.map(({node}, id) => {
@@ -62,7 +64,12 @@ class IndexSlider extends React.Component {
                       onEnter={this.onEnter}
                       onExit={this.onExit}
                     >
-                      <SliderItem className={className} onClick={onClick} data={node} />
+                      <SliderItem
+                        className={className}
+                        onClick={onClick}
+                        data={node}
+                        url={this.props.url}
+                      />
                     </Transition>
                   );
                 }
@@ -102,7 +109,7 @@ class IndexSlider extends React.Component {
       const {items, tl} = this.createTimeline();
       tl.add(Animations.initShowPrevious(this.slider.current))
         .add(Animations.disable(items.next))
-        .add(Animations.moveSlider(this.slider.current, '+=70vw'))
+        .add(Animations.moveSlider(this.slider.current, '+=70vw'), overlap)
         .add(Animations.active(items.active))
         .totalDuration(speed);
     }
@@ -110,7 +117,7 @@ class IndexSlider extends React.Component {
     else if (this.state.offset <= 2) {
       const {items, tl} = this.createTimeline();
       tl.add(Animations.disable(items.prev))
-        .add(Animations.moveSlider(this.slider.current, '-=70vw'))
+        .add(Animations.moveSlider(this.slider.current, '-=70vw'), overlap)
         .add(Animations.active(items.active))
         .totalDuration(speed);
     }
@@ -122,7 +129,7 @@ class IndexSlider extends React.Component {
       const {items, tl} = this.createTimeline();
       tl.add(Animations.initShowNext(el, this.slider.current))
         .add(Animations.disable(items.prev))
-        .add(Animations.moveSlider(this.slider.current, '-=70vw'))
+        .add(Animations.moveSlider(this.slider.current, '-=70vw'), overlap)
         .add(Animations.active(items.active))
         .totalDuration(speed);
     }
@@ -130,7 +137,7 @@ class IndexSlider extends React.Component {
     else if (this.state.offset < 2) {
       const {items, tl} = this.createTimeline();
       tl.add(Animations.disable(items.next))
-        .add(Animations.moveSlider(this.slider.current, '+=70vw'))
+        .add(Animations.moveSlider(this.slider.current, '+=70vw'), overlap)
         .add(Animations.active(items.active))
         .totalDuration(speed);
     }
@@ -147,6 +154,7 @@ class IndexSlider extends React.Component {
         onComplete: () => {
           this.setSliderPosition();
           this.setState({animate: false});
+          Animations.loadImages(this.slider.current);
         },
       }),
     };

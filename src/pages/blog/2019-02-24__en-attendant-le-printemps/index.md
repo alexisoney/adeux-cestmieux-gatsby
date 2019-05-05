@@ -1,11 +1,13 @@
 ---
-title: "En attendant le Printemps !"
-hero: "./images/MG_4550-2.jpg"
-excerpt: "Amsterdam Life #42. Une chronique au fil du temps et des envies. Des nouvelles, du papotage, des découvertes et du partage. Le soleil revient ☀️ Pour le plus grand bonheur de tous, il a fait une météo magnifique à Amsterdam. Du soleil, un grand ciel bleu et même un peu de douceur. Autant de signes annonciateur du printemps ! D’ailleurs, cela fait aussi plusieurs semaines maintenant que l’on"
+title: 'En attendant le Printemps !'
+title_seo: ''
+hero: './images/MG_4550-2.jpg'
+excerpt: 'Amsterdam Life #42. Une chronique au fil du temps et des envies. Des looks, du papotage, des découvertes et du partage. Le soleil revient ☀️ Pour le plus grand bonheur de tous, il a fait une météo magnifique à Amsterdam. Du soleil, un grand ciel bleu et même un peu de douceur. Autant de signes annonciateur du printemps ! D’ailleurs, cela fait aussi plusieurs semaines maintenant que l’on'
 ---
+
 _**Amsterdam Life #42**._
 
-_Une chronique au fil du temps et des envies. Des nouvelles, du papotage, des découvertes et du partage._
+_Une chronique au fil du temps et des envies. Des looks, du papotage, des découvertes et du partage._
 
 <img alt="Sézane outfit Amsterdam" src="./images/MG_4555-2.jpg">
 
@@ -39,7 +41,7 @@ Et du coup, on découvre souvent les films un peu après la majorité des gens. 
 
 J’ai trouvé l’interprétation de Lady Gaga en tant qu’actrice plus que convaincante. Et Bradley Cooper en chanteur de country addict et drogué est incroyablement vrai.
 
-Rien que pour la Bande son le film est une pépite. Le film aborde aussi la question du “star-business” mais aussi de l’alcoolisme, en tant que maladie réelle et non simple passe-temps de chanteur populaire. Bref, à voir mais aussi écouter ! 
+Rien que pour la Bande son le film est une pépite. Le film aborde aussi la question du “star-business” mais aussi de l’alcoolisme, en tant que maladie réelle et non simple passe-temps de chanteur populaire. Bref, à voir mais aussi écouter !
 
 <img alt="Withings Steel HR" src="./images/MG_4809-1.jpg">
 
@@ -55,4 +57,4 @@ Tout comme la précédente, j’en suis super contente. Je trouve ces montres co
 
 ---
 
-À très vite ❤️ 
+À très vite ❤️

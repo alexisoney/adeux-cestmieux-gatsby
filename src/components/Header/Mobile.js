@@ -1,6 +1,7 @@
 import React from 'react';
 import {Link} from 'gatsby';
 import styled from 'styled-components';
+import {disableBodyScroll, enableBodyScroll, clearAllBodyScrollLocks} from 'body-scroll-lock';
 import {colors} from '../../constant/style';
 import SiteTitle from './SiteTitle';
 import {NavigationRoutes, SocialMediasLinks} from '../../constant/routes';
@@ -10,7 +11,7 @@ import {faInstagram} from '@fortawesome/free-brands-svg-icons';
 import './activeLinkStyle.scss';
 
 const Wrapper = styled.div`
-  @media only screen and (min-width: 58.01rem) {
+  @media only screen and (min-width: 65rem) {
     display: none;
   }
 `;
@@ -27,8 +28,14 @@ const TopBar = styled.section`
   background: white;
 `;
 
-const Button = styled(FontAwesomeIcon)`
-  margin: auto 1rem;
+const Button = styled.div`
+  height: 100%;
+  width: 5rem;
+  display: flex;
+  justify-content: flex-start;
+  padding: 0 1rem;
+  align-items: center;
+  margin: 0;
   font-size: 1.5rem;
   color: ${colors.alpha};
   &:hover {
@@ -79,23 +86,34 @@ export default class Mobile extends React.Component {
     this.state = {
       isOpen: false,
     };
+    this.nav = React.createRef();
+  }
+
+  componentWillUnmount() {
+    clearAllBodyScrollLocks();
   }
 
   render() {
     return (
-      <Wrapper>
+      <Wrapper style={{display: this.state.isOpen ? 'flex' : null}}>
         <TopBar>
-          <Button onClick={this.toggleMenu} icon={this.state.isOpen ? faTimes : faBars} />
+          <Button onClick={this.toggleMenu}>
+            <FontAwesomeIcon icon={this.state.isOpen ? faTimes : faBars} />
+          </Button>
           <SiteTitle />
         </TopBar>
-        <Nav open={this.state.isOpen}>
+        <Nav ref={this.nav} open={this.state.isOpen}>
           <NavItems>
             {NavigationRoutes.map(({to, txt}, id) => (
               <NavItemInternal key={id} to={to} activeClassName='header__link--is-active'>
                 {txt}
               </NavItemInternal>
             ))}
-            <NavItemExternal key='Instagram' href={SocialMediasLinks.instagram}>
+            <NavItemExternal
+              key='Instagram'
+              href={SocialMediasLinks.instagram}
+              aria-label='Instagram'
+            >
               <FontAwesomeIcon icon={faInstagram} size='2x' />,
             </NavItemExternal>
           </NavItems>
@@ -105,6 +123,12 @@ export default class Mobile extends React.Component {
   }
 
   toggleMenu = () => {
+    if (this.state.isOpen) {
+      enableBodyScroll(this.nav.current);
+    } else {
+      disableBodyScroll(this.nav.current);
+    }
+
     this.setState(prevStat => ({
       isOpen: !prevStat.isOpen,
     }));

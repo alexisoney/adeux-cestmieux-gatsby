@@ -37,6 +37,7 @@ body {
 }
 
 img {
+  display: block;
   max-width: 100%;
   height: auto;
 }
@@ -116,7 +117,7 @@ i {
 }
 
 p {
-  line-height: 1.4em;
+  line-height: 1.8em;
   margin-bottom: 1.5em;
 }
 
@@ -128,10 +129,14 @@ ol {
   & ol {
     padding-left: 1em;
   }
+  & p {
+    margin: 0;
+  }
 }
 
 ul li {
   margin: 0 0 15px;
+  line-height: 1.8em;
 }
 
 figure {
@@ -164,7 +169,12 @@ hr {
 }
 
 blockquote {
-  margin: 0;
-  padding: 14px 7px;
+  margin: 20px 0px;
+  padding: 14px;
   background-color: $background-primary-color;
+}
+
+blockquote p {
+  margin: 0;
+  font-size: 16px;
 }

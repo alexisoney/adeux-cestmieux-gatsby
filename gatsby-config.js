@@ -4,7 +4,7 @@ require('dotenv').config({
 
 module.exports = {
   siteMetadata: {
-    siteUrl: 'https://www.adeux-cestmieux.com',
+    siteUrl: process.env.SITE_URL,
   },
   plugins: [
     {
@@ -19,6 +19,12 @@ module.exports = {
     `gatsby-plugin-styled-components`,
     'gatsby-plugin-robots-txt',
     {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: `amsterdam.adeuxcestmieux`,
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `pages`,
@@ -32,24 +38,14 @@ module.exports = {
       options: {
         plugins: [
           {
-            resolve: `gatsby-remark-images`,
+            resolve: 'gatsby-remark-copy-linked-files',
             options: {
-              maxWidth: 770,
-              linkImagesToOriginal: false,
-              quality: 80,
-              withWebp: {quality: 80},
-              showCaptions: true,
+              destinationDir: 'static',
             },
           },
+          'gatsby-remark-component',
           `gatsby-remark-responsive-iframe`,
-          'gatsby-remark-copy-linked-files',
         ],
-      },
-    },
-    {
-      resolve: `gatsby-source-instagram`,
-      options: {
-        username: `amsterdam.adeuxcestmieux`,
       },
     },
     `gatsby-plugin-catch-links`,
@@ -62,7 +58,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#840032`,
         display: `standalone`,
-        icon: `src/assets/icon.png`,
+        icon: `src/favicon.png`,
       },
     },
     `gatsby-plugin-offline`,

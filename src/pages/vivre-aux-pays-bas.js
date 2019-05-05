@@ -3,12 +3,21 @@ import {graphql} from 'gatsby';
 import Category from '../templates/category';
 
 const Page = ({data}) => {
-  const excerpt =
-    'Etiam vestibulum ante purus, non luctus augue condimentum sed. In rutrum elit eget felis sodales aliquam vitae ac libero. Vestibulumporttitor, neque sed placerat auctor, neque purus porta purus, eudictum ligula nisi sit amet neque. Pellentesque habitant morbitristique senectus et netus et malesuada fames ac turpis egestas.Etiam vel nisl vitae neque tempor fermentum. Mauris eget justoaccumsan, porttitor nisi a, sagittis metus. Nam a sem posuere, sodalesenim sed, sollicitudin elit. Orci varius natoque penatibus et magnisdis parturient montes, nascetur ridiculus mus.';
+  const excerpt = `“Vivre à Amsterdam, c’est avoir les avantages d’une capitale sans les inconvénients”. 
+    Et oui, Il fait bon vivre à Amsterdam. L’idée de venir s’y installer vous fait follement envie ? 
+    Ou bien, vous avez déjà sauté le pas de l’expatriation ? Nous partageons régulièrement notre expérience de 
+    Français vivant à Amsterdam mais aussi des conseils et bons plans pour vous facilitez la vie. 
+    Un sujet spécial sur l’expatriation à Amsterdam vous intéresse en particulier ?`;
 
   return (
     <>
-      <Category title='Vivre aux Pays-Bas' excerpt={excerpt} data={data} />
+      <Category
+        title='Vivre aux Pays-Bas'
+        slug='vivre-aux-pays-bas'
+        excerpt={excerpt}
+        img=''
+        data={data}
+      />
     </>
   );
 };
@@ -17,6 +26,11 @@ export default Page;
 
 export const query = graphql`
   query {
+    site {
+      siteMetadata {
+        siteUrl
+      }
+    }
     allMarkdownRemark(
       filter: {fields: {category: {eq: "vivre-aux-pays-bas"}}}
       sort: {fields: [fields___date], order: DESC}
@@ -30,11 +44,7 @@ export const query = graphql`
           frontmatter {
             title
             hero {
-              childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
-              }
+              name
             }
           }
         }

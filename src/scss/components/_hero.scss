@@ -7,28 +7,32 @@
   margin: 0 auto;
   position: relative;
   overflow: hidden;
+  background-color: $background-primary-color;
+}
+
+@media only screen and (min-width: 1060px) {
+  .hero {
+    padding-top: 424px;
+  }
 }
 
 .hero__image {
   position: absolute;
   left: 50%;
   top: 50%;
-  transform: translate(-50%);
+  transform: translate(-50%, -50%);
   width: 100%;
   height: auto;
+}
+
+.hero .ls-blur-up-img {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 @media screen and (min-width: 1060px) {
   .hero {
     margin-bottom: -10%;
   }
-}
-
-.hero__image {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  left: 0;
-  width: 100%;
-  height: auto;
 }

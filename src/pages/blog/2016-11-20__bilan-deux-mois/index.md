@@ -1,0 +1,61 @@
+---
+title: "Deux mois à Amsterdam - Bilan. #12"
+title_seo: ''
+hero: "./images/2016-11-20-bilan-deux-mois-bilan-2-mois-2.jpg"
+excerpt: "Cela fait maintenant deux mois que nous avons quitté l’hexagone pour s’installer et vivre à Amsterdam. Deux mois déjà. Deux mois seulement. Deux mois. L’occasion de dresser un petit bilan pour chacun de cette nouvelle vie déjà bien entamée. Le bilan de Clémence. Deux mois déjà. Les températures sont en chutes libre depuis deux semaines,"
+---
+Cela fait maintenant deux mois que nous avons quitté l’hexagone pour s’installer et vivre à Amsterdam. Deux mois déjà. Deux mois seulement. Deux mois. L’occasion de dresser un petit bilan pour chacun de cette nouvelle vie déjà bien entamée.
+
+## Le bilan de Clémence.
+
+Deux mois déjà. Les températures sont en chutes libre depuis deux semaines, les jours ont bien raccourcis et il fait désormais nuit à 5 heure de l’après-midi (si ce n’est pas 4h30 maintenant). Autant vous dire qu’à vélo, je ne fais pas trop la maligne ! Pour autant, j’ai adoré ce mois d’octobre passé. Il fut d’une remarquable douceur. Et d’une météo on ne peut plus clémente. Je crois que je n’ai pas passé un seul matin à vélo sans me dire que c’était magnifique autour de moi. D’autant plus que je passe tous les matins et tous les soirs par le Vondelpark, j’ai eu la chance de vivre l’automne au jour le jour. C’était bien trop rare à Paris de croiser des arbres aux couleurs cuivres et dorées alors qu’ici c’est une chose tout à fait normale. Ajoutez à cela les canaux qui reflètent lumières et bâtiments sur la surface de l’eau. C’en est que plus beau. Nous avons aussi été chanceux côté météo. Pour ma part, je n’ai pas eu à expérimenter le vélo sous la pluie avant la dernière semaine d’octobre. Et ce n’est pas peu dire. Depuis, je ne passe plus une semaine sans un matin bruineux ou une soirée pluvieuse. Le pire moment fut avec Alexis la semaine dernière en allant au marché, nous sommes sortis de la maison au mauvais moment car 5 min plus tard, nous avions le droit à une jolie douche ... Je peux vous dire qu’on a pas trainer au marché et qu’on est rentrer vite-fait bien-fait, complètement trempé des jambes. (Merci mon ciret). Hormis cela, je dois dire que la pluie ne me dérange pas plus que ça pour l’instant (par contre Alexis vous dira le contraire). C’est plus la luminosité ou devrais-je dire, le manque de luminosité qui m’inquiète. Mais ce n’est qu’un argument supplémentaire pour rester à la maison, emmitouflées sous un plaid, une infusion à droite, un livre à gauche. eheh. Le froid aussi peut être. Se déplacer à vélo devient ... rafraichissant. C’est cette même sensation lorsque vous dévaler une piste de ski en plein hiver et que votre visage se crispe sous l’effet du vent froid. Sauf que je suis loin d’être à la montagne .. Ahah.
+
+Ce 19 novembre marque aussi un évènement important, quoique ... Aujourd’hui je termine et je passe avec succès ma période d’essai de deux mois à Mobgen. Même si en réalité je ne suis plus depuis bien longtemps la petite nouvelle. Depuis deux mois, il y a eu au moins une dizaine de nouvelles personnes embauchées. Je crois même qu’ils ne se souviennent plus vraiment ma date d’arrivée et la période d’essais est avant-tout une formalité sur un contrat. Juste au cas où. En deux mois, j’ai bien pris mes marques et désormais je connais un tier des prénoms de l’agence. Je vous vois venir, mais sachez que nous sommes 180 donc 1/3 ça fait déjà 60 prénoms. 😉 Comme au début, le bilan chez Mobgen est toujours globalement positif. Le projet sur lequel je travail est intéressant, les gens sont ouverts, sympas. L’ambiance est vraiment chouette et il y a une réelle volonté de rassembler et de créer un véritable esprit Mobgen. Nous avons eu le droit à une chouette soirée pour Halloween. Et surtout, dans 4 jours, je m’envole avec tous mes collègues pour 4 jours de détente à Fuerteventura, une des iles des Canaries. C’est le voyage de Noël de l’agence et ça s’annonce plutôt cool. Tout n’a pas été révélé mais je sais déjà que je ferai une excursions en Kayak et du yoga. Je croise juste les doigts pour que la météo soit au rdv de ces 4 jours plus ou moins « chill & corporate ».
+
+En ce qui concerne mon niveau d’anglais, je pense avoir progresser en deux mois. Je ne parle pas aussi vite que mon cerveau le voudrait pour expliquer une idée, mais j’essais volontairement de prendre mon temps pour dire une phrase grammaticalement correct et non juste tel un enfant de CP qui conjugue mal ses verbes au passé ... Je pense aussi que mon vocabulaire se développe petit à petit et j’ai pris l’habitude de noter chaque mot nouveau pour les relire de temps à autre (#bonne élève). Pour l’accent, on reviendra ... Et de toute façon c’est ce qui fait le charme de Mobgen, il y a autant d’accents que de personnes différentes ici ! J’espère en revanche que je ne vais pas stagner à ce niveau et que je vais continuer à progresser en matière de communication et comprehension. Mais comme Alexis vous le dira surement, on est aux Pays-Bas, pas en Angleterre. Et malgré tout, l’immersion n’est pas complète. Ça parle Dutch constamment autour de nous et « la vie de tous les jours » (comprendre les courses, les prospectus, l’app ING) est en Dutch. Pour autant, je ne compte pas me mettre à fond dans l’apprentissage du Dutch. J’apprend quelque mots, quelques phrases par-ci par-là au détour d’une conversation. Et c’est tout, pour l’instant. Je voudrais d’abord maitriser quasi parfaitement mon anglais avant.
+
+Que dire de plus si ce n’est aussi qu’en deux mois, je me suis remise au yoga. Et je compte bien avoir un rythme plus soutenu que l’année dernière avec 2 à 3 séances par semaine. J’ai jeté mon dévolu sur Delight Yoga. C’est un réel plaisir de s’y rendre à chaque fois car les cours se déroulent dans 4 studios différents qui sont tous aussi magnifiques les uns que les autres (ma préférence va quand même à celui de Prineiseisland) dans Amsterdam, à proximité du travail ou de la maison. Il y a plus de 200 cours proposés dans la semaine, ce qui laisse amplement le choix.
+
+En somme, je dirais pour ma part que ce bilan est positif. Je pourrais largement trouver des aspects négatifs mais j’ai essayé, pour ce premier bilan, de ne mettre en lumière que les aspects positifs de cette nouvelle vie.
+
+## Le bilan d’Alexis.
+
+L’architecture de la ville est très jolie, le sentiment d’insécurité présent à Paris n’existe pas ici et notre quartier est à la fois calme et bien situé. Voilà les trois points positifs que je peux retenir de ces deux premiers mois. Trois points auxquels je peux rajouter celui que Clémence a enfin réalisé son rêve de partir à l’étranger.
+Mis à part tout cela, beaucoup de choses ne sont pas comme je l’avais pensé avant de venir, ou comme je l’avais pensé en quittant mon emploi au mois de mai.
+
+J’avais quitté mon poste d’assistant communication pour développer un site internet permettant aux sportifs souhaitant perdre ou prendre du poids d’avoir un menu personnalisé. Finalement, avec l’annonce du départ pour Amsterdam, j’ai changé mes plans pour m’auto-former à devenir développeur informatique et chercher un travail dans cette nouvelle ville. Mais avec l’organisation du déménagement en juillet, les semaines dans les Alpes en août, les jours en Croatie en septembre et l’emménagement en fin septembre/début octobre, je n’ai pas avancé dans mon auto-formation. Au final, je me retrouve à ne pas pouvoir postuler à des annonces par manque de compétences mais aussi par manque d’envie, de peur de saboter le courage et l’opportunité que j’ai eu de quitter mon travail pour tenter de créer quelque chose.
+Avant d’arriver à Amsterdam, je ne sais pas pourquoi, je n’avais pas vraiment percuté que tout serait en Néerlandais et non en Anglais. L’immersion en Anglais (si on peut parler d’immersion pour ma part, puisque je ne sors que 3 fois par semaine grand maximum, principalement pour faire des courses ou se balader) est donc plutôt limitée. L’administratif, les banques, les sms de l’opérateur téléphonique, les publicités et les conversions des gens dans les lieux publics sont en Néerlandais, pas en Anglais. Autre point non attendu, la météo... très particulière. Il pleut tous les jours depuis plus de deux semaines. Il ne pleut pas non stop, mais il y a des grosses averses chaque jour, et je me dis qu’heureusement je ne dois pas sortir.
+
+Bref, entre mon incapacité/indécision/manque de visibilité sur mon avenir professionnel, la langue, la météo et le manque d’argent qui limite les possibilité d’achat et de loisirs, mon bilan personnel est très mitigé.
+Chaque jour, je me sens plus triste que la veille, chaque jour, il me reste un jour de chômage en moins, et chaque jour, je me dis que le feu qui m’animait au début de l’année 2016 s’est éteint...
+
+## Funny facts et autre petites anecdotes.
+
+Malgré ce bilan en demi-teinte, voici quelques petites anecdotes 😉
+
+(Toutes ces choses qu’on ne nous avait pas dit avant.)
+
+- Les araignées. Je ne suis pas spécialement arachnophobe, bien que la vue d’une mygale me donnerait sûrement des gros frissons, Alexis l’étant un peu plus tout de même. Dans mes chères montagnes, il m’est déjà arrivée de croisée de « jolies » tégénaire noire, mais cela restait quand même assez rare. Ici, et particulièrement près des canaux et dans la plupart des jardins, les araignées sont plutôt choses communes. Mais attention, pas n’importe quelle petite araignée minuscule ou autre « faucheux », mais bien de belles et grosses Epeire Diadème toutes noires. (surtout ne faite pas comme moi, ne cherchez pas ce mot dans Google image). Et il y a PARTOUT ! Et ça, on c’était bien gardé de nous le dire...
+
+- Croissant est un mot international.
+
+- Trottoir et parapluie sont des mots Dutch. Qui veulent dire ... troittor et parapluie. Tout comme portefeuille d’ailleurs.
+
+- Les hollandais sont pire que les poules et mangent entre 5h et 6h le soir.
+
+- Ils disent Lekker tout le temps. Un peu comme nous et “cool”. Mais attention. Autant “cool cool” veut pas dire grand chose. Autant “lekker lekker” veut dire “j’aime lécher” ...
+
+- Il est impossible de prévoir la météo à plus d’une heure à l’avance. Le temps est plus que changeant et il est presque possible de voir les quatre saisons sur une seule journée. Cf article météo ici.
+
+- Les hollandais boivent du lait. Beaucoup de lait. Et ne mangent que des sandwich. Partout. Tout le temps. Un truc de dingue.
+
+- Cela me fait toujours plaisir de faire désormais le marché chaque samedi. Même si il arrive que nous soyons trempés et congelés à cause de la pluie, je suis ravie de cette nouvelle habitude 😃
+
+- Faire du vélo malgré le froid le matin n’est pas tant une contrainte. Je préfère largement ça à l’idée de devoir rentrer dans un métro qui sens l’urine.
+
+- À force de m’entraînais à lever les mains un peu chaque soir en rentrant du travail, je peu désormais dire que je sais (presque) faire du vélo sans les mains ! Yolo ! Eh eh.
+
+- Notre agenda des week end est déjà prévu jusqu’en mai pour certains ! Si vous voulez nous rendre visite et passer un petit week end dans la belle Amsterdam, il faut réserver un peu l’avance 😉
+
+<img alt="2016-11-20-bilan-deux-mois-bilan-2-mois-3.gif" src="./images/2016-11-20-bilan-deux-mois-bilan-2-mois-3.gif">
+

@@ -31,26 +31,52 @@ const Footer = styled.p`
   font-size: 12px;
 `;
 
-const Layout = ({data, children}) => {
-  return (
-    <Page>
-      <Helmet htmlAttributes={{lang: 'fr'}}>
-        <title>{siteMetadata.title}</title>
-        <meta name='description' content={siteMetadata.description} />
-        <html lang='fr' />
-      </Helmet>
-      <Header />
-      <Content>{children}</Content>
-      <InstagramGallery data={data.allInstaNode.edges} />
-      <Footer>© {siteMetadata.title}</Footer>
-    </Page>
-  );
-};
+class Layout extends React.Component {
+  render() {
+    return (
+      <Page>
+        <Helmet htmlAttributes={{lang: 'fr'}}>
+          <html lang='fr' />
+          <title>{siteMetadata.title}</title>
+          <meta name='description' content={siteMetadata.description} />
+          <meta property='og:type' content='blog' />
+          <meta property='og:title' content={siteMetadata.title} />
+          <meta property='og:description' content={siteMetadata.description} />
+          <meta
+            property='og:image'
+            content={`${this.props.data.site.siteMetadata.siteUrl}/meta-images/${
+              siteMetadata.thumbnail
+            }`}
+          />
+          <meta
+            property='og:image:secure_url'
+            content={`${this.props.data.site.siteMetadata.siteUrl}/meta-images/${
+              siteMetadata.thumbnail
+            }`}
+          />
+          <meta property='og:url' content={this.props.data.site.siteMetadata.siteUrl} />
+          <meta name='twitter:card' content='summary_large_image' />
+          <meta property='og:site_name' content={siteMetadata.title} />
+          <meta name='twitter:image:alt' content={siteMetadata.title} />
+        </Helmet>
+        <Header />
+        <Content>{this.props.children}</Content>
+        <InstagramGallery data={this.props.data.allInstaNode.edges} />
+        <Footer>© {siteMetadata.title}</Footer>
+      </Page>
+    );
+  }
+}
 
 export default props => (
   <StaticQuery
     query={graphql`
       query {
+        site {
+          siteMetadata {
+            siteUrl
+          }
+        }
         allInstaNode(sort: {fields: timestamp, order: DESC}, limit: 5) {
           edges {
             node {
@@ -60,7 +86,7 @@ export default props => (
               localFile {
                 childImageSharp {
                   fluid(maxWidth: 220, maxHeight: 220) {
-                    ...GatsbyImageSharpFluid_withWebp
+                    ...GatsbyImageSharpFluid_withWebp_noBase64
                   }
                 }
               }

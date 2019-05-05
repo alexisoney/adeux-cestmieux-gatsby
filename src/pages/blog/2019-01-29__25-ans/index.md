@@ -1,13 +1,15 @@
 ---
-title: "25!"
-hero: "./images/MG_4403.jpg"
-excerpt: "Birthday Girl Aujourd’hui nous sommes le 29 janvier 2019 et je fête aujourd’hui mes 25 ans ! — Vous avez surement entendu parler du “10 year Challenge”, que ce soit sur Facebook ou bien Instagram. Cette “tendance” du début de l’année 2019 consiste simplement à poster une photographie de soi datant d’il y a 10"
+title: '25!'
+title_seo: ''
+hero: './images/MG_4403.jpg'
+excerpt: 'Birthday Girl Aujourd’hui nous sommes le 29 janvier 2019 et je fête aujourd’hui mes 25 ans ! — Vous avez surement entendu parler du “10 year Challenge”, que ce soit sur Facebook ou bien Instagram. Cette “tendance” du début de l’année 2019 consiste simplement à poster une photographie de soi datant d’il y a 10'
 ---
+
 ## Birthday Girl
 
-Aujourd’hui nous sommes le 29 janvier 2019 et je fête aujourd’hui mes 25 ans ! 
+Aujourd’hui nous sommes le 29 janvier 2019 et je fête aujourd’hui mes 25 ans !
 
-<img alt="MG_4406.jpg" src="./images/MG_4406.jpg" title="Cette photo est bien plus compliquée en réalité à faire ahah !">
+<img alt="MG_4406.jpg" src="./images/MG_4406.jpg" title="Cette photo est bien plus compliquée en réalité à faire ahah !" />
 
 ---
 
@@ -19,11 +21,11 @@ En ce jour de célébration, je trouvais finalement que le “10 years Challenge
 
 ## En 2009, j'avais 15 ans
 
-<div class="gallery">
+<gallery>
 <img alt="25 ans 15 ans 10 years challenge" src="./images/10398627_1134857489153_5158342_n.jpg">
-<img alt="25 ans 15 ans 10 years challenge" src="./images/4619_1175159336674_4210043_n.jpg">
 <img alt="25 ans 15 ans 10 years challenge" src="./images/3311_1159270179455_78290_n.jpg">
-</div>
+<img alt="25 ans 15 ans 10 years challenge" src="./images/4619_1175159336674_4210043_n.jpg">
+</gallery>
 
 **En 2009, j’avais 15 ans.**Fort heureusement (ou pas), Facebook existait déjà, il ne fut pas compliqué de retrouver quelques photos, (parfois génantes soyons honnêtes !)
 
@@ -33,13 +35,13 @@ Mais à 15 ans, j’avais déjà de grands rêves dans la tête. Et surtout Pari
 
 À 15 ans, je savais aussi que l’anglais ferait parti de mon avenir. J’en étais déjà à mon deuxième séjour linguistique en Angleterre. La culture anglo-saxonnes me fascinait. Je ne jurais que par les USA et tout ce que les séries TV et films Hollywoodiens nous laissaient transparaitre. Ce pays, cette culture me captivait tant. Les Frères Scott, Gossip Girl, Hight School Musical. Je voulais, moi aussi, vivre le rêve à l'américaine.
 
-À 15 ans, je jouais au Handball. Ah ! Le hand. Loin d’être une prodige (le sport n’a jamais été ma tasse de thé, du moins je n’ai jamais étais très performante), les années handball sont sûrement un des meilleurs moments du collège et lycée. Le club, le hand, les copines, le sentiment d'appartenances, la passion, les amitiés. Des souvenirs que l'on chérit encore. 
+À 15 ans, je jouais au Handball. Ah ! Le hand. Loin d’être une prodige (le sport n’a jamais été ma tasse de thé, du moins je n’ai jamais étais très performante), les années handball sont sûrement un des meilleurs moments du collège et lycée. Le club, le hand, les copines, le sentiment d'appartenances, la passion, les amitiés. Des souvenirs que l'on chérit encore.
 
 ## Et puis ... 25 ans !
 
 <img alt="25 ans 15 ans 10 years challenge" src="./images/MG_4265.jpg">
 
-### Le fameux quart de siècle. 
+### Le fameux quart de siècle.
 
 Aujourd’hui, en 2019, **j'ai 25 ans**.
 
@@ -61,6 +63,4 @@ J'ai 25 ans, je vis à Amsterdam, je prépare mon mariage et je travail dans une
 
 -25. Le chiffre ne fait finalement pas si peur. Il me reste encore bien des années à vivre devant mois ! Finalement, je m’étonne d’avantage d'Alexis qui aura lui 30 ans dans 2 semaines ! Merde 30 ans quoi. Ça me fait presque un coup de vieux rien que d’y penser. Enfin bon, on y est pas encore. Et pour ma part, il me reste encore cinq années avant de devoir y penser.
 
-Allez, vive les 25 ans. Vive les projets. Vive la vie ! 
-
-<instagram>https://www.instagram.com/p/BtORhhhH2pj/</instagram>
+Allez, vive les 25 ans. Vive les projets. Vive la vie !

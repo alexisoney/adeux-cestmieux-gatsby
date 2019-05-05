@@ -1,8 +1,10 @@
 ---
-title: "Comment se rendre à Amsterdam ?"
-hero: "./images/MG_3542.jpg"
-excerpt: "Comment se rendre à Amsterdam ? Depuis la France, plusieurs options s’offrent à vous pour venir à Amsterdam : le train, la voiture, l’avion et le bus ! - Ballade à vélo le long des canaux, stroopwaffels, champs de tulipes, coffee-shop et autre “attraction”.  Située seulement à 500 km de Paris, Amsterdam est une destination"
+title: 'Comment se rendre à Amsterdam ?'
+title_seo: ''
+hero: './images/MG_3542.jpg'
+excerpt: 'Comment se rendre à Amsterdam ? Depuis la France, plusieurs options s’offrent à vous pour venir à Amsterdam : le train, la voiture, l’avion et le bus ! - Ballade à vélo le long des canaux, stroopwaffels, champs de tulipes, coffee-shop et autre “attraction”.  Située seulement à 500 km de Paris, Amsterdam est une destination'
 ---
+
 _Comment se rendre à Amsterdam ? Depuis la France, plusieurs options s’offrent à vous pour venir à Amsterdam : le train, la voiture, l’avion et le bus !_
 
 ---
@@ -11,13 +13,13 @@ Ballade à vélo le long des canaux, stroopwaffels, champs de tulipes, coffee-sh
 
 Pour venir à Amsterdam, rien de plus simple. Amsterdam est l’une des villes les mieux desservies d’Europe et **nombreuses sont les options pour s’y rendre**.
 
-En revanche, qui dit destination populaire, dit prix relativement élevés. Peu importe le moyen de transport que vous choisissez, nous vous conseillons de toujours vous y prendre à l’avance afin de bénéficier des tarifs les plus attractifs. Pour cela aussi, nous vous recommandons, dans la mesure du possible, d’être flexible sur vos dates de voyage. Par exemple, voyager un week-end sera plus couteux qu’un voyage en pleine semaine. Enfin, gardez à l’esprit les dates des [jours fériés aux Pays-Bas](/vie-dexpat-4-les-jours-feries/), qui sont souvent des dates plus prisées par les voyageurs.
+En revanche, qui dit destination populaire, dit prix relativement élevés. Peu importe le moyen de transport que vous choisissez, nous vous conseillons de toujours vous y prendre à l’avance afin de bénéficier des tarifs les plus attractifs. Pour cela aussi, nous vous recommandons, dans la mesure du possible, d’être flexible sur vos dates de voyage. Par exemple, voyager un week-end sera plus couteux qu’un voyage en pleine semaine. Enfin, gardez à l’esprit les dates des [jours fériés aux Pays-Bas](vie-dexpat-4-les-jours-feries/), qui sont souvent des dates plus prisées par les voyageurs.
 
 ---
 
 ## Venir à Amsterdam - En avion
 
-La plupart des voyageurs arrivent en avion à Amsterdam**[Schiphol](https://goo.gl/maps/wzMoD8gei9D2)**. 
+La plupart des voyageurs arrivent en avion à Amsterdam **[Schiphol](https://goo.gl/maps/wzMoD8gei9D2)**.
 
 [L’aéroport international d'Amsterdam Schiphol](https://www.schiphol.nl/en/) se trouve à seulement 18km au sud-ouest du centre-ville d’Amsterdam. Il est le quatrième aéroport le plus fréquenté d’Europe et il est donc desservie par de nombreuses compagnies européennes telle que Transavia ou EasyJet. C’est aussi une véritable plaque tournante de la compagnie nationale néerlandaise KLM et de nombreux vols sont réalisés quotidiennement depuis les principales villes françaises.
 
@@ -40,7 +42,7 @@ N’hésitez à utiliser le comparateur de vol [KAYAK](https://kayak.fr).
 
 ### Rejoindre le centre d’Amsterdam depuis l’aéroport d'Amsterdam Schiphol
 
-Une fois de plus, de nombreuses options s’offrent à vous pour rejoindre Amsterdam, selon où votre logement se situe. _Train_, _Bus_, _Shuttle_, _Taxi_, _Uber_ et pourquoi pas même en _Vélo_ si vous voyager léger ! L’aéroport est parfaitement desservi, et ce, à n’importe quel moment de la journée.
+Une fois de plus, de nombreuses options s’offrent à vous pour rejoindre Amsterdam, selon où votre logement se situe. *Train*, _Bus_, _Shuttle_, _Taxi_, _Uber_ et pourquoi pas même en _Vélo_ si vous voyager léger ! L’aéroport est parfaitement desservi, et ce, à n’importe quel moment de la journée.
 
 Pour se prendre directement en centre-ville, le train reste selon nous, l’option la plus rapide et la plus économique ! Un aller simple vous coûtera environ 3,20€. Si en revanche vous devez vous rendre plus en périphérie, un taxi ou un Uber peut s’avérer plus pratique. Comptez en moyenne entre 20€ et 35€ de taxi.
 
@@ -60,7 +62,7 @@ Une fois arrivé à Central Station, il vous sera très facile de rejoindre votr
 
 ### Les trains régionaux
 
-Si vous souhaitez visiter les alentours d’Amsterdam ou bien même faire une escapade d’une journée dans une autre ville telle que Rotterdam, Utrecht ou bien même les îles Texel, les Pays-Bas possèdent un large réseau de train régionaux. C’est le moyen le plus pratique pour rejoindre d’autres villes depuis la capitale. Pour en savoir plus sur tous les horaires, nous vous conseillons d’utiliser le site [ns.nl](http://ns.nl), en anglais, mais très pratique pour les horaires, temps de trajets et tarifs ! 
+Si vous souhaitez visiter les alentours d’Amsterdam ou bien même faire une escapade d’une journée dans une autre ville telle que Rotterdam, Utrecht ou bien même les îles Texel, les Pays-Bas possèdent un large réseau de train régionaux. C’est le moyen le plus pratique pour rejoindre d’autres villes depuis la capitale. Pour en savoir plus sur tous les horaires, nous vous conseillons d’utiliser le site [ns.nl](http://ns.nl), en anglais, mais très pratique pour les horaires, temps de trajets et tarifs !
 
 ## Venir à Amsterdam - En voiture
 

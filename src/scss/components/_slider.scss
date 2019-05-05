@@ -1,13 +1,9 @@
 .slider {
-  margin: auto 0;
-  display: flex;
-  justify-content: center;
-  flex-flow: column nowrap;
   overflow-x: hidden;
 }
 
 .slider__container {
-  display: flex;
+  display: inline-flex;
   transform: translateX(15vw);
 }
 
@@ -17,14 +13,17 @@
   background: none;
 }
 
-.slider--is-first-render .slider__item--is-active {
+.slider__item:first-child {
   opacity: 1;
+  transition: all 0.4 ease-in-out 0.5;
 
   & .slider__date,
   & .slider__card {
+    transition: all 0.4 ease-in-out 0.5;
     opacity: 1;
   }
   & .slider__hero {
+    transition: all 0.4 ease-in-out 0.5;
     transform: scale(1);
   }
 }
@@ -58,6 +57,7 @@
   justify-content: center;
   align-items: center;
   transform: scale(0.9);
+  background-color: $background-primary-color;
 }
 
 .slider__card {
