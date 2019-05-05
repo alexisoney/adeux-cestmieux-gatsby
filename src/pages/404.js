@@ -3,7 +3,7 @@ import {graphql} from 'gatsby';
 import Category from '../templates/category';
 
 const Page = ({data}) => {
-  const excerpt = '';
+  const excerpt = `Cette page n'existe pas ou plus. Mais pas de souci, voici tous nos articles !`;
 
   return (
     <>
