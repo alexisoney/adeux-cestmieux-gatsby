@@ -53,11 +53,18 @@
   height: calc((56 * (70vw * 0.9)) / 100);
   margin: 10px auto -10%;
   overflow: hidden;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  // display: flex;
+  // justify-content: center;
   transform: scale(0.9);
   background-color: $background-primary-color;
+}
+
+.slider__hero > picture {
+  position: absolute;
+  width: 100%;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .slider__card {
