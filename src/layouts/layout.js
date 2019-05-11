@@ -2,6 +2,7 @@ import React from 'react';
 import {StaticQuery, graphql} from 'gatsby';
 import {Helmet} from 'react-helmet';
 import Header from '../components/Header/index';
+import ContactForm from '../components/ContactForm';
 import InstagramGallery from '../components/InstagramGallery';
 import siteMetadata from '../constant/siteMetadata';
 import '../scss/style.scss';
@@ -61,6 +62,7 @@ class Layout extends React.Component {
         </Helmet>
         <Header />
         <Content>{this.props.children}</Content>
+        <ContactForm />
         <InstagramGallery data={this.props.data.allInstaNode.edges} />
         <Footer>© {siteMetadata.title}</Footer>
       </Page>
