@@ -122,7 +122,7 @@ export default props => {
   return (
     <Section>
       <H2>Contactez nous</H2>
-      <Form name='contact' netlify onSubmit={handleSubmit} noValidate>
+      <Form name='contact' data-netlify='true' onSubmit={handleSubmit} noValidate>
         <Row columns={2}>
           <Column>
             <Input
