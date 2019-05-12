@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 import {colors} from '../constant/style';
-import axios from 'axios';
-import serialize from 'form-serialize';
+// import axios from 'axios';
+// import serialize from 'form-serialize';
 
 const Section = styled.section`
   width: 100%;
@@ -97,32 +97,32 @@ export default props => {
     }
   };
 
-  const handleSubmit = e => {
-    e.preventDefault();
+  // const handleSubmit = e => {
+  //   e.preventDefault();
 
-    let containsError = false;
-    const form = e.target;
-    const inputs = form.querySelectorAll('input:not([type="submit"]), textarea');
+  //   let containsError = false;
+  //   const form = e.target;
+  //   const inputs = form.querySelectorAll('input:not([type="submit"]), textarea');
 
-    inputs.forEach(input => {
-      if (!input.checkValidity()) {
-        input.classList.add('error');
-        containsError = true;
-      }
-    });
+  //   inputs.forEach(input => {
+  //     if (!input.checkValidity()) {
+  //       input.classList.add('error');
+  //       containsError = true;
+  //     }
+  //   });
 
-    if (!containsError) {
-      axios
-        .post(form.action, serialize(form))
-        .then(res => form.classList.add('submitted'))
-        .catch(err => console.error(err));
-    }
-  };
+  //   if (!containsError) {
+  //     axios
+  //       .post(form.action, serialize(form))
+  //       .then(res => form.classList.add('submitted'))
+  //       .catch(err => console.error(err));
+  //   }
+  // };
 
   return (
     <Section>
       <H2>Contactez nous</H2>
-      <Form name='contact' data-netlify='true' onSubmit={handleSubmit} noValidate>
+      <Form name='contact' data-netlify='true'>
         <Row columns={2}>
           <Column>
             <Input
