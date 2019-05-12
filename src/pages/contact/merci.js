@@ -1,13 +1,14 @@
 import React from 'react';
 import {graphql} from 'gatsby';
-import Category from '../templates/category';
+import Category from '../../templates/category';
 
 const Page = ({data}) => {
-  const excerpt = `Cette page n'existe pas ou plus. Mais pas de souci, voici tous nos articles !`;
+  const excerpt = `Votre message a bien été envoyé. Merci beaucoup d'avoir pris le temps de nous
+  écrire. Nous vous répondrons le plus vite possible.`;
 
   return (
     <>
-      <Category title='Oups ! Pas introuvable' slug='404' excerpt={excerpt} img='' data={data} />
+      <Category title='Merci !' slug='contact/merci' excerpt={excerpt} img='' data={data} />
     </>
   );
 };

@@ -19,7 +19,10 @@ export default props => {
             data-srcset={`${src}-400w.jpeg 400w, ${src}-800w.jpeg 800w, ${src}-1600w.jpeg 1600w`}
             sizes='70vw'
           />
-          <img data-src={`${src}-400w.jpeg`} alt={data.fields.slug} />
+          <img
+            src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=='
+            alt={data.fields.slug}
+          />
         </picture>
       </div>
       <div className='slider__card'>
