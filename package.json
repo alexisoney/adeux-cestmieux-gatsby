@@ -57,7 +57,7 @@
   "license": "MIT",
   "scripts": {
     "build": "node images-optimizer.js && gatsby clean && gatsby build && gatsby serve",
-    "develop": "node images-optimizer.js && gatsby clean && gatsby develop",
+    "develop": "node images-optimizer.js && gatsby clean && gatsby develop -H 0.0.0.0 -p 8000",
     "dev-m": "gatsby develop -H 0.0.0.0 -p 8000",
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
