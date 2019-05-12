@@ -122,7 +122,7 @@ export default props => {
   return (
     <Section>
       <H2>Contactez nous</H2>
-      <Form name='contact' data-netlify='true'>
+      <Form name='contact' data-netlify='true' action='/contact/merci'>
         <Row columns={2}>
           <Column>
             <Input
@@ -167,12 +167,12 @@ export default props => {
         </Row>
         <input className='button' type='submit' value='Envoyer' />
       </Form>
-      <blockquote>
+      {/* <blockquote>
         <p>
           Super ! Votre message a bien été envoyé. Merci beaucoup d'avoir pris le temps de nous
           écrire. Nous vous répondrons le plus vite possible.
         </p>
-      </blockquote>
+      </blockquote> */}
     </Section>
   );
 };
