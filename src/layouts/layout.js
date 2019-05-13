@@ -62,7 +62,7 @@ class Layout extends React.Component {
         </Helmet>
         <Header />
         <Content>{this.props.children}</Content>
-        {/* <ContactForm /> */}
+        <ContactForm />
         <InstagramGallery data={this.props.data.allInstaNode.edges} />
         <Footer>© {siteMetadata.title}</Footer>
       </Page>

@@ -165,6 +165,7 @@ export default props => {
             <Error>Oups ! Votre message doit contenir au moins 50 caractères.</Error>
           </Column>
         </Row>
+        <input type='hidden' name='form-name' value='contact' />
         <input className='button' type='submit' value='Envoyer' />
       </Form>
       {/* <blockquote>
