@@ -13,9 +13,27 @@ Réputé pour ses magnifiques champs de tulipes en fleurs, le printemps aux Pays
 
 Cela fait désormais 3 printemps qu’Alexis et moi vivons sur Amsterdam. Chaque année, nous sommes toujours émerveillés par tant de beauté autour de nous ! Pour vous aider à préparer votre visite à Amsterdam en cette si jolie période de l’année, voici notre sélection exhaustive d’activités & d’incontournables pour découvrir Amsterdam au Printemps.
 
+<toc>
+- [Célébrer le changement d’heure](#changement-heure)
+- [Les parcs et jardins](#parcs-jardins)
+  - [Amsterdam Bos](#Amsterdam-Bos)
+  - [Vonderlpark](#Vondelpark)
+  - [Hortus Botanicus](#Hortus-Botanicus)
+- [Les canaux](#canaux)
+- [Les moulins](#moulins-Zaanse-Schans)
+- [Les jours fériés](#jours-feries)
+- [Les tulipes](#tulipes)
+  - [Tulip Festival](#tulip-festival)
+  - [Keukenhof](#Keukehhof)
+  - [Bollenstreek](#Bollenstreek)
+- [Fêter Pâques](#paques)
+- [La météo](#meteo)
+- [Quand partir à Amsterdam](#quand-partir)
+</toc>
+
 <img alt="Visiter Amsterdam au Printemps" src="./images/full-width-tulipe.jpg">
 
-## Amsterdam au Printemps : Célébrer le changement d’heure
+## Amsterdam au Printemps : Célébrer le changement d’heure ((#changement-heure))
 
 Comme chaque année, nous avançons nos horloges d’une heure dans la nuit du dernier week-end du mois de mars. Après l’équinoxe de mars, qui marque la fin de l’hiver et le premier jour du printemps, **le passage à l’heure d’été** est un véritable symbole de la nouvelle saison.
 
@@ -25,11 +43,11 @@ _Notre conseil :_
 
 Profitez des longues journées, encore frisquettes certes, pour admirer la lumière sur les canaux. Sinon, détendez-vous en fin de journée dans une des nombreuses terrasses de cafés de la ville et admirez le coucher de soleil sur les canaux. Notre spot favori : le **[Waterkant](https://waterkantamsterdam.nl/en/index.html)**, une gigantesque terrasse cachée derrière un grand parking QPark, très prisée des locaux.
 
-## Amsterdam au printemps : flânerie bucolique dans les parcs et jardins
+## Amsterdam au printemps : flânerie bucolique dans les parcs et jardins ((#parcs-jardins))
 
 Bien que chaque saison possède son charme, le printemps est une merveilleuse période pour découvrir les parcs d’Amsterdam. Les parcs d’Amsterdam sont beaux à tout moment de l’année, mais ils sont particulièrement mis en valeur au moment du printemps. Certains points de vue sont tel un tableau de grand maitre !
 
-### Amsterdamse Bos
+### Amsterdamse Bos ((#Amsterdam-Bos))
 
 À seulement 30 min du centre d’Amsterdam, **Amsterdamsebos**, le bois d’Amsterdam**,** est l’endroit idéal pour profiter d’une ballade printanière, à pied ou à vélo. _Amsterdamsebos_ est d’ailleurs trois fois plus grand que Central Park à New York : il comprend plusieurs lacs et des centaines de sentiers. Vous y croiserez de nombreuses familles, peut-être des cavaliers à cheval, ou bien même des troupeaux de bisons. La zone la plus prisée en cette époque de l’année est très certainement le _Kersenbloesempark_, le parc de cerisiers du Japon, où les arbres sont en fleurs au mois d’avril. C’est tout simplement magique à voir. Un conseil cependant. Allez-y tôt pour éviter la foule !
 
@@ -41,9 +59,9 @@ Bien que chaque saison possède son charme, le printemps est une merveilleuse p�
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_5504.jpg">
 </gallery>
 
-### Le Vondelpark
+### Le Vondelpark ((#Vondelpark))
 
-**LeVondelpark** est LE parc d’Amsterdam. Touristes, voyageurs et locaux. Tous s’y retrouvent pour flâner à n’importe quel moment de la journée. C’est aussi l’endroit de prédilection pour les sportifs du week-end. Vous y trouverez toujours des groupes s’entrainant, courant, boxant etc ...
+**Le Vondelpark** est LE parc d’Amsterdam. Touristes, voyageurs et locaux. Tous s’y retrouvent pour flâner à n’importe quel moment de la journée. C’est aussi l’endroit de prédilection pour les sportifs du week-end. Vous y trouverez toujours des groupes s’entrainant, courant, boxant etc ...
 
 Au printemps et en été, c’est aussi le lieu de rendez-vous d'un grand nombres pour un pic-pic improvisé en fin de journée. Ne vous inquiétez pas, le parc est suffisamment grand pour trouver une petite place pour s’y relaxer. 😉
 
@@ -51,7 +69,7 @@ Dès le mois de mai, il est possible d’assister tous les vendredis, samedis et
 
 Ce sont les _[VondelparkOpenluchttheatre](http://www.openluchttheater.nl/),_ Théâtre de Plein-Air du Vondelpark. En plus, ces spectacles sont entièrement gratuits.
 
-### Hortus Botanicus - Jardin botanique d'Amsterdam
+### Hortus Botanicus - Jardin botanique d'Amsterdam ((#Hortus-Botanicus))
 
 **Hortus Botanicus Amsterdam**, le Jardin botanique d’Amsterdam, est l’un des plus vieux jardins botaniques du monde. [L’Hortus Botanicus](https://www.dehortus.nl/) est une oasis de sérénité et de verdure qui redouble de charme au printemps !
 
@@ -63,7 +81,7 @@ Ce sont les _[VondelparkOpenluchttheatre](http://www.openluchttheater.nl/),_ Th�
 <img alt="Visiter Amsterdam au Printemps Hortus Botanicus" src="./images/MG_4762.jpg">
 </gallery>
 
-## Amsterdam au printemps : admirer la vue depuis les canaux
+## Amsterdam au printemps : admirer la vue depuis les canaux ((#canaux))
 
 Amsterdam, de part ses nombreux canaux, est parfois surnommé la “petite Venise du Nord”. **La vue depuis les canaux** offre une perspective magnifique sur les belles maisons amstellodamoises du siècle d’Or mais aussi les nombreux ponts illuminés la nuit.
 
@@ -84,7 +102,7 @@ Sinon, vous pouvez aussi aller voir du côté de **[Amsterdam Bateau](https://ww
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/280612931" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-## Amsterdam au printemps : Escapade aux moulins de Zaanse Schans
+## Amsterdam au printemps : Escapade aux moulins de Zaanse Schans ((#moulins-Zaanse-Schans))
 
 Si vous prenez un train depuis la gare centrale d’Amsterdam, vous arriverez en moins de 15 minutes à un petit village nommé **Zaanse Schans** _(l’arrêt en gare est “Koog-Zaandijk”)_. Ce village est un véritable tableau vivant de l’ère industrielle et prospère du 17e et 18e siècle aux Pays-Bas. Ici, vous retrouverez des maisons authentiques au style typique de la région, des moulins, une usine d'étain, une ferme de fromage et de produits laitiers et de nombreux autres artisanats. Vous y trouverez aussi le premier magasin de l’enseigne _Albert Heijn_, si populaire au près des néerlandais.
 
@@ -100,11 +118,11 @@ Le village abrite de nombreux bâtiments d'époque, notamment des maisons en boi
 <img alt="Visiter Amsterdam au printemps" src="./images/MG_7173-1.jpg">
 </gallery>
 
-### La journée nationale des moulins
+### La journée nationale des moulins ((#journee-nationale-moulins))
 
 Chaque second samedi au mois de mai, c'est la **[Journée nationale des Moulins](https://www.molens.nl/english/)** durant laquelle plus de 600 moulins à eau et à vent sont ouverts au public. Pendant des siècles, les moulins ont joué un rôle important dans le développement des Pays-Bas. Aujourd'hui, ils n'ont plus guère de fonction, mais ils conservent leur valeur emblématique et sont toujours l'objet de grandes attentions. Lors de cette journée portes ouvertes, il est alors possible de découvrir l’intérieur d’un moulin. Vous en apprendrez plus sur leur histoire et leur fonctionnement grâce aux visites guidées organisées par les meuniers.
 
-## Amsterdam au printemps : la saison des jours fériés
+## Amsterdam au printemps : la saison des jours fériés ((#jours-feries))
 
 Avec seulement **8 jours fériés** au total, les Pays-Bas font partis des pays en possèdent le moins en Europe ! Retrouvez d'ailleurs notre article spécial [« Vie d'expat - Les Jours fériés »](vie-dexpat-4-les-jours-feries/) ici. Le printemps est sûrement une saison très attendue ici puisque plus de la moitié des jours fériés sont à saison. C'est l’occasion parfaite pour pouvoir profiter encore plus des longues journées.
 
@@ -114,7 +132,7 @@ Avec seulement **8 jours fériés** au total, les Pays-Bas font partis des pays 
 - **Jour de l’Ascension : 30 mai 2019**
 - **Lundi de Pentecôte : 10 juin 2019**
 
-### Au printemps, ne manquez pas Kings Day - Koningsdag - La fête du roi !
+### Au printemps, ne manquez pas Kings Day - Koningsdag - La fête du roi ! ((#fete-du-roi))
 
 **_Koningsdag_**, la fête du roi, est probablement la fête la plus attendue et la plus célébrée par les néerlandais ! Cette fête nationale marque l’anniversaire du roi des Pays-Bas Willem-Alexandre.
 
@@ -124,13 +142,13 @@ Il faut, je pense, vivre _Kings Day_ au moins une fois pour savoir réellement c
 
 Cette année, la Fête du Roi tombe un samedi. Vous êtes donc prévenus. 🙂Aussi, si vous souhaitez célébrer Kings Day, soyez sûre d’emporter avec vous vos plus beaux habits oranges ! Enfin, sachez que la plupart des festivités sont gratuites dans Amsterdam.
 
-## Amsterdam au Printemps : La saison des Tulipes et des champs fleuris
+## Amsterdam au Printemps : La saison des Tulipes et des champs fleuris ((#tulipes))
 
 **La Tulipe** est sûrement l’un des symboles les plus célèbres des Pays-Bas. Après [la Journée Nationale de la Tulipe](journee-nationale-de-la-tulipe/) fin janvier, qui marque le coup d’envoi de la saison des tulipes coupées, le printemps vient prendre le relais avec les bulbes d’automnes fleurissant à foison.
 
 Vous trouverez des fleurs un peu partout dans la ville, mais pour une expérience florale complète, il n’y a rien de mieux qu’une excursion dans la célèbre région des bulbes de Hollande. Entre mars et mai, vous pouvez également visiter les fameux Jardins du _Keukenhof_ pour un spectacle floral unique.
 
-### Tulip festival 2019 à Amsterdam
+### Tulip festival 2019 à Amsterdam ((#tulip-festival))
 
 **Le Tulip Festival**, festival de la Tulipe à Amsterdam est une initiative de l’association Tulip Festival. Leur ambition première est de fleurir les rues d’Amsterdam de milliers de tulipes chaque printemps afin de rappeler le lien si particulier que la ville a entretenu avec cette fleur. “A chaque citoyens sa tulipe”, telle est leur mantra, pour notre plus grand plaisir. Ainsi, dès le mois d’Avril, environ 850,000 tulipes qui ont été planté à l’automne, fleurissent de nombreux jardins, rues et bâtiments de la ville : toit du musée des scient NEMO, parvis du Rijskmuseum, ponts de canaux ... Vous pouvez retrouvez les nombreux points d’intérêts sur cette carte [ici](http://www.tulpfestival.com/locaties/?lang=en).
 
@@ -141,7 +159,7 @@ Vous trouverez des fleurs un peu partout dans la ville, mais pour une expérienc
 </gallery>
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_5537.jpg">
 
-### Visiter les jardins du Keukehhof
+### Visiter les jardins du Keukenhof ((#Keukenhof))
 
 **Le Keukenhof** à Lisse est un très grand parc floral, situé à seulement 40 min en voiture d’Amsterdam. Avec plus de 7 millions de bulbes, vous découvrirez des fleurs à perte de vue. Le Keukenhof est l’un des meilleurs endroit pour découvrir les très nombreuses variétés de tulipes, hyacinthes, jonquilles, orchidées, roses, œillets, iris, lys et bien d'autres encore. Tous les ans, le parc est sous le signe d'un thème différent. Un parc unique au monde où des millions de visiteurs se rendent chaque année.
 
@@ -154,7 +172,7 @@ _Attention : les tulipes fleurissent de la mi-mars à la mi-mai et c'est pourquo
 <img alt="Visiter Amsterdam au Printemps" src="./images/MG_7260.jpg">
 </gallery>
 
-### La région du Bollenstreek à vélo
+### La région du Bollenstreek à vélo ((#Bollenstreek))
 
 Grâce à ses printemps longs et ses nuits fraîches, les Pays-Bas sont parfait pour cultiver les tulipes. Le sol dans les polders étant constamment drainé, cela crée des conditions idéales pour les bulbes de tulipes. C’est aussi le cas du **Bollenstreek**, la région des bulbes, entre Amsterdam et La Haye, où se situe aussi le Keukenhof. C’est dans cette région que l’on trouve la plupart des champs de fleurs colorées à perte de vue dès la fin du mois de mars. Chaque année cela produit des paysages magnifique, digne des plus belles carte postales !
 
@@ -164,27 +182,27 @@ Attention tout de même, même si voyez de nombreuses personnes le faire, il est
 
 Pour être certain de ne pas rater le moment parfait, le site _tulipinholland_ propose chaque mardi un bulletin hebdomadaire du status de la floraison des tulipes par email. N’hésitez-pas à vous abonner [ici](https://tulipsinholland.com/faq-tulips-and-keukenhof/weekly-tulips-and-flower-update/) (en anglais).
 
-## Amsterdam au Printemps : Idéal pour fêter Pâques
+## Amsterdam au Printemps : Idéal pour fêter Pâques ((#paques))
 
-### Pâques en famille
+### Pâques en famille ((#paques-famille))
 
 Que serait le printemps sans chocolat de **Pâques** ? Si vous voyagez en famille, **le week-end Pascal** est un moment idéal pour découvrir Amsterdam. Le dimanche de Pâque, les nombreuses fermes pour enfants d’Amsterdam organisent de nombreux évènements sur le thème : chasses aux oeufs, des décorations d’oeufs mais aussi “journées des agneaux” pendant lesquelles les enfants peuvent tenir dans leurs bras et nourrir des agneaux nouveau-nés.
 
 _[L’Artis](https://www.artis.nl/en/)_, le Zoo Royal, organise aussi chaque année des activités pour les enfants.
 
-### Passion classiques
+### Passion classiques ((#passion-classiques))
 
 De manière plus traditionnelle, vous pouvez aussi assister à une représentation de St Matthieu et des **Passions de St Jean de Bach** à la _Westerkerk_ ou bien au _[Concertgebouw](https://www.concertgebouw.nl/concerten/concerto-koln-viert-pasen-bachs-brandenburgse-concerten/21-04-2019/van=2019-04-20)_, la magnifique salle de concert classique d’Amsterdam.
 
 <img alt="Visiter Amsterdam au Printemps" src="./images/full-width-moulin.jpg">
 
-## La météo au printemps à Amsterdam
+## La météo au printemps à Amsterdam ((#meteo))
 
 Avouons-le, **la météo à Amsterdam** est parfois schizophrène au printemps. Il fait doux, voir chaud au soleil. Relativement frais voir froid à l’ombre. Aussi, en matière de météo à Amsterdam et aux Pays-Bas, il ne faut jamais se fier à la météo annoncée plus de 2 jours à l’avance. D'ailleurs, il est même tout à fait possible de vivre les 4 saisons en une seule journée.
 
 Pas facile donc de savoir quand partir pour pouvoir en profiter au maximum. Voici quelques infos sur les températures moyennes de ces dernières années à Amsterdam ainsi que quelques conseils d’indispensables vestimentaires à mettre dans votre valise.
 
-### Mars — L’hiver fait un peu de résistance
+### Mars — L’hiver fait un peu de résistance ((#meteo-mars))
 
 Printemps ou non, **le mois de mars** reste encore bien frais, surtout pendant la nuit. Il n’est pas rare d’avoir des gelées nocturnes tout au long du mois. Le changement d’heure va permettre petit à petit aux températures de remonter graduellement grâce à un temps d’ensoleillement plus long, et ce, jusqu’au début de l’été ! Aussi, vous pourrez profiter de vos journées puisque le soleil se lève dès 7:30 et ne se couche pas avant 19h-20h à la fin du mois de mars !
 
@@ -194,7 +212,7 @@ C’est aussi le mois le plus pluvieux du printemps, avec en moyenne plus de 10 
 
 Mais, pour ne pas laisser quelques gouttes d’eau vous gâcher votre plaisir ; retrouvez ici les une sélection pour [visiter Amsterdam un jour de pluie](visiter-amsterdam-sous-la-pluie/), juste au cas où.
 
-### Avril — L’imprédictible
+### Avril — L’imprédictible ((#meteo-avril))
 
 “En avril, ne te découvre pas d'un fil”. C’est aussi vrai pour les Pays-Bas. Son équivalent néerlandais est _April doet wat hij wil_, comprendre, **le mois d’Avril** fera ce qu’il lui plait, vraiment tout ce qu’il lui plait ! Ainsi, vous êtes prévenus et vous risquerez d’être arrosés de temps à autre.
 
@@ -202,13 +220,13 @@ Fort heureusement, les températures s’adoucissent et le soleil est de plus en
 
 À savoir aussi, pluie, soleil et températures moyennes de 10 degrés, sont les conditions parfaites pour la floraison des bulbes tulipes.
 
-### Mai — Parfois mieux qu’en été !
+### Mai — Parfois mieux qu’en été ! ((#meteo-mai))
 
 **Le mois de mai** est sûrement l’un des mois les plus agréables du printemps. Même si la période de floraison commence à s’essouffler, vous pourrez continuer à admirer la nature grâce aux longues et très douces journées ensoleillées.
 
 Avec 7h-8h d’ensoleillement par jour et des températures moyennes entre 9 et 19 degrés, le mois de mai est aussi le mois le plus privilégié des voyageurs !
 
-### Que mettre dans sa valise ?
+### Que mettre dans sa valise ? ((meteo-valise))
 
 Pour une visite d’Amsterdam fin Mars-début Avril, nous vous conseillons d’emporter avec vous des pulls assez chaud mais aussi un bon manteau de d’hiver, résistant à l'eau (un ciret est parfait). En revanche, l’écharpe est indispensable pour vous protéger des bourrasques de vent froid. Enfin, si vous prévoyez une ballade à vélo, pensez à prendre une paire de gants.
 
@@ -218,7 +236,7 @@ Enfin, au mois de mai, vous pourrez tenter de découvrir les jambes. Une veste l
 
 De manière générale, pensez aux lunettes de soleil ! Prévoyez aussi des vêtements confortables et plutôt fonctionnels. Amsterdam n’est pas une capitale de la mode, loin de là. Et puis, vous risquez de beaucoup marcher pendant votre visite de la ville. La plupart des rues étant pavées, nous ne pouvons que vous conseiller de laisser vos talons à la maison au profit d’une jolie paire de basket.
 
-## Finalement, quand partir à Amsterdam ?
+## Finalement, quand partir à Amsterdam ? ((#quand-partir))
 
 Au printemps, les prix des billets d’avions et de l’hébergement suivent une courbe similaire à celle des températures moyenne : en constante hausse jusqu’à la fin de l’été !
 
