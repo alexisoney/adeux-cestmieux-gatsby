@@ -46,7 +46,7 @@ La visite d’Amsterdam dure un peu plus de 1h30, en fonction de notre vitesse d
 
 ##Informations pratiques (prix - horaire)
 
-* Afin de vous proposer une expérience intimiste, nous avons limité les groupes à 8 personnes maximum par visite. Aussi, pour en profiter au maximum sans trop subir la foule, nous vous proposons ces visites le matin uniquement, de 09h30 à 11h30, quand la ville est encore endormie 😉
+* Afin de vous proposer une expérience intimiste, nous avons limité les groupes à 8 personnes maximum par visite. Aussi, pour en profiter au maximum sans trop subir la foule, nous vous proposons ces visites le matin uniquement, de 09h30 à 11h00, quand la ville est encore endormie 😉
 
 * Pensez à apporter une bouteille d’eau ainsi qu’une paire de chaussure confortable pour marcher.
 
@@ -55,18 +55,18 @@ La visite d’Amsterdam dure un peu plus de 1h30, en fonction de notre vitesse d
 ---
 
 _Les dates actuellement disponibles :_
-* Samedi 25 mai 09h30 - 11h
-* Jeudi 30 mai 09h30 - 11h
-* Vendredi 31 mai 09h30 - 11h
-* Samedi 1er juin 09h30 - 11h
-* Dimanche 2 juin 09h30 - 11h
-* Samedi 8 juin 09h30 - 11h
-* Dimanche 9 juin 09h30 - 11h
-* Lundi 10 juin 09h30 - 11h
-* Samedi 15 juin 09h30 - 11h
-* Dimanche 16 juin 09h30 - 11h
-* Samedi 22 juin 09h30 - 11h
-* Dimanche 23 juin 09h30 - 11h
+* Samedi 25 mai 09h30 - 11h00
+* Jeudi 30 mai 09h30 - 11h00
+* Vendredi 31 mai 09h30 - 11h00
+* Samedi 1er juin 09h30 - 11h00
+* Dimanche 2 juin 09h30 - 11h00
+* Samedi 8 juin 09h30 - 11h00
+* Dimanche 9 juin 09h30 - 11h00
+* Lundi 10 juin 09h30 - 11h00
+* Samedi 15 juin 09h30 - 11h00
+* Dimanche 16 juin 09h30 - 11h00
+* Samedi 22 juin 09h30 - 11h00
+* Dimanche 23 juin 09h30 - 11h00
 
 Pour être certain d’avoir des disponibilités, n’hésitez pas à réserver dès maintenant. Nous mettrons à jour le calendrier lorsque nous proposerons de nouvelles dates au mois de Juillet et Aout cette été.
 
