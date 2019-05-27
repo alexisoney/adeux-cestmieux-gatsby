@@ -21,11 +21,12 @@ _Attention :_
 
 Vous partez pour 9 km de marche, répartis sur une journée entière, avec de nombreuses pauses. Si, pour certaines raisons, marcher n’est pas une option à privilégier pour vous, il est aussi tout à fait possible de se rendre d’un point à un autre en utilisant les transports en commun. Simplement, vous risqueriez de passer à côté de certains points de vue. Nous vous déconseillons aussi de louer des vélos, surtout lorsque vous ne connaissez pas du tout la ville. Votre visite d’Amsterdam se transformerait en grosse frayeur plutôt qu’en un moment de détente ! Enfin, Amsterdam est un véritable musée à ciel ouvert, réputée aussi pour sa météo capricieuse. N’oubliez donc pas de vous adapter à la météo du moment afin de profiter au maximum de cette visite extérieur.
 
-<img alt="Visiter Amsterdam en un jour Canal Reguliergracht" src="./images/full-width-canal-BW.jpg">
+<article slug='visite-guidee-amsterdam' cta='En savoir plus' excerpt></article>
 
 ## Itinéraire pour visiter Amsterdam en une journée
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1TPFkAQWuNOm38hkjyw1WjtKh7oViM13u" width="640" height="480"></iframe>
+
 
 ### Départ de Amsterdam Centraal
 
@@ -259,6 +260,8 @@ Enfin, bien que le parcours proposé soit relativement le même et intéressant 
 - [Visiter Amsterdam au mois de Décembre](amsterdam-en-decembre-que-voir-que-faire)
 - [Visiter Amsterdam au Printemps](visiter-amsterdam-printemps-2019)
 - [Que faire, que voir en automne à Amsterdam](que-faire-voir-automne-amsterdam)
+
+<article slug='visite-guidee-amsterdam' cta='En savoir plus' excerpt></article>
 
 <img alt="Visiter Amsterdam en un jour" src="./images/full-width-amstel-BW.jpg">
 

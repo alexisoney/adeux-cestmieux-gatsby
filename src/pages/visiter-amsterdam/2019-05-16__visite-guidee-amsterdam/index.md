@@ -9,9 +9,11 @@ Vous avez prévu de **visiter Amsterdam** très prochainement ?
 
 Ses canaux, ses vélos, ses maisons, son patrimoine artistique et bien d’autre encore… Découvrir Amsterdam est un vaste programme. C’est pourquoi Alexis et moi-même avons le plaisir de vous proposer des **[visites guidées d’Amsterdam en français](https://www.airbnb.fr/experiences/844912)** afin de vous faire découvrir les plus beaux endroits de la ville !
 
+## Réservez dès maintenant votre visite
+
+<airbnb></airbnb>
 
 ## Amsterdam est une ville qui se visite à pied&nbsp! 
-
 
 Lorsque l’on **visite Amsterdam** pour la première fois, nous recommandons toujours de le faire à pied, et non à vélo. Non seulement la taille de la ville rend les visites à pied tout à fait possible, mais vous pouvez aussi prendre davantage votre temps et vous arrêter où bon vous semble (ou presque !). 
 
@@ -54,23 +56,15 @@ La visite d’Amsterdam dure un peu plus de 1h30, en fonction de notre vitesse d
 
 ---
 
-_Les dates actuellement disponibles :_
-* Samedi 25 mai 09h30 - 11h00
-* Jeudi 30 mai 09h30 - 11h00
-* Vendredi 31 mai 09h30 - 11h00
-* Samedi 1er juin 09h30 - 11h00
-* Dimanche 2 juin 09h30 - 11h00
-* Samedi 8 juin 09h30 - 11h00
-* Dimanche 9 juin 09h30 - 11h00
-* Lundi 10 juin 09h30 - 11h00
-* Samedi 15 juin 09h30 - 11h00
-* Dimanche 16 juin 09h30 - 11h00
-* Samedi 22 juin 09h30 - 11h00
-* Dimanche 23 juin 09h30 - 11h00
+## Réservez dès maintenant votre visite
+
+<airbnb></airbnb>
 
 Pour être certain d’avoir des disponibilités, n’hésitez pas à réserver dès maintenant. Nous mettrons à jour le calendrier lorsque nous proposerons de nouvelles dates au mois de Juillet et Aout cette été.
 
-Pour réserver, rien de plus simple, il vous suffit de vous rendre sur la plate-forme [AirBnb Experience](https://www.airbnb.fr/experiences/844912) pour choisir votre créneau horaire et le nombres de participants.
+Pour réserver, rien de plus simple, il vous suffit d'utiliser le calendrier ci-dessus ou de vous rendre sur la plate-forme [AirBnb Experience](https://www.airbnb.fr/experiences/844912) pour choisir votre créneau horaire et le nombres de participants.
+
+
 
 --- 
 

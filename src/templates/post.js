@@ -6,11 +6,13 @@ import siteMetadata from '../constant/siteMetadata';
 import {colors, fonts} from '../constant/style';
 import Layout from '../layouts/layout';
 import FeaturedArticles from '../components/FeaturedArticles';
+import RelatedArticle from '../components/RelatedArticle';
 import prettyText from '../utils/prettyText';
 import prettyDate from '../utils/prettyDate';
 import rehypeReact from 'rehype-react';
 import path from 'path';
 import marked from 'marked';
+import Script from 'react-load-script';
 
 const TableOfContents = styled.div`
   background-color: ${colors.omega};
@@ -131,6 +133,23 @@ const H3 = ({children}) => {
   return <h3>{children}</h3>;
 };
 
+const AirBnB = () => {
+  return (
+    <div
+      className='airbnb-embed-frame'
+      data-id='844912'
+      data-view='experience_booking'
+      data-eid='MzQxMDQ3NTI='
+      data-currency='EUR'
+      style={{maxWidth: '365px', margin: '0 auto'}}
+    >
+      <a href='https://www.airbnb.fr/experiences/844912?source=booking_widget'>Voir sur Airbnb</a>
+      <a href='https://www.airbnb.fr/experiences/844912?source=booking_widget' rel='nofollow' />
+      <Script url='https://www.airbnb.fr/embeddable/airbnb_jssdk' />
+    </div>
+  );
+};
+
 const getAnchor = title => {
   const match = title.match(/\(\(#(.+?)\)\)/);
   if (match && match[1]) {
@@ -195,6 +214,13 @@ export default ({data}) => {
     );
   };
 
+  const Article = ({slug, cta = null, excerpt = null}) => {
+    if (slug) {
+      return <RelatedArticle slug={slug} cta={cta} excerpt={excerpt} />;
+    }
+    return null;
+  };
+
   const renderAst = new rehypeReact({
     createElement: React.createElement,
     components: {
@@ -203,6 +229,8 @@ export default ({data}) => {
       img: optimizedImages,
       gallery: Gallery,
       toc: statefullTOC,
+      article: Article,
+      airbnb: AirBnB,
     },
   }).Compiler;
 
