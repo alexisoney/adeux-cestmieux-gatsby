@@ -7,9 +7,25 @@ excerpt: "Visiter Amsterdam en 1 jour peut paraître challengeant. Il y a tant �
 
 _Visiter Amsterdam en 1 jour peut paraître challengeant. Il y a tant à faire. Que voir ? Que faire ? Quoi privilégier ? Voici notre sélection d'essentiels à voir en un jour, selon notre point de vue de Français vivant à Amsterdam depuis 2016._
 
----
+<toc>
+- [Visiter en 1 jour](#visiter-1-jour)
+- [L'itinéraire](#itineraire)
+  - [Amsterdam Centraal](#depart)
+  - [Le centre-ville historique](#centre-ville)
+  - [Le marché aux fleurs](#bloemenmark)
+  - [Rembrandtplein](#rembrandtplein)
+  - [Pause déjeuner](#pause-dejeuner)
+  - [Amstel & Magere Brug](#amstel)
+  - [Reguliergracht](#reguliergracht)
+  - [Ballade sur les canaux](#ballade-canaux)
+  - [Les Negen Straatjes](#negen-straatjes)
+  - [Diner chez Spingaren](#spingaren)
+  - [Quartier rouge de nuit](#quartier-rouge)
+- [Bonus](#autres-idees)
+- [Bon à savoir](#astuces)
+</toc>
 
-## 24h à Amsterdam
+## 24h à Amsterdam ((#visiter-1-jour))
 
 Nous vous proposons un **itinéraire piéton** qui vous permettra de découvrir les essentiels d’Amsterdam en une journée. Vous serez surpris de voir tout ce que vous pouvez découvrir d’Amsterdam **en 24 heures seulement** !
 
@@ -23,12 +39,12 @@ Vous partez pour 9 km de marche, répartis sur une journée entière, avec de no
 
 <article slug='visite-guidee-amsterdam' cta='En savoir plus' excerpt></article>
 
-## Itinéraire pour visiter Amsterdam en une journée
+## Itinéraire pour visiter Amsterdam en une journée ((#itineraire))
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1TPFkAQWuNOm38hkjyw1WjtKh7oViM13u" width="640" height="480"></iframe>
 
 
-### Départ de Amsterdam Centraal
+### Départ de Amsterdam Centraal ((#depart))
 
 Grandes sont les chances que vous arriviez à Amsterdam par la gare **Amsterdam Centraal**, aussi appelée **Centraal Station**. C'est de ce point central de la ville que nous vous proposons de commencer votre visite.
 
@@ -36,7 +52,7 @@ Grandes sont les chances que vous arriviez à Amsterdam par la gare **Amsterdam 
 
 <img alt="Visiter Amsterdam en un jour - Amsterdam Centraal Station" src="./images/visiter-amsterdam-un-jour-central-station.jpg">
 
-### Amsterdam : le centre-ville historique
+### Amsterdam : le centre-ville historique ((#centre-ville))
 
 Depuis la gare, il est très facile de rejoindre la vieille ville ; il vous suffit de remonter le _Damrak_, directement jusqu’à la place du _Dam_.
 
@@ -80,7 +96,7 @@ Datant du Moyen Âge, le béguinage d'Amsterdam est situé à environ un mètre 
 <img alt="Visiter Amsterdam en 1 jour Begijnhof Amsterdam Museum" src="./images/IMG_6368.jpg">
 </gallery>
 
-### De Bloemenmarkt : le marché aux fleurs
+### De Bloemenmarkt : le marché aux fleurs ((#bloemenmark))
 
 Amsterdam ne pourrez se visiter sans un détour le **Bloemenmarkt**, le marché aux fleurs, véritable institution de la ville.
 
@@ -99,7 +115,7 @@ Ce marché est très connu pour sa vente des bulbes de tulipes, symbole même de
 </gallery>
 <img alt="Visiter Amsterdam en un jour Bloemenmartk marché aux fleurs" src="./images/IMG_6382.jpg">
 
-### Rembrandtplein : la place Rembrandt
+### Rembrandtplein : la place Rembrandt ((#rembrandtplein))
 
 **Rembrandtplein** est certainement au top 3 du classement des plus jolies places d'Amsterdam.
 
@@ -116,7 +132,7 @@ Amsterdam comptait beaucoup pour Rembrandt qui s’y installa à l’âge de 20 
 <img alt="Visiter Amsterdam en un jour Rembrandtplein" src="./images/IMG_6222.jpg">
 </gallery>
 
-### Pause déjeuner
+### Pause déjeuner ((#pause-dejeuner))
 
 À ce stade de votre visite, vous êtes dans le lieu parfait pour **une bonne pause déjeuner**. La place _Rembrandtplein_ et la rue _Utrecthstraat_ offrent de nombreuses options de restauration, toutes plus ou moins bonnes... Nous vous recommandons les 3 endroits suivants :
 
@@ -138,7 +154,7 @@ Si vous êtes des adeptes du combo frites - burger, oublier le MacDo d’en face
 <img alt="Visiter Amsterdam en un jour Meat&Greek" src="./images/meatgreek02.jpg">
 </gallery>
 
-### Amstel & Magere Brug
+### Amstel & Magere Brug ((#amstel))
 
 Une fois bien repu, vous êtes seulement à quelques pas de l’Amstel. Rejoignez alors le pont-levis, **le Magere Brug** aussi connu sous le nom de **Point Maigre**.
 
@@ -151,7 +167,7 @@ D’ici, vous aurez une belle vue sur **l’Opera National** mais aussi le très
 <img alt="Visiter Amsterdam en un jour Pont Maigre Amstel Magere brug" src="./images/MG_5241.jpg">
 </gallery>
 
-### Reguliergracht
+### Reguliergracht ((#reguliergracht))
 
 Vous l’aurez compris, Amsterdam est une ville de pont. Après le Pont Maigre, les plus remarquables sont ceux situés sur **Reguliergracht**.
 
@@ -167,7 +183,7 @@ La vue la plus intéressante est sûrement à l’embranchement du _Herengracht_
 <img alt="Visiter Amsterdam en un jour Reguliergracht" src="./images/MG_5277.jpg">
 </gallery>
 
-### Ballade sur les canaux
+### Ballade sur les canaux ((#ballade-canaux))
 
 La vue de _Reguliergracht_ est encore plus impressionnante depuis l’eau et non la route. Remontez donc en direction de Leidseplein pour **une ballade en bateau-mouche sur les canaux d’Amsterdam**.
 
@@ -183,7 +199,7 @@ Le 14 juin 2010, les canaux d'Amsterdam ont obtenu le label patrimoine mondial d
 
 <img alt="canal-cruise-blue-boat1a.jpg" src="./images/canal-cruise-blue-boat1a.jpg" title="Crédit photo : The Blue Boat Company" />
 
-### Les Negen Straatjes
+### Les Negen Straatjes ((#negen-straatjes))
 
 Une fois la ballade terminée, nous vous proposons de rejoindre le quartier des **9 Straatjes** ou **9 ruelles** en français. Les 9 Straatjes se trouvent toutes entre le _Rozengracht_, _Leidsestraat_, _Prinsengracht_ et _Singel_.
 
@@ -209,7 +225,7 @@ C’est le moment idéal pour faire une pause shopping. Nos coups de coeurs ? [P
 <img alt="Visiter Amsterdam en un jour 9 straatjes 9 ruelles rues pluk" src="./images/IMG_6674.jpg">
 </gallery>
 
-### Diner chez Spingaren
+### Diner chez Spingaren ((#spingaren))
 
 Pour le repas du soir, nous vous proposons d'aller chez **[Spingaren](https://spingaren.nl/en)**. Ce restaurant se situe sur le magnifique Herengracht, entre les _9 Straatjes_ et le quartier du _Jordaan_. Ici, vous pourrez manger de délicieux plats, entièrement fait maison à base de charcuterie préparée sur place ou bien partager une très grande planche. Plusieurs options végétariennes sont aussi disponibles.
 
@@ -221,7 +237,7 @@ Enfin, n'hésitez à réserver à l'avance via leur site internet afin de béné
 
 <img alt="Visiter Amsterdam en un jour Spingaren" src="./images/MG_5065.jpg">
 
-### Quartier rouge de nuit
+### Quartier rouge de nuit ((#quartier-rouge))
 
 Enfin, une visite d’Amsterdam ne serait sans doute pas complète sans un détour par le quartier rouge.
 
@@ -251,7 +267,7 @@ _Bien sûr, ceci reste une suggestion de parcours. Nous l’avons voulu optimis�
 
 <img alt="Visiter Amsterdam en un jour" src="./images/full-width-house.jpg">
 
-## Visiter Amsterdam en 1 jour : des idées supplémentaires
+## Visiter Amsterdam en 1 jour : des idées supplémentaires ((#autres-idees))
 
 Parce qu’il est difficile de prévoir trop à l'avance question météo à Amsterdam. Il est possible que la pluie ou bien la grisailles soit au RDV lors de votre visite. Si le temps pluvieux vous empêche réellement de marcher à pied, pensez aux transports en commun, présents en grand nombre dans Amsterdam même. Il vous est aussi possible en cas de pluie de prendre un tram en direction de _Museumplein_ afin de visiter l’un des grands musées incontournables de la ville tel que le Van Gogh Museum ou le Rijksmuseum. Pour plus d’idée en cas de mauvais temps, n’hésiter à (re)-lire notre article [“Visiter Amsterdam sous la pluie”](visiter-amsterdam-sous-la-pluie).
 
@@ -265,7 +281,7 @@ Enfin, bien que le parcours proposé soit relativement le même et intéressant 
 
 <img alt="Visiter Amsterdam en un jour" src="./images/full-width-amstel-BW.jpg">
 
-## Visiter Amsterdam en 1 jour : bon à savoir
+## Visiter Amsterdam en 1 jour : bon à savoir ((#astuces))
 
 Enfin, si vous prévoyez un voyage dans la capitale très prochainement, n’hésitez pas à lire ou à relire notre [« Kit de survie pour visiter Amsterdam »](kit-survie-visiter-amsterdam-ultimate-guide) ainsi que notre article [« Comment venir à Amsterdam »](comment-se-rendre-a-amsterdam) afin de connaitre toutes les options possibles pour vous rendre à Amsterdam.
 
