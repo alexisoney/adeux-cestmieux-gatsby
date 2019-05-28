@@ -7,7 +7,24 @@ excerpt: "Visiter Amsterdam sous la pluie est très probable, surtout en pleine 
 
 _Visiter Amsterdam sous la pluie est très probable, surtout en pleine période d'hiver ! Mais le mauvais temps ne doit en rien gâcher votre séjour sur Amsterdam. Voici pour cela une sélection de 7 activités pour profiter pleinement d’Amsterdam .. au sec !_
 
-## La pluie, Amsterdam & les néerlandais
+<toc>
+- [Petit mot sur la pluie](#la-pluie)
+- [7 activités à faire](#7-activites)
+  - [Museumplein](#Museumplein)
+  - [Le cinéma](#cinema)
+  - [Les Food Hallen](#food-hallen)
+  - [Manger des poffertjes](#poffertjes)
+  - [Shopping au Bijenkorf](#Bijenkorf)
+  - [Le NEMO avec les enfants](#nemo)
+  - [Ballade sur les canaux](#canaux)
+- [Point sur la météo](#point-meteo)
+  - [Quand partir pour éviter la pluie](#eviter-pluie)
+  - [Les App pour suivre la pluie](#app)
+</toc>
+
+<article slug='visite-guidee-amsterdam' cta='En savoir plus' excerpt></article>
+
+## La pluie, Amsterdam & les néerlandais ((#la-pluie))
 
 Au vu de sa situation géographique et de son climat tempéré, Amsterdam connait une météo à géométrie extrêmement variable. Mais, comme me l’a si bien dit une collègue néerlandaise un jour “nous ne sommes pas faits en sucre” ! Vous l’aurez compris, la pluie n’a jamais fait fondre personne, encore moins les Amstellodamois, que vous verrez toujours, qu’il pleuve ou qu’il vente, pédaler d’un bout à l’autre de la ville, coute que coute.
 
@@ -17,9 +34,9 @@ Mais, je vous l’accorde tout de même, visiter une ville sous la pluie n’est
 
 <img alt="Visiter Amsterdam sous la pluie" src="./images/MG_4215.jpg">
 
-## Visiter Amsterdam sous la pluie : 7 activités à faire par temps pluvieux
+## Visiter Amsterdam sous la pluie : 7 activités à faire par temps pluvieux ((#7-activites))
 
-### Amsterdam sous la pluie : visiter un musée à Museumplein
+### Amsterdam sous la pluie : visiter un musée à Museumplein ((#Museumplein))
 
 Facile me direz-vous, **visiter un musée** est pourtant une activité parfaite pour les jours pluvieux à Amsterdam. Au moins, aucun regret de ne point profiter du soleil extérieur. En plus, niveau musées, vous serez servi avec Amsterdam, qui ne compte pas moins de cinquante de musées. Elle est d’ailleurs, à ce titre, une capitale européenne de la culture. Alors, vous trouverez forcément un musée à votre goût. Et si vous ne savez que choisir parmi cette pléthore d’exposition, les classiques incontournables sont toujours un excellent choix ! Pour cela, rendez-vous à [Museumplein](https://goo.gl/maps/VmGUCynASgm) où vous pourrez choisir entre le grand **Rijksmuseum**, le génial **Van Gogh Museum** ou encore l’inattendu **Stedelijk Museum**. Ou bien même les trois si le cœur vous en dit ! En revanche, on oublie le Moco qui est bien trop cher pour ce que c’est.
 
@@ -55,7 +72,7 @@ C’est ainsi l’occasion d'aller voir de plus près le très connu tableau de 
 
 _Enfin, peu importe votre choix, nous vous conseillons dans tous les cas de réserver vos tickets coupe-file en ligne afin d’éviter les interminables files d'attentes (sous la pluie ...) ! D’ailleurs, pour la visite du musée Van Gogh, il est impératif de réserver en choisissant un créneau horaire en ligne car il vous sera impossible d’acheter un billet à l’entrée du musée._
 
-### Amsterdam sous la pluie : Aller au cinéma
+### Amsterdam sous la pluie : Aller au cinéma ((#cinema))
 
 Que vous soyez déjà bilingue, ou bien au contraire que vous souhaitiez pratiquer votre anglais, **aller au cinéma** un jour de pluie est une bonne idée et ainsi vous mêlez au milieu des amstellodamois et autres nombreux expats !
 
@@ -65,13 +82,13 @@ Pour une expérience unique, nous vous conseillons le **Pathé Tuchinkski**, une
 
 Sinon, pour une ambiance plus à la cool, rendez-vous au **Filmhallen** à Amsterdam West. Avec ces 9 salles et quelques peu 800 places, ce cinéma indépendant est le plus grand de tous les Pays-Bas.
 
-### Amsterdam sous la pluie : Passer du temps aux Food Hallen
+### Amsterdam sous la pluie : Passer du temps aux Food Hallen ((#food-hallen))
 
 Profiter d'une séance de cinéma au Film Hallen pour vous rendre aux **Food Hallen**. Cet ancien dépôt de tram est aujourd’hui l’un des lieux les plus populaires et branchés de la capitale ; l'ancien bâtiment industriel abritant un cinéma, un hôtel boutique, plusieurs petites boutiques indépendantes, mais surtout, un gigantesque marché “culinaire” : les Food Hallen.
 
 Ici, pas de prise de tête sur le choix du restaurant ou du type de cuisine : vous pouvez manger de tout. Chaque stand propose un type de cuisine différent, qui saura ravir les papilles de toute la famille ! Burger pour les enfants, tapas pour maman, hot dog pour papa, pizza pour le tonton. Bref, vous l’aurez compris, les FoodHallen sont le paradis de la food en mode décontracté !
 
-### Manger des poffertjes
+### Manger des poffertjes ((#poffertjes))
 
 Malheureusement, aucun stand des FoodHallen ne propose de **Poffertjes**, et pourtant, c’est LE truc à manger super réconfortant lors d’une journée pluvieux à Amsterdam.
 
@@ -79,7 +96,7 @@ Malheureusement, aucun stand des FoodHallen ne propose de **Poffertjes**, et pou
 
 Pour en manger par tout temps-toute saison (mais encore plus réconfortant un jour pluvieux du mois de Février), rendez-vous au [De Vier Pilaren](https://goo.gl/maps/GxUAxAFTZyp), un restaurant spécialisé en Pannenkoeken et Poffertjes, situé très proche de Leidseplein.
 
-### Amsterdam sous la pluie : shopping au Bijenkorf
+### Amsterdam sous la pluie : shopping au Bijenkorf ((#Bijenkorf))
 
 Amsterdam n’est pas connu pour être capitale de la monde, mais pourquoi pas faire un petit détour par le centre pour une pause shopping à l’abri de la pluie au **Bijenkorf**.
 
@@ -89,7 +106,7 @@ En revanche, nous vous dé-conseillons très fortement le centre commercial Magn
 
 <img alt="Visiter Amsterdam sous la pluie" src="./images/MG_3617.png">
 
-### Amsterdam sous la pluie : Direction le NEMO avec vos enfants !
+### Amsterdam sous la pluie : Direction le NEMO avec vos enfants ! ((#nemo))
 
 **Le NEMO**, Musée des Sciences, est l’endroit idéal pour divertir les enfants à Amsterdam un jour de pluie. D’ailleurs, enfant ou adulte, la visite sera tout aussi fun, peu importe l’age.
 
@@ -99,7 +116,7 @@ Vous apprendrez par exemple comment fonctionne les polders et les digues, et com
 
 Sentir, Toucher, Voir, Entendre et pourquoi pas gouter, ce musée fait littéralement appelle à vos 5 sens et pour une fois, vos enfants pourront toucher à tout et courir dans tous les sens sans risque de se faire réprimander, bien au contraire !
 
-### Amsterdam sous la pluie : ballade sur les canaux !
+### Amsterdam sous la pluie : ballade sur les canaux ! ((#canaux))
 
 Pour les plus téméraire, n'hésitez pas à vous **ballader sur les canaux**. Car bien sûre, un petit peu de pluie ne devrait vous empêcher d’apprécier la beauté architecturale d’Amsterdam. De fait, si vous êtes suffisamment équipé et qu’un peu de pluie de vous fait pas peur, c'est l'occasion parfaite.
 
@@ -109,9 +126,9 @@ En revanche, abstenez-vous des croisières sur les canaux un jour de pluie. Déj
 
 <img alt="Visiter Amsterdam sous la pluie" src="./images/MG_4144-1.jpg">
 
-## Point sur la météo
+## Point sur la météo ((#point-meteo))
 
-### Quand partir pour éviter la pluie au maximum
+### Quand partir pour éviter la pluie au maximum ((#eviter-pluie))
 
 Si vraiment, la perspective de visiter Amsterdam sous la pluie ne vous met pas du tout en joie, nous vous conseillons tout simplement d’éviter les mois de Octobre à Mars inclus. Décembre, Janvier et Février sont d’ailleurs les mois les plus froids et possédant le plus de jours de pluie en moyenne dans l’année.
 
@@ -121,7 +138,7 @@ Pour voir la pluviométrie moyenne mois par mois, nous vous conseillons le site 
 
 <img src="wp-content/uploads/2019/01/MG_4216.jpg" alt="Amsterdam sous la pluie - Visiter Amsterdam sous la pluie" />
 
-### Les bonnes applis de pour suivre la pluie !
+### Les bonnes applis de pour suivre la pluie ! ((#app))
 
 Cependant, n’oubliez pas qu’un des grands principes à Amsterdam, c’est qu’il ne faut jamais se fier à la météo annoncée plus de 2 jours à l’avance. Il est même tout à fait possible de vivre les 4 saisons en une seule journée !
 
@@ -137,6 +154,8 @@ La première est **[Buienradar](https://www.buienradar.nl/)**. La seconde eat **
 Chacune vous permette de suivre les nuages de pluies et les pics de pluie dans les 2-3h suivantes. Comment vous l’aurez compris, la météo est d'une grande incertitude à Amsterdam, c’est pour cela que nous vous conseillons de mixer différentes applications, car les informations sont changeantes, encore plus un jour de grand vent !
 
 Enfin, vous pouvez retrouver ici notre “[Kit de Survie pour visiter Amsterdam - Ultimate guide](kit-survie-visiter-amsterdam-ultimate-guide/)” afin d’être paré à toutes éventualités !
+
+<article slug='visite-guidee-amsterdam' cta='En savoir plus' excerpt></article>
 
 ---
 

@@ -7,9 +7,19 @@ excerpt: "Vous prevoyer de visiter Amsterdam (ou aux alentours) très prochainem
 
 Vous prevoyer de visiter Amsterdam (ou aux alentours) très prochainement, le temps d'un petit ou long week-end ? Cet article est fait pour vous. J’y liste un certain nombres de conseils afin de bien préparer votre venue dans la capitale hollandaise. À vos crayons, si vous voulez prendre des notes et faire des petites listes, et surtout n’hésitez pas à poser vos questions en commentaires !
 
+<toc>
+- [Que mettre dans sa valise&nbsp?](#valise)
+- [Quel temps fait-il&nbsp?](#meteo)
+- [Comment se déplacer&nbsp?](#se-deplacer)
+- [Quelle langue parler&nbsp?](#langue)
+- [Quel moyen de paiement utiliser&nbsp?](#paiement)
+</toc>
+
+<article slug='visite-guidee-amsterdam' cta='En savoir plus' excerpt></article>
+
 <img alt="Visiter Amsterdam et le Bloemmarkt" src="./images/kit_survie02.png">
 
-## Je vais bientôt visiter Amsterdam, je mets quoi dans ma valise ?
+## Je vais bientôt visiter Amsterdam, je mets quoi dans ma valise ? ((#valise))
 
 ### • Exit le parapluie. In le kway / coupe-vent / ciret.
 
@@ -49,7 +59,7 @@ S’il y a bien un principe à retenir, c’est celui-ci. **Parce qu’il faut f
 
 <img alt="Maisons hollandaise à Amsterdam" src="./images/kit_survie03.png">
 
-## Quel temps fait-il ?
+## Quel temps fait-il ? ((#meteo))
 
 IUn grand principe général en matière de météo à Amsterdam et aux Pays-Bas en général, c’est qu’il ne faut jamais se fier à la météo annoncée plus de 2 jours à l’avance. Et, comme je vous le disais plus haut, il est même tout à fait possible de vivre les 4 saisons en une seule journée. Vous êtes donc prévenus. Selon moi, Amsterdam est belle à n’importe quel moment de l’année, mais il est vrai que visiter la ville en été et tout de même plus agréable qu’en hiver. L’automne possède son charme avec ses arbres aux mille couleurs qui bordent les canaux et la période de Noël est tout simplement magique.
 
@@ -63,7 +73,7 @@ IUn grand principe général en matière de météo à Amsterdam et aux Pays-Bas
 
 ---
 
-## Je me déplace comment ?
+## Je me déplace comment ? ((#se-deplacer))
 
 Amsterdam est la capitale du vélo. Mais, pour une première visite, je vous recommande plutôt de vous déplacer à pieds. La ville est de taille humaine ce qui rend tout à fait possible une visite entièrement à pied. De plus, en marchant, vous aurez largement le temps d’observer les canaux et l’architecture qui vous entourent, contrairement à vélo où vous serez simplement concentré sur la route, ne sachant pas trop où aller, à devoir faire attention à ne rentrer dans personnes d’autres. Si vraiment vous souhaitez connaître l’expérience d’Amsterdam à vélo, choisissez le dernier jour de votre séjour. La ville vous semblera déjà plus familière et vous aurez moins besoin de rouler la tête en l’air.
 
@@ -77,7 +87,7 @@ Autrement, si la randonnée urbaine n’est pas trop votre truc, la ville d’Am
 
 ---
 
-## Je parle en quelle langue ?
+## Je parle en quelle langue ? ((#langue))
 
 La langue officielle est le néerlandais. En revanche, plus de 90% de la population amstellodamoise parle anglais de manière totalement courante, ville d’expat oblige ! En revanche, il est plus rare que les gens parlent français. Les Français sont d’ailleurs connus pour parler extrêmement mal anglais (ou bien tout autre langue étrangère). Lorsqu'un touriste étranger vient en France et qu'il est capable de dire Bonjour, Au revoir, Merci et S'il vous plaît ça en jette, non? Eh bien, il est temps de s'y mettre pour votre prochaine excursion à Amsterdam.
 
@@ -95,7 +105,7 @@ Vous ne serez sûrement pas capable de tenir un dialogue entier avec un néerlan
 
 ---
 
-## J’utilise quels moyens de paiement ?
+## J’utilise quels moyens de paiement ? ((#paiement))
 
 _Voici un dernier point qu’il me semble important de préciser._
 Les Pays-Bas font partis de la zone euros. Bonne nouvelle, vous n'aurez point besoin de faire du change. En revanche, la culture du paiement n’est pas la même qu’en France. Oublier votre monnaie. Tous, ou quasiment tous, les commerces acceptent la carte et uniquement la carte. Pas d’argent liquide. Même sur le marché, il est possible de payer par carte !
@@ -105,6 +115,8 @@ Par contre, attention ! Contrairement à la France, la carte de crédit est peu 
 Sachez aussi que les chèques n’existent plus ici, tout comme les pièces de 1 et 2 centimes sont hors de la circulation. L’arrondie sera donc toujours fait en votre faveur (ou non) si vous payez avec de la monnaie. Par exemple, si vous donnez un billet de 5 euros pour un achat de 4.99 euros, ne vous attendez pas à recevoir votre change. De même qu'en donnant 10 euros pour un achat de 5,02 euros, vous aurez la belle surprise de repartir avec un billet de 5 euros en échange, et non 4,98 euros. 🙂
 
 _Je trouve personnellement le système bancaire, bien plus évolué ici, en partie grâce au système iDeal, et surtout bien plus pratique ! Par exemple, les applications de paiements entre amis sont très répandues ici. La plus connue et utilisée est Tikkie. Et c’est très souvent d'ailleurs que, lors d’une sortie au restaurant, une personne paie la totalité puis les autres remboursent via l’application en une fraction de seconde. Tellement pratique !_
+
+<article slug='visite-guidee-amsterdam' cta='En savoir plus' excerpt></article>
 
 ---
 
