@@ -144,7 +144,10 @@ const AirBnB = () => {
       style={{maxWidth: '365px', margin: '0 auto'}}
     >
       <a href='https://www.airbnb.fr/experiences/844912?source=booking_widget'>Voir sur Airbnb</a>
-      <a href='https://www.airbnb.fr/experiences/844912?source=booking_widget' rel='nofollow' />
+      {
+        // eslint-disable-next-line
+        <a href='https://www.airbnb.fr/experiences/844912?source=booking_widget' rel='nofollow' />
+      }
       <Script url='https://www.airbnb.fr/embeddable/airbnb_jssdk' />
     </div>
   );
