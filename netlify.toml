@@ -5,3 +5,7 @@ SITE_URL="https://adeux-cestmieux.com"
 [context.develop.environment]
 GA_TRACKING_ID="UA-34357788-6"
 SITE_URL="https://develop--adeux-cestmieux.netlify.com"
+
+[context.landing-page.environment]
+GA_TRACKING_ID="UA-34357788-6"
+SITE_URL="https://develop--adeux-cestmieux.netlify.com"
