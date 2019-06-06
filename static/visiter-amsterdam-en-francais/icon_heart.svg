@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="29px" viewBox="0 0 32 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 54.1 (76490) - https://sketchapp.com -->
+    <title>F0C657F6-5267-4B26-98C6-E0E32A6DBB7D</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0 1.306 31.9999099 1.306 31.9999099 29.9999016 0 29.9999016"></polygon>
+        <polygon id="path-3" points="1.9982 1.30652422 18 1.30652422 18 17.1016 1.9982 17.1016"></polygon>
+    </defs>
+    <g id="Landing-page---Visite-guidée" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page---Desktop" transform="translate(-704.000000, -4202.000000)">
+            <g id="Group-13" transform="translate(258.000000, 4200.000000)">
+                <g id="Group-12" transform="translate(-0.000000, 0.000000)">
+                    <g id="icon_heart" transform="translate(446.000000, 0.000000)">
+                        <g id="Group-3" transform="translate(0.000000, 0.694200)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M29.078,17.4384 C30.352,16.1604 31.27,14.6544 31.708,13.0164 C33.514,6.2524 26.614,-0.1476 19.992,1.5964 C18.548,1.9764 17.198,2.7024 15.998,3.6984 C14.798,2.7044 13.446,1.9784 12.004,1.6004 C5.336,-0.1496 -1.5,6.3144 0.288,13.0164 C0.73,14.6544 1.646,16.1604 2.92,17.4384 L15.134,29.6424 C15.614,30.1204 16.39,30.1184 16.87,29.6404 L29.078,17.4384 Z" id="Fill-1" fill="#EF5661" mask="url(#mask-2)"></path>
+                        </g>
+                        <g id="Group-6" transform="translate(14.000000, 0.694200)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Clip-5"></g>
+                            <path d="M15.4002,17.1016 C16.5102,15.8996 17.3062,14.5116 17.7082,13.0156 C19.5142,6.2516 12.6122,-0.1484 5.9922,1.5976 C4.5482,1.9756 3.1962,2.7016 1.9982,3.6976 L15.4002,17.1016 Z" id="Fill-4" fill="#E41F4C" mask="url(#mask-4)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

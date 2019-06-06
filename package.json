@@ -45,6 +45,7 @@
     "nodemon": "^1.18.11",
     "prop-types": "^15.7.2",
     "react": "^16.8.5",
+    "react-anchor-link-smooth-scroll": "^1.0.12",
     "react-dom": "^16.8.5",
     "react-hammerjs": "^1.0.1",
     "react-helmet": "^5.2.0",
