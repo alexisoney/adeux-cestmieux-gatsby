@@ -13,6 +13,7 @@ import rehypeReact from 'rehype-react';
 import path from 'path';
 import marked from 'marked';
 import Script from 'react-load-script';
+import civitatis from '../../static/scripts/civitatis';
 
 const TableOfContents = styled.div`
   background-color: ${colors.omega};
@@ -153,6 +154,21 @@ const AirBnB = () => {
   );
 };
 
+const Civitatis = () => {
+  return (
+    <div style={{marginTop: '50px'}}>
+      <iframe
+        title='Civitatis'
+        class='civitatis-iframe'
+        src='https://www.civitatis.com/widget-activities/?affiliated=5758&display=compact&cant=4&lang=fr&currency=EUR&destination=23&category=2&width=100%'
+        width='100%'
+        frameborder='0'
+      />
+      <Script url={civitatis} />
+    </div>
+  );
+};
+
 const getAnchor = title => {
   const match = title.match(/\(\(#(.+?)\)\)/);
   if (match && match[1]) {
@@ -234,6 +250,7 @@ export default ({data}) => {
       toc: statefullTOC,
       article: Article,
       airbnb: AirBnB,
+      civitatis: Civitatis,
     },
   }).Compiler;
 

@@ -199,6 +199,8 @@ Le 14 juin 2010, les canaux d'Amsterdam ont obtenu le label patrimoine mondial d
 
 <img alt="canal-cruise-blue-boat1a.jpg" src="./images/canal-cruise-blue-boat1a.jpg" title="Crédit photo : The Blue Boat Company" />
 
+<civitatis></civitatis>
+
 ### Les Negen Straatjes ((#negen-straatjes))
 
 Une fois la ballade terminée, nous vous proposons de rejoindre le quartier des **9 Straatjes** ou **9 ruelles** en français. Les 9 Straatjes se trouvent toutes entre le _Rozengracht_, _Leidsestraat_, _Prinsengracht_ et _Singel_.
