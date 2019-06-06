@@ -13,7 +13,6 @@ import rehypeReact from 'rehype-react';
 import path from 'path';
 import marked from 'marked';
 import Script from 'react-load-script';
-import civitatis from '../../static/scripts/civitatis';
 
 const TableOfContents = styled.div`
   background-color: ${colors.omega};
@@ -160,11 +159,11 @@ const Civitatis = () => {
       <iframe
         title='Civitatis'
         class='civitatis-iframe'
-        src='https://www.civitatis.com/widget-activities/?affiliated=5758&display=compact&cant=4&lang=fr&currency=EUR&destination=23&category=2&width=100%'
+        src='https://www.civitatis.com/widget-activities/?affiliated=5758&display=compact&cant=2&lang=fr&currency=EUR&destination=23&category=2&width=100%height=500px'
         width='100%'
+        height='500px'
         frameborder='0'
       />
-      <Script url={civitatis} />
     </div>
   );
 };

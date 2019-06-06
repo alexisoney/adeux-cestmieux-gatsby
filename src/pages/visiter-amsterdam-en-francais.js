@@ -4,16 +4,7 @@ import {Helmet} from 'react-helmet';
 import {colors, fonts} from '../constant/style';
 import ContactForm from '../components/ContactForm';
 import AnchorLink from 'react-anchor-link-smooth-scroll';
-
-// import Layout from '../layouts/layout';
-// import FeaturedArticles from '../components/FeaturedArticles';
-// import RelatedArticle from '../components/RelatedArticle';
-// import prettyText from '../utils/prettyText';
-// import prettyDate from '../utils/prettyDate';
-// import rehypeReact from 'rehype-react';
-// import path from 'path';
-// import marked from 'marked';
-// import Script from 'react-load-script';
+import '../scss/style.scss';
 
 const breakingPoint = '@media screen and (max-width: 800px)';
 
