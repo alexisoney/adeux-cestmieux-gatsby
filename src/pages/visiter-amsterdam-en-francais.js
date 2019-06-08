@@ -716,7 +716,7 @@ export default () => (
         <CTA id='CTA-1' href='https://www.airbnb.fr/experiences/844912'>
           {SEO.CTA}
         </CTA>
-        <CTASubtitle>17€ par personne</CTASubtitle>
+        <CTASubtitle>17€ par personne</CTASubtitle>
       </CenteredBox>
       <Schedule>
         <picture>
@@ -783,7 +783,7 @@ export default () => (
             </picture>
             <DetailsImageCard>
               <DetailsImageCardPrice>17€</DetailsImageCardPrice>
-              <p>par pers.</p>
+              <p>par pers.</p>
             </DetailsImageCard>
           </DetailsImageContainer>
         </DetailsImageWrapper>
@@ -791,8 +791,8 @@ export default () => (
           <SubHeading>Informations utiles</SubHeading>
           <h2>Départ de la visite guidée</h2>
           <p>
-            Nous partons pour une heure et demi de marche (avec pauses). Prévoyez donc une paire de
-            chaussure comfortables pour marcher.
+            Nous partons pour deux heures de marche (avec pauses). Prévoyez donc une paire de
+            chaussure confortables pour marcher.
           </p>
           <DetailsItems>
             <DetailsItem>
@@ -812,7 +812,7 @@ export default () => (
             <DetailsItem>
               <DetailsItemTitle>Prochaines visites :</DetailsItemTitle>
               <DetailsItemText>
-                <li>Lundi 10 juin</li>
+                <li>Lundi 10 juin</li>
                 <li>Samedi 15 juin</li>
                 <li>Dimanche 16 juin</li>
                 <li>Samedi 22 juin</li>
@@ -823,7 +823,7 @@ export default () => (
           <CTA id='CTA-2' href='https://www.airbnb.fr/experiences/844912'>
             {SEO.CTA}
           </CTA>
-          <CTASubtitle>17€ par personne</CTASubtitle>
+          <CTASubtitle>17€ par personne</CTASubtitle>
         </DetailsContent>
       </Details>
       <Team>
@@ -877,7 +877,7 @@ export default () => (
           <CTA id='CTA-3' href='https://www.airbnb.fr/experiences/844912'>
             {SEO.CTA}
           </CTA>
-          <CTASubtitle>17€ par personne</CTASubtitle>
+          <CTASubtitle>17€ par personne</CTASubtitle>
         </TestimonialsContainer>
       </Testimonials>
       <Contact>
