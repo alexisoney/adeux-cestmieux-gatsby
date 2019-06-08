@@ -698,7 +698,7 @@ export default () => (
           <Icon src='./icon_flag_france.svg' /> En Français
         </IconContainer>
         <IconContainer>
-          <Icon src='./icon_time.svg' /> 1,5 heures
+          <Icon src='./icon_time.svg' /> 2 heures
         </IconContainer>
       </InAGlance>
       <CenteredBox>
@@ -799,10 +799,9 @@ export default () => (
               <Icon src='./icon_clock.svg' />
             </DetailsItem>
             <DetailsItem>
-              <DetailsItemTitle>2 départs :</DetailsItemTitle>
+              <DetailsItemTitle>Départ :</DetailsItemTitle>
               <DetailsItemText>
-                <li>09h30 – Place du Dam</li>
-                <li>11h30 – Place du Dam</li>
+                <li>10h00 – Place du Dam</li>
               </DetailsItemText>
             </DetailsItem>
           </DetailsItems>
@@ -813,8 +812,6 @@ export default () => (
             <DetailsItem>
               <DetailsItemTitle>Prochaines visites :</DetailsItemTitle>
               <DetailsItemText>
-                <li>Samedi 08 juin</li>
-                <li>Dimanche 09 juin</li>
                 <li>Lundi 10 juin</li>
                 <li>Samedi 15 juin</li>
                 <li>Dimanche 16 juin</li>
