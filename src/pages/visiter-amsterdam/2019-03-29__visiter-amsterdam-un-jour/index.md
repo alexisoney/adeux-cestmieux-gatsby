@@ -70,6 +70,9 @@ Lieu incontournable à Amsterdam, **le Dam** est une immense place pavée domin�
 
 Le Dam est une place très visitée et animée. Des artistes de rue s’y produisent, des manifestations y commencent ou s’y terminent et de nombreux évènements s’y déroulent tel que des fêtes foraines ou encore [la fête de la Tulipe](journee-nationale-de-la-tulipe).
 
+<article slug='journee-nationale-de-la-tulipe'></article>
+
+
 > C’est à cet endroit précis qu’est né Amsterdam en 1270. Haut lieu d’activité économique, la place du Dam devient aussi le centre politique d’Amsterdam en 1655 de part la construction de l’Hôtel de Ville néoclassique, siège du gouvernement devenu Palais Royal sous Napoléon Bonaparte.
 
 Le palais fut lui construit entre 1648 et 1665. D'abord Hôtel de Ville d'Amsterdam, il prit le statut officiel de palais en 1808 après l’accession au trône de Hollande par Louis Napoléon Bonaparte.
@@ -199,7 +202,6 @@ Le 14 juin 2010, les canaux d'Amsterdam ont obtenu le label patrimoine mondial d
 
 <img alt="canal-cruise-blue-boat1a.jpg" src="./images/canal-cruise-blue-boat1a.jpg" title="Crédit photo : The Blue Boat Company" />
 
-<civitatis></civitatis>
 
 ### Les Negen Straatjes ((#negen-straatjes))
 
@@ -278,8 +280,6 @@ Enfin, bien que le parcours proposé soit relativement le même et intéressant 
 - [Visiter Amsterdam au mois de Décembre](amsterdam-en-decembre-que-voir-que-faire)
 - [Visiter Amsterdam au Printemps](visiter-amsterdam-printemps-2019)
 - [Que faire, que voir en automne à Amsterdam](que-faire-voir-automne-amsterdam)
-
-<article slug='visite-guidee-amsterdam' cta='En savoir plus' excerpt></article>
 
 <img alt="Visiter Amsterdam en un jour" src="./images/full-width-amstel-BW.jpg">
 

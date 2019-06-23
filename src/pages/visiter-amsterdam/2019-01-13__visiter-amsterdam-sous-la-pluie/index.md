@@ -48,6 +48,8 @@ Facile me direz-vous, **visiter un musée** est pourtant une activité parfaite 
 
 Ps : Si vous êtes chanceux, vous pourrez écouter de la musique classique sous l’arche du tunnel. L’acoustique étant bonne et l’emplacement abrité, de nombreux musiciens y viennent jouer. Un vrai plaisir à chaque fois que nous y passons à vélo !
 
+Histoire ne vous éviter l'attente sous la pluie, pensez à réserver vos billets coupe-file. Pour cela, rien de plus simple, rdv sur [Tiqets](https://www.tiqets.com/en/amsterdam-c75061/rijksmuseum-coupe-file-p703796?partner=adeuxcestmieux)
+
 #### Van Gogh Museum
 
 Moins grand mais tout aussi connu, vous avez le **musée Van Gogh**, l’un des plus célèbres peintres néerlandais pour les français ! Le Van Gogh museum est, à juste titre, l’un des lieux culturels les plus prisés de la ville par les touristes français, de part son histoire lié si fortement à la France et la Provence.
@@ -57,6 +59,8 @@ Toute la vie du peintre nous est contée dans ce musée. La collection permanent
 Petits et grands, ce musée est toujours une bonne idée car nous avons tous en tête un tableau de Van Gogh. _La Nuit Étoilée_,_Les Tournesols, Autoportrait de 1889,_ _Autoportrait à l’oreille bandée_, _Les Mangeurs de pommes de terre_, _La Maison Jaune_ ... Vous en connaissez forcément un (sans peut être même savoir qu’il s’agissait de Van Gogh), alors pourquoi ne pas en profiter pour les observer en vrai ?
 
 En plus des œuvres de Van Gogh, le musée possède une collection d’art du 19e siècle riche et variée. Parmi les artistes représentés se trouvent des Impressionnistes et Postimpressionnistes, tous des artistes qui ont inspiré Van Gogh ou se sont inspirés de lui, ainsi que ses amis et contemporains.
+
+Réservez vos billet coupe-file [ici](https://www.tiqets.com/en/amsterdam-c75061/musee-van-gogh-p974079?partner=adeuxcestmieux)
 
 #### Stedelijk Museum
 
@@ -115,6 +119,8 @@ Ce musée est situé dans un bâtiment assez emblématique à l’est de la Gare
 Vous apprendrez par exemple comment fonctionne les polders et les digues, et comment les Pays-Bas réussissent à gagner peu à peu du terrain sur la mer ! Ou bien encore comment fonctionne la lumière et l’électricité !
 
 Sentir, Toucher, Voir, Entendre et pourquoi pas gouter, ce musée fait littéralement appelle à vos 5 sens et pour une fois, vos enfants pourront toucher à tout et courir dans tous les sens sans risque de se faire réprimander, bien au contraire !
+
+Vous êtes avec des enfants ? Ne perdez pas de temps à attendre sous la pluie et réserver vos billets coupe-file sur [Tiqets](https://www.tiqets.com/fr/amsterdam-c75061/musee-scientifique-nemo-p706076) ;-) 
 
 ### Amsterdam sous la pluie : ballade sur les canaux ! ((#canaux))
 

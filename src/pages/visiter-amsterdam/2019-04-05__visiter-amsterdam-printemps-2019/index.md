@@ -110,6 +110,8 @@ Le village abrite de nombreux bâtiments d'époque, notamment des maisons en boi
 
 À seulement quelques kilomètres d’Amsterdam, les moulins de _Zaanse Schans_ sont, avec les tulipes, un véritable symbole des Pays-Bas. Très populaire et apprécié des voyageurs, nous vous conseillons tout de même de privilégier le matin pour visiter le site.
 
+Pour s'y rendre, rien de plus simple, réserver dès mainteant [vos billets combinés](https://www.tiqets.com/en/zaandam-c74827/carte-zaanse-schans-bus-depuis-la-gare-centrale-damsterdam-p977074?partner=adeuxcestmieux) pour Zaanse Schans avec un bus partant de la Gare Centrale d'Amsterdam. Super pratique !
+
 <gallery>
 <img alt="Visiter Amsterdam Printemps Zaanse Schans" src="./images/MG_7195.jpg">
 <img alt="Visiter Amsterdam au printemps" src="./images/MG_7217-1.jpg">

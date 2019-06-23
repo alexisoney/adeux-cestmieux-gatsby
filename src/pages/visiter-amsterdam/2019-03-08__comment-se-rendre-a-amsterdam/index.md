@@ -88,4 +88,6 @@ Si, parmi cette jungle, vous ne savez toujours pas pour quelle option opter, nou
 
 Enfin, une fois arrivée à destination, vous aurez aussi le choix d’un point de vu transport en commun pour vous déplacer en ville. Mais, nous nous recommandons surtout la marche à pied, gratuite et surtout bien plus simple pour découvrir chaque recoins et canaux d'Amsterdam 🙂
 
+Pour les transports en commun, nous vous conseillons de réserver des billets à la journée, en fonction de la durée de votre séjour. **[Réserver des billets GVB](https://www.tiqets.com/en/amsterdam-c75061/gvb-amsterdam-public-transport-p975797?partner=adeuxcestmieux)**
+
 <img alt="Comment venir à Amsterdam Comment se rendre à Amsterdam" src="./images/comment-venir-amsterdam-pinterest.png">

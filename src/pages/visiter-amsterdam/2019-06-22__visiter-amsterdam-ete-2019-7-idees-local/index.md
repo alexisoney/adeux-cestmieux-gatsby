@@ -1,7 +1,7 @@
 ---
 title: 'Que faire à Amsterdam en été : 7 idées façon local'
 title_seo: ''
-hero: './images/cover.jpg'
+hero: './images/cover00.jpg'
 excerpt: "Avec cette semaine caniculaire, voici une sélection de 7 idées pour profiter à fond du soleil cet été à Amsterdam tel un vrai local ! "
 ---
 
@@ -109,6 +109,8 @@ Profitez d’une belle journée ensoleillée pour faire une sortie à **vélo da
 
 Pour plus de photos, n’hésitez pas à (re-)lire notre périple de l’année dernière dans l'article : [L'île de Texel](/texel/)
 
+<article slug='texel'></article>
+
 <img alt="7 idées de choses à faire à Amsterdam en été 2019" src="./images/texel-02.jpg">
 <img alt="7 idées de choses à faire à Amsterdam en été 2019" src="./images/texel-03.jpg">
 
@@ -129,3 +131,7 @@ Ainsi, les mois d’été de juin, juillet, août et septembre permettent de pro
 -----
 
 **Bel été à Amsterdam !**
+
+
+
+<img alt="7 idées de choses à faire à Amsterdam en été 2019 Pinterest" src="./images/visuel-pinterest.png">

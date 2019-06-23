@@ -140,6 +140,8 @@ Amateur de fleurs ou non, **le Keukenhof** vaut le détour si vous visiter la r�
 
 Cet adage est d’autant plus vrai lorsqu’il s’agit de visiter le Keukenhof. Malgré ses 32 hectares, le parc est extrêmement prisé et il y a très vite foule ! Aussi, nous vous conseillons d’arriver avant 10h sur le parc afin de profiter des allées au calme. De plus, passé cet horaire, et encore plus le week-end, les routes d’accès au parc sont extrêmement bouchées et les 30 minutes de voyage peuvent vite se transformer en deux heures d’attentes. Le site du Keukenhof recommande d’ailleurs de venir en début de semaine et d’éviter le week-end, afin de désengorger l’accès au parc.
 
+Aussi, afin de vous éviter les nombreuses files d'attentes, nous vous conseillons vivement de reserver vos billets d'entrée en ligne. Pour cela, rien de plus simple, il suffit de vous rendre [ici, sur Tiqets](https://www.tiqets.com/en/lisse-c260931/keukenhof-coupe-file-p974234?partner=adeuxcestmieux).
+
 _Notre conseil_: si, sur l’autoroute depuis Amsterdam vous voyez un panneau indiquant **“Keukenhof, Parking vol”**, faite demi-tour. Cela veut dire que l’accès au jardin est fermé et qu’aucune voiture ne peut se garer.
 
 ---
