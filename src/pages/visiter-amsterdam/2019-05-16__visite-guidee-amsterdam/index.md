@@ -41,14 +41,14 @@ Au fil des ruelles et canaux, nous vous partagerons de nombreuses anecdotes qui 
 
 ---
 
-La visite d’Amsterdam dure un peu plus de 1h30, en fonction de notre vitesse de marche. Bien entendu, nous aurons de nombreuses occasions de nous arrêter afin de capturer la beauté architecturale de la ville mais aussi pour vous conter son histoire et ses nombreuses anecdotes qui en vont de même. 
+La visite d’Amsterdam dure un peu plus de 2h, en fonction de notre vitesse de marche. Bien entendu, nous aurons de nombreuses occasions de nous arrêter afin de capturer la beauté architecturale de la ville mais aussi pour vous conter son histoire et ses nombreuses anecdotes qui en vont de même. 
 
 <img alt="Visite guidée d'Amsterdam en français" src="./images/visite-guidee-amsterdam-02.jpg">
 
 
 ##Informations pratiques (prix - horaire)
 
-* Afin de vous proposer une expérience intimiste, nous avons limité les groupes à 8 personnes maximum par visite. Aussi, pour en profiter au maximum sans trop subir la foule, nous vous proposons ces visites le matin uniquement, de 09h30 à 11h00, quand la ville est encore endormie 😉
+* Afin de vous proposer une expérience intimiste, nous avons limité les groupes à 3 personnes maximum par visite. Aussi, pour en profiter au maximum sans trop subir la foule, nous vous proposons ces visites le matin uniquement, de 09h30 à 11h30, quand la ville est encore endormie 😉
 
 * Pensez à apporter une bouteille d’eau ainsi qu’une paire de chaussure confortable pour marcher.
 

@@ -801,7 +801,7 @@ export default () => (
             <DetailsItem>
               <DetailsItemTitle>Départ :</DetailsItemTitle>
               <DetailsItemText>
-                <li>10h00 – Place du Dam</li>
+                <li>09h30 – Place du Dam</li>
               </DetailsItemText>
             </DetailsItem>
           </DetailsItems>
@@ -812,11 +812,16 @@ export default () => (
             <DetailsItem>
               <DetailsItemTitle>Prochaines visites :</DetailsItemTitle>
               <DetailsItemText>
-                <li>Lundi 10 juin</li>
-                <li>Samedi 15 juin</li>
-                <li>Dimanche 16 juin</li>
-                <li>Samedi 22 juin</li>
-                <li>Dimanche 23 juin</li>
+                <li>Samedi 27 juillet</li>
+                <li>Dimanche 28 juillet</li>
+                <li>Samedi 03 août</li>
+                <li>Dimanche 04 août</li>
+                <li>Samedi 10 août</li>
+                <li>Dimanche 11 août</li>
+                <li>Samedi 17 août</li>
+                <li>Dimanche 18 août</li>
+                <li>Samedi 24 août</li>
+                <li>Dimanche 25 août</li>
               </DetailsItemText>
             </DetailsItem>
           </DetailsItems>
