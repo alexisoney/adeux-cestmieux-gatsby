@@ -52,7 +52,7 @@ La visite d’Amsterdam dure un peu plus de 1h30, en fonction de notre vitesse d
 
 * Pensez à apporter une bouteille d’eau ainsi qu’une paire de chaussure confortable pour marcher.
 
-* Chaque visite coûte 17€ par personne.
+* Chaque visite coûte 27€ par personne.
 
 ---
 

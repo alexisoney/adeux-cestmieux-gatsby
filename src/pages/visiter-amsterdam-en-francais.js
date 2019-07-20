@@ -716,7 +716,7 @@ export default () => (
         <CTA id='CTA-1' href='https://www.airbnb.fr/experiences/844912'>
           {SEO.CTA}
         </CTA>
-        <CTASubtitle>17€ par personne</CTASubtitle>
+        <CTASubtitle>27€ par personne</CTASubtitle>
       </CenteredBox>
       <Schedule>
         <picture>
@@ -782,7 +782,7 @@ export default () => (
               <DetailsImg src='./conseils-pour-visiter-amsterdam-960.jpg' alt='' />
             </picture>
             <DetailsImageCard>
-              <DetailsImageCardPrice>17€</DetailsImageCardPrice>
+              <DetailsImageCardPrice>27€</DetailsImageCardPrice>
               <p>par pers.</p>
             </DetailsImageCard>
           </DetailsImageContainer>
@@ -823,7 +823,7 @@ export default () => (
           <CTA id='CTA-2' href='https://www.airbnb.fr/experiences/844912'>
             {SEO.CTA}
           </CTA>
-          <CTASubtitle>17€ par personne</CTASubtitle>
+          <CTASubtitle>27€ par personne</CTASubtitle>
         </DetailsContent>
       </Details>
       <Team>
@@ -877,7 +877,7 @@ export default () => (
           <CTA id='CTA-3' href='https://www.airbnb.fr/experiences/844912'>
             {SEO.CTA}
           </CTA>
-          <CTASubtitle>17€ par personne</CTASubtitle>
+          <CTASubtitle>27€ par personne</CTASubtitle>
         </TestimonialsContainer>
       </Testimonials>
       <Contact>
