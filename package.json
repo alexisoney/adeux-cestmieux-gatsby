@@ -39,7 +39,7 @@
     "image-downloader": "^3.4.2",
     "jsx-to-string": "^1.4.0",
     "lazysizes": "^4.1.7",
-    "marked": "^0.6.2",
+    "marked": "^0.7.0",
     "netlify-cli": "^2.11.14",
     "node-fetch": "^2.5.0",
     "node-sass": "^4.11.0",
