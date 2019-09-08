@@ -45,10 +45,8 @@
     "gatsby-transformer-remark": "^2.3.8",
     "gatsby-transformer-sharp": "^2.1.17",
     "gsap": "^2.1.2",
-    "jsx-to-string": "^1.4.0",
     "lazysizes": "^4.1.7",
     "marked": "^0.7.0",
-    "netlify-cli": "^2.11.14",
     "node-sass": "^4.11.0",
     "prop-types": "^15.7.2",
     "react": "^16.9.0",
@@ -56,11 +54,10 @@
     "react-dom": "^16.9.0",
     "react-hammerjs": "^1.0.1",
     "react-helmet": "^5.2.0",
-    "react-load-script": "0.0.6",
+    "react-load-script": "^0.0.6",
     "react-markdown": "^4.2.2",
     "react-transition-group": "^2.9.0",
     "rehype-react": "^3.1.0",
-    "rimraf": "^2.6.3",
     "styled-components": "^4.2.0"
   },
   "devDependencies": {
@@ -70,6 +67,8 @@
     "babel-preset-gatsby": "^0.2.12",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^24.9.0",
-    "prettier": "^1.16.4"
+    "prettier": "^1.16.4",
+    "rimraf": "^3.0.0",
+    "sharp": "^0.23.0"
   }
 }
