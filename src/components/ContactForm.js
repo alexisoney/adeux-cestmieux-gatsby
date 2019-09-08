@@ -1,8 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
 import {colors} from '../constant/style';
-// import axios from 'axios';
-// import serialize from 'form-serialize';
 
 const Section = styled.section`
   width: 100%;
@@ -96,28 +94,6 @@ export default props => {
       e.target.classList.add('error');
     }
   };
-
-  // const handleSubmit = e => {
-  //   e.preventDefault();
-
-  //   let containsError = false;
-  //   const form = e.target;
-  //   const inputs = form.querySelectorAll('input:not([type="submit"]), textarea');
-
-  //   inputs.forEach(input => {
-  //     if (!input.checkValidity()) {
-  //       input.classList.add('error');
-  //       containsError = true;
-  //     }
-  //   });
-
-  //   if (!containsError) {
-  //     axios
-  //       .post(form.action, serialize(form))
-  //       .then(res => form.classList.add('submitted'))
-  //       .catch(err => console.error(err));
-  //   }
-  // };
 
   return (
     <Section>
