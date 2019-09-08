@@ -101,16 +101,7 @@ export default props => {
       <Form name='contact' data-netlify='true' action='/contact/merci' method='POST'>
         <Row columns={2}>
           <Column>
-            <Input
-              name='name'
-              type='text'
-              aria-label='Votre prénom'
-              placeholder='Votre prénom'
-              required
-              onInput={handleInput}
-              onBlur={handleBlur}
-            />
-            <Error>Oups ! Votre prénom est manquant.</Error>
+            <Input name='name' type='text' aria-label='Votre prénom' placeholder='Votre prénom' />
           </Column>
           <Column>
             <Input
@@ -133,23 +124,16 @@ export default props => {
               aria-label='Votre message'
               placeholder='Votre message'
               rows={7}
-              minLength={50}
               required
               onInput={handleInput}
               onBlur={handleBlur}
             />
-            <Error>Oups ! Votre message doit contenir au moins 50 caractères.</Error>
+            <Error>Oups ! Votre message est vide.</Error>
           </Column>
         </Row>
         <input type='hidden' name='form-name' value='contact' />
         <input className='button' type='submit' value='Envoyer' />
       </Form>
-      {/* <blockquote>
-        <p>
-          Super ! Votre message a bien été envoyé. Merci beaucoup d'avoir pris le temps de nous
-          écrire. Nous vous répondrons le plus vite possible.
-        </p>
-      </blockquote> */}
     </Section>
   );
 };
