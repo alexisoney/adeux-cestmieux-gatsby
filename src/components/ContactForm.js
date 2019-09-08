@@ -98,7 +98,7 @@ export default props => {
   return (
     <Section>
       <H2>Contactez nous</H2>
-      <Form name='contact' data-netlify='true' action='/contact/merci'>
+      <Form name='contact' data-netlify='true' action='/contact/merci' method='POST'>
         <Row columns={2}>
           <Column>
             <Input
