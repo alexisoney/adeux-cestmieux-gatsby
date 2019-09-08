@@ -45,12 +45,13 @@
     "node-sass": "^4.11.0",
     "nodemon": "^1.18.11",
     "prop-types": "^15.7.2",
-    "react": "^16.8.5",
+    "react": "^16.9.0",
     "react-anchor-link-smooth-scroll": "^1.0.12",
-    "react-dom": "^16.8.5",
+    "react-dom": "^16.9.0",
     "react-hammerjs": "^1.0.1",
     "react-helmet": "^5.2.0",
     "react-load-script": "0.0.6",
+    "react-markdown": "^4.2.2",
     "react-transition-group": "^2.9.0",
     "rehype-react": "^3.1.0",
     "request": "^2.88.0",
@@ -58,6 +59,12 @@
     "styled-components": "^4.2.0"
   },
   "devDependencies": {
+    "@testing-library/jest-dom": "^4.1.0",
+    "@testing-library/react": "^9.1.4",
+    "babel-jest": "^24.9.0",
+    "babel-preset-gatsby": "^0.2.12",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^24.9.0",
     "prettier": "^1.16.4"
   },
   "license": "MIT",
@@ -67,7 +74,7 @@
     "format": "prettier --write src/**/*.{js,jsx}",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "test": "jest"
   },
   "repository": {
     "type": "git",
