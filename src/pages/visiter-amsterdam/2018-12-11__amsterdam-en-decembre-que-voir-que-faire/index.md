@@ -9,13 +9,25 @@ excerpt: "Amsterdam en décembre nous plonge dans une atmosphère magique, digne
 
 En cette période de fêtes de fin d’année, la petite Venise du Nord promet de nombreuses activités saisonnières, à partager en famille ou entre amis ! Voici une sélection de choses à voir ou à faire à Amsterdam en décembre pour en profiter au maximum.
 
----
+<toc>
+- [La Saint-Nicolas](#amsterdam-decembre-saint-nicolas)
+- [Noël à Amsterdam](#noel-amsterdam)
+    - [Les marchés](#marche-noel)
+    - [L'Amsterdam Light Festival](#amsterdam-light-festival)
+- [Le jour de l'an](#jour-de-lan-amsterdam)
+- [Hortus By Night](#hortus-by-night)
+- [Que manger en décembre](#gourmandise-noel-amsterdam)
+- [Infos pratique](#infos)
+    - [La méteo en décembre]((#meteo-decembre-amsterdam))
+- [La magie d'Amsterdam en décembre](#magie-amsterdam)
+</toc>
+
 
 <img alt="Amsterdam en Décembre" src="./images/MG_3929.jpg">
 
-## Amsterdam en décembre : Spécial Saint Nicolas
+## Amsterdam en décembre : Spécial Saint Nicolas ((#amsterdam-decembre-saint-nicolas))
 
-Avant Noël, les Néerlandais fêtent **Sinterklaas**, la Saint-Nicolas, le 6 décembre. Les célébrations de Sinterklaas débutent très souvent dès la mi-novembre avec l’arrivée de Saint-Nicolas et la grande parade en ville. Cette année elle avait lieu le 18 novembre 2018. Les célébrations prennent ensuite fin le 5 décembre au soir, après un traditionnel repas en famille. Enfin, le 6 décembre, c’est l’ouverture des cadeaux reçus pendant la nuit !
+Avant Noël, les Néerlandais fêtent **Sinterklaas**, la Saint-Nicolas, le 6 décembre. Les célébrations de Sinterklaas débutent très souvent dès la mi-novembre avec l’arrivée de Saint-Nicolas et la grande parade en ville. Cette année elle avait lieu le 16 novembre 2019. Les célébrations prennent ensuite fin le 5 décembre au soir, après un traditionnel repas en famille. Enfin, le 6 décembre, c’est l’ouverture des cadeaux reçus pendant la nuit !
 
 Les Néerlandais ont vraiment à cœur cette fête, surtout les enfants, la plupart recevant leur cadeau à ce moment-là et non le 25 décembre. Il existe même un “[journal de Sinterklaas](https://sinterklaasjournaal.ntr.nl/)” quotidien pour suivre les aventures du grand Monsieur à la barbe blanche et ses zwarte pieten avant la grande distribution de cadeaux. C’est assez drôle à regarder et ça fait patienter les enfants !
 
@@ -25,9 +37,9 @@ Enfin, si vous souhaitez en savoir davantage, on vous explique tout de cette tra
 
 <img alt="Amsterdam en Décembre" src="./images/MG_3958.jpg">
 
-## Amsterdam en décembre : spécial Noël
+## Amsterdam en décembre : spécial Noël ((#noel-amsterdam))
 
-### Les marchés de Noël
+### Les marchés de Noël ((#marche-noel))
 
 Amsterdam regorge de **marchés de Noël**. Il y en a sur la majorité des grandes places de la ville.
 
@@ -35,29 +47,31 @@ Amsterdam regorge de **marchés de Noël**. Il y en a sur la majorité des grand
 
 #### Dam Square
 
-Chaque année, **Dam Square** est transformée en marché de Noël avec des cabanons en bois ainsi qu'un gigantesque sapin de Noël. Ensemble, avec les illuminations du Bijenkorf, la place du Dam symbolise l'esprit des fêtes. D'ailleurs, ne manquez surtout l’illumination du sapin qui aura lieu le 8 décembre cette année.
+Chaque année, **Dam Square** est transformée en marché de Noël avec des cabanons en bois ainsi qu'un gigantesque sapin de Noël. Ensemble, avec les illuminations du Bijenkorf, la place du Dam symbolise l'esprit des fêtes. D'ailleurs, ne manquez surtout l’illumination du sapin qui aura lieu le 14 décembre 2019 cette année.
 
-\_4 km de luminaires !\_Le sapin, véritable, provient traditionnellement des Ardennes en Allemagne. Le sapin est tellement grand ; 20 mètres de haut ; qu’il faut plus de 40 000 lampes LED à économies d’énergie pour l’illuminer en entier. Cela correspond à une guirlande de 4 km de long ! Ainsi, durant toute la période du mois de décembre, le sapin sera illuminé dès le couché du soleil.
+_4 km de luminaires !_ Le sapin, véritable, provient traditionnellement des Ardennes en Allemagne. Le sapin est tellement grand ; 20 mètres de haut ; qu’il faut plus de 40 000 lampes LED à économies d’énergie pour l’illuminer en entier. Cela correspond à une guirlande de 4 km de long ! Ainsi, durant toute la période du mois de décembre, le sapin sera illuminé dès le couché du soleil.
 
 <img alt="MG_3926.jpg" src="./images/MG_3926.jpg">
 
-#### Museum Plein
+#### MuseumPlein
 
-Si vous êtes fan de patin à glace, nous vous conseillons d'aller à **Museum Plein** où un petit village de Noël est installé autour d’une patinoire.
+Si vous êtes fan de patin à glace, nous vous conseillons d'aller à **MuseumPlein** où un petit village de Noël est installé autour d’une patinoire.
 
-Du 17 novembre 2018 au 3 février 2019, c’est l’occasion parfaite de se retrouver entre amis ou en famille et apprécier quelques gourmandises de saison. La patinoire offre une vue sur le splendide Rijskmuseum. Pour compléter le cliché parfait, il est possible de patiner sous une réplique si romantique _“Magere Brug”_.
+Du 16 novembre 2019 au 2 février 2020, c’est l’occasion parfaite de se retrouver entre amis ou en famille et apprécier quelques gourmandises de saison. La patinoire offre une vue sur le splendide Rijskmuseum. Pour compléter le cliché parfait, il est possible de patiner sous une réplique si romantique _“Magere Brug”_.
 
 <img alt="Amsterdam en décembre" src="./images/MG_3859.jpg">
 
-## Amsterdam en décembre : L'Amsterdam Light Festival
+## Amsterdam en décembre : L'Amsterdam Light Festival ((#amsterdam-light-festival))
 
-Chaque année depuis 2012 a lieu l’**Amsterdam Light Festival.**Des artistes néerlandais et internationaux sont invités à créer des installations ou sculptures lumineuses autour d’un thème. Ces créations sont ensuite exposées tout au long de la ceinture des canaux, du Prinsengracht, et de l’Amstel. Au total, 30 installations lumineuses sont exposées.
+Chaque année depuis 2012 a lieu l’**[Amsterdam Light Festival](https://www.tiqets.com/en/amsterdam-c75061/amsterdam-light-festival-historic-boat-experience-p975197?partner=adeuxcestmieux).** Des artistes néerlandais et internationaux sont invités à créer des installations ou sculptures lumineuses autour d’un thème. Ces créations sont ensuite exposées tout au long de la ceinture des canaux, du Prinsengracht, et de l’Amstel. Au total, 30 installations lumineuses sont exposées.
+
+_Retrouvez notre article spécial [Amsterdam Light Festival 2019](/amsterdam-light-festival-2018-2019) pour en découvrir d’avantage._
 
 Il est possible de les découvrir à pied ou en bateau, tout au long des canaux. On recommande d’ailleurs [Amsterdam-bateau](https://www.amsterdam-bateau.com/fr/tours/6/light-festival) qui, pour l’occasion, propose des [visites en bateau](decouvrir-les-canaux-avec-amsterdam-bateau/) spéciales avec vin chaud, cocktail et boissons chaudes à volonté ! Le plus ? Des guides en français et des bateaux couverts et chauffés !
 
 <img alt="Amsterdam en décembre - Amsterdam Light Festival" src="./images/MG_3868.jpg">
 
-## Amsterdam en décembre : Spécial Jour de l'an
+## Amsterdam en décembre : Spécial Jour de l'an ((#jour-de-lan-amsterdam))
 
 ### Oud en Nieuw
 
@@ -79,15 +93,15 @@ Pour les plus fêtards d’entre vous, sachez que la plupart des clubs sont ouve
 
 Nieuwemarkt, Leidseplein, Rembrandtplein ainsi que Damsquare sont les place-to-be populaires pour **faire la fête** ce soir-là. Le site [iamsterdam](https://www.iamsterdam.com/en/see-and-do/whats-on/major-events-and-celebrations/new-years-eve-celebrations/new-years-eve-amsterdam) répertorie aussi une liste de soirées ayant lieu dans la capitale. Pour notre part, on vous recommande le **[Chin Chin Club](https://www.facebook.com/events/1003667433175356/)**, en plein centre parfait pour bien manger et danser !
 
-## Amsterdam en décembre : Musée & Exposition
+## Amsterdam en décembre : Musée & Exposition ((#musees))
 
-**Hortus By Night**
+### Hortus By Night ((#hortus-by-night))
 
-**Nombreux musées** sont ouverts durant le mois de décembre, sauf exception. Au-delà des classiques Risjkmuseum et Van Gogh Museum, nous vous recommandons d’aller faire un tour du côté de **l’Hortus Botanicus**, le jardin botanique d’Amsterdam. Du 20 décembre 2018 au 6 janvier 2019, le jardin organise des visites nocturnes « [Hortus by Night](https://www.dehortus.nl/programma/activities/?lang=en)« . Vous avez alors l’occasion de découvrir les plantes exotiques dans un jardin illuminé, tout en dégustant un verre de vin chaud. Certaines visites guidées sont aussi organisés pour une expérience encore plus enrichissante !
+**Nombreux musées** sont ouverts durant le mois de décembre, sauf exception. Au-delà des classiques Risjkmuseum et Van Gogh Museum, nous vous recommandons d’aller faire un tour du côté de **l’Hortus Botanicus**, le jardin botanique d’Amsterdam. Du 19 décembre 2019 au 5 janvier 2020, le jardin organise des visites nocturnes « [Hortus by Night](https://www.dehortus.nl/programma/activities/?lang=en)« . Vous avez alors l’occasion de découvrir les plantes exotiques dans un jardin illuminé, tout en dégustant un verre de vin chaud. Certaines visites guidées sont aussi organisés pour une expérience encore plus enrichissante !
 
 <img alt="Amsterdam en Décembre" src="./images/MG_3939.jpg">
 
-## Gourmandises de saison
+## Gourmandises de saison ((#gourmandise-noel-amsterdam))
 
 **Oliebollen**
 
@@ -99,9 +113,9 @@ Pour un biscuit un peu plus raffinés, direction le magasin **Van Stapele** pour
 
 <img alt="Amsterdam en décembre" src="./images/MG_3874.jpg">
 
-## Amsterdam en décembre : informations pratique
+## Amsterdam en décembre : informations pratique ((#infos))
 
-### La météo à Amsterdam en décembre
+### La météo à Amsterdam en décembre ((#meteo-decembre-amsterdam))
 
 _Décembre à Amsterdam ; le mois le plus sombre et pluvieux de l'année._
 
@@ -111,7 +125,7 @@ Ne vous attendez-donc pas à voir les canaux gelés ou recouvert d’un joli man
 
 ### Jours fériés nationaux.
 
-Comme en France, le 25 décembre et le 1er janvier sont des **jours fériés** aux Pays-Bas. Le 26 décembre est aussi férié : c'est le **« tweede kerstdag »**. Cette année, c'est un mardi : à nous le long week-end de 4 jours !
+Comme en France, le 25 décembre et le 1er janvier sont des **jours fériés** aux Pays-Bas. Le 26 décembre est aussi férié : c'est le **« tweede kerstdag »**. Cette année, c'est un mercredi : autant dire que cela vaut le coup de prendre un congé le lundi 23 décembre ! ;-)
 
 Quand bien même la Saint-Nicolas est une fête traditionnellement célébrée la veille du 6 décembre aux Pays-Bas, ce n’est pas un jour férié officiel. Simplement, les entreprises décident souvent de fermer plus tôt dans l’après-midi afin de laisser du temps aux familles pour préparer un bon repas.
 
@@ -123,7 +137,7 @@ _À noter, le Rijksmuseum et le Van Gogh reste ouvert durant cette période._
 
 ---
 
-**Pourquoi Amsterdam en décembre ?**
+##Pourquoi Amsterdam en décembre ? ((#magie-amsterdam))
 
 Décembre à Amsterdam est magique. Illuminations, patinoires, marchés de Noël, vin chaud, oliebollen, feu d’artifice ; la ville est tellement animée pendant la période de Noël et du réveillon.
 
