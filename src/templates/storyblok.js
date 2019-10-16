@@ -52,14 +52,7 @@ export default ({data, pageContext}) => {
       {cover && (
         <div className='hero'>
           <div className='hero__image'>
-            <Cloudinary
-              lazyload={false}
-              onload={loadLazyImages}
-              src={cover}
-              alt={title}
-              sizes={'(max-width: 1060px) 100vw, 1060px'}
-              srcset={[400, 800, 1060, 2120]}
-            />
+            <Cloudinary lazyload={false} onload={loadLazyImages} src={cover} alt={title} wide />
           </div>
         </div>
       )}
