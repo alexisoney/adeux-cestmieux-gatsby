@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react';
+import React, {useState, useEffect, useCallback} from 'react';
 
 import utils from '../../utils';
 import Storyblok from '../templates/storyblok';
@@ -13,12 +13,7 @@ function loadStoryblokBridge(callback) {
 
 const StoryblokEntry = () => {
   const [story, setStory] = useState(null);
-
-  useEffect(() => {
-    loadStoryblokBridge(initStoryblokEvents);
-  }, []);
-
-  function initStoryblokEvents() {
+  const initStoryblokEvents = useCallback(() => {
     loadStory();
 
     let sb = window.storyblok;
@@ -39,7 +34,7 @@ const StoryblokEntry = () => {
         sb.enterEditmode();
       }
     });
-  }
+  }, [story]);
 
   function loadStory() {
     window.storyblok.get(
@@ -52,6 +47,10 @@ const StoryblokEntry = () => {
       }
     );
   }
+
+  useEffect(() => {
+    loadStoryblokBridge(initStoryblokEvents);
+  }, [initStoryblokEvents]);
 
   if (story === null) return null;
 

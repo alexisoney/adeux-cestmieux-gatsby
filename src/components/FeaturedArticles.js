@@ -113,12 +113,12 @@ export default class FeaturedArticles extends React.Component {
                       <Hero>
                         <source
                           type='image/webp'
-                          data-srcSet={`${image}-400w.webp 400w, ${image}-800w.webp 800w, ${image}-1600w.webp 1600w`}
+                          data-srcset={`${image}-400w.webp 400w, ${image}-800w.webp 800w, ${image}-1600w.webp 1600w`}
                           sizes='(max-width: 900px) 100vw, 33vw'
                         />
                         <source
                           type='image/jpeg'
-                          data-srcSet={`${image}-400w.jpeg 400w, ${image}-800w.jpeg 800w, ${image}-1600w.jpeg 1600w`}
+                          data-srcset={`${image}-400w.jpeg 400w, ${image}-800w.jpeg 800w, ${image}-1600w.jpeg 1600w`}
                           sizes='(max-width: 900px) 100vw, 33vw'
                         />
                         <img className='lazyload' src={`${image}-20w.jpeg`} alt={slug} />
