@@ -1,12 +1,14 @@
 import {visiterAmsterdam} from '../constant/categories';
 
 export default (date, category) => {
-  const timestamp = new Date(date);
+  const timestamp = new Date(date) < Date.now() ? new Date(date) : new Date().getTime();
   let dateString;
   if (['visiter-amsterdam', 'vivre-aux-pays-bas', visiterAmsterdam].includes(category)) {
     let period = (new Date() - timestamp) / 1000 / 60 / 60 / 24;
     let unit;
-    if (period < 7) {
+    if (Math.floor(period) === 0) {
+      return `Mis à jour ajourd'hui`;
+    } else if (period < 7) {
       period = Math.floor(period);
       unit = period > 1 ? 'jours' : 'jour';
     } else if (period < 35) {
@@ -19,7 +21,7 @@ export default (date, category) => {
       period = Math.floor(period / 365);
       unit = period > 1 ? 'ans' : 'an';
     }
-    dateString = `Mise à jour il y ${period} ${unit}`;
+    dateString = `Mis à jour il y ${period} ${unit}`;
   } else {
     const day = timestamp.getDate();
     const year = timestamp.getFullYear();
