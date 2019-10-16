@@ -8,6 +8,7 @@ export function getFeaturedArticles(data, category = 'blog') {
       title: name,
       slug,
       image,
+      category: category,
     };
   });
 
