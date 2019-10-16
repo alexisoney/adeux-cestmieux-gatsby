@@ -60,20 +60,13 @@ exports.createPages = async ({graphql, actions}) => {
   const storyblok = await graphql(
     `
       {
-        allStoryblokEntry {
+        allStoryblokEntry(filter: {field_component: {eq: "post"}}) {
           edges {
             node {
-              id
-              lang
               name
               created_at
-              uuid
               slug
-              field_component
-              full_slug
               content
-              is_startpage
-              parent_id
               group_id
             }
           }
@@ -85,12 +78,23 @@ exports.createPages = async ({graphql, actions}) => {
   if (storyblok.errors) throw storyblok.errors;
 
   storyblok.data.allStoryblokEntry.edges.forEach(({node}) => {
+    const category = node.group_id;
+    const createdAt = node.created_at;
+    const slug = node.slug;
+    const title = node.name;
+    const {content: blocks, description, image} = JSON.parse(node.content);
+
     createPage({
       path: node.slug,
       component: path.resolve(`./src/templates/storyblok.js`),
       context: {
-        name: node.name,
-        content: JSON.parse(node.content),
+        blocks,
+        category,
+        createdAt,
+        description,
+        image,
+        slug,
+        title,
       },
     });
   });

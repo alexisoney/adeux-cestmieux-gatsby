@@ -1,7 +1,9 @@
+import {visiterAmsterdam} from '../constant/categories';
+
 export default (date, category) => {
   const timestamp = new Date(date);
   let dateString;
-  if (['visiter-amsterdam', 'vivre-aux-pays-bas'].includes(category)) {
+  if (['visiter-amsterdam', 'vivre-aux-pays-bas', visiterAmsterdam].includes(category)) {
     let period = (new Date() - timestamp) / 1000 / 60 / 60 / 24;
     let unit;
     if (period < 7) {

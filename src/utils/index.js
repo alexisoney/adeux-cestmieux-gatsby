@@ -1,0 +1,1 @@
+export {getTimeToRead} from './utils';
