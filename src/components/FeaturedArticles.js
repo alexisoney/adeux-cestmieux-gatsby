@@ -101,27 +101,27 @@ export default class FeaturedArticles extends React.Component {
         {this.props.title && <Title>Vous aimerez aussi</Title>}
         <Container>
           {this.props.articles &&
-            this.props.articles.map(({key, category, date, title, slug, image}) => {
+            this.props.articles.map(({key, category, date, title, slug, cover}) => {
               return (
                 <Item key={key} fluid={this.props.fluid}>
                   <HeroContainer>
-                    {image.includes('cloudinary') ? (
+                    {cover.includes('cloudinary') ? (
                       <Hero>
-                        <img className='lazyload' src={image} alt={slug} />
+                        <img className='lazyload' src={cover} alt={slug} />
                       </Hero>
                     ) : (
                       <Hero>
                         <source
                           type='image/webp'
-                          data-srcset={`${image}-400w.webp 400w, ${image}-800w.webp 800w, ${image}-1600w.webp 1600w`}
+                          data-srcset={`${cover}-400w.webp 400w, ${cover}-800w.webp 800w, ${cover}-1600w.webp 1600w`}
                           sizes='(max-width: 900px) 100vw, 33vw'
                         />
                         <source
                           type='image/jpeg'
-                          data-srcset={`${image}-400w.jpeg 400w, ${image}-800w.jpeg 800w, ${image}-1600w.jpeg 1600w`}
+                          data-srcset={`${cover}-400w.jpeg 400w, ${cover}-800w.jpeg 800w, ${cover}-1600w.jpeg 1600w`}
                           sizes='(max-width: 900px) 100vw, 33vw'
                         />
-                        <img className='lazyload' src={`${image}-20w.jpeg`} alt={slug} />
+                        <img className='lazyload' src={`${cover}-20w.jpeg`} alt={slug} />
                       </Hero>
                     )}
                   </HeroContainer>

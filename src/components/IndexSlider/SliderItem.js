@@ -4,10 +4,10 @@ import {Link} from 'gatsby';
 import Cloudinary from '../Cloudinary';
 
 export default props => {
-  const {slug, image, title} = props.post;
+  const {slug, cover, title} = props.post;
   let src;
-  if (!image.includes('cloudinary')) {
-    src = `${props.url}/images/${slug}/${image}`;
+  if (!cover.includes('cloudinary')) {
+    src = `${props.url}/images/${slug}/${cover}`;
   }
 
   return (
@@ -31,7 +31,7 @@ export default props => {
             />
           </picture>
         ) : (
-          <Cloudinary alt={slug} src={image} sizes='63vw' srcset={[400, 800, 1440, 1920, 2800]} />
+          <Cloudinary alt={slug} src={cover} sizes='63vw' srcset={[400, 800, 1440, 1920, 2800]} />
         )}
       </div>
       <div className='slider__card'>

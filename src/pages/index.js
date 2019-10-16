@@ -5,12 +5,12 @@ import IndexSlider from '../components/IndexSlider/index';
 
 export default props => {
   const storyblok = props.data.allStoryblokEntry.edges.map(({node}) => {
-    const {_uid, image, date} = JSON.parse(node.content);
+    const {_uid, cover, date} = JSON.parse(node.content);
     return {
       date: date ? new Date(date) : new Date(node.created_at),
       key: _uid,
       slug: node.slug,
-      image,
+      cover,
       title: node.name,
     };
   });
@@ -20,7 +20,7 @@ export default props => {
       date: new Date(node.fields.date),
       key: node.id,
       slug: node.fields.slug,
-      image: node.frontmatter.hero.name,
+      cover: node.frontmatter.hero.name,
       title: node.frontmatter.title,
     };
   });

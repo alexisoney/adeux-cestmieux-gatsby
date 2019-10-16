@@ -23,13 +23,13 @@ export function getFeaturedArticles(data, category = 'blog', slice) {
   if (data.allStoryblokEntry) {
     storyblok = data.allStoryblokEntry.edges.map(({node}) => {
       const {name, slug, created_at} = node;
-      const {_uid, image, date} = JSON.parse(node.content);
+      const {_uid, cover, date} = JSON.parse(node.content);
       return {
         key: _uid,
         date: date ? new Date(date) : new Date(created_at),
         title: name,
         slug,
-        image,
+        cover,
         category: category,
       };
     });
@@ -38,14 +38,12 @@ export function getFeaturedArticles(data, category = 'blog', slice) {
   let markdownRemark;
   if (data.allMarkdownRemark) {
     markdownRemark = data.allMarkdownRemark.edges.map(({node}) => {
-      const image = `${data.site.siteMetadata.siteUrl}/images/${node.fields.slug}/${
-        node.frontmatter.hero.name
-      }`;
+      const cover = `${data.site.siteMetadata.siteUrl}/images/${node.fields.slug}/${node.frontmatter.hero.name}`;
       return {
         key: node.id,
         date: new Date(node.fields.date),
         title: node.frontmatter.title,
-        image,
+        cover,
         slug: node.fields.slug,
         category: category,
       };
