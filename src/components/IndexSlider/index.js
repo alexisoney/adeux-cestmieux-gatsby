@@ -39,7 +39,7 @@ class IndexSlider extends React.Component {
         <div className='slider'>
           <div ref={this.slider} className='slider__container'>
             <TransitionGroup component={null}>
-              {this.props.posts.map(({node}, id) => {
+              {this.props.posts.map((post, id) => {
                 if (id >= offset - 2 && id <= offset + 2) {
                   let className = '';
                   let onClick = null;
@@ -59,7 +59,7 @@ class IndexSlider extends React.Component {
 
                   return (
                     <Transition
-                      key={node.id}
+                      key={post.key}
                       timeout={speed * 1000}
                       onEnter={this.onEnter}
                       onExit={this.onExit}
@@ -67,7 +67,7 @@ class IndexSlider extends React.Component {
                       <SliderItem
                         className={className}
                         onClick={onClick}
-                        data={node}
+                        post={post}
                         url={this.props.url}
                       />
                     </Transition>
