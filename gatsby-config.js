@@ -14,6 +14,14 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-source-storyblok',
+      options: {
+        accessToken: 'Dq9tMhBqMlJxD2kIdqbrJgtt',
+        homeSlug: 'home',
+        version: 'draft',
+      },
+    },
+    {
       resolve: `gatsby-plugin-google-tagmanager`,
       options: {
         id: 'GTM-5MP7DVR',

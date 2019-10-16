@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
 
-export default ({storyblok}) => {
-  if (storyblok && storyblok.content) {
+export default ({text}) => {
+  if (text) {
     return (
       <ReactMarkdown
-        source={storyblok.content}
+        source={text}
         allowedTypes={[
           'break',
           'emphasis',

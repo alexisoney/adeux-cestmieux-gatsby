@@ -26,9 +26,10 @@ exports.onCreateNode = ({node, getNode, actions}) => {
   }
 };
 
-exports.createPages = ({graphql, actions}) => {
+exports.createPages = async ({graphql, actions}) => {
   const {createPage} = actions;
-  return graphql(`
+
+  const markdownRemark = await graphql(`
     {
       allMarkdownRemark {
         edges {
@@ -41,19 +42,56 @@ exports.createPages = ({graphql, actions}) => {
         }
       }
     }
-  `).then(result => {
-    if (result.errors) {
-      throw result.errors;
-    }
-    result.data.allMarkdownRemark.edges.forEach(({node}) => {
-      createPage({
-        path: node.fields.slug,
-        component: path.resolve(`./src/templates/post.js`),
-        context: {
-          slug: node.fields.slug,
-          category: node.fields.category,
-        },
-      });
+  `);
+
+  if (markdownRemark.errors) throw markdownRemark.errors;
+
+  markdownRemark.data.allMarkdownRemark.edges.forEach(({node}) => {
+    createPage({
+      path: node.fields.slug,
+      component: path.resolve(`./src/templates/post.js`),
+      context: {
+        slug: node.fields.slug,
+        category: node.fields.category,
+      },
+    });
+  });
+
+  const storyblok = await graphql(
+    `
+      {
+        allStoryblokEntry {
+          edges {
+            node {
+              id
+              lang
+              name
+              created_at
+              uuid
+              slug
+              field_component
+              full_slug
+              content
+              is_startpage
+              parent_id
+              group_id
+            }
+          }
+        }
+      }
+    `
+  );
+
+  if (storyblok.errors) throw storyblok.errors;
+
+  storyblok.data.allStoryblokEntry.edges.forEach(({node}) => {
+    createPage({
+      path: node.slug,
+      component: path.resolve(`./src/templates/storyblok.js`),
+      context: {
+        name: node.name,
+        content: JSON.parse(node.content),
+      },
     });
   });
 };
