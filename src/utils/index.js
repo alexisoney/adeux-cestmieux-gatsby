@@ -1,1 +1,1 @@
-export {getTimeToRead, getFeaturedArticles} from './utils';
+export * from './utils';

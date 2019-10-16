@@ -17,6 +17,8 @@ export function getTimeToRead(blocks) {
 }
 
 export function getFeaturedArticles(data, category = 'blog', slice) {
+  if (!data) return null;
+
   let storyblok;
   if (data.allStoryblokEntry) {
     storyblok = data.allStoryblokEntry.edges.map(({node}) => {

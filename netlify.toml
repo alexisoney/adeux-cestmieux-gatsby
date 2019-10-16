@@ -1,9 +1,11 @@
 [context.production.environment]
 GA_TRACKING_ID="UA-34357788-4"
+STORYBLOK_API_KEY="oVQID07p9fiFPOrWDCg3rgtt"
 SITE_URL="https://adeux-cestmieux.com"
 
 [context.develop.environment]
 GA_TRACKING_ID="UA-34357788-6"
+STORYBLOK_API_KEY="Dq9tMhBqMlJxD2kIdqbrJgtt"
 SITE_URL="https://develop--adeux-cestmieux.netlify.com"
 
 [context.landing-page.environment]

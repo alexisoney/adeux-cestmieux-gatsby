@@ -1,6 +1,7 @@
 const path = require(`path`);
 const {createFilePath} = require(`gatsby-source-filesystem`);
 const categories = require('./src/constant/categories');
+const utils = require('./utils');
 
 exports.onCreateNode = ({node, getNode, actions}) => {
   const {createNodeField} = actions;
@@ -94,39 +95,12 @@ exports.createPages = async ({graphql, actions}) => {
   if (storyblok.errors) throw storyblok.errors;
 
   storyblok.data.allStoryblokEntry.edges.forEach(({node}) => {
-    const category = node.group_id;
-    const createdAt = node.created_at;
-    const slug = node.slug;
-    const title = node.name;
-    const {content: blocks, description, image} = JSON.parse(node.content);
-
-    let markdownCategory;
-    switch (category) {
-      case categories.visiterAmsterdam:
-        markdownCategory = 'visiter-amsterdam';
-        break;
-      case categories.vivreAuxPaysBas:
-        markdownCategory = 'vivre-aux-pays-bas';
-        break;
-      case categories.blog:
-      default:
-        markdownCategory = 'blog';
-        break;
-    }
+    const context = utils.createStoryblokPageContext(node);
 
     createPage({
       path: node.slug,
       component: path.resolve(`./src/templates/storyblok.js`),
-      context: {
-        blocks,
-        category,
-        createdAt,
-        description,
-        image,
-        slug,
-        title,
-        markdownCategory,
-      },
+      context,
     });
   });
 };

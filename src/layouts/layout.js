@@ -45,17 +45,13 @@ class Layout extends React.Component {
           <meta property='og:description' content={siteMetadata.description} />
           <meta
             property='og:image'
-            content={`${this.props.data.site.siteMetadata.siteUrl}/meta-images/${
-              siteMetadata.thumbnail
-            }`}
+            content={`${siteMetadata.url}/meta-images/${siteMetadata.thumbnail}`}
           />
           <meta
             property='og:image:secure_url'
-            content={`${this.props.data.site.siteMetadata.siteUrl}/meta-images/${
-              siteMetadata.thumbnail
-            }`}
+            content={`${siteMetadata.url}/meta-images/${siteMetadata.thumbnail}`}
           />
-          <meta property='og:url' content={this.props.data.site.siteMetadata.siteUrl} />
+          <meta property='og:url' content={siteMetadata.url} />
           <meta name='twitter:card' content='summary_large_image' />
           <meta property='og:site_name' content={siteMetadata.title} />
           <meta name='twitter:image:alt' content={siteMetadata.title} />
@@ -63,12 +59,14 @@ class Layout extends React.Component {
         <Header />
         <Content>{this.props.children}</Content>
         <ContactForm />
-        <InstagramGallery data={this.props.data.allInstaNode.edges} />
+        {/* <InstagramGallery data={this.props.data.allInstaNode.edges} /> */}
         <Footer>© {siteMetadata.title}</Footer>
       </Page>
     );
   }
 }
+
+// export default Layout;
 
 export default props => (
   <StaticQuery
