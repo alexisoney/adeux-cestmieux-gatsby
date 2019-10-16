@@ -48,15 +48,13 @@ export const query = graphql`
         }
       }
     }
-    allMarkdownRemark(
-      filter: {fields: {category: {eq: "visiter-amsterdam"}}}
-      sort: {fields: [fields___date], order: DESC}
-    ) {
+    allMarkdownRemark(filter: {fields: {category: {eq: "visiter-amsterdam"}}}) {
       edges {
         node {
           id
           fields {
             slug
+            date
           }
           frontmatter {
             title

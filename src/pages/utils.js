@@ -1,8 +1,14 @@
 export function getFeaturedArticles(data, category = 'blog') {
   const storyblok = data.allStoryblokEntry.edges.map(({node}) => {
     const {name, slug, created_at} = node;
-    const {_uid, image} = JSON.parse(node.content);
-    return {key: _uid, date: created_at, title: name, slug, image};
+    const {_uid, image, date} = JSON.parse(node.content);
+    return {
+      key: _uid,
+      date: date ? new Date(date) : new Date(created_at),
+      title: name,
+      slug,
+      image,
+    };
   });
 
   const markdownRemark = data.allMarkdownRemark.edges.map(({node}) => {
@@ -11,7 +17,7 @@ export function getFeaturedArticles(data, category = 'blog') {
     }`;
     return {
       key: node.id,
-      date: node.fields.date,
+      date: new Date(node.fields.date),
       title: node.frontmatter.title,
       image,
       slug: node.fields.slug,
@@ -20,6 +26,7 @@ export function getFeaturedArticles(data, category = 'blog') {
   });
 
   const articles = storyblok.concat(markdownRemark);
+  const sortedArticles = articles.sort((a, b) => b.date - a.date);
 
-  return articles;
+  return sortedArticles;
 }

@@ -45,10 +45,7 @@ export const query = graphql`
         }
       }
     }
-    allMarkdownRemark(
-      filter: {fields: {category: {eq: "blog"}}}
-      sort: {fields: [fields___date], order: DESC}
-    ) {
+    allMarkdownRemark(filter: {fields: {category: {eq: "blog"}}}) {
       edges {
         node {
           id

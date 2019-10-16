@@ -33,7 +33,7 @@ export const query = graphql`
         siteUrl
       }
     }
-    allStoryblokEntry(sort: {fields: [created_at], order: DESC}) {
+    allStoryblokEntry {
       edges {
         node {
           name
@@ -44,11 +44,12 @@ export const query = graphql`
         }
       }
     }
-    allMarkdownRemark(sort: {fields: [fields___date], order: DESC}) {
+    allMarkdownRemark {
       edges {
         node {
           fields {
             slug
+            date
           }
           frontmatter {
             title
