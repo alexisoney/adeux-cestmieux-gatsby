@@ -17,8 +17,8 @@ import FeaturedArticles from '../components/FeaturedArticles';
 import Text from '../components/Text';
 
 export default ({data, pageContext}) => {
-  const {blocks, category, createdAt, description, image, slug, title} = pageContext;
-  const date = createdAt && category ? formatDate(createdAt, category) : undefined;
+  const {blocks, category, createdAt, customDate, description, cover, slug, title} = pageContext;
+  const date = formatDate(customDate || createdAt, category);
   const timeToRead = blocks ? getTimeToRead(blocks) : undefined;
   const featuredArticles = getFeaturedArticles(data, pageContext.markdownCategory, 3);
   const instagram = data ? data.allInstaNode.edges : null;
@@ -33,19 +33,19 @@ export default ({data, pageContext}) => {
         <meta property='og:type' content='article' />
         <meta property='og:title' content={`${title} - ${siteMetadata.title}`} />
         <meta property='og:description' content={description} />
-        <meta property='og:image' content={image} />
-        <meta property='og:image:secure_url' content={image} />
+        <meta property='og:image' content={cover} />
+        <meta property='og:image:secure_url' content={cover} />
         <meta property='og:url' content={`${siteMetadata.url}/${slug}/`} />
         <meta name='twitter:card' content='summary_large_image' />
         <meta property='og:site_name' content={siteMetadata.title} />
         <meta name='twitter:image:alt' content={title} />
       </Helmet>
 
-      {image && (
+      {cover && (
         <div className='hero'>
           <div className='hero__image'>
             <Cloudinary
-              url={image}
+              url={cover}
               alt={title}
               sizes={'(max-width: 1060px) 100vw, 1060px'}
               srcset={[400, 800, 1060, 2120]}
@@ -78,13 +78,13 @@ export default ({data, pageContext}) => {
                 const {text, level} = block;
                 component = <Heading text={text} level={level} />;
                 break;
+              case 'image':
+                const {alt, src} = block;
+                component = <Cloudinary alt={alt} url={src} />;
+                break;
               case 'text':
                 const {content} = block;
                 component = <Text text={content} />;
-                break;
-              case 'image':
-                const {alt, image} = block;
-                component = <Cloudinary alt={alt} url={image} />;
                 break;
               default:
                 component = null;
