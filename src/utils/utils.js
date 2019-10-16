@@ -63,3 +63,14 @@ export function getFeaturedArticles(data, category = 'blog', slice) {
 
   return sortedArticles;
 }
+
+export function lazyloadImage(img) {
+  if (img.srcset === '') {
+    if (typeof img.dataset.srcset !== 'undefined') {
+      img.srcset = img.dataset.srcset;
+    }
+    if (typeof img.dataset.src !== 'undefined') {
+      img.src = img.dataset.src;
+    }
+  }
+}

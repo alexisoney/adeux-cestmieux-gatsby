@@ -14,6 +14,7 @@ import path from 'path';
 import marked from 'marked';
 import Script from 'react-load-script';
 import {getFeaturedArticles} from '../utils';
+import {lazyloadImage} from '../utils';
 
 const TableOfContents = styled.div`
   background-color: ${colors.omega};
@@ -218,12 +219,7 @@ export default ({data, pageContext}) => {
           <picture>
             <source type='image/webp' data-srcset={setSrcSet('webp')} sizes={sizes} />
             <source type='image/jpeg' data-srcset={setSrcSet('jpeg')} sizes={sizes} />
-            <img
-              className='post__image lazyload'
-              alt={alt}
-              title={title}
-              src={`${basePath}-20w.jpeg`}
-            />
+            <img className='post__image' alt={alt} title={title} src={`${basePath}-20w.jpeg`} />
           </picture>
         </div>
       );
@@ -256,6 +252,11 @@ export default ({data, pageContext}) => {
     },
   }).Compiler;
 
+  function loadLazyImages() {
+    const images = Array.from(document.querySelectorAll('source, img'));
+    images.forEach(img => lazyloadImage(img));
+  }
+
   return (
     <Layout instagram={instagram}>
       <Helmet>
@@ -286,7 +287,12 @@ export default ({data, pageContext}) => {
             srcSet={`${src}-400w.jpeg 400w, ${src}-800w.jpeg 800w, ${src}-1600w.jpeg 1600w`}
             sizes='(max-width: 1600px) 100vw, 1600px'
           />
-          <img className='hero__image' src={`${src}-400w.jpeg`} alt={post.fields.slug} />
+          <img
+            className='hero__image'
+            src={`${src}-400w.jpeg`}
+            alt={post.fields.slug}
+            onLoad={loadLazyImages}
+          />
         </picture>
       </div>
       <main className='post'>

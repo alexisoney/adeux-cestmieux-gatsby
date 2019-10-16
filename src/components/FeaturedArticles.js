@@ -5,6 +5,8 @@ import {Link} from 'gatsby';
 import prettyDate from '../utils/prettyDate';
 import prettyText from '../utils/prettyText';
 
+import Cloudinary from './Cloudinary';
+
 const Section = styled.section`
   background: ${colors.omega};
 `;
@@ -107,7 +109,12 @@ export default class FeaturedArticles extends React.Component {
                   <HeroContainer>
                     {cover.includes('cloudinary') ? (
                       <Hero>
-                        <img className='lazyload' src={cover} alt={slug} />
+                        <Cloudinary
+                          src={cover}
+                          sizes={'(max-width: 600px) 100vw, (max-width: 900px) 50vw, 380px'}
+                          srcset={[400, 800]}
+                          alt={slug}
+                        />
                       </Hero>
                     ) : (
                       <Hero>

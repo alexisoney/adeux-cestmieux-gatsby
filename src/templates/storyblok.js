@@ -7,6 +7,7 @@ import siteMetadata from '../constant/siteMetadata';
 import formatDate from '../utils/prettyDate';
 import {getTimeToRead} from '../utils';
 import {getFeaturedArticles} from '../utils';
+import {lazyloadImage} from '../utils';
 
 import Cloudinary from '../components/Cloudinary';
 import Gallery from '../components/Gallery';
@@ -26,16 +27,7 @@ export default ({data, pageContext}) => {
 
   function loadLazyImages() {
     const images = Array.from(document.querySelectorAll('source, img'));
-    const lazyImages = images.filter(img => img.srcset === '');
-
-    lazyImages.forEach(img => {
-      if (typeof img.dataset.srcset !== 'undefined') {
-        img.srcset = img.dataset.srcset;
-      }
-      if (typeof img.dataset.src !== 'undefined') {
-        img.src = img.dataset.src;
-      }
-    });
+    images.forEach(img => lazyloadImage(img));
   }
 
   return (

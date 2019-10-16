@@ -1,7 +1,8 @@
-import React from 'react';
+import React, {useEffect, createRef} from 'react';
 import propTypes from 'prop-types';
 
 import {sliceCloudinarySrc} from './cloudinary-utils';
+import {lazyloadImage} from '../../utils';
 
 const Cloudinary = ({
   alt,
@@ -11,6 +12,30 @@ const Cloudinary = ({
   srcset: customSrcSet,
   src,
 }) => {
+  const wrapper = createRef();
+  useEffect(() => {
+    if (wrapper && wrapper.current && lazyload) {
+      const tags = wrapper.current.querySelectorAll('source, img');
+
+      if (typeof window !== 'undefined' && 'IntersectionObserver' in window) {
+        const lazyImageObserver = new IntersectionObserver(entries => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              lazyloadImage(entry.target);
+              lazyImageObserver.unobserve(entry.target);
+            }
+          });
+        });
+
+        tags.forEach(tag => lazyImageObserver.observe(tag));
+      } else {
+        tags.forEach(tag => {
+          lazyloadImage(tag);
+        });
+      }
+    }
+  });
+
   if (typeof src === 'undefined') {
     return null;
   }
@@ -50,7 +75,7 @@ const Cloudinary = ({
   const wepbSrcSet = srcSet.replace(extensionSearchRegex, 'webp');
 
   return (
-    <div className='cloudinary'>
+    <div ref={wrapper} className='cloudinary'>
       <picture>
         <source
           type='image/webp'
