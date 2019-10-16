@@ -101,8 +101,8 @@ export default ({data, pageContext}) => {
                 component = <Heading text={text} level={level} tocText={tocText} />;
                 break;
               case 'image':
-                const {alt, src} = block;
-                component = <Cloudinary alt={alt} src={src} />;
+                const {alt, src, wide} = block;
+                component = <Cloudinary alt={alt} src={src} wide={wide} />;
                 break;
               case 'toc':
                 component = <TableOfContents content={blocks} />;

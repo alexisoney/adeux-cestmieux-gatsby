@@ -229,4 +229,31 @@ describe('The Cloudinary component', () => {
       'https://res.cloudinary.com/cloud/image/upload/w_630,q_auto/image.jpg'
     );
   });
+
+  it('should set wide class when wide argument is passed', () => {
+    const src = 'https://res.cloudinary.com/cloud/image/upload/image.jpg';
+    const {getByTestId} = render(<Cloudinary src={src} wide />);
+    expect(getByTestId('cloudinary')).toHaveClass('cloudinary--is-wide');
+  });
+
+  it('should return defined size when wide is passed', () => {
+    const src = 'https://res.cloudinary.com/cloud/image/upload/image.jpg';
+    const {container} = render(<Cloudinary src={src} wide />);
+    expect(container.querySelector('source')).toHaveProperty(
+      'sizes',
+      '(max-width: 1060px) 100vw, 1060px'
+    );
+  });
+
+  it('should return an image tag with a srcset adapted to wide argument', () => {
+    const src = 'https://res.cloudinary.com/cloud/image/upload/image.jpg';
+    const srcSet = [
+      'https://res.cloudinary.com/cloud/image/upload/w_400,q_auto/image.jpg 400w',
+      'https://res.cloudinary.com/cloud/image/upload/w_800,q_auto/image.jpg 800w',
+      'https://res.cloudinary.com/cloud/image/upload/w_1060,q_auto/image.jpg 1060w',
+      'https://res.cloudinary.com/cloud/image/upload/w_2120,q_auto/image.jpg 2120w',
+    ];
+    const {container} = render(<Cloudinary src={src} wide />);
+    expect(container.querySelector('img').dataset.srcset).toBe(srcSet.join(','));
+  });
 });

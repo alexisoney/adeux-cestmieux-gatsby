@@ -11,6 +11,7 @@ const Cloudinary = ({
   sizes: customSizes,
   srcset: customSrcSet,
   src,
+  wide,
 }) => {
   const wrapper = createRef();
   useEffect(() => {
@@ -44,6 +45,11 @@ const Cloudinary = ({
     return null;
   }
 
+  if (wide === true) {
+    customSizes = '(max-width: 1060px) 100vw, 1060px';
+    customSrcSet = [400, 800, 1060, 2120];
+  }
+
   const slicedSrc = sliceCloudinarySrc(src);
   const sizes = customSizes || '(max-width: 770px) 100vw, 630px';
 
@@ -74,8 +80,12 @@ const Cloudinary = ({
   const jpgSrcSet = extension === 'jpg' ? srcSet : srcSet.replace(extensionSearchRegex, 'jpg');
   const wepbSrcSet = srcSet.replace(extensionSearchRegex, 'webp');
 
+  const wrapperClasses = ['cloudinary', wide ? 'cloudinary--is-wide' : null]
+    .filter(v => !!v)
+    .join(' ');
+
   return (
-    <div ref={wrapper} className='cloudinary'>
+    <div ref={wrapper} data-testid='cloudinary' className={wrapperClasses}>
       <picture>
         <source
           type='image/webp'
@@ -105,6 +115,7 @@ Cloudinary.propTypes = {
   sizes: propTypes.string,
   srcset: propTypes.array,
   src: propTypes.string,
+  wide: propTypes.bool,
 };
 
 export default Cloudinary;
