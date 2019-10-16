@@ -67,7 +67,7 @@ export const query = graphql`
           created_at
           slug
           content
-          group_id
+          parent_id
         }
       }
     }

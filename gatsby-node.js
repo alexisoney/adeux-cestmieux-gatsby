@@ -84,7 +84,7 @@ exports.createPages = async ({graphql, actions}) => {
               created_at
               slug
               content
-              group_id
+              parent_id
             }
           }
         }

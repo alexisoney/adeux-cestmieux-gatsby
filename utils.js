@@ -2,7 +2,7 @@ const categories = require('./src/constant/categories');
 
 module.exports = Object.freeze({
   createStoryblokPageContext: function createStoryblokPageContext(node) {
-    const category = node.group_id;
+    const category = node.parent_id;
     const createdAt = node.created_at;
     const slug = node.slug;
     const title = node.name;

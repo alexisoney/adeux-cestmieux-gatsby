@@ -123,7 +123,7 @@ export default ({data, pageContext}) => {
 };
 
 export const query = graphql`
-  query($slug: String!, $category: String!, $markdownCategory: String!) {
+  query($slug: String!, $category: Int, $markdownCategory: String!) {
     site {
       siteMetadata {
         siteUrl
@@ -145,7 +145,7 @@ export const query = graphql`
         }
       }
     }
-    allStoryblokEntry(filter: {group_id: {eq: $category}, slug: {ne: $slug}}) {
+    allStoryblokEntry(filter: {parent_id: {eq: $category}, slug: {ne: $slug}}) {
       edges {
         node {
           name

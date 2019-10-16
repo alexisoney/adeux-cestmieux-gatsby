@@ -310,7 +310,7 @@ export default ({data, pageContext}) => {
 };
 
 export const query = graphql`
-  query($slug: String!, $category: String!, $storyblokCategory: String!) {
+  query($slug: String!, $category: String!, $storyblokCategory: Int!) {
     site {
       siteMetadata {
         siteUrl
@@ -349,7 +349,7 @@ export const query = graphql`
         excerpt
       }
     }
-    allStoryblokEntry(filter: {group_id: {eq: $storyblokCategory}}) {
+    allStoryblokEntry(filter: {parent_id: {eq: $storyblokCategory}}) {
       edges {
         node {
           name

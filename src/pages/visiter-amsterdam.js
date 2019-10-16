@@ -55,14 +55,14 @@ export const query = graphql`
         }
       }
     }
-    allStoryblokEntry(filter: {group_id: {eq: "29b6d049-cf34-486b-9c21-12c361af40a3"}}) {
+    allStoryblokEntry(filter: {parent_id: {eq: 2292432}}) {
       edges {
         node {
           name
           created_at
           slug
           content
-          group_id
+          parent_id
         }
       }
     }
