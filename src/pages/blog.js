@@ -10,6 +10,7 @@ const Page = ({data}) => {
 
   const articles = getFeaturedArticles(data, 'blog');
   const siteUrl = data.site.siteMetadata.siteUrl;
+  const instagram = data.allInstaNode.edges;
 
   return (
     <>
@@ -20,6 +21,7 @@ const Page = ({data}) => {
         img=''
         siteUrl={siteUrl}
         articles={articles}
+        instagram={instagram}
       />
     </>
   );
@@ -32,6 +34,22 @@ export const query = graphql`
     site {
       siteMetadata {
         siteUrl
+      }
+    }
+    allInstaNode(sort: {fields: timestamp, order: DESC}, limit: 5) {
+      edges {
+        node {
+          id
+          likes
+          username
+          localFile {
+            childImageSharp {
+              fluid(maxWidth: 220, maxHeight: 220) {
+                ...GatsbyImageSharpFluid_withWebp_noBase64
+              }
+            }
+          }
+        }
       }
     }
     allStoryblokEntry(filter: {group_id: {eq: "c645badc-e097-42f6-985e-c57138768d61"}}) {

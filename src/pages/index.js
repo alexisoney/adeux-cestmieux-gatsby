@@ -28,8 +28,10 @@ export default props => {
   const posts = storyblok.concat(markdownRemark);
   const sortedPosts = posts.sort((a, b) => b.date - a.date);
 
+  const instagram = props.data.allInstaNode.edges;
+
   return (
-    <Layout>
+    <Layout instagram={instagram}>
       <IndexSlider url={props.data.site.siteMetadata.siteUrl} posts={sortedPosts} />
     </Layout>
   );
@@ -40,6 +42,22 @@ export const query = graphql`
     site {
       siteMetadata {
         siteUrl
+      }
+    }
+    allInstaNode(sort: {fields: timestamp, order: DESC}, limit: 5) {
+      edges {
+        node {
+          id
+          likes
+          username
+          localFile {
+            childImageSharp {
+              fluid(maxWidth: 220, maxHeight: 220) {
+                ...GatsbyImageSharpFluid_withWebp_noBase64
+              }
+            }
+          }
+        }
       }
     }
     allStoryblokEntry {

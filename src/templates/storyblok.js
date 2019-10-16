@@ -18,9 +18,10 @@ export default ({data, pageContext}) => {
   const date = createdAt && category ? formatDate(createdAt, category) : undefined;
   const timeToRead = blocks ? getTimeToRead(blocks) : undefined;
   const featuredArticles = getFeaturedArticles(data, pageContext.markdownCategory, 3);
+  const instagram = data.allInstaNode.edges;
 
   return (
-    <Layout>
+    <Layout instagram={instagram}>
       <Helmet>
         <title>
           {title} - {siteMetadata.title}
@@ -78,6 +79,22 @@ export const query = graphql`
     site {
       siteMetadata {
         siteUrl
+      }
+    }
+    allInstaNode(sort: {fields: timestamp, order: DESC}, limit: 5) {
+      edges {
+        node {
+          id
+          likes
+          username
+          localFile {
+            childImageSharp {
+              fluid(maxWidth: 220, maxHeight: 220) {
+                ...GatsbyImageSharpFluid_withWebp_noBase64
+              }
+            }
+          }
+        }
       }
     }
     allStoryblokEntry(filter: {group_id: {eq: $category}, slug: {ne: $slug}}) {

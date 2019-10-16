@@ -13,6 +13,7 @@ const Page = ({data}) => {
 
   const articles = getFeaturedArticles(data, 'vivre-aux-pays-bas');
   const siteUrl = data.site.siteMetadata.siteUrl;
+  const instagram = data.allInstaNode.edges;
 
   return (
     <>
@@ -23,6 +24,7 @@ const Page = ({data}) => {
         img=''
         siteUrl={siteUrl}
         articles={articles}
+        instagram={instagram}
       />
     </>
   );
@@ -35,6 +37,22 @@ export const query = graphql`
     site {
       siteMetadata {
         siteUrl
+      }
+    }
+    allInstaNode(sort: {fields: timestamp, order: DESC}, limit: 5) {
+      edges {
+        node {
+          id
+          likes
+          username
+          localFile {
+            childImageSharp {
+              fluid(maxWidth: 220, maxHeight: 220) {
+                ...GatsbyImageSharpFluid_withWebp_noBase64
+              }
+            }
+          }
+        }
       }
     }
     allStoryblokEntry(filter: {group_id: {eq: "7efb51fe-4dad-4bfd-a7d4-56e5b5b79dbc"}}) {

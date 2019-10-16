@@ -13,6 +13,7 @@ const Page = ({data}) => {
 
   const articles = getFeaturedArticles(data, 'visiter-amsterdam');
   const siteUrl = data.site.siteMetadata.siteUrl;
+  const instagram = data.allInstaNode.edges;
 
   return (
     <>
@@ -23,6 +24,7 @@ const Page = ({data}) => {
         img=''
         siteUrl={siteUrl}
         articles={articles}
+        instagram={instagram}
       />
     </>
   );
@@ -35,6 +37,22 @@ export const query = graphql`
     site {
       siteMetadata {
         siteUrl
+      }
+    }
+    allInstaNode(sort: {fields: timestamp, order: DESC}, limit: 5) {
+      edges {
+        node {
+          id
+          likes
+          username
+          localFile {
+            childImageSharp {
+              fluid(maxWidth: 220, maxHeight: 220) {
+                ...GatsbyImageSharpFluid_withWebp_noBase64
+              }
+            }
+          }
+        }
       }
     }
     allStoryblokEntry(filter: {group_id: {eq: "29b6d049-cf34-486b-9c21-12c361af40a3"}}) {

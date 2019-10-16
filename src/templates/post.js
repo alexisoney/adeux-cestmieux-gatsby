@@ -187,6 +187,7 @@ export default ({data, pageContext}) => {
   const date = prettyDate(post.fields.date, post.fields.category);
   const title = prettyText(post.frontmatter.title);
   const featuredArticles = getFeaturedArticles(data, pageContext.category, 3);
+  const instagram = data.allInstaNode.edges;
 
   const Gallery = ({children}) => <div className='gallery'>{children}</div>;
 
@@ -256,7 +257,7 @@ export default ({data, pageContext}) => {
   }).Compiler;
 
   return (
-    <Layout instagram={data.allInstaNode}>
+    <Layout instagram={instagram}>
       <Helmet>
         <title>{post.frontmatter.title_seo ? post.frontmatter.title_seo : title}</title>
         <meta name='description' content={post.frontmatter.excerpt} />
@@ -307,6 +308,22 @@ export const query = graphql`
     site {
       siteMetadata {
         siteUrl
+      }
+    }
+    allInstaNode(sort: {fields: timestamp, order: DESC}, limit: 5) {
+      edges {
+        node {
+          id
+          likes
+          username
+          localFile {
+            childImageSharp {
+              fluid(maxWidth: 220, maxHeight: 220) {
+                ...GatsbyImageSharpFluid_withWebp_noBase64
+              }
+            }
+          }
+        }
       }
     }
     markdownRemark(fields: {slug: {eq: $slug}}) {
