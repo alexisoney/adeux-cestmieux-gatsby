@@ -33,7 +33,7 @@ const Excerpt = styled.p`
   }
 `;
 
-const Category = ({title, excerpt, img, slug, data}) => {
+const Category = ({title, excerpt, img, slug, articles, siteUrl}) => {
   return (
     <Layout>
       <Helmet>
@@ -43,14 +43,14 @@ const Category = ({title, excerpt, img, slug, data}) => {
         <meta property='og:description' content={excerpt} />
         {img && <meta property='og:image' content={img} />}
         {img && <meta property='og:image:secure_url' content={img} />}
-        <meta property='og:url' content={`${data.site.siteMetadata.siteUrl}/${slug}/`} />
+        <meta property='og:url' content={`${siteUrl}/${slug}/`} />
         <meta name='twitter:card' content='summary_large_image' />
         <meta property='og:site_name' content={siteMetadata.title} />
         <meta name='twitter:image:alt' content={slug} />
       </Helmet>
       <Title>{title}</Title>
       <Excerpt>{excerpt}</Excerpt>
-      <FeaturedArticles url={data.site.siteMetadata.siteUrl} posts={data.allMarkdownRemark.edges} />
+      <FeaturedArticles articles={articles} />
     </Layout>
   );
 };

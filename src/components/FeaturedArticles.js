@@ -100,41 +100,41 @@ export default class FeaturedArticles extends React.Component {
       <Section>
         {this.props.title && <Title>Vous aimerez aussi</Title>}
         <Container>
-          {this.props.posts.map(({node}) => {
-            const src = `${this.props.url}/images/${node.fields.slug}/${
-              node.frontmatter.hero.name
-            }`;
-            return (
-              <Item key={node.id} fluid={this.props.fluid}>
-                <HeroContainer>
-                  <Hero>
-                    <source
-                      type='image/webp'
-                      data-srcset={`${src}-400w.webp 400w, ${src}-800w.webp 800w, ${src}-1600w.webp 1600w`}
-                      sizes='(max-width: 900px) 100vw, 33vw'
-                    />
-                    <source
-                      type='image/jpeg'
-                      data-srcset={`${src}-400w.jpeg 400w, ${src}-800w.jpeg 800w, ${src}-1600w.jpeg 1600w`}
-                      sizes='(max-width: 900px) 100vw, 33vw'
-                    />
-                    <img className='lazyload' src={`${src}-20w.jpeg`} alt={node.fields.slug} />
-                  </Hero>
-                </HeroContainer>
-                <Card>
-                  {node.fields.category === 'blog' && (
-                    <CardDate>{prettyDate(node.fields.date, node.fields.category)}</CardDate>
-                  )}
-                  <CardTitle
-                    dangerouslySetInnerHTML={{__html: prettyText(node.frontmatter.title)}}
-                  />
-                  <Button className='button' to={`/${node.fields.slug}/`}>
-                    Lire l'article
-                  </Button>
-                </Card>
-              </Item>
-            );
-          })}
+          {this.props.articles &&
+            this.props.articles.map(({key, category, date, title, slug, image}) => {
+              return (
+                <Item key={key} fluid={this.props.fluid}>
+                  <HeroContainer>
+                    {image.includes('cloudinary') ? (
+                      <Hero>
+                        <img className='lazyload' src={image} alt={slug} />
+                      </Hero>
+                    ) : (
+                      <Hero>
+                        <source
+                          type='image/webp'
+                          data-srcSet={`${image}-400w.webp 400w, ${image}-800w.webp 800w, ${image}-1600w.webp 1600w`}
+                          sizes='(max-width: 900px) 100vw, 33vw'
+                        />
+                        <source
+                          type='image/jpeg'
+                          data-srcSet={`${image}-400w.jpeg 400w, ${image}-800w.jpeg 800w, ${image}-1600w.jpeg 1600w`}
+                          sizes='(max-width: 900px) 100vw, 33vw'
+                        />
+                        <img className='lazyload' src={`${image}-20w.jpeg`} alt={slug} />
+                      </Hero>
+                    )}
+                  </HeroContainer>
+                  <Card>
+                    {category === 'blog' && <CardDate>{prettyDate(date, category)}</CardDate>}
+                    <CardTitle dangerouslySetInnerHTML={{__html: prettyText(title)}} />
+                    <Button className='button' to={`/${slug}/`}>
+                      Lire l'article
+                    </Button>
+                  </Card>
+                </Item>
+              );
+            })}
         </Container>
       </Section>
     );
