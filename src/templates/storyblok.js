@@ -9,6 +9,7 @@ import {getTimeToRead} from '../utils';
 import {getFeaturedArticles} from '../utils';
 import {lazyloadImage} from '../utils';
 
+import CallToAction from '../components/CallToAction';
 import Cloudinary from '../components/Cloudinary';
 import Gallery from '../components/Gallery';
 import Heading from '../components/Heading';
@@ -79,6 +80,18 @@ export default ({data, pageContext}) => {
             let component;
 
             switch (type) {
+              case 'cta':
+                const {button, image, description, link, title} = block;
+                component = (
+                  <CallToAction
+                    button={button}
+                    image={image}
+                    description={description}
+                    link={link}
+                    title={title}
+                  />
+                );
+                break;
               case 'gallery':
                 const {images} = block;
                 component = <Gallery images={images} />;
