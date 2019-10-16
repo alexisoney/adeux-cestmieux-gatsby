@@ -38,7 +38,7 @@ const TableOfContents = ({content}) => {
           <a
             className='table-of-contents__link'
             data-testid='table-of-contents__link'
-            href={createAnchorLink(h2.tocText || h2.text)}
+            href={`#${createAnchorLink(h2.tocText || h2.text)}`}
           >
             {h2.tocText || h2.text}
           </a>
@@ -57,7 +57,7 @@ const TableOfContents = ({content}) => {
                     <a
                       className='table-of-contents__nested-link'
                       data-testid='table-of-contents__nested-link'
-                      href={createAnchorLink(h3.tocText || h3.text)}
+                      href={`#${createAnchorLink(h3.tocText || h3.text)}`}
                     >
                       {h3.tocText || h3.text}
                     </a>
