@@ -13,7 +13,7 @@ const Gallery = ({images}) => {
           return (
             <SbEditable key={_uid} content={image}>
               <div className='gallery__item'>
-                <Cloudinary url={src} alt={alt} />
+                <Cloudinary src={src} alt={alt} />
               </div>
             </SbEditable>
           );

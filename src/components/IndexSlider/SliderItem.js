@@ -31,7 +31,7 @@ export default props => {
             />
           </picture>
         ) : (
-          <Cloudinary alt={slug} url={image} sizes='63vw' srcset={[400, 800, 1440, 1920, 2800]} />
+          <Cloudinary alt={slug} src={image} sizes='63vw' srcset={[400, 800, 1440, 1920, 2800]} />
         )}
       </div>
       <div className='slider__card'>

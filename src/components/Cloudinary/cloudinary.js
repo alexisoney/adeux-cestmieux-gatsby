@@ -1,26 +1,26 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import {sliceCloudinaryUrl} from './cloudinary-utils';
+import {sliceCloudinarySrc} from './cloudinary-utils';
 
-const Cloudinary = ({alt, sizes: customSizes, srcset: customSrcSet, url}) => {
-  if (typeof url === 'undefined') {
+const Cloudinary = ({alt, sizes: customSizes, srcset: customSrcSet, src}) => {
+  if (typeof src === 'undefined') {
     return null;
   }
 
-  if (!url.includes('https://res.cloudinary.com/')) {
+  if (!src.includes('https://res.cloudinary.com/')) {
     return null;
   }
 
-  const slicedUrl = sliceCloudinaryUrl(url);
+  const slicedSrc = sliceCloudinarySrc(src);
   const sizes = customSizes || '(max-width: 770px) 100vw, 630px';
 
-  const extensionIndex = url.lastIndexOf('.') + 1;
-  const extension = url.slice(extensionIndex);
+  const extensionIndex = src.lastIndexOf('.') + 1;
+  const extension = src.slice(extensionIndex);
   const extensionSearchRegex = new RegExp(extension, 'g');
 
-  let defaultSrc = `${slicedUrl[0]}/w_630,q_auto/${slicedUrl[1]}`;
-  let lowResolutionSrc = `${slicedUrl[0]}/w_10,q_30,e_blur/${slicedUrl[1]}`;
+  let defaultSrc = `${slicedSrc[0]}/w_630,q_auto/${slicedSrc[1]}`;
+  let lowResolutionSrc = `${slicedSrc[0]}/w_10,q_30,e_blur/${slicedSrc[1]}`;
   if (extension !== 'jpg') {
     defaultSrc = defaultSrc.replace(extensionSearchRegex, 'jpg');
     lowResolutionSrc = lowResolutionSrc.replace(extensionSearchRegex, 'jpg');
@@ -29,13 +29,13 @@ const Cloudinary = ({alt, sizes: customSizes, srcset: customSrcSet, url}) => {
   let srcSetList = [];
   if (customSrcSet) {
     customSrcSet.forEach(size => {
-      srcSetList.push(`${slicedUrl[0]}/w_${size},q_auto/${slicedUrl[1]} ${size}w`);
+      srcSetList.push(`${slicedSrc[0]}/w_${size},q_auto/${slicedSrc[1]} ${size}w`);
     });
   } else {
     srcSetList = [
-      `${slicedUrl[0]}/w_400,q_auto/${slicedUrl[1]} 400w`,
-      `${slicedUrl[0]}/w_800,q_auto/${slicedUrl[1]} 800w`,
-      `${slicedUrl[0]}/w_1300,q_auto/${slicedUrl[1]} 1300w`,
+      `${slicedSrc[0]}/w_400,q_auto/${slicedSrc[1]} 400w`,
+      `${slicedSrc[0]}/w_800,q_auto/${slicedSrc[1]} 800w`,
+      `${slicedSrc[0]}/w_1300,q_auto/${slicedSrc[1]} 1300w`,
     ];
   }
   const srcSet = srcSetList.join(',');
@@ -63,7 +63,7 @@ Cloudinary.propTypes = {
   alt: PropTypes.string,
   sizes: PropTypes.string,
   srcset: PropTypes.array,
-  url: PropTypes.string,
+  src: PropTypes.string,
 };
 
 export default Cloudinary;

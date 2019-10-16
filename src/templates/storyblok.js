@@ -45,7 +45,7 @@ export default ({data, pageContext}) => {
         <div className='hero'>
           <div className='hero__image'>
             <Cloudinary
-              url={cover}
+              src={cover}
               alt={title}
               sizes={'(max-width: 1060px) 100vw, 1060px'}
               srcset={[400, 800, 1060, 2120]}
@@ -80,7 +80,7 @@ export default ({data, pageContext}) => {
                 break;
               case 'image':
                 const {alt, src} = block;
-                component = <Cloudinary alt={alt} url={src} />;
+                component = <Cloudinary alt={alt} src={src} />;
                 break;
               case 'text':
                 const {content} = block;

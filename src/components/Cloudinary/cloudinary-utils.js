@@ -1,17 +1,17 @@
-export const sliceCloudinaryUrl = url => {
+export const sliceCloudinarySrc = url => {
   const urlAsArray = url.split('');
 
-  let slicedUrl = ['', ''];
+  let slicedSrc = ['', ''];
 
   for (let i = 0, n = urlAsArray.length, slashCounter = 0; i < n; i++) {
     const character = urlAsArray[i];
     if (slashCounter < 6) {
       if (character === '/') slashCounter++;
-      if (slashCounter !== 6) slicedUrl[0] += character;
+      if (slashCounter !== 6) slicedSrc[0] += character;
     } else {
-      slicedUrl[1] += character;
+      slicedSrc[1] += character;
     }
   }
 
-  return slicedUrl;
+  return slicedSrc;
 };
