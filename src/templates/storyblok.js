@@ -14,6 +14,7 @@ import Heading from '../components/Heading';
 import Layout from '../layouts/layout';
 import Ending from '../components/Ending';
 import FeaturedArticles from '../components/FeaturedArticles';
+import TableOfContents from '../components/TableOfContents';
 import Text from '../components/Text';
 
 export default ({data, pageContext}) => {
@@ -81,6 +82,9 @@ export default ({data, pageContext}) => {
               case 'image':
                 const {alt, src} = block;
                 component = <Cloudinary alt={alt} src={src} />;
+                break;
+              case 'toc':
+                component = <TableOfContents content={blocks} />;
                 break;
               case 'text':
                 const {content} = block;
