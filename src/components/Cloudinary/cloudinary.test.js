@@ -179,12 +179,6 @@ describe('The Cloudinary component', () => {
     expect(container.querySelector('source').dataset.srcset).toBe(srcSet.join(','));
   });
 
-  it('should return an image tag with the lazyload class', () => {
-    const src = 'https://res.cloudinary.com/cloud/image/upload/image.jpg';
-    const {container} = render(<Cloudinary src={src} />);
-    expect(container.querySelector('img')).toHaveClass('lazyload');
-  });
-
   it('should return an image tag with a low definition jpg src', () => {
     const src = 'https://res.cloudinary.com/cloud/image/upload/image.jpg';
     const {container} = render(<Cloudinary src={src} />);
@@ -200,6 +194,39 @@ describe('The Cloudinary component', () => {
     expect(container.querySelector('img')).toHaveProperty(
       'src',
       'https://res.cloudinary.com/cloud/image/upload/w_10,q_30,e_blur/another_image.jpg'
+    );
+  });
+
+  it('should return a srcset in source when lazyload false is passed', () => {
+    const src = 'https://res.cloudinary.com/cloud/image/upload/image.jpg';
+    const {container} = render(<Cloudinary src={src} lazyload={false} />);
+    expect(container.querySelector('source')).toHaveAttribute('srcset');
+  });
+
+  it('should NOT return a srcset in source when lazyload is NOT passed', () => {
+    const src = 'https://res.cloudinary.com/cloud/image/upload/image.jpg';
+    const {container} = render(<Cloudinary src={src} />);
+    expect(container.querySelector('source')).not.toHaveAttribute('srcset');
+  });
+
+  it('should return a srcset in img when lazyload false is passed', () => {
+    const src = 'https://res.cloudinary.com/cloud/image/upload/image.jpg';
+    const {container} = render(<Cloudinary src={src} lazyload={false} />);
+    expect(container.querySelector('img')).toHaveAttribute('srcset');
+  });
+
+  it('should NOT return a srcset in img when lazyload is NOT passed', () => {
+    const src = 'https://res.cloudinary.com/cloud/image/upload/image.jpg';
+    const {container} = render(<Cloudinary src={src} />);
+    expect(container.querySelector('img')).not.toHaveAttribute('srcset');
+  });
+
+  it('should use default image src when lazyload false is passed', () => {
+    const src = 'https://res.cloudinary.com/cloud/image/upload/image.jpg';
+    const {container} = render(<Cloudinary src={src} lazyload={false} />);
+    expect(container.querySelector('img')).toHaveAttribute(
+      'src',
+      'https://res.cloudinary.com/cloud/image/upload/w_630,q_auto/image.jpg'
     );
   });
 });

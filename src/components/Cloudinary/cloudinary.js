@@ -1,9 +1,16 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+import propTypes from 'prop-types';
 
 import {sliceCloudinarySrc} from './cloudinary-utils';
 
-const Cloudinary = ({alt, sizes: customSizes, srcset: customSrcSet, src}) => {
+const Cloudinary = ({
+  alt,
+  lazyload = true,
+  onload,
+  sizes: customSizes,
+  srcset: customSrcSet,
+  src,
+}) => {
   if (typeof src === 'undefined') {
     return null;
   }
@@ -45,14 +52,21 @@ const Cloudinary = ({alt, sizes: customSizes, srcset: customSrcSet, src}) => {
   return (
     <div className='cloudinary'>
       <picture>
-        <source type='image/webp' sizes={sizes} data-srcset={wepbSrcSet} />
+        <source
+          type='image/webp'
+          sizes={sizes}
+          data-srcset={wepbSrcSet}
+          srcSet={lazyload ? null : wepbSrcSet}
+        />
         <img
-          className='lazyload'
+          className='cloudinary__image'
           alt={alt}
-          src={lowResolutionSrc}
+          src={lazyload ? lowResolutionSrc : defaultSrc}
+          srcSet={lazyload ? null : jpgSrcSet}
           sizes={sizes}
           data-src={defaultSrc}
           data-srcset={jpgSrcSet}
+          onLoad={onload}
         />
       </picture>
     </div>
@@ -60,10 +74,12 @@ const Cloudinary = ({alt, sizes: customSizes, srcset: customSrcSet, src}) => {
 };
 
 Cloudinary.propTypes = {
-  alt: PropTypes.string,
-  sizes: PropTypes.string,
-  srcset: PropTypes.array,
-  src: PropTypes.string,
+  alt: propTypes.string,
+  lazyload: propTypes.bool,
+  onload: propTypes.func,
+  sizes: propTypes.string,
+  srcset: propTypes.array,
+  src: propTypes.string,
 };
 
 export default Cloudinary;

@@ -24,6 +24,20 @@ export default ({data, pageContext}) => {
   const featuredArticles = getFeaturedArticles(data, pageContext.markdownCategory, 3);
   const instagram = data ? data.allInstaNode.edges : null;
 
+  function loadLazyImages() {
+    const images = Array.from(document.querySelectorAll('source, img'));
+    const lazyImages = images.filter(img => img.srcset === '');
+
+    lazyImages.forEach(img => {
+      if (typeof img.dataset.srcset !== 'undefined') {
+        img.srcset = img.dataset.srcset;
+      }
+      if (typeof img.dataset.src !== 'undefined') {
+        img.src = img.dataset.src;
+      }
+    });
+  }
+
   return (
     <Layout instagram={instagram}>
       <Helmet>
@@ -46,6 +60,8 @@ export default ({data, pageContext}) => {
         <div className='hero'>
           <div className='hero__image'>
             <Cloudinary
+              lazyload={false}
+              onload={loadLazyImages}
               src={cover}
               alt={title}
               sizes={'(max-width: 1060px) 100vw, 1060px'}
