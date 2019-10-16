@@ -9,6 +9,7 @@ import {getTimeToRead} from '../utils';
 import {getFeaturedArticles} from '../utils';
 
 import Cloudinary from '../components/Cloudinary';
+import Gallery from '../components/Gallery';
 import Heading from '../components/Heading';
 import Layout from '../layouts/layout';
 import Ending from '../components/Ending';
@@ -69,6 +70,10 @@ export default ({data, pageContext}) => {
             let component;
 
             switch (type) {
+              case 'gallery':
+                const {images} = block;
+                component = <Gallery images={images} />;
+                break;
               case 'heading':
                 const {text, level} = block;
                 component = <Heading text={text} level={level} />;

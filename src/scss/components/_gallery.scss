@@ -5,6 +5,16 @@
   justify-content: space-between;
 }
 
+.gallery__item {
+  flex: 0 1 auto;
+  flex-basis: calc(50% - 4px);
+  margin-bottom: 8px;
+}
+
+.gallery__item:last-child:nth-child(odd) {
+  flex-grow: 1;
+}
+
 .gallery + .post__image-container {
   margin: -25px 0 25px;
 }
