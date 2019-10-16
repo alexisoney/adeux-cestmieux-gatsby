@@ -7,6 +7,7 @@ import formatDate from '../utils/prettyDate';
 import {getTimeToRead} from '../utils';
 import {getFeaturedArticles} from '../utils';
 
+import Cloudinary from '../components/Cloudinary';
 import Layout from '../layouts/layout';
 import Ending from '../components/Ending';
 import FeaturedArticles from '../components/FeaturedArticles';
@@ -52,10 +53,14 @@ export default ({data, pageContext}) => {
         )}
 
         {blocks &&
-          blocks.map(({component, _uid, content}) => {
+          blocks.map(({component, _uid, ...props}) => {
             switch (component) {
               case 'text':
+                const {content} = props;
                 return <Text key={_uid} text={content} />;
+              case 'image':
+                const {alt, image} = props;
+                return <Cloudinary key={_uid} alt={alt} url={image} />;
               default:
                 return null;
             }
