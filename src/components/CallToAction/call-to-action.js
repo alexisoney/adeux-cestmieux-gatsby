@@ -11,7 +11,7 @@ const CallToAction = ({button, description, image, link, title}) => {
       <aside data-testid='call-to-action' className='call-to-action'>
         {image && (
           <div data-testid='call-to-action__image' className='call-to-action__image'>
-            <Cloudinary src={image} sizes='(max-width: 770px) 34vw, 6vw' srcset={[400, 800]} />
+            <Cloudinary src={image} sizes='(max-width: 770px) 50vw, 800px' />
           </div>
         )}
         <div className='call-to-action__content'>
@@ -26,7 +26,9 @@ const CallToAction = ({button, description, image, link, title}) => {
             </p>
           )}
           {button && link && isInternalLink && (
-            <Link data-testid='call-to-action__button' className='button' to={link.cached_url} />
+            <Link data-testid='call-to-action__button' className='button' to={link.cached_url}>
+              {button}
+            </Link>
           )}
           {button && link && !isInternalLink && (
             <a data-testid='call-to-action__button' className='button' href={link.url}>

@@ -47,7 +47,7 @@ describe('The CallToAction component', () => {
     expect(description).toHaveLength(0);
   });
 
-  it('should return a button when a button text and a link are passed', () => {
+  it('should return a button when a button text and an external link is passed', () => {
     const link = {
       cached_url: 'https://google.fr',
       fieldtype: 'multilink',
@@ -59,6 +59,19 @@ describe('The CallToAction component', () => {
     const {getByTestId} = render(<CallToAction button='click' link={link} />);
     const button = getByTestId('call-to-action__button');
     expect(button.textContent).toBe('click');
+  });
+
+  it('should return a button when a button text and an internallink are passed', () => {
+    const link = {
+      cached_url: 'que-faire-voir-automne-amsterdam',
+      fieldtype: 'multilink',
+      id: 'febaa1ba-87e9-466d-8ff3-074e147c80e9',
+      linktype: 'story',
+      url: '',
+    };
+    const {getByTestId} = render(<CallToAction button='click here' link={link} />);
+    const button = getByTestId('call-to-action__button');
+    expect(button.textContent).toBe('click here');
   });
 
   it('should return the correct external link when a button text and a link are passed', () => {
