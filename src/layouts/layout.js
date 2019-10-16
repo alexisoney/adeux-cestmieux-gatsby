@@ -59,7 +59,7 @@ class Layout extends React.Component {
         <Header />
         <Content>{this.props.children}</Content>
         <ContactForm />
-        <InstagramGallery data={this.props.instagram} />
+        {this.props.instagram && <InstagramGallery data={this.props.instagram} />}
         <Footer>© {siteMetadata.title}</Footer>
       </Page>
     );

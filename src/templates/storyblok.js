@@ -18,7 +18,7 @@ export default ({data, pageContext}) => {
   const date = createdAt && category ? formatDate(createdAt, category) : undefined;
   const timeToRead = blocks ? getTimeToRead(blocks) : undefined;
   const featuredArticles = getFeaturedArticles(data, pageContext.markdownCategory, 3);
-  const instagram = data.allInstaNode.edges;
+  const instagram = data ? data.allInstaNode.edges : null;
 
   return (
     <Layout instagram={instagram}>
