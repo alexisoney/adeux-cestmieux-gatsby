@@ -9,6 +9,7 @@ import {getTimeToRead} from '../utils';
 import {getFeaturedArticles} from '../utils';
 
 import Cloudinary from '../components/Cloudinary';
+import Heading from '../components/Heading';
 import Layout from '../layouts/layout';
 import Ending from '../components/Ending';
 import FeaturedArticles from '../components/FeaturedArticles';
@@ -68,20 +69,24 @@ export default ({data, pageContext}) => {
             let component;
 
             switch (type) {
+              case 'heading':
+                const {text, level} = block;
+                component = <Heading text={text} level={level} />;
+                break;
               case 'text':
                 const {content} = block;
-                component = <Text key={_uid} text={content} />;
+                component = <Text text={content} />;
                 break;
               case 'image':
                 const {alt, image} = block;
-                component = <Cloudinary key={_uid} alt={alt} url={image} />;
+                component = <Cloudinary alt={alt} url={image} />;
                 break;
               default:
                 component = null;
             }
 
             return (
-              <SbEditable content={block}>
+              <SbEditable key={_uid} content={block}>
                 <div>{component}</div>
               </SbEditable>
             );
