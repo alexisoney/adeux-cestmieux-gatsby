@@ -1,5 +1,6 @@
 import React from 'react';
 import {Helmet} from 'react-helmet';
+import SbEditable from 'storyblok-react';
 import {graphql} from 'gatsby';
 
 import siteMetadata from '../constant/siteMetadata';
@@ -61,17 +62,29 @@ export default ({data, pageContext}) => {
         )}
 
         {blocks &&
-          blocks.map(({component, _uid, ...props}) => {
-            switch (component) {
+          blocks.map(block => {
+            const {component: type, _uid} = block;
+
+            let component;
+
+            switch (type) {
               case 'text':
-                const {content} = props;
-                return <Text key={_uid} text={content} />;
+                const {content} = block;
+                component = <Text key={_uid} text={content} />;
+                break;
               case 'image':
-                const {alt, image} = props;
-                return <Cloudinary key={_uid} alt={alt} url={image} />;
+                const {alt, image} = block;
+                component = <Cloudinary key={_uid} alt={alt} url={image} />;
+                break;
               default:
-                return null;
+                component = null;
             }
+
+            return (
+              <SbEditable content={block}>
+                <div>{component}</div>
+              </SbEditable>
+            );
           })}
 
         <Ending>End of Story</Ending>
