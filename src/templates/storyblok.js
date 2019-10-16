@@ -1,18 +1,22 @@
 import React from 'react';
 import {Helmet} from 'react-helmet';
+import {graphql} from 'gatsby';
 
 import siteMetadata from '../constant/siteMetadata';
 import formatDate from '../utils/prettyDate';
 import {getTimeToRead} from '../utils';
+import {getFeaturedArticles} from '../pages/utils';
 
 import Layout from '../layouts/layout';
 import Ending from '../components/Ending';
+import FeaturedArticles from '../components/FeaturedArticles';
 import Text from '../components/Text';
 
-export default ({pageContext}) => {
+export default ({data, pageContext}) => {
   const {blocks, category, createdAt, description, image, slug, title} = pageContext;
   const date = createdAt && category ? formatDate(createdAt, category) : undefined;
   const timeToRead = blocks ? getTimeToRead(blocks) : undefined;
+  const featuredArticles = getFeaturedArticles(data, pageContext.markdownCategory, 3);
 
   return (
     <Layout>
@@ -59,6 +63,45 @@ export default ({pageContext}) => {
 
         <Ending>End of Story</Ending>
       </main>
+      <FeaturedArticles title url={siteMetadata.url} articles={featuredArticles} fluid />
     </Layout>
   );
 };
+
+export const query = graphql`
+  query($slug: String!, $category: String!, $markdownCategory: String!) {
+    site {
+      siteMetadata {
+        siteUrl
+      }
+    }
+    allStoryblokEntry(filter: {group_id: {eq: $category}, slug: {ne: $slug}}) {
+      edges {
+        node {
+          name
+          created_at
+          slug
+          content
+        }
+      }
+    }
+    allMarkdownRemark(filter: {fields: {category: {eq: $markdownCategory}}}) {
+      edges {
+        node {
+          id
+          fields {
+            category
+            slug
+            date
+          }
+          frontmatter {
+            title
+            hero {
+              name
+            }
+          }
+        }
+      }
+    }
+  }
+`;

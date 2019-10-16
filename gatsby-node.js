@@ -100,6 +100,20 @@ exports.createPages = async ({graphql, actions}) => {
     const title = node.name;
     const {content: blocks, description, image} = JSON.parse(node.content);
 
+    let markdownCategory;
+    switch (category) {
+      case categories.visiterAmsterdam:
+        markdownCategory = 'visiter-amsterdam';
+        break;
+      case categories.vivreAuxPaysBas:
+        markdownCategory = 'vivre-aux-pays-bas';
+        break;
+      case categories.blog:
+      default:
+        markdownCategory = 'blog';
+        break;
+    }
+
     createPage({
       path: node.slug,
       component: path.resolve(`./src/templates/storyblok.js`),
@@ -111,6 +125,7 @@ exports.createPages = async ({graphql, actions}) => {
         image,
         slug,
         title,
+        markdownCategory,
       },
     });
   });
