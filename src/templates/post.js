@@ -13,6 +13,7 @@ import rehypeReact from 'rehype-react';
 import path from 'path';
 import marked from 'marked';
 import Script from 'react-load-script';
+import {getFeaturedArticles} from '../pages/utils';
 
 const TableOfContents = styled.div`
   background-color: ${colors.omega};
@@ -178,13 +179,14 @@ const getAnchor = title => {
 
 const hideAnchor = (title, anchor) => title.replace(` ((#${anchor}))`, '');
 
-export default ({data}) => {
+export default ({data, pageContext}) => {
   const url = data.site.siteMetadata.siteUrl;
   const post = data.markdownRemark;
   const slug = post.fields.slug;
   const src = `${url}/images/${slug}/${data.markdownRemark.frontmatter.hero.name}`;
   const date = prettyDate(post.fields.date, post.fields.category);
   const title = prettyText(post.frontmatter.title);
+  const featuredArticles = getFeaturedArticles(data, pageContext.category, 3);
 
   const Gallery = ({children}) => <div className='gallery'>{children}</div>;
 
@@ -295,13 +297,13 @@ export default ({data}) => {
         {renderAst(post.htmlAst)}
         <Ending>End of Story</Ending>
       </main>
-      <FeaturedArticles title url={url} posts={data.allMarkdownRemark.edges} fluid />
+      <FeaturedArticles title url={url} articles={featuredArticles} fluid />
     </Layout>
   );
 };
 
 export const query = graphql`
-  query($slug: String!, $category: String!) {
+  query($slug: String!, $category: String!, $storyblokCategory: String!) {
     site {
       siteMetadata {
         siteUrl
@@ -324,11 +326,17 @@ export const query = graphql`
         excerpt
       }
     }
-    allMarkdownRemark(
-      filter: {fields: {category: {eq: $category}, slug: {ne: $slug}}}
-      sort: {fields: [fields___date], order: DESC}
-      limit: 3
-    ) {
+    allStoryblokEntry(filter: {group_id: {eq: $storyblokCategory}}) {
+      edges {
+        node {
+          name
+          created_at
+          slug
+          content
+        }
+      }
+    }
+    allMarkdownRemark(filter: {fields: {category: {eq: $category}, slug: {ne: $slug}}}) {
       edges {
         node {
           id

@@ -1,5 +1,6 @@
 const path = require(`path`);
 const {createFilePath} = require(`gatsby-source-filesystem`);
+const categories = require('./src/constant/categories');
 
 exports.onCreateNode = ({node, getNode, actions}) => {
   const {createNodeField} = actions;
@@ -47,12 +48,27 @@ exports.createPages = async ({graphql, actions}) => {
   if (markdownRemark.errors) throw markdownRemark.errors;
 
   markdownRemark.data.allMarkdownRemark.edges.forEach(({node}) => {
+    let storyblokCategory;
+    switch (node.fields.category) {
+      case 'visiter-amsterdam':
+        storyblokCategory = categories.visiterAmsterdam;
+        break;
+      case 'vivre-aux-pays-bas':
+        storyblokCategory = categories.vivreAuxPaysBas;
+        break;
+      case 'blog':
+      default:
+        storyblokCategory = categories.blog;
+        break;
+    }
+
     createPage({
       path: node.fields.slug,
       component: path.resolve(`./src/templates/post.js`),
       context: {
         slug: node.fields.slug,
         category: node.fields.category,
+        storyblokCategory: storyblokCategory,
       },
     });
   });
