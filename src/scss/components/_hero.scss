@@ -25,6 +25,11 @@
   height: auto;
 }
 
+.hero__image img {
+  width: 100%;
+  max-width: none;
+}
+
 .hero .ls-blur-up-img {
   left: 50%;
   top: 50%;

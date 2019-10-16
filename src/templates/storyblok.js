@@ -40,7 +40,14 @@ export default ({data, pageContext}) => {
 
       {image && (
         <div className='hero'>
-          <img className='hero__image' src={image} alt={title} />
+          <div className='hero__image'>
+            <Cloudinary
+              url={image}
+              alt={title}
+              sizes={'(max-width: 1060px) 100vw, 1060px'}
+              srcset={[400, 800, 1060, 2120]}
+            />
+          </div>
         </div>
       )}
 

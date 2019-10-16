@@ -1,6 +1,8 @@
 import React from 'react';
 import {Link} from 'gatsby';
 
+import Cloudinary from '../Cloudinary';
+
 export default props => {
   const {slug, image, title} = props.post;
   let src;
@@ -29,7 +31,7 @@ export default props => {
             />
           </picture>
         ) : (
-          <img src={image} alt={slug} />
+          <Cloudinary alt={slug} url={image} sizes='63vw' srcset={[400, 800, 1440, 1920, 2800]} />
         )}
       </div>
       <div className='slider__card'>
