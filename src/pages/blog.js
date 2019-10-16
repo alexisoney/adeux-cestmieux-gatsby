@@ -2,7 +2,7 @@ import React from 'react';
 import {graphql} from 'gatsby';
 import Category from '../templates/category';
 
-import {getFeaturedArticles} from './utils';
+import {getFeaturedArticles} from '../utils';
 
 const Page = ({data}) => {
   const excerpt = `Retrouvez ici tous nos articles de blog. Je partage ici tous mes coups de coeur. 

@@ -2,7 +2,7 @@ import React from 'react';
 import {graphql} from 'gatsby';
 import Category from '../templates/category';
 
-import {getFeaturedArticles} from './utils';
+import {getFeaturedArticles} from '../utils';
 
 const Page = ({data}) => {
   const excerpt = `“Vivre à Amsterdam, c’est avoir les avantages d’une capitale sans les inconvénients”. 

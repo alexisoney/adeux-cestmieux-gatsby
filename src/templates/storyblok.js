@@ -5,7 +5,7 @@ import {graphql} from 'gatsby';
 import siteMetadata from '../constant/siteMetadata';
 import formatDate from '../utils/prettyDate';
 import {getTimeToRead} from '../utils';
-import {getFeaturedArticles} from '../pages/utils';
+import {getFeaturedArticles} from '../utils';
 
 import Layout from '../layouts/layout';
 import Ending from '../components/Ending';

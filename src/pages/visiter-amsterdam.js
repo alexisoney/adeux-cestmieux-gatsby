@@ -2,7 +2,7 @@ import React from 'react';
 import {graphql} from 'gatsby';
 import Category from '../templates/category';
 
-import {getFeaturedArticles} from './utils';
+import {getFeaturedArticles} from '../utils';
 
 const Page = ({data}) => {
   const excerpt = `Ses canaux, ses vélos, ses maisons, son patrimoine artistique et bien d’autre encore…

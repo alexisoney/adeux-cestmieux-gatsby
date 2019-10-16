@@ -13,7 +13,7 @@ import rehypeReact from 'rehype-react';
 import path from 'path';
 import marked from 'marked';
 import Script from 'react-load-script';
-import {getFeaturedArticles} from '../pages/utils';
+import {getFeaturedArticles} from '../utils';
 
 const TableOfContents = styled.div`
   background-color: ${colors.omega};

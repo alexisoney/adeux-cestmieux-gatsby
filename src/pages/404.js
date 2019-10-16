@@ -2,7 +2,7 @@ import React from 'react';
 import {graphql} from 'gatsby';
 import Category from '../templates/category';
 
-import {getFeaturedArticles} from './utils';
+import {getFeaturedArticles} from '../utils';
 
 const Page = ({data}) => {
   const excerpt = `Cette page n'existe pas ou plus. Mais pas de souci, voici tous nos articles !`;
