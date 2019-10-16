@@ -1,6 +1,6 @@
 import '@testing-library/jest-dom/extend-expect';
 import React from 'react';
-import {render, getByTestId} from '@testing-library/react';
+import {render} from '@testing-library/react';
 
 import Cloudinary from './cloudinary';
 
@@ -9,6 +9,7 @@ describe('The Cloudinary component', () => {
     const {container} = render(<Cloudinary />);
     expect(container.firstChild).toBe(null);
   });
+
   it('should return null when a non-cloudinary url is passed', () => {
     const {container} = render(<Cloudinary url='https://myimage.com' />);
     expect(container.firstChild).toBe(null);
