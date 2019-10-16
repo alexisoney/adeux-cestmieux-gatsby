@@ -2,6 +2,8 @@ import '@testing-library/jest-dom/extend-expect';
 import React from 'react';
 import {render} from '@testing-library/react';
 
+import {createAnchorLink} from '../utils';
+
 import Heading from './heading';
 
 describe('The Heading component', () => {
@@ -36,7 +38,7 @@ describe('The Heading component', () => {
   });
 
   it('should return an anchor tag for H2', () => {
-    const {queryAllByTestId, debug} = render(<Heading level='h2' text='foo' />);
+    const {queryAllByTestId} = render(<Heading level='h2' text='foo' />);
     const anchor = queryAllByTestId('heading__anchor');
     expect(anchor).toHaveLength(1);
   });
@@ -48,8 +50,32 @@ describe('The Heading component', () => {
   });
 
   it('should NOT return an anchor tag for H4', () => {
-    const {queryByTestId} = render(<Heading level='h24' text='foo' />);
+    const {queryByTestId} = render(<Heading level='h4' text='foo' />);
     const anchor = queryByTestId('heading__anchor');
     expect(anchor).toBe(null);
+  });
+
+  it('should return an anchor tag with proper name for H2', () => {
+    const {queryByTestId} = render(<Heading level='h2' text='foo' />);
+    const anchor = queryByTestId('heading__anchor');
+    expect(anchor).toHaveAttribute('name', createAnchorLink('foo'));
+  });
+
+  it('should return an anchor tag with proper name for H3', () => {
+    const {queryByTestId} = render(<Heading level='h3' text='bar' />);
+    const anchor = queryByTestId('heading__anchor');
+    expect(anchor).toHaveAttribute('name', createAnchorLink('bar'));
+  });
+
+  it('should return an anchor tag with custome name for H2', () => {
+    const {queryByTestId} = render(<Heading level='h2' text='bar' tocText='custom anchor!' />);
+    const anchor = queryByTestId('heading__anchor');
+    expect(anchor).toHaveAttribute('name', createAnchorLink('custom anchor!'));
+  });
+
+  it('should return an anchor tag with custome name for H3', () => {
+    const {queryByTestId} = render(<Heading level='h3' text='bar' tocText='custom' />);
+    const anchor = queryByTestId('heading__anchor');
+    expect(anchor).toHaveAttribute('name', createAnchorLink('custom'));
   });
 });

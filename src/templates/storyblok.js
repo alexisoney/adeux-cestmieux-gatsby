@@ -76,8 +76,8 @@ export default ({data, pageContext}) => {
                 component = <Gallery images={images} />;
                 break;
               case 'heading':
-                const {text, level} = block;
-                component = <Heading text={text} level={level} />;
+                const {text, level, tocText} = block;
+                component = <Heading text={text} level={level} tocText={tocText} />;
                 break;
               case 'image':
                 const {alt, src} = block;

@@ -1,13 +1,20 @@
 import React from 'react';
 import propTypes from 'prop-types';
 
-const Heading = ({text, level}) => {
+import {createAnchorLink} from '../utils';
+
+const Heading = ({text, level, tocText}) => {
   let render = [];
 
   if (text) {
     if (level === 'h2' || level === 'h3') {
       render.push(
-        <div key='anchor' name={'foo'} data-testid='heading__anchor' className='heading__anchor' />
+        <div
+          key='anchor'
+          name={createAnchorLink(tocText || text)}
+          data-testid='heading__anchor'
+          className='heading__anchor'
+        />
       );
     }
 
@@ -29,8 +36,9 @@ const Heading = ({text, level}) => {
 };
 
 Heading.propTypes = {
-  text: propTypes.string,
   level: propTypes.string,
+  text: propTypes.string,
+  tocText: propTypes.string,
 };
 
 export default Heading;
