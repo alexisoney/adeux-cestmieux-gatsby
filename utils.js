@@ -6,7 +6,8 @@ module.exports = Object.freeze({
     const createdAt = node.created_at;
     const slug = node.slug;
     const title = node.name;
-    const {content: blocks, description, image} = node.content;
+    const content = typeof node.content === 'string' ? JSON.parse(node.content) : node.content;
+    const {content: blocks, description, image} = content;
 
     let markdownCategory;
     switch (category) {
