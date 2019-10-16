@@ -6,7 +6,7 @@ import Storyblok from '../templates/storyblok';
 function loadStoryblokBridge(callback) {
   const script = document.createElement('script');
   script.type = 'text/javascript';
-  script.src = `//app.storyblok.com/f/storyblok-latest.js?t=${process.env.STORYBLOK_API_KEY}`;
+  script.src = `//app.storyblok.com/f/storyblok-latest.js?t=Dq9tMhBqMlJxD2kIdqbrJgtt`;
   script.onload = callback;
   document.getElementsByTagName('head')[0].appendChild(script);
 }
