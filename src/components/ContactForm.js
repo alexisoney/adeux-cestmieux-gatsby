@@ -131,6 +131,11 @@ export default props => {
             <Error>Oups ! Votre message est vide.</Error>
           </Column>
         </Row>
+        <input
+          type='hidden'
+          name='origin'
+          value={typeof window === 'undefined' ? null : window.location.href}
+        />
         <input type='hidden' name='form-name' value='contact' />
         <input className='button' type='submit' value='Envoyer' />
       </Form>
