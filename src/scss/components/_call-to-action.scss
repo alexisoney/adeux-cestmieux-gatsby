@@ -6,6 +6,13 @@
   margin: 24px 0;
 }
 
+@media screen and (max-width: 770px) {
+  .call-to-action {
+    margin-left: -25px;
+    margin-right: -25px;
+  }
+}
+
 .call-to-action__image {
   flex: 1 0 auto;
   width: 33.33%;
