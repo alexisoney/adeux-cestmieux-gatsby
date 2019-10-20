@@ -49,7 +49,7 @@ On recommande de s’arrêter au stand champignons qui sent si bon la forêt, de
 
 <img alt="Noordermarkt Amsterdam" src="./images/noordermarkt-4.jpg">
 
-## Pour les plus sportif — Le Marathon ((#marathon)
+## Pour les plus sportif — Le Marathon ((#marathon))
 
 Chaque année a lieu le marathon d’Amsterdam au mois d’octobre. Cette année, cela tombe le week-end du **20 octobre 2019**.
 
@@ -107,7 +107,7 @@ Afin de faciliter votre visite des musées, nous vous conseillons de réserver v
 
 D’ailleurs, il se trouve qu’en novembre à lieu la nuit des musées. À défaut de faire une balade sur les canaux, pourquoi ne pas aller visiter l’un des nombreux musées de la ville de nuit. Cette année, l’événement à lieu de **2 novembre 2019.** Les pass sont en vente dès la fin septembre. Plus d’info [ici](http://museumnacht.amsterdam/info/).
 
-Enfin, pour encore plus d'idées d'activités à faire les jours pluvieux, n'hésitez-pas à aller lire notre article [Visiter Amsterdam sous la pluie](/visiter-amsterdam-sous-la-pluie).
+<article slug='visiter-amsterdam-sous-la-pluie'></article>
 
 <img alt="Musée Amsterdam" src="./images/museum.png">
 
