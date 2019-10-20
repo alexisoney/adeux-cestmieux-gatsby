@@ -1,11 +1,13 @@
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
 
+import {frenchNonBreakingSpaces} from '../utils';
+
 export default ({text}) => {
   if (text) {
     return (
       <ReactMarkdown
-        source={text}
+        source={frenchNonBreakingSpaces(text)}
         allowedTypes={[
           'break',
           'emphasis',

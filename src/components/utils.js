@@ -6,6 +6,15 @@ export function createAnchorLink(string) {
     .toLowerCase();
 }
 
+export function frenchNonBreakingSpaces(string) {
+  if (typeof string !== 'string') return null;
+
+  return string
+    .replace(/ \?/g, ' ?')
+    .replace(/ !/g, ' !')
+    .replace(/ :/g, ' :');
+}
+
 function toAscii(string) {
   let result = '';
 

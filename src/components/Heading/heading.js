@@ -1,7 +1,7 @@
 import React from 'react';
 import propTypes from 'prop-types';
 
-import {createAnchorLink} from '../utils';
+import {createAnchorLink, frenchNonBreakingSpaces} from '../utils';
 
 const Heading = ({text, level, tocText}) => {
   let render = [];
@@ -18,15 +18,17 @@ const Heading = ({text, level, tocText}) => {
       );
     }
 
+    const formatedText = frenchNonBreakingSpaces(text);
+
     switch (level) {
       case 'h2':
-        render.push(<h2 key='title'>{text}</h2>);
+        render.push(<h2 key='title'>{formatedText}</h2>);
         break;
       case 'h3':
-        render.push(<h3 key='title'>{text}</h3>);
+        render.push(<h3 key='title'>{formatedText}</h3>);
         break;
       case 'h4':
-        render.push(<h4 key='title'>{text}</h4>);
+        render.push(<h4 key='title'>{formatedText}</h4>);
         break;
       default:
     }

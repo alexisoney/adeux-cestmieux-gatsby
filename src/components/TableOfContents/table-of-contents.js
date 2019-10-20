@@ -1,7 +1,7 @@
 import React from 'react';
 import propTypes from 'prop-types';
 
-import {createAnchorLink} from '../utils';
+import {createAnchorLink, frenchNonBreakingSpaces} from '../utils';
 
 const TableOfContents = ({content}) => {
   if (Array.isArray(content)) {
@@ -40,7 +40,7 @@ const TableOfContents = ({content}) => {
             data-testid='table-of-contents__link'
             href={`#${createAnchorLink(h2.tocText || h2.text)}`}
           >
-            {h2.tocText || h2.text}
+            {frenchNonBreakingSpaces(h2.tocText || h2.text)}
           </a>
           {group.length > 1 && (
             <ul
@@ -59,7 +59,7 @@ const TableOfContents = ({content}) => {
                       data-testid='table-of-contents__nested-link'
                       href={`#${createAnchorLink(h3.tocText || h3.text)}`}
                     >
-                      {h3.tocText || h3.text}
+                      {frenchNonBreakingSpaces(h3.tocText || h3.text)}
                     </a>
                   </li>
                 )
@@ -73,7 +73,7 @@ const TableOfContents = ({content}) => {
     return (
       <div data-testid='table-of-contents' className='table-of-contents'>
         <p className='table-of-contents__title' data-testid='table-of-contents__title'>
-          Au sommaire :
+          Au sommaire :
         </p>
         <ul className='table-of-contents__list'>{render}</ul>
       </div>
