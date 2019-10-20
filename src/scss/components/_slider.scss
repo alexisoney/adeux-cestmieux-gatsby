@@ -67,6 +67,14 @@
   transform: translate(-50%, -50%);
 }
 
+.slider__hero .cloudinary {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+}
+
 .slider__card {
   flex: 1 0 auto;
   position: relative;
