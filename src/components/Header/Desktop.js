@@ -19,7 +19,7 @@ const TopBar = styled.section`
   grid-template-rows: 80px;
   grid-column-gap: 50px;
   align-items: center;
-  @media only screen and (max-width: 58rem) {
+  @media only screen and (max-width: 76rem) {
     display: none;
   }
 `;
