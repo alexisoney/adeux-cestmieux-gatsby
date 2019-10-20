@@ -59,9 +59,9 @@ export default ({data, pageContext}) => {
       )}
 
       <main className='post'>
-        {date && <p className='post__date'>{date}</p>}
+        {date && slug !== 'about' && <p className='post__date'>{date}</p>}
         {title && <h1 className='post__title'>{title}</h1>}
-        {timeToRead && (
+        {!!timeToRead && slug !== 'about' && (
           <p className='post__reading-time'>
             {timeToRead} minute{timeToRead > 1 ? 's' : ''} de lecture
           </p>
@@ -119,9 +119,11 @@ export default ({data, pageContext}) => {
             );
           })}
 
-        <Ending>End of Story</Ending>
+        {slug !== 'about' && <Ending>End of Story</Ending>}
       </main>
-      <FeaturedArticles title url={siteMetadata.url} articles={featuredArticles} fluid />
+      {slug !== 'about' && (
+        <FeaturedArticles title url={siteMetadata.url} articles={featuredArticles} fluid />
+      )}
     </Layout>
   );
 };

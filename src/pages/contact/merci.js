@@ -15,7 +15,6 @@ const Page = ({data}) => {
         slug='contact/merci'
         excerpt={excerpt}
         img=''
-        data={data}
         instagram={instagram}
       />
     </>
@@ -42,21 +41,6 @@ export const query = graphql`
               fluid(maxWidth: 220, maxHeight: 220) {
                 ...GatsbyImageSharpFluid_withWebp_noBase64
               }
-            }
-          }
-        }
-      }
-    }
-    allMarkdownRemark(sort: {fields: [fields___date], order: DESC}) {
-      edges {
-        node {
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            hero {
-              name
             }
           }
         }

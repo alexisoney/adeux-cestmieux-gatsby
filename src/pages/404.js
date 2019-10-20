@@ -51,7 +51,7 @@ export const query = graphql`
         }
       }
     }
-    allStoryblokEntry {
+    allStoryblokEntry(filter: {slug: {ne: "about"}}) {
       edges {
         node {
           name
