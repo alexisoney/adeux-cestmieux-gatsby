@@ -86,6 +86,9 @@ export default ({data, pageContext}) => {
                   />
                 );
                 break;
+              case 'divider':
+                component = <hr />;
+                break;
               case 'gallery':
                 const {images} = block;
                 component = <Gallery images={images} />;
