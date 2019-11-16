@@ -18,8 +18,10 @@ const StyledLink = styled(Link)`
 
 export default ({className}) => {
   return (
-    <h1 className={className}>
-      <StyledLink to='/'>{siteMetadata.title}</StyledLink>
+    <h1>
+      <StyledLink to='/' className={className}>
+        {siteMetadata.title}
+      </StyledLink>
     </h1>
   );
 };
