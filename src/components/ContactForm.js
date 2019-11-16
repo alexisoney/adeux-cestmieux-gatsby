@@ -5,16 +5,11 @@ import {colors} from '../constant/style';
 const Section = styled.section`
   width: 100%;
   max-width: 770px;
-  margin: 24px auto 48px;
+  margin: 48px auto;
   @media screen and (max-width: 820px) {
     padding-left: 25px;
     padding-right: 25px;
   }
-`;
-
-const H2 = styled.h2`
-  margin: 32px 0;
-  text-align: center;
 `;
 
 const Column = styled.div`
@@ -80,7 +75,7 @@ const Textarea = styled.textarea`
   }
 `;
 
-export default props => {
+export default () => {
   const handleInput = e => {
     if (e.target.checkValidity() || e.target.value.length === 0) {
       e.target.classList.remove('error');
@@ -97,7 +92,6 @@ export default props => {
 
   return (
     <Section>
-      <H2>Contactez nous</H2>
       <Form name='contact' data-netlify='true' action='/contact/merci' method='POST'>
         <Row columns={2}>
           <Column>

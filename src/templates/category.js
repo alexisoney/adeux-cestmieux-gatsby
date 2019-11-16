@@ -33,7 +33,17 @@ const Excerpt = styled.p`
   }
 `;
 
-const Category = ({title, excerpt, newsletter, img, instagram, slug, articles, siteUrl}) => {
+const Category = ({
+  children,
+  title,
+  excerpt,
+  newsletter,
+  img,
+  instagram,
+  slug,
+  articles,
+  siteUrl,
+}) => {
   return (
     <Layout instagram={instagram} newsletter={newsletter}>
       <Helmet>
@@ -49,7 +59,8 @@ const Category = ({title, excerpt, newsletter, img, instagram, slug, articles, s
         <meta name='twitter:image:alt' content={slug} />
       </Helmet>
       <Title>{title}</Title>
-      <Excerpt>{excerpt}</Excerpt>
+      {excerpt && <Excerpt>{excerpt}</Excerpt>}
+      {children}
       <FeaturedArticles articles={articles} />
     </Layout>
   );

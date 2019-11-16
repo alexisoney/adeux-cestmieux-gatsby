@@ -22,7 +22,7 @@ const Newsletter = () => {
           data-testid='newsletter__input'
           className='newsletter__input'
           aria-label='Adresse e-mail'
-          placeholder='E-mail'
+          placeholder='Votre e-mail'
           type='email'
           name='EMAIL'
           required
