@@ -15,3 +15,16 @@
   background-color: $primary-color;
   color: white;
 }
+
+.button--filled {
+  background-color: $primary-color;
+  color: white;
+  border-color: transparent;
+}
+
+.button--filled:hover,
+.button--filled:active {
+  background-color: transparent;
+  color: $primary-color;
+  border-color: $accent-color;
+}

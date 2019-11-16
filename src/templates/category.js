@@ -33,9 +33,9 @@ const Excerpt = styled.p`
   }
 `;
 
-const Category = ({title, excerpt, img, instagram, slug, articles, siteUrl}) => {
+const Category = ({title, excerpt, newsletter, img, instagram, slug, articles, siteUrl}) => {
   return (
-    <Layout instagram={instagram}>
+    <Layout instagram={instagram} newsletter={newsletter}>
       <Helmet>
         <title>{title}</title>
         <meta name='description' content={excerpt} />

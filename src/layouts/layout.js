@@ -2,7 +2,7 @@ import React from 'react';
 import {StaticQuery, graphql} from 'gatsby';
 import {Helmet} from 'react-helmet';
 import Header from '../components/Header/index';
-import ContactForm from '../components/ContactForm';
+import Newsletter from '../components/Newsletter';
 import InstagramGallery from '../components/InstagramGallery';
 import siteMetadata from '../constant/siteMetadata';
 import '../scss/style.scss';
@@ -58,7 +58,7 @@ class Layout extends React.Component {
         </Helmet>
         <Header />
         <Content>{this.props.children}</Content>
-        <ContactForm />
+        {this.props.newsletter !== false && <Newsletter />}
         {this.props.instagram && <InstagramGallery data={this.props.instagram} />}
         <Footer>© {siteMetadata.title}</Footer>
       </Page>
