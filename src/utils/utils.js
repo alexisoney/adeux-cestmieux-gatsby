@@ -23,10 +23,10 @@ export function getFeaturedArticles(data, category = 'blog', slice) {
   if (data.allStoryblokEntry) {
     storyblok = data.allStoryblokEntry.edges.map(({node}) => {
       const {name, slug, created_at} = node;
-      const {_uid, cover, date} = JSON.parse(node.content);
+      const {_uid, cover, customDate} = JSON.parse(node.content);
       return {
         key: _uid,
-        date: date ? new Date(date) : new Date(created_at),
+        date: customDate ? new Date(customDate) : new Date(created_at),
         title: name,
         slug,
         cover,

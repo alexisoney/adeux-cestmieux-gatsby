@@ -5,9 +5,9 @@ import IndexSlider from '../components/IndexSlider/index';
 
 export default props => {
   const storyblok = props.data.allStoryblokEntry.edges.map(({node}) => {
-    const {_uid, cover, date} = JSON.parse(node.content);
+    const {_uid, cover, customDate} = JSON.parse(node.content);
     return {
-      date: date ? new Date(date) : new Date(node.created_at),
+      date: customDate ? new Date(customDate) : new Date(node.created_at),
       key: _uid,
       slug: node.slug,
       cover,
