@@ -14,6 +14,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-hotjar`,
+      options: {
+        id: 1584364,
+        sv: 6,
+      },
+    },
+    {
       resolve: 'gatsby-source-storyblok',
       options: {
         accessToken: process.env.STORYBLOK_API_KEY,
