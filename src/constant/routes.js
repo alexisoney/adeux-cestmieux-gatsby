@@ -7,5 +7,5 @@ export const NavigationRoutes = [
 ];
 
 export const SocialMediasLinks = {
-  instagram: 'https://www.instagram.com/_clemsss/',
+  instagram: 'https://www.instagram.com/clemencetaillez/',
 };
