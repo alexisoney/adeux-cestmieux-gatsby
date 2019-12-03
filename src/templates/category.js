@@ -53,7 +53,7 @@ const Category = ({
         <meta property='og:description' content={excerpt} />
         {img && <meta property='og:image' content={img} />}
         {img && <meta property='og:image:secure_url' content={img} />}
-        <meta property='og:url' content={`${siteUrl}/${slug}/`} />
+        <meta property='og:url' content={`${siteUrl}/${slug}`} />
         <meta name='twitter:card' content='summary_large_image' />
         <meta property='og:site_name' content={siteMetadata.title} />
         <meta name='twitter:image:alt' content={slug} />

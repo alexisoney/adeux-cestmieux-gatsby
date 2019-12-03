@@ -36,7 +36,7 @@ export default props => {
       </div>
       <div className='slider__card'>
         <h1 className='slider__title'>{title}</h1>
-        <Link className='button' to={`/${slug}/`}>
+        <Link className='button' to={`/${slug}`}>
           Lire l'article
         </Link>
       </div>

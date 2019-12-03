@@ -135,7 +135,7 @@ export default class FeaturedArticles extends React.Component {
                   <Card>
                     {category === 'blog' && <CardDate>{prettyDate(date, category)}</CardDate>}
                     <CardTitle dangerouslySetInnerHTML={{__html: prettyText(title)}} />
-                    <Button className='button' to={`/${slug}/`}>
+                    <Button className='button' to={`/${slug}`}>
                       Lire l'article
                     </Button>
                   </Card>

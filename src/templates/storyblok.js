@@ -45,7 +45,7 @@ export default ({data, pageContext}) => {
         <meta property='og:description' content={description} />
         <meta property='og:image' content={cover} />
         <meta property='og:image:secure_url' content={cover} />
-        <meta property='og:url' content={`${siteMetadata.url}/${slug}/`} />
+        <meta property='og:url' content={`${siteMetadata.url}/${slug}`} />
         <meta name='twitter:card' content='summary_large_image' />
         <meta property='og:site_name' content={siteMetadata.title} />
         <meta name='twitter:image:alt' content={title} />
