@@ -19,6 +19,7 @@ import FeaturedArticles from '../components/FeaturedArticles';
 import Quote from '../components/Quote';
 import TableOfContents from '../components/TableOfContents';
 import Text from '../components/Text';
+import Newsletter from '../components/Newsletter';
 
 export default ({data, pageContext}) => {
   const {blocks, category, createdAt, customDate, description, cover, slug, title} = pageContext;
@@ -100,6 +101,9 @@ export default ({data, pageContext}) => {
               case 'image':
                 const {alt, src, wide} = block;
                 component = <Cloudinary alt={alt} src={src} wide={wide} />;
+                break;
+              case 'newsletter':
+                component = <Newsletter position='ARTICLE' />;
                 break;
               case 'quote':
                 component = <Quote content={block.content} />;
