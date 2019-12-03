@@ -26,7 +26,11 @@ const CallToAction = ({button, description, image, link, title}) => {
             </p>
           )}
           {button && link && isInternalLink && (
-            <Link data-testid='call-to-action__button' className='button' to={link.cached_url}>
+            <Link
+              data-testid='call-to-action__button'
+              className='button'
+              to={link.cached_url.split('/')[1]}
+            >
               {button}
             </Link>
           )}
