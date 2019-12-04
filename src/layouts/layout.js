@@ -39,6 +39,7 @@ class Layout extends React.Component {
         <Helmet htmlAttributes={{lang: 'fr'}}>
           <html lang='fr' />
           <title>{siteMetadata.title}</title>
+          <link rel='canonical' href={siteMetadata.url} />
           <meta name='description' content={siteMetadata.description} />
           <meta property='og:type' content='blog' />
           <meta property='og:title' content={siteMetadata.title} />

@@ -39,6 +39,7 @@ export default ({data, pageContext}) => {
         <title>
           {title} - {siteMetadata.title}
         </title>
+        <link rel='canonical' href={`${siteMetadata.url}/${slug}`} />
         <meta name='description' content={description} />
         <meta property='og:type' content='article' />
         <meta property='og:title' content={`${title} - ${siteMetadata.title}`} />

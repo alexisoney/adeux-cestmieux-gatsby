@@ -261,6 +261,7 @@ export default ({data, pageContext}) => {
     <Layout instagram={instagram}>
       <Helmet>
         <title>{post.frontmatter.title_seo ? post.frontmatter.title_seo : title}</title>
+        <link rel='canonical' href={`${url}/${slug}`} />
         <meta name='description' content={post.frontmatter.excerpt} />
         <meta property='og:type' content='article' />
         <meta

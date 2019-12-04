@@ -48,6 +48,7 @@ const Category = ({
     <Layout instagram={instagram} newsletter={newsletter}>
       <Helmet>
         <title>{title}</title>
+        <link rel='canonical' href={`${siteUrl}/${slug}`} />
         <meta name='description' content={excerpt} />
         <meta property='og:title' content={title} />
         <meta property='og:description' content={excerpt} />
