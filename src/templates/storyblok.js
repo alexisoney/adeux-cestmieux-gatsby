@@ -50,6 +50,30 @@ export default ({data, pageContext}) => {
         <meta name='twitter:card' content='summary_large_image' />
         <meta property='og:site_name' content={siteMetadata.title} />
         <meta name='twitter:image:alt' content={title} />
+
+        <script type='application/ld+json'>
+          {`{
+              "@context": "https://schema.org",
+              "@type": "Article",
+              ${createdAt && `"datePublished": "${createdAt}",`}
+              ${customDate && `"dateModified": "${customDate}",`}
+              "headline": "${title}",
+              "image": "${cover}",
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": "${siteMetadata.url}/${slug}"
+              },
+              "author": {
+                "@type": "Person",
+                "name": "Clémence Taillez"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "${siteMetadata.title}"
+              },
+              "description": "${description}"
+            }`}
+        </script>
       </Helmet>
 
       {cover && (
