@@ -278,6 +278,7 @@ describe('The Heading component', () => {
     const link = getByTestId('table-of-contents__link');
 
     expect(link).toHaveAttribute('href', `#${createAnchorLink(content[0].text)}`);
+    expect(link).toHaveAttribute('id', `hotjar-${createAnchorLink(content[0].text)}`);
   });
 
   it('should link to the anchor for h3', () => {
@@ -304,9 +305,10 @@ describe('The Heading component', () => {
     const link = getByTestId('table-of-contents__nested-link');
 
     expect(link).toHaveAttribute('href', `#${createAnchorLink(content[1].text)}`);
+    expect(link).toHaveAttribute('id', `hotjar-${createAnchorLink(content[1].text)}`);
   });
 
-  it('should link based on custon text to the anchor for h2', () => {
+  it('should link based on custom text to the anchor for h2', () => {
     const content = [
       {
         component: 'heading',
@@ -322,9 +324,10 @@ describe('The Heading component', () => {
     const link = getByTestId('table-of-contents__link');
 
     expect(link).toHaveAttribute('href', `#${createAnchorLink(content[0].tocText)}`);
+    expect(link).toHaveAttribute('id', `hotjar-${createAnchorLink(content[0].tocText)}`);
   });
 
-  it('should link based on custon text to the anchor for h3', () => {
+  it('should link based on custom text to the anchor for h3', () => {
     const content = [
       {
         component: 'heading',
@@ -348,5 +351,6 @@ describe('The Heading component', () => {
     const link = getByTestId('table-of-contents__nested-link');
 
     expect(link).toHaveAttribute('href', `#${createAnchorLink(content[1].tocText)}`);
+    expect(link).toHaveAttribute('id', `hotjar-${createAnchorLink(content[1].tocText)}`);
   });
 });

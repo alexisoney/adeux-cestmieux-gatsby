@@ -1,5 +1,7 @@
+import removeAccent from 'remove-accents';
+
 export function createAnchorLink(string) {
-  return toAscii(string)
+  return removeAccent(string)
     .replace(/\W/g, '-')
     .replace(/-{2,}/g, '-')
     .replace(/\W$/g, '')

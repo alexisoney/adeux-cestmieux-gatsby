@@ -39,6 +39,7 @@ const TableOfContents = ({content}) => {
             className='table-of-contents__link'
             data-testid='table-of-contents__link'
             href={`#${createAnchorLink(h2.tocText || h2.text)}`}
+            id={`hotjar-${createAnchorLink(h2.tocText || h2.text)}`}
           >
             {frenchNonBreakingSpaces(h2.tocText || h2.text)}
           </a>
@@ -58,6 +59,7 @@ const TableOfContents = ({content}) => {
                       className='table-of-contents__nested-link'
                       data-testid='table-of-contents__nested-link'
                       href={`#${createAnchorLink(h3.tocText || h3.text)}`}
+                      id={`hotjar-${createAnchorLink(h3.tocText || h3.text)}`}
                     >
                       {frenchNonBreakingSpaces(h3.tocText || h3.text)}
                     </a>
