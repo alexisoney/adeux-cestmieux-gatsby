@@ -18,11 +18,11 @@ const TableOfContents = ({content, mapZoom, mapCenter}) => {
       if (item.level === 'h2' && !item.tocHide) {
         let group = [];
         group.push(item);
-        for (let i = index + 1, stop = false; i < headings.length && !stop; i++) {
+        for (let i = index + 1; i < headings.length; i++) {
           if (headings[i].level === 'h3') {
             group.push(headings[i]);
-          } else {
-            stop = true;
+          } else if (headings[i].level === 'h2') {
+            break;
           }
         }
         groups.push(group);
@@ -74,18 +74,16 @@ const TableOfContents = ({content, mapZoom, mapCenter}) => {
       );
     });
 
-    let markers = groups
-      .flatMap(group => {
-        return group.map(item => {
-          if (item.coordinates) {
-            return {
-              coordinates: item.coordinates,
-              title: frenchNonBreakingSpaces(item.tocText || item.text),
-              anchor: createAnchorLink(item.tocText || item.text),
-            };
-          }
-          return undefined;
-        });
+    let markers = headings
+      .map(heading => {
+        if (heading.coordinates) {
+          return {
+            coordinates: heading.coordinates,
+            title: frenchNonBreakingSpaces(heading.tocText || heading.text),
+            anchor: createAnchorLink(heading.tocText || heading.text),
+          };
+        }
+        return undefined;
       })
       .filter(i => i);
 

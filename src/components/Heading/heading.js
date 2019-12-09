@@ -7,7 +7,7 @@ const Heading = ({text, level, tocText}) => {
   let render = [];
 
   if (text) {
-    if (level === 'h2' || level === 'h3') {
+    if (level === 'h2' || level === 'h3' || level === 'h4') {
       render.push(
         <div
           key='anchor'

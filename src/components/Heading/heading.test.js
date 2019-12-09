@@ -49,10 +49,10 @@ describe('The Heading component', () => {
     expect(anchor).toHaveLength(1);
   });
 
-  it('should NOT return an anchor tag for H4', () => {
-    const {queryByTestId} = render(<Heading level='h4' text='foo' />);
-    const anchor = queryByTestId('heading__anchor');
-    expect(anchor).toBe(null);
+  it('should return an anchor tag for H4', () => {
+    const {queryAllByTestId} = render(<Heading level='h4' text='foo' />);
+    const anchor = queryAllByTestId('heading__anchor');
+    expect(anchor).toHaveLength(1);
   });
 
   it('should return an anchor tag with proper name for H2', () => {
