@@ -84,6 +84,7 @@ const TableOfContents = ({content, mapZoom, mapCenter}) => {
               anchor: createAnchorLink(item.tocText || item.text),
             };
           }
+          return undefined;
         });
       })
       .filter(i => i);
