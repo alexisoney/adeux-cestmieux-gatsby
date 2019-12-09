@@ -16,17 +16,3 @@ export function frenchNonBreakingSpaces(string) {
     .replace(/ !/g, ' !')
     .replace(/ :/g, ' :');
 }
-
-function toAscii(string) {
-  let result = '';
-
-  for (let i = 0; i < string.length; i++) {
-    const ch = string.charCodeAt(i);
-
-    if (ch < 128) {
-      result += string.charAt(i);
-    }
-  }
-
-  return result;
-}
