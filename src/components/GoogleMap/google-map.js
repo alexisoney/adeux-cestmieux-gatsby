@@ -6,7 +6,7 @@ export default ({center, markers, zoom}) => {
   const [developerZoom, setDeveloperZoom] = useState(getZoomValue(zoom));
 
   let isEditor = false;
-  if (typeof window !== undefined && window.location.pathname === '/editor/') {
+  if (typeof window !== 'undefined' && window.location.pathname === '/editor/') {
     isEditor = true;
   }
 
