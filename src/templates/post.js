@@ -219,7 +219,12 @@ export default ({data, pageContext}) => {
           <picture>
             <source type='image/webp' data-srcset={setSrcSet('webp')} sizes={sizes} />
             <source type='image/jpeg' data-srcset={setSrcSet('jpeg')} sizes={sizes} />
-            <img className='post__image' alt={alt} title={title} src={`${basePath}-20w.jpeg`} />
+            <img
+              className='post__image lazyload'
+              alt={alt}
+              title={title}
+              src={`${basePath}-20w.jpeg`}
+            />
           </picture>
         </div>
       );
