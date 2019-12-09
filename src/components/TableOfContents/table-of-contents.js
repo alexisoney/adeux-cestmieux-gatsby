@@ -1,9 +1,11 @@
 import React from 'react';
 import propTypes from 'prop-types';
 
+import GoogleMap from '../GoogleMap';
+
 import {createAnchorLink, frenchNonBreakingSpaces} from '../utils';
 
-const TableOfContents = ({content}) => {
+const TableOfContents = ({content, mapZoom, mapCenter}) => {
   if (Array.isArray(content)) {
     const headings = content.filter(i => i.component === 'heading');
 
@@ -72,13 +74,34 @@ const TableOfContents = ({content}) => {
       );
     });
 
+    let markers = groups
+      .flatMap(group => {
+        return group.map(item => {
+          if (item.coordinates) {
+            return {
+              coordinates: item.coordinates,
+              title: frenchNonBreakingSpaces(item.tocText || item.text),
+              anchor: createAnchorLink(item.tocText || item.text),
+            };
+          }
+        });
+      })
+      .filter(i => i);
+
+    if (markers.length === 0) {
+      markers = undefined;
+    }
+
     return (
-      <div data-testid='table-of-contents' className='table-of-contents'>
-        <p className='table-of-contents__title' data-testid='table-of-contents__title'>
-          Au sommaire :
-        </p>
-        <ul className='table-of-contents__list'>{render}</ul>
-      </div>
+      <>
+        <div data-testid='table-of-contents' className='table-of-contents'>
+          <p className='table-of-contents__title' data-testid='table-of-contents__title'>
+            Au sommaire :
+          </p>
+          <ul className='table-of-contents__list'>{render}</ul>
+        </div>
+        {markers && <GoogleMap markers={markers} zoom={mapZoom} center={mapCenter} />}
+      </>
     );
   }
 

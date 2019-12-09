@@ -12,6 +12,7 @@ import {lazyloadImage} from '../utils';
 import CallToAction from '../components/CallToAction';
 import Cloudinary from '../components/Cloudinary';
 import Gallery from '../components/Gallery';
+import GoogleMap from '../components/GoogleMap';
 import Heading from '../components/Heading';
 import Layout from '../layouts/layout';
 import Ending from '../components/Ending';
@@ -119,6 +120,9 @@ export default ({data, pageContext}) => {
                 const {images} = block;
                 component = <Gallery images={images} />;
                 break;
+              case 'map':
+                component = <GoogleMap />;
+                break;
               case 'heading':
                 const {text, level, tocText} = block;
                 component = <Heading text={text} level={level} tocText={tocText} />;
@@ -134,7 +138,10 @@ export default ({data, pageContext}) => {
                 component = <Quote content={block.content} />;
                 break;
               case 'toc':
-                component = <TableOfContents content={blocks} />;
+                const {mapZoom, mapCenter} = block;
+                component = (
+                  <TableOfContents content={blocks} mapZoom={mapZoom} mapCenter={mapCenter} />
+                );
                 break;
               case 'text':
                 const {content} = block;
