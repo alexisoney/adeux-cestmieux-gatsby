@@ -140,8 +140,8 @@ export default ({data, pageContext}) => {
                 );
                 break;
               case 'text':
-                const {content} = block;
-                component = <Text text={content} />;
+                const {content, quote} = block;
+                component = <Text text={content} quote={quote} />;
                 break;
               default:
                 component = null;

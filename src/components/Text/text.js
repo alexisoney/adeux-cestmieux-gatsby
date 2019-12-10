@@ -3,9 +3,9 @@ import ReactMarkdown from 'react-markdown';
 
 import {frenchNonBreakingSpaces} from '../utils';
 
-export default ({text}) => {
+export default ({text, quote}) => {
   if (text) {
-    return (
+    const render = (
       <ReactMarkdown
         source={frenchNonBreakingSpaces(text)}
         allowedTypes={[
@@ -20,6 +20,12 @@ export default ({text}) => {
         ]}
       />
     );
+
+    if (quote) {
+      return <blockquote>{render}</blockquote>;
+    }
+
+    return render;
   }
 
   return null;

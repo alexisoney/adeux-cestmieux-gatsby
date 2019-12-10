@@ -64,4 +64,9 @@ describe('The Text component', () => {
     const {container} = render(<Text text={'[text](link)'} />);
     expect(container).toContainHTML(`<a href="link">text</a>`);
   });
+
+  it('shoulds return a blockquote', () => {
+    const {container} = render(<Text text={'[text](link)'} quote />);
+    expect(container.firstChild.tagName).toBe('blockquote'.toUpperCase());
+  });
 });
