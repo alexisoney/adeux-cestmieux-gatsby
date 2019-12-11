@@ -3,6 +3,13 @@
   background-color: $background-primary-color;
 }
 
+@media screen and (max-width: 770px) {
+  .cloudinary {
+    margin-left: -25px;
+    margin-right: -25px;
+  }
+}
+
 .cloudinary__image {
   max-width: unset;
   width: 100%;
