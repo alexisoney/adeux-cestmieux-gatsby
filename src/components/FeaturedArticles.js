@@ -103,9 +103,9 @@ export default class FeaturedArticles extends React.Component {
         {this.props.title && <Title>Vous aimerez aussi</Title>}
         <Container>
           {this.props.articles &&
-            this.props.articles.map(({key, category, date, title, slug, cover}) => {
+            this.props.articles.map(({key, category, date, title, slug, cover}, index) => {
               return (
-                <Item key={key} fluid={this.props.fluid}>
+                <Item key={key || index} fluid={this.props.fluid}>
                   <HeroContainer>
                     {cover.includes('cloudinary') ? (
                       <Hero>
@@ -133,7 +133,9 @@ export default class FeaturedArticles extends React.Component {
                     )}
                   </HeroContainer>
                   <Card>
-                    {category === 'blog' && <CardDate>{prettyDate(date, category)}</CardDate>}
+                    {category === 'blog' && (
+                      <CardDate>{prettyDate(date, category, title)}</CardDate>
+                    )}
                     <CardTitle dangerouslySetInnerHTML={{__html: prettyText(title)}} />
                     <Button className='button' to={`/${slug}`}>
                       Lire l'article
