@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:300,300i,700,700i&display=swap');
+
 @font-face {
   font-family: 'muli';
   font-display: block;
@@ -39,7 +41,7 @@
   font-display: block;
   src: url('../fonts/muli-semibold-webfont.woff2') format('woff2'),
     url('../fonts/muli-semibold-webfont.woff') format('woff');
-  font-weight: bold;
+  font-weight: 600;
   font-style: normal;
 }
 
@@ -48,7 +50,7 @@
   font-display: block;
   src: url('../fonts/muli-semibolditalic-webfont.woff2') format('woff2'),
     url('../fonts/muli-semibolditalic-webfont.woff') format('woff');
-  font-weight: bold;
+  font-weight: 600;
   font-style: italic;
 }
 

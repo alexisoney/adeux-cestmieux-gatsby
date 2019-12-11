@@ -33,7 +33,13 @@ body {
   height: 100%;
   margin: 0;
   background-color: white;
-  font-weight: 300;
+  font-weight: 200;
+}
+
+@media only screen and (max-width: 40rem) {
+  body {
+    font-weight: 300;
+  }
 }
 
 img {
@@ -109,7 +115,14 @@ h4 {
 
 b,
 strong {
-  font-weight: bold;
+  font-weight: 600;
+}
+
+@media only screen and (max-width: 40rem) {
+  b,
+  strong {
+    font-weight: 700;
+  }
 }
 
 i {
@@ -131,6 +144,13 @@ ol {
   }
   & p {
     margin: 0;
+  }
+}
+
+@media only screen and (max-width: 40rem) {
+  ul,
+  ol {
+    padding-left: 0.5em;
   }
 }
 
