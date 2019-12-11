@@ -13,11 +13,24 @@
   }
 }
 
+@media screen and (max-width: 600px) {
+  .call-to-action {
+    flex-flow: column;
+  }
+}
+
 .call-to-action__image {
   flex: 1 0 auto;
   width: 33.33%;
   align-self: stretch;
   overflow: hidden;
+}
+
+@media screen and (max-width: 600px) {
+  .call-to-action__image {
+    width: 100%;
+    margin-bottom: 24px;
+  }
 }
 
 .call-to-action__image .cloudinary {
@@ -40,11 +53,11 @@
   font-family: $primary-font;
 }
 
-@media screen and (max-width: 770px) {
-  .call-to-action__description {
-    display: none;
-  }
-}
+// @media screen and (max-width: 770px) {
+//   .call-to-action__description {
+//     display: none;
+//   }
+// }
 
 .call-to-action__button {
   padding: 8px 16px !important;
