@@ -2,7 +2,7 @@ import '@testing-library/jest-dom/extend-expect';
 import React from 'react';
 import {render} from '@testing-library/react';
 
-import Text from './Text';
+import Text from './text';
 
 describe('The Text component', () => {
   it('should return null when no arguments are passed', () => {
@@ -45,27 +45,27 @@ describe('The Text component', () => {
     expect(container).toContainHTML(`<strong>placeholder</strong>`);
   });
 
-  it('shoulds return an emphasized text', () => {
+  it('should return an emphasized text', () => {
     const {container} = render(<Text text={'*placeholder*'} />);
     expect(container).toContainHTML(`<em>placeholder</em>`);
   });
 
-  it('shoulds return an unordered list', () => {
+  it('should return an unordered list', () => {
     const {container} = render(<Text text={'* Foo\n* Bar'} />);
     expect(container).toContainHTML(`<ul><li>Foo</li><li>Bar</li></ul>`);
   });
 
-  it('shoulds return an ordered list', () => {
+  it('should return an ordered list', () => {
     const {container} = render(<Text text={'1. Foo\n2. Bar'} />);
     expect(container).toContainHTML(`<ol><li>Foo</li><li>Bar</li></ol>`);
   });
 
-  it('shoulds return a link', () => {
-    const {container} = render(<Text text={'[text](link)'} />);
-    expect(container).toContainHTML(`<a href="link">text</a>`);
+  it('should return a link', () => {
+    const {container} = render(<Text text={'[text](/internal-link)'} />);
+    expect(container).toContainHTML(`<a href="/internal-link">text</a>`);
   });
 
-  it('shoulds return a blockquote', () => {
+  it('should return a blockquote', () => {
     const {container} = render(<Text text={'[text](link)'} quote />);
     expect(container.firstChild.tagName).toBe('blockquote'.toUpperCase());
   });

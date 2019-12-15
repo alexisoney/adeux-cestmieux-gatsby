@@ -3,7 +3,7 @@ import propTypes from 'prop-types';
 import {Link} from 'gatsby';
 
 import Cloudinary from '../Cloudinary';
-import {frenchNonBreakingSpaces} from '../utils';
+import {frenchNonBreakingSpaces, createLink} from '../utils';
 
 const CallToAction = ({button, description, image, link, title}) => {
   if ((button && link) || description || image || title) {
@@ -26,20 +26,12 @@ const CallToAction = ({button, description, image, link, title}) => {
               {frenchNonBreakingSpaces(description)}
             </p>
           )}
-          {button && link && isInternalLink && (
-            <Link
-              data-testid='call-to-action__button'
-              className='button'
-              to={link.cached_url.split('/')[1]}
-            >
-              {frenchNonBreakingSpaces(button)}
-            </Link>
-          )}
-          {button && link && !isInternalLink && (
-            <a data-testid='call-to-action__button' className='button' href={link.url}>
-              {frenchNonBreakingSpaces(button)}
-            </a>
-          )}
+          {button &&
+            link &&
+            createLink(link.cached_url, frenchNonBreakingSpaces(button), {
+              testId: 'call-to-action__button',
+              class: 'button',
+            })}
         </div>
       </aside>
     );

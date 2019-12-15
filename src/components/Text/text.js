@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
 
-import {frenchNonBreakingSpaces} from '../utils';
+import {frenchNonBreakingSpaces, createLink} from '../utils';
 
 export default ({text, quote}) => {
   if (text) {
@@ -18,6 +18,9 @@ export default ({text, quote}) => {
           'strong',
           'text',
         ]}
+        renderers={{
+          link: ({href, children}) => createLink(href, children[0].props.children),
+        }}
       />
     );
 
