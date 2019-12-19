@@ -19,6 +19,7 @@ import FeaturedArticles from '../components/FeaturedArticles';
 import Quote from '../components/Quote';
 import TableOfContents from '../components/TableOfContents';
 import Text from '../components/Text';
+import Video from '../components/Video';
 import Newsletter from '../components/Newsletter';
 
 export default ({data, pageContext}) => {
@@ -142,6 +143,9 @@ export default ({data, pageContext}) => {
               case 'text':
                 const {content, quote} = block;
                 component = <Text text={content} quote={quote} />;
+                break;
+              case 'video':
+                component = <Video src={block.src} />;
                 break;
               default:
                 component = null;
