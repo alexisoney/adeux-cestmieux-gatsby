@@ -77,9 +77,12 @@ export default props => (
     render={data => {
       const url = data.site.siteMetadata.siteUrl;
       const posts = data.allMarkdownRemark.edges;
-      const post = posts.find(post => {
+      const postFiltered = posts.find(post => {
         return post.node.fields.slug === props.slug;
-      }).node;
+      });
+      const post = postFiltered && postFiltered.node;
+
+      if (!post) return null;
 
       const src = `${url}/images/${post.fields.slug}/${post.frontmatter.hero.name}`;
       return (
