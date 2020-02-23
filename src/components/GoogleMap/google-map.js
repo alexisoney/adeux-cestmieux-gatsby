@@ -28,7 +28,7 @@ export default ({center, markers, zoom}) => {
 
         const script = document.createElement('script');
         script.id = 'google-map-script';
-        script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyCw2ZHfuI-ErlSOy96867lADLWC38U9bsQ`;
+        script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyCVbA1Z0T4CxbZR5wVibvJYzS5_vIcWIpw`;
         window.document.body.appendChild(script);
 
         script.addEventListener('load', () => {
