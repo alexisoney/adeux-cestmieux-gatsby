@@ -2,6 +2,7 @@
 from = "/visiter-amsterdam-printemps-2019"
 to = "/visiter-amsterdam-au-printemps"
 status = 301
+force = true
 
 [context.production.environment]
 GA_TRACKING_ID="UA-34357788-4"
