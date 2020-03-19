@@ -1,3 +1,8 @@
+[[redirects]]
+from = "/visiter-amsterdam-printemps-2019"
+to = "/visiter-amsterdam-au-printemps"
+status = 301
+
 [context.production.environment]
 GA_TRACKING_ID="UA-34357788-4"
 STORYBLOK_API_KEY="oVQID07p9fiFPOrWDCg3rgtt"
