@@ -7,7 +7,7 @@ export default (date, category, title) => {
     let period = (new Date() - timestamp) / 1000 / 60 / 60 / 24;
     let unit;
     if (Math.floor(period) === 0) {
-      return `Mis à jour ajourd'hui`;
+      return `Mis à jour aujourd'hui`;
     } else if (period < 7) {
       period = Math.floor(period);
       unit = period > 1 ? 'jours' : 'jour';
