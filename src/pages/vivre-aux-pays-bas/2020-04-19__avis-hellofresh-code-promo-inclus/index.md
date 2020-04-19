@@ -25,7 +25,6 @@ Nous venons de recevoir notre troisième box HelloFresh ce week-end. Après deux
 - [Notre avis HelloFresh : On adore](#avis)
 - [Points d'améliorations](#idees)
 - [En conclusion](#conclusion)
-- [Notre code promo](#code)
 </toc>
 
 ---
@@ -111,8 +110,6 @@ _Semaine 2_
 <img alt="HelloFresh - repas" src="./images/MG_3148.png">
 </gallery>
 
----
-
 <cta 
   title="Au total, 60€ de réduction"
   button="Commander avec les réductions"
@@ -121,8 +118,6 @@ _Semaine 2_
   localize='{"NL":"https://www.hellofresh.nl?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard","BE":"https://www.hellofresh.be?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"}'
   image="https://res.cloudinary.com/studio-basilic-tropical/image/upload/v1587292833/adeux-cestmieux/hellofresh-discount-1600w_ofupjs.webp">
 </cta>
-
----
 
 ## Notre avis HelloFresh : On adore ((#avis))
 
@@ -151,19 +146,11 @@ _Semaine 2_
 
 \- Les produits sont d’une grande qualité, mais rien n’indique nécessairement que ce soit des produits bio ou locaux. Pour compenser, nous essayons d’aller au marché chaque semaine pour nos fruits et légumes du petit-déjeuner et les jus de légumes maisons.
 
-\- Le petit cadeau en plus à chaque box. C’est gentil de la part de HelloFresh, mais comme chaque repas est prévu “à la lettre” et bien, cet ingrédient bonus est un peu .. inutile. Par exemple, nous avons eu un pot de moutarde au miel et du riz basmati. Nous n'avons encore aucune idée de quand nous allons les consommer. Il parait qu’au bout de 6 semaines, l'ingrédient bonus est une viande à cuisiner au four ! À voir donc.
-
-\- Hello Fresh n’est malheureusement pas (plus) disponible dans toute la France, mais seulement dans le Nord et le Pas de Calais.
+\- Le petit cadeau en plus à chaque box. C’est gentil de la part de HelloFresh, mais comme chaque repas est prévu “à la lettre” et bien, cet ingrédient bonus est un peu .. inutile. Par exemple, nous avons eu un pot de moutarde au miel et du riz basmati. Nous n'avons encore aucune idée de quand nous allons les consommer.
 
 <img alt="HelloFresh - avis box" src="./images/MG_3212.png">
 
----
-
-**[Découvrez HelloFresh, 25€ offert sur votre première box](https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard)**
-
----
-
-## Notre avis Hello Fresh : en conclusion ((#conlusion))
+## Notre avis Hello Fresh : en conclusion ((#conclusion))
 
 En bref, nous sommes vraiment **convaincus par le concept** et nous en sommes déjà à notre troisième box, malgré quelques points d’amélioration.
 
@@ -171,13 +158,11 @@ Pour notre style de vie aux journées relativement bien remplies, c’est claire
 
 Pour l’instant, nous sommes convaincus. À l’avenir, on aimerait bien trouver une box similaire, mais proposant uniquement des produits frais, de saison et locaux ! Nous aimerions bien aussi tester leur box fruits, et pourquoi pas une fois de temps en temps les desserts et les petits-déjeuner !
 
-Comme on est vraiment fan du concept, on vous propose vous aussi de tester et découvrir HelloFresh en vous offrant **25 € sur votre première box**, quelque soit, grâce à notre [code promo](https://www.hellofresh.nl?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard). _(En toute transparence, pour toute première commande passée avec ce code, nous recevrons aussi 25 €)_
+Comme on est vraiment fan du concept, on vous propose vous aussi de tester et découvrir HelloFresh en vous offrant 25 € sur votre première box grâce à notre code promo. _(En toute transparence, pour toute première commande passée avec ce code, nous recevrons aussi 25 €)_
 
 On vous souhaite une belle semaine. Je file en cuisine préparer les cuisses de canard confites et raisins secs avec des carottes glacées et une purée de pommes de terre 😉
 
 À dimanche prochain !
-
-## Notre code promo ((#code))
 
 <cta 
   title="Au total, 60€ de réduction"
