@@ -1,15 +1,32 @@
 ---
-title: 'HelloFresh - On a testé, voici notre avis #38'
+title: 'HelloFresh - On a testé, voici notre avis'
 title_seo: 'On a testé HelloFresh (25€ offert sur votre box)'
 hero: './images/MG_3209.png'
-excerpt: 'Retrouvez notre avis sur les box HelloFresh et tester à votre tour grâce à ce code offrant 25€ sur votre première box HelloFresh !'
+excerpt: 'Retrouvez notre avis sur les box HelloFresh et testez à votre tour grâce à ce code offrant 25€ sur votre première box HelloFresh !'
 ---
 
-*Nous venons de recevoir notre troisième box HelloFresh ce week-end. Après deux semaines complètes de repas made in HelloFresh, on voulait vous expliquer pourquoi ce concept est “testé et approuvé” chez nous, et vous permettre à votre tour de tester grâce à [ce lien de parrainage](https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard) offrant 25€ sur votre première box ! (Code CLMTAI)*
+Nous venons de recevoir notre troisième box HelloFresh ce week-end. Après deux semaines complètes de repas made in HelloFresh, on voulait vous expliquer pourquoi ce concept est “testé et approuvé” chez nous, et vous permettre à votre tour de tester grâce à notre lien de parrainage offrant 25€ sur votre première box, 15€ sur la seconde et 15€ sur la troisième ! _(Code CLMTAI)_
 
-[<img alt="Code Promo HelloFresh 25€ réduction avis box" src="./images/hellofresh-discount.jpg">](https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard)
+<cta 
+  title="Au total, 60€ de réduction"
+  button="Commander avec les réductions"
+  description="Grâce à notre lien de parrainage, vous bénéficiez de 25€ de réduction sur votre première box, 20€ sur la seconde et 15€ sur la troisième. Idéal pour découvrir !"
+  link="https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"
+  localize='{"NL":"https://www.hellofresh.nl?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard","BE":"https://www.hellofresh.be?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"}'
+  image="https://res.cloudinary.com/studio-basilic-tropical/image/upload/v1587292833/adeux-cestmieux/hellofresh-discount-1600w_ofupjs.webp">
+</cta>
 
-**[Découvrez HelloFresh, 25€ offert sur votre première box](https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard)**
+---
+
+<toc>
+- [Hellofresh : C’est quoi ?](#quoi)
+- [Comment ça marche ?](#comment)
+- [La box Original pendant deux semaines](#test)
+- [Notre avis HelloFresh : On adore](#avis)
+- [Points d'améliorations](#idees)
+- [En conclusion](#conclusion)
+- [Notre code promo](#code)
+</toc>
 
 ---
 
@@ -31,7 +48,7 @@ L’équation est souvent dure à résoudre...
 
 On a décidé d’essayer HelloFresh grâce à ma collègue Fanni, grande adepte du concept, qui m’a offert un code promo pour recevoir une box HelloFresh gratuite ! On test pendant une semaine, presque gratuitement, puis on voit si on accroche ou pas !
 
-## Hellofresh : C’est quoi ?
+## Hellofresh : C’est quoi ? ((#quoi))
 
 HelloFresh est une box “repas” sur-mesure à mi-chemin entre le panier bio et la livraison de courses des grandes surfaces. Vous ne recevez pas des repas tout fait, mais bien tous les aliments et ingrédients exacts pour préparer un certain nombre de repas sur la base d’une liste de recettes, globalement de saison, et s’adaptant au mieux à nos préférences et style de vie : choix du nombre de repas et de personnes dans la semaine, choix des recettes et type d’aliments (végétarien, familiale, petit-déjeuner, etc...)
 
@@ -39,7 +56,7 @@ L’idée d’HelloFresh est de “faire du dîner le meilleur moment de la jour
 
 <img alt="HelloFresh - notre avis" src="./images/MG_3024.png">
 
-## HelloFresh : Comment ça marche ?
+## HelloFresh : Comment ça marche ? ((#comment))
 
 HelloFresh fonctionne donc telle une box normale : c’est un abonnement. Chaque semaine vous choisissez vos recettes basées sur la box sélectionnée (Originale, Végétarienne, “Calorie -Focus”, “Quick & Easy” ou familiale) ainsi que votre jour et créneau horaire de livraison. À tout moment, vous pouvez mettre en pause ou résilier votre abonnement ; aucun engagement à long terme n’est requis, et ça c’est plutôt cool !
 
@@ -51,7 +68,7 @@ Le prix est dégressif en fonction du nombre de personnes et de repas par semain
 <img alt="HelloFresh - avis box" src="./images/MG_3219.png">
 </gallery>
 
-## Hello Fresh : La box Original pendant deux semaines.
+## Hello Fresh : La box Original pendant deux semaines. ((#test))
 
 Pour notre première box, nous avons choisi la box “Original” pour 5 repas de 3 personnes. Cela nous permettait :
 
@@ -96,11 +113,18 @@ _Semaine 2_
 
 ---
 
-**[Découvrez HelloFresh, 25€ offert sur votre première box](https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard)**
+<cta 
+  title="Au total, 60€ de réduction"
+  button="Commander avec les réductions"
+  description="Grâce à notre lien de parrainage, vous bénéficiez de 25€ de réduction sur votre première box, 20€ sur la seconde et 15€ sur la troisième. Idéal pour découvrir !"
+  link="https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"
+  localize='{"NL":"https://www.hellofresh.nl?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard","BE":"https://www.hellofresh.be?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"}'
+  image="https://res.cloudinary.com/studio-basilic-tropical/image/upload/v1587292833/adeux-cestmieux/hellofresh-discount-1600w_ofupjs.webp">
+</cta>
 
 ---
 
-## Notre avis HelloFresh : On adore
+## Notre avis HelloFresh : On adore ((#avis))
 
 \- Étant donné notre problématique initiale, HelloFresh est une solution parfaite pour nous. Tout était très smooth en cuisine. Aucune interrogation vis-à-vis de ce que l’on allait préparer le soir.
 
@@ -119,7 +143,7 @@ _Semaine 2_
 <img alt="HelloFresh - avis box" src="./images/MG_3026.png">
 </gallery>
 
-## Notre avis Hello Fresh : On aime moins
+## Notre avis Hello Fresh : On aime moins ((#idees))
 
 \- Qui dit livraison, dit emballages. C’est le point noir de cette box. Pour autant, on voit qu’HelloFresh fait un gros effort vis-à-vis de cela. Hormis les herbes fraiches et certains légumes (emballés du plastique comme dans un supermarché), tout est dans du carton recyclé. Ça reste pourtant de l’emballage “facultatif”.
 
@@ -139,7 +163,7 @@ _Semaine 2_
 
 ---
 
-## Notre avis Hello Fresh : en conclusion
+## Notre avis Hello Fresh : en conclusion ((#conlusion))
 
 En bref, nous sommes vraiment **convaincus par le concept** et nous en sommes déjà à notre troisième box, malgré quelques points d’amélioration.
 
@@ -152,3 +176,14 @@ Comme on est vraiment fan du concept, on vous propose vous aussi de tester et d�
 On vous souhaite une belle semaine. Je file en cuisine préparer les cuisses de canard confites et raisins secs avec des carottes glacées et une purée de pommes de terre 😉
 
 À dimanche prochain !
+
+## Notre code promo ((#code))
+
+<cta 
+  title="Au total, 60€ de réduction"
+  button="Commander avec les réductions"
+  description="Grâce à notre lien de parrainage, vous bénéficiez de 25€ de réduction sur votre première box, 20€ sur la seconde et 15€ sur la troisième. Idéal pour découvrir !"
+  link="https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"
+  localize='{"NL":"https://www.hellofresh.nl?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard","BE":"https://www.hellofresh.be?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"}'
+  image="https://res.cloudinary.com/studio-basilic-tropical/image/upload/v1587292833/adeux-cestmieux/hellofresh-discount-1600w_ofupjs.webp">
+</cta>
