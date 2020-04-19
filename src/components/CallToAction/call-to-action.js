@@ -6,17 +6,19 @@ import Cloudinary from '../Cloudinary';
 import {frenchNonBreakingSpaces, createLink} from '../utils';
 import { useEffect } from 'react';
 
+export const ipDataApi = 'https://api.ipdata.co/?api-key=0d04a9cd3ac8f7f5e87a2d1935c3c11d02e3773cba65a86dc93b3f8e'
+
 const CallToAction = ({button, description, image, link, title, localize}) => {
   useEffect(() => {
     const checkLocalisation = async () => {
       try {
-        const response = await fetch('http://ip-api.com/json');
+        const response = await fetch(ipDataApi);
         const json = await response.json();
-        const {countryCode} = json;
+        const {country_code} = json;
         const locations =  JSON.parse(localize);
-        if(locations && locations[countryCode]) {
+        if(locations && locations[country_code]) {
           Array.from(document.querySelectorAll('.call-to-action a')).forEach(el => {
-            el.href = locations[countryCode];
+            el.href = locations[country_code];
           })
         }
       } catch(err) {

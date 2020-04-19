@@ -2,7 +2,15 @@ import '@testing-library/jest-dom/extend-expect';
 import React from 'react';
 import {render, act} from '@testing-library/react';
 
-import CallToAction from './call-to-action';
+import {default as CallToAction, ipDataApi} from './call-to-action';
+
+const mockSuccessResponse = {
+  country_code: "NL",
+};
+const mockJsonPromise = Promise.resolve(mockSuccessResponse);
+const mockFetchPromise = Promise.resolve({
+  json: () => mockJsonPromise,
+});
 
 describe('The CallToAction component', () => {
   it('should return null when no arguments are passed', () => {
@@ -138,7 +146,6 @@ describe('The CallToAction component', () => {
     global.fetch = jest.fn().mockImplementation(() => {});
 
     const link = 'https://foo-bar.baz';
-    const {findByTestId} = render(<CallToAction button='click' link={link} />)
 
     expect(global.fetch).toHaveBeenCalledTimes(0);
 
@@ -146,27 +153,21 @@ describe('The CallToAction component', () => {
     delete global.fetch;
   })
 
+  it('should call right API', async () => {
+    global.fetch = jest.fn().mockImplementation(() => {});
+
+    const link = 'https://foo-bar.baz';
+    const localize = '{"NL":"https://my-NL-link"}';
+    const {findByTestId} = render(<CallToAction button='click' link={link} localize={localize} />)
+
+    expect(global.fetch).toHaveBeenCalledTimes(1);
+    expect(global.fetch).toHaveBeenCalledWith(ipDataApi);
+
+    global.fetch.mockClear();
+    delete global.fetch;
+  })
+
   it('should convert link when it gets localization JSON object', async () => {
-    const mockSuccessResponse = {
-      status: "success",
-      country: "Netherlands",
-      countryCode: "NL",
-      region: "NH",
-      regionName: "North Holland",
-      city: "Amsterdam",
-      zip: "1075",
-      lat: 52.3528,
-      lon: 4.8584,
-      timezone: "Europe/Amsterdam",
-      isp: "Liberty Global B.V.",
-      org: "Ziggo Services B.V.",
-      as: "AS6830 Liberty Global B.V.",
-      query: "213.127.124.22"
-    };
-    const mockJsonPromise = Promise.resolve(mockSuccessResponse);
-    const mockFetchPromise = Promise.resolve({
-      json: () => mockJsonPromise,
-    });
     global.fetch = jest.fn().mockImplementation(() => mockFetchPromise);
 
     const link = 'https://foo-bar.baz';
@@ -174,7 +175,6 @@ describe('The CallToAction component', () => {
     const {findByTestId} = render(<CallToAction button='click' link={link} localize={localize} />)
 
     expect(global.fetch).toHaveBeenCalledTimes(1);
-    expect(global.fetch).toHaveBeenCalledWith('http://ip-api.com/json');
     expect(await findByTestId('call-to-action__button')).toHaveAttribute('href', "https://my-NL-link")
 
     global.fetch.mockClear();
@@ -183,12 +183,12 @@ describe('The CallToAction component', () => {
 
 
   it('should NOT convert link when it does NOT get localization JSON object', async () => {
-    const mockSuccessResponse = {
+    const mockFailResponse = {
       "query": "24.48.0.1f",
       "message": "invalid query",
       "status": "fail"
     };
-    const mockJsonPromise = Promise.resolve(mockSuccessResponse);
+    const mockJsonPromise = Promise.resolve(mockFailResponse);
     const mockFetchPromise = Promise.resolve({
       json: () => mockJsonPromise,
     });
@@ -199,7 +199,6 @@ describe('The CallToAction component', () => {
     const {findByTestId} = render(<CallToAction button='click' link={link} localize={localize} />)
 
     expect(global.fetch).toHaveBeenCalledTimes(1);
-    expect(global.fetch).toHaveBeenCalledWith('http://ip-api.com/json');
     expect(await findByTestId('call-to-action__button')).toHaveAttribute('href', `${link}`)
 
     global.fetch.mockClear();
@@ -214,7 +213,6 @@ describe('The CallToAction component', () => {
     const {findByTestId} = render(<CallToAction button='click' link={link} localize={localize} />)
 
     expect(global.fetch).toHaveBeenCalledTimes(1);
-    expect(global.fetch).toHaveBeenCalledWith('http://ip-api.com/json');
     expect(await findByTestId('call-to-action__button')).toHaveAttribute('href', `${link}`)
 
     global.fetch.mockClear();
@@ -222,26 +220,6 @@ describe('The CallToAction component', () => {
   })
 
   it('should convert ALL links when it gets localization JSON object', async () => {
-    const mockSuccessResponse = {
-      status: "success",
-      country: "Netherlands",
-      countryCode: "NL",
-      region: "NH",
-      regionName: "North Holland",
-      city: "Amsterdam",
-      zip: "1075",
-      lat: 52.3528,
-      lon: 4.8584,
-      timezone: "Europe/Amsterdam",
-      isp: "Liberty Global B.V.",
-      org: "Ziggo Services B.V.",
-      as: "AS6830 Liberty Global B.V.",
-      query: "213.127.124.22"
-    };
-    const mockJsonPromise = Promise.resolve(mockSuccessResponse);
-    const mockFetchPromise = Promise.resolve({
-      json: () => mockJsonPromise,
-    });
     global.fetch = jest.fn().mockImplementation(() => mockFetchPromise);
 
     const link = 'https://foo-bar.baz';
@@ -255,7 +233,6 @@ describe('The CallToAction component', () => {
     )
 
     expect(global.fetch).toHaveBeenCalledTimes(3);
-    expect(global.fetch).toHaveBeenCalledWith('http://ip-api.com/json');
 
     const buttons = await findAllByTestId('call-to-action__button');
     buttons.forEach(button => {
