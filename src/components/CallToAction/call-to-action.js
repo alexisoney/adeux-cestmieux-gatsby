@@ -4,8 +4,28 @@ import {Link} from 'gatsby';
 
 import Cloudinary from '../Cloudinary';
 import {frenchNonBreakingSpaces, createLink} from '../utils';
+import { useEffect } from 'react';
 
-const CallToAction = ({button, description, image, link, title}) => {
+const CallToAction = ({button, description, image, link, title, localize}) => {
+  useEffect(() => {
+    const checkLocalisation = async () => {
+      try {
+        const response = await fetch('http://ip-api.com/json');
+        const json = await response.json();
+        const {countryCode} = json;
+        const locations = typeof localize === 'string' ? JSON.parse(localize) : undefined;
+        if(locations && locations[countryCode]) {
+          Array.from(document.querySelectorAll('.call-to-action a')).forEach(el => {
+            el.href = locations[countryCode];
+          })
+        }
+      } catch(err) {
+
+      }
+    }
+    checkLocalisation();
+  },[])
+
   if ((button && link) || description || image || title) {
     const isInternalLink = link ? link.linktype === 'story' : undefined;
     return (
@@ -28,7 +48,7 @@ const CallToAction = ({button, description, image, link, title}) => {
           )}
           {button &&
             link &&
-            createLink(link.cached_url, frenchNonBreakingSpaces(button), {
+            createLink(link.cached_url || link, frenchNonBreakingSpaces(button), {
               testId: 'call-to-action__button',
               class: 'button',
             })}
@@ -43,7 +63,7 @@ CallToAction.propTypes = {
   button: propTypes.string,
   description: propTypes.string,
   image: propTypes.string,
-  link: propTypes.object,
+  link: propTypes.oneOfType([propTypes.object,propTypes.string]),
   title: propTypes.string,
 };
 
