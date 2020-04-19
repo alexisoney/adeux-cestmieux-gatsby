@@ -134,6 +134,18 @@ describe('The CallToAction component', () => {
     expect(button).toHaveProperty('href', `${link}/`);
   });
 
+  it('should not call ip-api when it does not get localize', async () => {
+    global.fetch = jest.fn().mockImplementation(() => {});
+
+    const link = 'https://foo-bar.baz';
+    const {findByTestId} = render(<CallToAction button='click' link={link} />)
+
+    expect(global.fetch).toHaveBeenCalledTimes(0);
+
+    global.fetch.mockClear();
+    delete global.fetch;
+  })
+
   it('should convert link when it gets localization JSON object', async () => {
     const mockSuccessResponse = {
       status: "success",

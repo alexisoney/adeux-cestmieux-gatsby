@@ -13,7 +13,7 @@ const CallToAction = ({button, description, image, link, title, localize}) => {
         const response = await fetch('http://ip-api.com/json');
         const json = await response.json();
         const {countryCode} = json;
-        const locations = typeof localize === 'string' ? JSON.parse(localize) : undefined;
+        const locations =  JSON.parse(localize);
         if(locations && locations[countryCode]) {
           Array.from(document.querySelectorAll('.call-to-action a')).forEach(el => {
             el.href = locations[countryCode];
@@ -23,7 +23,7 @@ const CallToAction = ({button, description, image, link, title, localize}) => {
 
       }
     }
-    checkLocalisation();
+    if (typeof localize === 'string') checkLocalisation();
   },[])
 
   if ((button && link) || description || image || title) {
