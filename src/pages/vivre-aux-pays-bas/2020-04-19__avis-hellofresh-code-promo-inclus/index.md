@@ -12,7 +12,7 @@ Nous venons de recevoir notre troisième box HelloFresh ce week-end. Après deux
   button="Commander avec les réductions"
   description="Grâce à notre lien de parrainage, vous bénéficiez de 25€ de réduction sur votre première box, 20€ sur la seconde et 15€ sur la troisième. Idéal pour découvrir !"
   link="https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"
-  localize='{"NL":"https://www.hellofresh.nl?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard","BE":"https://www.hellofresh.be?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"}'
+  localize='{"NL":"https://www.hellofresh.nl?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard","BE":"https://www.hellofresh.be/?c=HS-CP6NY1NEV&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"}'
   image="https://res.cloudinary.com/studio-basilic-tropical/image/upload/v1587292833/adeux-cestmieux/hellofresh-discount-1600w_ofupjs.webp">
 </cta>
 
