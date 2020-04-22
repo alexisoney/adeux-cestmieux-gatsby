@@ -5,16 +5,9 @@ hero: './images/MG_3209.png'
 excerpt: 'Retrouvez notre avis sur les box HelloFresh et testez à votre tour grâce à ce code offrant 25€ sur votre première box HelloFresh !'
 ---
 
-Nous venons de recevoir notre troisième box HelloFresh ce week-end. Après deux semaines complètes de repas made in HelloFresh, on voulait vous expliquer pourquoi ce concept est “testé et approuvé” chez nous, et vous permettre à votre tour de tester grâce à notre lien de parrainage offrant 25€ sur votre première box, 15€ sur la seconde et 15€ sur la troisième ! _(Code CLMTAI)_
+Nous venons de recevoir notre troisième box HelloFresh ce week-end. Après deux semaines complètes de repas made in HelloFresh, on voulait vous expliquer pourquoi ce concept est “testé et approuvé” chez nous, et vous permettre à votre tour de tester grâce à notre lien de parrainage vous offrant une belle réduction.
 
-<cta 
-  title="Au total, 60€ de réduction"
-  button="Commander avec les réductions"
-  description="Grâce à notre lien de parrainage, vous bénéficiez de 25€ de réduction sur votre première box, 20€ sur la seconde et 15€ sur la troisième. Idéal pour découvrir !"
-  link="https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"
-  localize='{"NL":"https://www.hellofresh.nl?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard","BE":"https://www.hellofresh.be/?c=HS-CP6NY1NEV&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"}'
-  image="https://res.cloudinary.com/studio-basilic-tropical/image/upload/v1587292833/adeux-cestmieux/hellofresh-discount-1600w_ofupjs.webp">
-</cta>
+<hello-fresh></hello-fresh>
 
 ---
 
@@ -59,7 +52,7 @@ L’idée d’HelloFresh est de “faire du dîner le meilleur moment de la jour
 
 HelloFresh fonctionne donc telle une box normale : c’est un abonnement. Chaque semaine vous choisissez vos recettes basées sur la box sélectionnée (Originale, Végétarienne, “Calorie -Focus”, “Quick & Easy” ou familiale) ainsi que votre jour et créneau horaire de livraison. À tout moment, vous pouvez mettre en pause ou résilier votre abonnement ; aucun engagement à long terme n’est requis, et ça c’est plutôt cool !
 
-Le prix est dégressif en fonction du nombre de personnes et de repas par semaine. Ainsi une box classique pour 3 repas de 2 personnes coutera 44,95 € (soit 7.50 € par repas), alors qu’une même box pour 5 repas 2 personnes reviendra à 54,95 € (soit 5,50 € par repas).
+Le prix est dégressif en fonction du nombre de personnes et de repas par semaine. Ainsi une box classique pour 3 repas de 2 personnes coutera 44,95 € (soit 7.50 € par repas), alors qu’une même box pour 5 repas 2 personnes reviendra à 54,95 € (soit 5,50 € par repas)(tarifs 2018 aux Pays-Bas, les prix et les quantités changent avec le temps).
 
 <gallery>
 <img alt="HelloFresh - avis box" src="./images/MG_3199.png">
@@ -110,14 +103,7 @@ _Semaine 2_
 <img alt="HelloFresh - repas" src="./images/MG_3148.png">
 </gallery>
 
-<cta 
-  title="Au total, 60€ de réduction"
-  button="Commander avec les réductions"
-  description="Grâce à notre lien de parrainage, vous bénéficiez de 25€ de réduction sur votre première box, 20€ sur la seconde et 15€ sur la troisième. Idéal pour découvrir !"
-  link="https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"
-  localize='{"NL":"https://www.hellofresh.nl?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard","BE":"https://www.hellofresh.be?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"}'
-  image="https://res.cloudinary.com/studio-basilic-tropical/image/upload/v1587292833/adeux-cestmieux/hellofresh-discount-1600w_ofupjs.webp">
-</cta>
+<hello-fresh></hello-fresh>
 
 ## Notre avis HelloFresh : On adore ((#avis))
 
@@ -158,17 +144,10 @@ Pour notre style de vie aux journées relativement bien remplies, c’est claire
 
 Pour l’instant, nous sommes convaincus. À l’avenir, on aimerait bien trouver une box similaire, mais proposant uniquement des produits frais, de saison et locaux ! Nous aimerions bien aussi tester leur box fruits, et pourquoi pas une fois de temps en temps les desserts et les petits-déjeuner !
 
-Comme on est vraiment fan du concept, on vous propose vous aussi de tester et découvrir HelloFresh en vous offrant 25 € sur votre première box grâce à notre code promo. _(En toute transparence, pour toute première commande passée avec ce code, nous recevrons aussi 25 €)_
+Comme on est vraiment fan du concept, on vous propose vous aussi de tester et découvrir HelloFresh en vous offrant une remise sur votre première box grâce à notre code promo. _(En toute transparence, pour toute première commande passée avec ce code, nous recevrons aussi un bonus pour nos futures box)_
 
 On vous souhaite une belle semaine. Je file en cuisine préparer les cuisses de canard confites et raisins secs avec des carottes glacées et une purée de pommes de terre 😉
 
 À dimanche prochain !
 
-<cta 
-  title="Au total, 60€ de réduction"
-  button="Commander avec les réductions"
-  description="Grâce à notre lien de parrainage, vous bénéficiez de 25€ de réduction sur votre première box, 20€ sur la seconde et 15€ sur la troisième. Idéal pour découvrir !"
-  link="https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"
-  localize='{"NL":"https://www.hellofresh.nl?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard","BE":"https://www.hellofresh.be?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard"}'
-  image="https://res.cloudinary.com/studio-basilic-tropical/image/upload/v1587292833/adeux-cestmieux/hellofresh-discount-1600w_ofupjs.webp">
-</cta>
+<hello-fresh></hello-fresh>

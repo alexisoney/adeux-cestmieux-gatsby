@@ -1,16 +1,8 @@
 import '@testing-library/jest-dom/extend-expect';
 import React from 'react';
-import {render, act} from '@testing-library/react';
+import {render} from '@testing-library/react';
 
-import {default as CallToAction, ipDataApi} from './call-to-action';
-
-const mockSuccessResponse = {
-  country_code: "NL",
-};
-const mockJsonPromise = Promise.resolve(mockSuccessResponse);
-const mockFetchPromise = Promise.resolve({
-  json: () => mockJsonPromise,
-});
+import {CallToAction} from './call-to-action';
 
 describe('The CallToAction component', () => {
   it('should return null when no arguments are passed', () => {
@@ -141,105 +133,4 @@ describe('The CallToAction component', () => {
     const button = getByTestId('call-to-action__button');
     expect(button).toHaveProperty('href', `${link}/`);
   });
-
-  it('should not call ip-api when it does not get localize', async () => {
-    global.fetch = jest.fn().mockImplementation(() => {});
-
-    const link = 'https://foo-bar.baz';
-
-    expect(global.fetch).toHaveBeenCalledTimes(0);
-
-    global.fetch.mockClear();
-    delete global.fetch;
-  })
-
-  it('should call right API', async () => {
-    global.fetch = jest.fn().mockImplementation(() => {});
-
-    const link = 'https://foo-bar.baz';
-    const localize = '{"NL":"https://my-NL-link"}';
-    const {findByTestId} = render(<CallToAction button='click' link={link} localize={localize} />)
-
-    expect(global.fetch).toHaveBeenCalledTimes(1);
-    expect(global.fetch).toHaveBeenCalledWith(ipDataApi);
-
-    global.fetch.mockClear();
-    delete global.fetch;
-  })
-
-  it('should convert link when it gets localization JSON object', async () => {
-    global.fetch = jest.fn().mockImplementation(() => mockFetchPromise);
-
-    const link = 'https://foo-bar.baz';
-    const localize = '{"NL":"https://my-NL-link"}';
-    const {findByTestId} = render(<CallToAction button='click' link={link} localize={localize} />)
-
-    expect(global.fetch).toHaveBeenCalledTimes(1);
-    expect(await findByTestId('call-to-action__button')).toHaveAttribute('href', "https://my-NL-link")
-
-    global.fetch.mockClear();
-    delete global.fetch;
-  })
-
-
-  it('should NOT convert link when it does NOT get localization JSON object', async () => {
-    const mockFailResponse = {
-      "query": "24.48.0.1f",
-      "message": "invalid query",
-      "status": "fail"
-    };
-    const mockJsonPromise = Promise.resolve(mockFailResponse);
-    const mockFetchPromise = Promise.resolve({
-      json: () => mockJsonPromise,
-    });
-    global.fetch = jest.fn().mockImplementation(() => mockFetchPromise);
-
-    const link = 'https://foo-bar.baz';
-    const localize = '{"NL":"https://my-NL-link"}';
-    const {findByTestId} = render(<CallToAction button='click' link={link} localize={localize} />)
-
-    expect(global.fetch).toHaveBeenCalledTimes(1);
-    expect(await findByTestId('call-to-action__button')).toHaveAttribute('href', `${link}`)
-
-    global.fetch.mockClear();
-    delete global.fetch;
-  })
-
-  it('should NOT convert link when promise is rejected', async () => {
-    global.fetch = jest.fn().mockImplementation(() => Promise.reject());
-
-    const link = 'https://foo-bar.baz';
-    const localize = '{"NL":"https://my-NL-link"}';
-    const {findByTestId} = render(<CallToAction button='click' link={link} localize={localize} />)
-
-    expect(global.fetch).toHaveBeenCalledTimes(1);
-    expect(await findByTestId('call-to-action__button')).toHaveAttribute('href', `${link}`)
-
-    global.fetch.mockClear();
-    delete global.fetch;
-  })
-
-  it('should convert ALL links when it gets localization JSON object', async () => {
-    global.fetch = jest.fn().mockImplementation(() => mockFetchPromise);
-
-    const link = 'https://foo-bar.baz';
-    const localize = '{"NL":"https://my-NL-link"}';
-    const {findAllByTestId} = render(
-    <>
-      <CallToAction button='click' link={link} localize={localize} />
-      <CallToAction button='click' link={link} localize={localize} />
-      <CallToAction button='click' link={link} localize={localize} />
-    </>
-    )
-
-    expect(global.fetch).toHaveBeenCalledTimes(3);
-
-    const buttons = await findAllByTestId('call-to-action__button');
-    buttons.forEach(button => {
-      expect(button).toHaveAttribute('href', "https://my-NL-link")
-    })
-
-    global.fetch.mockClear();
-    delete global.fetch;
-  })
 });

@@ -7,7 +7,7 @@ import {colors, fonts} from '../constant/style';
 import Layout from '../layouts/layout';
 import FeaturedArticles from '../components/FeaturedArticles';
 import RelatedArticle from '../components/RelatedArticle';
-import CallToAction from '../components/CallToAction';
+import HelloFresh from '../components/HelloFresh';
 import prettyText from '../utils/prettyText';
 import prettyDate from '../utils/prettyDate';
 import rehypeReact from 'rehype-react';
@@ -255,7 +255,7 @@ export default ({data, pageContext}) => {
       article: Article,
       airbnb: AirBnB,
       civitatis: Civitatis,
-      cta: CallToAction
+      "hello-fresh": HelloFresh
     },
   }).Compiler;
 
