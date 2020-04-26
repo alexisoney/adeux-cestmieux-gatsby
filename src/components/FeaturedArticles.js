@@ -107,7 +107,7 @@ export default class FeaturedArticles extends React.Component {
               return (
                 <Item key={key || index} fluid={this.props.fluid}>
                   <HeroContainer>
-                    {cover.includes('cloudinary') ? (
+                    {(cover && cover.includes('cloudinary')) ? (
                       <Hero>
                         <Cloudinary
                           src={cover}
