@@ -42,7 +42,7 @@
     "gatsby-remark-lazy-load": "^1.0.2",
     "gatsby-remark-responsive-iframe": "^2.4.5",
     "gatsby-source-filesystem": "^2.3.11",
-    "gatsby-source-instagram": "^0.5.1",
+    "gatsby-source-instagram": "^0.8.0-beta.0",
     "gatsby-source-storyblok": "^0.2.6",
     "gatsby-transformer-remark": "^2.8.15",
     "gatsby-transformer-sharp": "^2.5.5",

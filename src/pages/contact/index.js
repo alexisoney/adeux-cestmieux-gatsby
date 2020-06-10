@@ -37,7 +37,6 @@ export const query = graphql`
       edges {
         node {
           id
-          likes
           username
           localFile {
             childImageSharp {

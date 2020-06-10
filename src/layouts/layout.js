@@ -82,7 +82,6 @@ export default props => (
           edges {
             node {
               id
-              likes
               username
               localFile {
                 childImageSharp {
