@@ -21,7 +21,7 @@ En tout cas, moi, **j’adore la Provence**. Cela me rappelle les vacances d’�
 
 
 ## Roussillon, et son chemin des ocres
-Nous avons commencé notre petit séjour par la visite du village de **Roussillon**.
+Nous avons commencé notre petit séjour par la visite du village de **[Roussillon](https://www.luberoncoeurdeprovence.com/page/roussillon+50993.html)**.
 
 Classé parmi les plus beaux villages de France, le village de Roussillon fait parti des incontournables du Lubéron. Pour cause : il est perché sur l’un des plus importants gisement ocrier du monde et ses somptueuses falaises aux dégradés d’ocres rouge et orange méritent vraiment le détour.
 
