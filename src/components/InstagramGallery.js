@@ -1,8 +1,8 @@
 import React from 'react';
 import Img from 'gatsby-image';
 import styled from 'styled-components';
-import {colors, fonts, breakingpoints} from '../constant/style';
-import {SocialMediasLinks} from '../constant/routes';
+import { colors, fonts, breakingpoints } from '../constant/style';
+import { SocialMediasLinks } from '../constant/routes';
 
 const Section = styled.section`
   text-align: center;
@@ -59,9 +59,9 @@ export default class InstagramGallery extends React.Component {
     return (
       <Section>
         <Title>Suivez nous sur Instagram</Title>
-        <Link href={SocialMediasLinks.instagram}>@{this.props.data[0].node.username}</Link>
+        <Link href={SocialMediasLinks.instagram}>@clemencetaillez</Link>
         <Images>
-          {this.props.data.map(({node}) => (
+          {this.props.data.map(({ node }) => (
             <Image
               key={node.id}
               href={`https://www.instagram.com/p/${node.id}/`}
