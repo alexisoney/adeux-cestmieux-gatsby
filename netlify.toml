@@ -6,6 +6,10 @@ to = "/visiter-amsterdam-au-printemps"
 from = "/vie-dexpat-4-les-jours-feries"
 to = "/les-jours-feries-pays-bas"
 
+[[redirects]]
+from = "/visiter-amsterdam-ete-2019-7-idees-local"
+to = "/visiter-amsterdam-ete"
+
 [context.production.environment]
 GA_TRACKING_ID="UA-34357788-4"
 STORYBLOK_API_KEY="oVQID07p9fiFPOrWDCg3rgtt"
