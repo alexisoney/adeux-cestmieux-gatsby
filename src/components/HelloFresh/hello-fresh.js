@@ -10,21 +10,21 @@ export const HelloFresh = () => {
   const content = {}
 
   content.FR = {
-    title: 'Au total, 60€ de réduction',
-    link:"https://www.hellofresh.fr?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard",
-    description:"25€ de réduction sur votre première box, 20€ sur la seconde et 15€ sur la troisième."
+    title: '50€ de réduction',
+    link: "https://hellofresheuro.sjv.io/c/2365777/790041/9318",
+    description: "50€ de réduction sur votre première box."
   }
 
   content.BE = {
-    title: '20€ de réduction',
-    link:"https://www.hellofresh.be/?c=HS-CP6NY1NEV&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard",
-    description:"20€ de réduction sur votre première box."
+    title: '40€ de réduction',
+    link: "https://hellofresheuro.sjv.io/c/2365777/577850/9318",
+    description: "40€ de réduction sur votre première box."
   };
-  
+
   content.NL = {
-    title: "25€ de réduction",
-    link:"https://www.hellofresh.nl?c=CLMTAI&utm_source=raf-share&utm_medium=referral&utm_campaign=clipboard",
-    description:"25€ de réduction sur votre première box."
+    title: "40€ de réduction",
+    link: " https://hellofresheuro.sjv.io/c/2365777/577852/9318",
+    description: "40€ de réduction sur votre première box."
   };
 
   const [title, setTitle] = useState(content.FR.title);
@@ -36,26 +36,26 @@ export const HelloFresh = () => {
       try {
         let countryCode = localStorage.getItem('countryCode');
 
-        if(!countryCode) {
+        if (!countryCode) {
           const response = await fetch(ipDataApi);
           const json = await response.json();
           countryCode = json && json.country_code;
           localStorage.setItem('countryCode', countryCode);
         }
 
-        if(['BE','NL'].includes(countryCode)) {
+        if (['BE', 'NL'].includes(countryCode)) {
           setTitle(content[countryCode].title);
           setLink(content[countryCode].link);
           setDescription(content[countryCode].description);
         }
-      } catch(err) {}
+      } catch (err) { }
     }
-    
+
     checkLocalisation();
   })
 
   return (
-    <CallToAction 
+    <CallToAction
       button={button}
       description={`Grâce à notre lien de parrainage, vous bénéficiez de ${description} Idéal pour découvrir !`}
       image={image}

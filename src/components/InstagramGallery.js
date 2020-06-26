@@ -56,20 +56,24 @@ const Image = styled.a`
 
 export default class InstagramGallery extends React.Component {
   render() {
+    // debugger;
     return (
       <Section>
         <Title>Suivez nous sur Instagram</Title>
         <Link href={SocialMediasLinks.instagram}>@clemencetaillez</Link>
         <Images>
-          {this.props.data.map(({ node }) => (
-            <Image
-              key={node.id}
-              href={`https://www.instagram.com/p/${node.id}/`}
-              title={`@${this.props.data[0].node.username}`}
-            >
-              <Img fluid={node.localFile.childImageSharp.fluid} />
-            </Image>
-          ))}
+          {this.props.data.map(({ node }) => {
+            const { fluid } = (node.localFile && node.localFile.childImageSharp) || {}
+            return (
+              <Image
+                key={node.id}
+                href={`https://www.instagram.com/p/${node.id}/`}
+                title={`@${this.props.data[0].node.username}`}
+              >
+                <Img fluid={fluid} />
+              </Image>
+            )
+          })}
         </Images>
       </Section>
     );
