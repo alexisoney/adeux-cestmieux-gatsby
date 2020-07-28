@@ -69,19 +69,6 @@ module.exports = {
         ],
       },
     },
-    `gatsby-plugin-catch-links`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `À deux c'est mieux`,
-        short_name: `À deux c'est mieux`,
-        start_url: `/`,
-        background_color: `#fff`,
-        theme_color: `#840032`,
-        display: `standalone`,
-        icon: `src/favicon.png`,
-      },
-    },
-    `gatsby-plugin-offline`,
+    `gatsby-plugin-catch-links`
   ],
 };

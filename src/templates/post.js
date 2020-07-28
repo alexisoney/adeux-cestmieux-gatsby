@@ -1,9 +1,9 @@
 import React from 'react';
 import styled from 'styled-components';
-import {graphql} from 'gatsby';
-import {Helmet} from 'react-helmet';
+import { graphql } from 'gatsby';
+import { Helmet } from 'react-helmet';
 import siteMetadata from '../constant/siteMetadata';
-import {colors, fonts} from '../constant/style';
+import { colors, fonts } from '../constant/style';
 import Layout from '../layouts/layout';
 import FeaturedArticles from '../components/FeaturedArticles';
 import RelatedArticle from '../components/RelatedArticle';
@@ -14,8 +14,7 @@ import rehypeReact from 'rehype-react';
 import path from 'path';
 import marked from 'marked';
 import Script from 'react-load-script';
-import {getFeaturedArticles} from '../utils';
-import {lazyloadImage} from '../utils';
+import { getFeaturedArticles } from '../utils';
 
 const TableOfContents = styled.div`
   background-color: ${colors.omega};
@@ -106,7 +105,7 @@ const Anchor = styled.span`
   visibility: hidden;
 `;
 
-const H2 = ({children}) => {
+const H2 = ({ children }) => {
   const title = children[0];
   const anchor = getAnchor(title);
   if (anchor) {
@@ -121,7 +120,7 @@ const H2 = ({children}) => {
   return <h2>{children}</h2>;
 };
 
-const H3 = ({children}) => {
+const H3 = ({ children }) => {
   const title = children[0];
   const anchor = getAnchor(title);
   if (anchor) {
@@ -144,7 +143,7 @@ const AirBnB = () => {
       data-view='experience_booking'
       data-eid='MzQxMDQ3NTI='
       data-currency='EUR'
-      style={{maxWidth: '365px', margin: '0 auto'}}
+      style={{ maxWidth: '365px', margin: '0 auto' }}
     >
       <a href='https://www.airbnb.fr/experiences/844912?source=booking_widget'>Voir sur Airbnb</a>
       {
@@ -158,7 +157,7 @@ const AirBnB = () => {
 
 const Civitatis = () => {
   return (
-    <div style={{marginTop: '50px'}}>
+    <div style={{ marginTop: '50px' }}>
       <iframe
         title='Civitatis'
         class='civitatis-iframe'
@@ -181,7 +180,7 @@ const getAnchor = title => {
 
 const hideAnchor = (title, anchor) => title.replace(` ((#${anchor}))`, '');
 
-export default ({data, pageContext}) => {
+export default ({ data, pageContext }) => {
   const url = data.site.siteMetadata.siteUrl;
   const post = data.markdownRemark;
   const slug = post.fields.slug;
@@ -191,18 +190,18 @@ export default ({data, pageContext}) => {
   const featuredArticles = getFeaturedArticles(data, pageContext.category, 3);
   const instagram = data.allInstaNode.edges;
 
-  const Gallery = ({children}) => <div className='gallery'>{children}</div>;
+  const Gallery = ({ children }) => <div className='gallery'>{children}</div>;
 
-  const statefullTOC = ({children}) => {
+  const statefullTOC = ({ children }) => {
     return (
       <TableOfContents>
         <p className='TOC-title'>Au sommaire :</p>
-        <div dangerouslySetInnerHTML={{__html: marked(children[0])}} />
+        <div dangerouslySetInnerHTML={{ __html: marked(children[0]) }} />
       </TableOfContents>
     );
   };
 
-  const optimizedImages = ({alt, src, title}) => {
+  const optimizedImages = ({ alt, src, title }) => {
     const fileExtension = path.extname(src);
     const needOptimization = ['.jpg', '.jpeg', '.png'].includes(fileExtension.toLowerCase());
 
@@ -237,7 +236,7 @@ export default ({data, pageContext}) => {
     );
   };
 
-  const Article = ({slug, cta = null, excerpt = null}) => {
+  const Article = ({ slug, cta = null, excerpt = null }) => {
     if (slug) {
       return <RelatedArticle slug={slug} cta={cta} excerpt={excerpt} />;
     }
@@ -258,11 +257,6 @@ export default ({data, pageContext}) => {
       "hello-fresh": HelloFresh
     },
   }).Compiler;
-
-  function loadLazyImages() {
-    const images = Array.from(document.querySelectorAll('source, img'));
-    images.forEach(img => lazyloadImage(img));
-  }
 
   return (
     <Layout instagram={instagram}>
@@ -299,13 +293,12 @@ export default ({data, pageContext}) => {
             className='hero__image'
             src={`${src}-400w.jpeg`}
             alt={post.fields.slug}
-            onLoad={loadLazyImages}
           />
         </picture>
       </div>
       <main className='post'>
         <p className='post__date'>{date}</p>
-        <h1 className='post__title' dangerouslySetInnerHTML={{__html: title}} />
+        <h1 className='post__title' dangerouslySetInnerHTML={{ __html: title }} />
         <p className='post__reading-time'>
           {post.timeToRead} minute{post.timeToRead > 1 ? 's' : ''} de lecture
         </p>

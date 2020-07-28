@@ -1,13 +1,13 @@
 import React from 'react';
-import {Helmet} from 'react-helmet';
+import { Helmet } from 'react-helmet';
 import SbEditable from 'storyblok-react';
-import {graphql} from 'gatsby';
+import { graphql } from 'gatsby';
 
 import siteMetadata from '../constant/siteMetadata';
 import formatDate from '../utils/prettyDate';
-import {getTimeToRead} from '../utils';
-import {getFeaturedArticles} from '../utils';
-import {lazyloadImage} from '../utils';
+import { getTimeToRead } from '../utils';
+import { getFeaturedArticles } from '../utils';
+import { lazyloadImage } from '../utils';
 
 import CallToAction from '../components/CallToAction';
 import Cloudinary from '../components/Cloudinary';
@@ -22,17 +22,12 @@ import Text from '../components/Text';
 import Video from '../components/Video';
 import Newsletter from '../components/Newsletter';
 
-export default ({data, pageContext}) => {
-  const {blocks, category, createdAt, customDate, description, cover, slug, title} = pageContext;
+export default ({ data, pageContext }) => {
+  const { blocks, category, createdAt, customDate, description, cover, slug, title } = pageContext;
   const date = formatDate(customDate || createdAt, category);
   const timeToRead = blocks ? getTimeToRead(blocks) : undefined;
   const featuredArticles = getFeaturedArticles(data, pageContext.markdownCategory, 3);
   const instagram = data ? data.allInstaNode.edges : null;
-
-  function loadLazyImages() {
-    const images = Array.from(document.querySelectorAll('source, img'));
-    images.forEach(img => lazyloadImage(img));
-  }
 
   return (
     <Layout instagram={instagram}>
@@ -80,7 +75,7 @@ export default ({data, pageContext}) => {
       {cover && (
         <div className='hero'>
           <div className='hero__image'>
-            <Cloudinary lazyload={false} onload={loadLazyImages} src={cover} alt={title} wide />
+            <Cloudinary lazyload={false} src={cover} alt={title} wide />
           </div>
         </div>
       )}
@@ -96,13 +91,13 @@ export default ({data, pageContext}) => {
 
         {blocks &&
           blocks.map(block => {
-            const {component: type, _uid} = block;
+            const { component: type, _uid } = block;
 
             let component;
 
             switch (type) {
               case 'cta':
-                const {button, image, description, link, title} = block;
+                const { button, image, description, link, title } = block;
                 component = (
                   <CallToAction
                     button={button}
@@ -117,15 +112,15 @@ export default ({data, pageContext}) => {
                 component = <hr />;
                 break;
               case 'gallery':
-                const {images} = block;
+                const { images } = block;
                 component = <Gallery images={images} />;
                 break;
               case 'heading':
-                const {text, level, tocText} = block;
+                const { text, level, tocText } = block;
                 component = <Heading text={text} level={level} tocText={tocText} />;
                 break;
               case 'image':
-                const {alt, src, wide} = block;
+                const { alt, src, wide } = block;
                 component = <Cloudinary alt={alt} src={src} wide={wide} />;
                 break;
               case 'newsletter':
@@ -135,13 +130,13 @@ export default ({data, pageContext}) => {
                 component = <Quote content={block.content} />;
                 break;
               case 'toc':
-                const {mapZoom, mapCenter} = block;
+                const { mapZoom, mapCenter } = block;
                 component = (
                   <TableOfContents content={blocks} mapZoom={mapZoom} mapCenter={mapCenter} />
                 );
                 break;
               case 'text':
-                const {content, quote} = block;
+                const { content, quote } = block;
                 component = <Text text={content} quote={quote} />;
                 break;
               case 'video':
