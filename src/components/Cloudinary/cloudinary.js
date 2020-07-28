@@ -2,6 +2,7 @@ import React, { useEffect, createRef } from 'react';
 import propTypes from 'prop-types';
 
 import { sliceCloudinarySrc } from './cloudinary-utils';
+import { lazyloadImage } from '../../utils';
 
 const Cloudinary = ({
   alt,

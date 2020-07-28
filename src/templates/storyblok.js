@@ -7,7 +7,6 @@ import siteMetadata from '../constant/siteMetadata';
 import formatDate from '../utils/prettyDate';
 import { getTimeToRead } from '../utils';
 import { getFeaturedArticles } from '../utils';
-import { lazyloadImage } from '../utils';
 
 import CallToAction from '../components/CallToAction';
 import Cloudinary from '../components/Cloudinary';
