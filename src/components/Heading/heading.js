@@ -11,7 +11,7 @@ const Heading = ({text, level, tocText}) => {
       render.push(
         <div
           key='anchor'
-          name={createAnchorLink(tocText || text)}
+          id={createAnchorLink(tocText || text)}
           data-testid='heading__anchor'
           className='heading__anchor'
         />
