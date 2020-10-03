@@ -11,6 +11,7 @@ import { getFeaturedArticles } from '../utils';
 import CallToAction from '../components/CallToAction';
 import Cloudinary from '../components/Cloudinary';
 import Gallery from '../components/Gallery';
+import GoogleAds from '../components/GoogleAds';
 import Heading from '../components/Heading';
 import Layout from '../layouts/layout';
 import Ending from '../components/Ending';
@@ -113,6 +114,9 @@ export default ({ data, pageContext }) => {
               case 'gallery':
                 const { images } = block;
                 component = <Gallery images={images} />;
+                break;
+              case 'ads':
+                component = <GoogleAds />;
                 break;
               case 'heading':
                 const { text, level, tocText } = block;
