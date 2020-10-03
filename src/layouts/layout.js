@@ -56,6 +56,11 @@ class Layout extends React.Component {
           <meta name='twitter:card' content='summary_large_image' />
           <meta property='og:site_name' content={siteMetadata.title} />
           <meta name='twitter:image:alt' content={siteMetadata.title} />
+          <script
+            data-ad-client='ca-pub-2579002527179937'
+            async
+            src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
+          />
         </Helmet>
         <Header />
         <Content>{this.props.children}</Content>
